@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-memory-kit-2-1-0",
+  "slug": "agent-memory-kit-2-1-0",
+  "name": "agent-memory-kit",
+  "title": "特工内存套件",
+  "description": "Structured episodic/semantic/procedural memory framework for agents.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Memory Kit",
+  "function_label": "Other"
+}

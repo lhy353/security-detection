@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openstoryline-use",
+  "slug": "openstoryline-use",
+  "name": "openstoryline-use",
+  "title": "使用技巧",
+  "description": "Use this skill when OpenStoryline is already installed and the user wants to start the local MCP/Web services, create or continue a session, send editing instructions, perform multi-turn re-editing, and verify rendered video outputs, as well as Chinese requests like “启动 OpenStoryline”, “把 OpenStoryline 跑起来”, “用 OpenStoryline 剪视频”.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenStoryline Usage Skill",
+  "function_label": "Research"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gws-meet",
+  "slug": "gws-meet",
+  "name": "gws-meet",
+  "title": "见面",
+  "description": "Manage Google Meet conferences.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "meet (v2)",
+  "function_label": "Other"
+}

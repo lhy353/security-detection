@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:editor-zh",
+  "slug": "editor-zh",
+  "name": "editor-zh",
+  "title": "编辑和导出中文视频",
+  "description": "Turn a 2-minute raw interview clip into 1080p edited Chinese videos just by typing what you need. Whether it's editing and polishing videos with Chinese language support or quick social content, drop your raw video footage and describe the result you want. No timeline dragging, no export settings — 1-2 minutes from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Editor ZH — Edit and Export Chinese Videos",
+  "function_label": "Communication"
+}

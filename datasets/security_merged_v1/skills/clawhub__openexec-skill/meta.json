@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openexec-skill",
+  "slug": "openexec-skill",
+  "name": "OpenExec",
+  "title": "受控的确定性执行（技能）",
+  "description": "Source-distributed deterministic execution service with pinned dependencies. Runs only with a signed approval artifact (ClawShield mode) and emits verifiable receipts. Performs no outbound HTTP or governance calls. No runtime package installation or dynamic downloads occur.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenExec — Governed Deterministic Execution (Skill)"
+}

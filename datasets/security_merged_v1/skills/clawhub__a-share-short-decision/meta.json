@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:a-share-short-decision",
+  "slug": "a-share-short-decision",
+  "name": "A股短线交易决策 A-Share Short-Term Decision",
+  "title": "股短线交易决策 A-Share Short-Term Decision",
+  "description": "A-share short-term trading decision skill for 1-5 day horizon. Use when you need real-data market sentiment, sector rotation, strong stock scanning, capital flow confirmation, date-based short-term signal scoring, prediction logging, and next-day market comparison for CN A-share momentum trading.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

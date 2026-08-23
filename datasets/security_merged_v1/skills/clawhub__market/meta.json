@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:market",
+  "slug": "market",
+  "name": "market",
+  "title": "市场（“市场”）",
+  "description": "Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends for analysis, alerts, and reporting. Use when: the user needs market data, stock analysis, watchlists, or portfolio workflows.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AIsa Market (`market`)",
+  "function_label": "Data-Agent"
+}

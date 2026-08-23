@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-video-maker-free-online",
+  "slug": "ai-video-maker-free-online",
+  "name": "ai-video-maker-free-online",
+  "title": "在线创建和导出视频",
+  "description": "create images or clips into finished MP4 video with this ai-video-maker-free-online skill. Works with MP4, MOV, JPG, PNG files up to 500MB. content creators and small business owners use it for creating short videos from photos or clips without editing software — processing takes 1-2 minutes on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Video Maker Free Online — Create and Export Videos Online",
+  "function_label": "Automation"
+}

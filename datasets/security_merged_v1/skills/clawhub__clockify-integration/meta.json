@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clockify-integration",
+  "slug": "clockify-integration",
+  "name": "clockify",
+  "title": "时钟化",
+  "description": "Clockify integration. Manage Users, Reports. Use when the user wants to interact with Clockify data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clockify",
+  "function_label": "Browser"
+}

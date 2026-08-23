@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:coinfound-skill",
+  "slug": "coinfound-skill",
+  "name": "coinfound-rwa-read",
+  "title": "阅读",
+  "description": "Read-only CoinFound RWA data skill backed by a bundled endpoint catalog and schema snapshots.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CoinFound RWA Read",
+  "function_label": "Data-Agent"
+}

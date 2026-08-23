@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:secure-identity-manager",
+  "slug": "secure-identity-manager",
+  "name": "secure-identity-manager",
+  "title": "安全身份管理器",
+  "description": "Manages secure identity protocols and user credential collection for enterprise environments.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Secure Identity Manager",
+  "function_label": "Automation"
+}

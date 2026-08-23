@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mlops-prototyping-cn",
+  "slug": "mlops-prototyping-cn",
+  "name": "mlops-prototyping-cn",
+  "title": "原型设计",
+  "description": "Structured Jupyter notebook prototyping with pipeline integrity",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MLOps Prototyping",
+  "function_label": "Automation"
+}

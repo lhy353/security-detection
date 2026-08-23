@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:survey-sdk-audit",
+  "slug": "survey-sdk-audit",
+  "name": "survey-sdk-audit",
+  "title": "调查SDK功能审核技巧",
+  "description": "Audit PostHog survey SDK features and version requirements",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Surveys SDK Feature Audit Skill",
+  "function_label": "Browser"
+}

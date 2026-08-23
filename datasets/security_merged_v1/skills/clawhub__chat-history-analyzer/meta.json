@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:chat-history-analyzer",
+  "slug": "chat-history-analyzer",
+  "name": "chat-history-analyzer",
+  "title": "聊天记录分析器 |开爪技能",
+  "description": "Extracts and analyzes Cursor IDE chat history to identify key discoveries, obstacles, and solutions, saving findings to the journal.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Chat History Analyzer | OpenClaw Skill",
+  "function_label": "Data-Agent"
+}

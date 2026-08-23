@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:trade-qualifier",
+  "slug": "trade-qualifier",
+  "name": "trade-qualifier",
+  "title": "客户深度评分",
+  "description": "B2B外贸客户筛选技能 - 6维度深度评估 + A/B/C/D智能分级",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

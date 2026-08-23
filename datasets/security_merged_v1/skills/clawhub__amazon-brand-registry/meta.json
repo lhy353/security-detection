@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:amazon-brand-registry",
+  "slug": "amazon-brand-registry",
+  "name": "amazon-brand-registry",
+  "title": "亚马逊品牌注册",
+  "description": "Brand Registry enrollment guide — eligibility, application, benefits, A+ Content access, brand protection tools",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Amazon Brand Registry",
+  "function_label": "Other"
+}

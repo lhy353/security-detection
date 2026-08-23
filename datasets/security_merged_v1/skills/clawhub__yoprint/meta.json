@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:yoprint",
+  "slug": "yoprint",
+  "name": "yoprint",
+  "title": "约普林特",
+  "description": "YoPrint integration. Manage data, records, and automate workflows. Use when the user wants to interact with YoPrint data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Yoprint",
+  "function_label": "Automation"
+}

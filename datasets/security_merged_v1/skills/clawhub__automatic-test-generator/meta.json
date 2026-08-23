@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:automatic-test-generator",
+  "slug": "automatic-test-generator",
+  "name": "automatic-test-generator",
+  "title": "自动测试发生器",
+  "description": "Automatically generate unit tests from functions with comprehensive coverage and edge cases",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Automatic Test Generator",
+  "function_label": "Coding"
+}

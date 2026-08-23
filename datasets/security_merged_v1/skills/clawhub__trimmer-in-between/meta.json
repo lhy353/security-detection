@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:trimmer-in-between",
+  "slug": "trimmer-in-between",
+  "name": "trimmer-in-between",
+  "title": "剪切和连接视频片段",
+  "description": "edit video clips into trimmed joined clips with this skill. Works with MP4, MOV, AVI, WebM files up to 500MB. content creators use it for removing unwanted middle segments from video clips — processing takes 20-40 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Trimmer In Between — Cut and Join Video Segments",
+  "function_label": "Communication"
+}

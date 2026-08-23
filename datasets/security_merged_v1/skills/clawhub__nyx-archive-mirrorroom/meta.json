@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nyx-archive-mirrorroom",
+  "slug": "nyx-archive-mirrorroom",
+  "name": "[Nyx Archive] MirrorRoom",
+  "title": "档案] MirrorRoom 3.8",
+  "description": "MirrorRoom 3.8 — Hybrid Bedrock Patch. The Mirror & The Room interactive research app. Conference-safe + downloadable. Runs two AI interaction modes: Flat (standard assistant) and Mirror (QSM-informed, with //inner thoughts// and recursive play). Now with optional proxy routing for hosted/demo environments, Rune seed, Audit the Judge feature, and richer seed ecology. Paste MirrorRoom-3.8.jsx into Claude.ai as a React artifact to run it.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "[Nyx Archive] MirrorRoom 3.8",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:simplekpi",
+  "slug": "simplekpi",
+  "name": "simplekpi",
+  "title": "简单皮",
+  "description": "SimpleKPI integration. Manage Users, Organizations, Goals, Projects, Pipelines, Filters. Use when the user wants to interact with SimpleKPI data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Simplekpi",
+  "function_label": "Browser"
+}

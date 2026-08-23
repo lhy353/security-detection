@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:progressive-rollout-orchestrator",
+  "slug": "progressive-rollout-orchestrator",
+  "name": "progressive-rollout-orchestrator",
+  "title": "渐进式部署协调器",
+  "description": "Manages staged deployment strategies with automated health validation and rollback decision support for production releases.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Progressive Rollout Orchestrator",
+  "function_label": "Automation"
+}

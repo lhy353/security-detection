@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:firecrawl-skills",
+  "slug": "firecrawl-skills",
+  "name": "firecrawl-cli",
+  "title": "用于网络抓取、爬行和搜索",
+  "description": "Firecrawl CLI for web scraping, crawling, and search. Scrape single pages or entire websites, map site URLs, and search the web with full content extraction. Returns clean markdown optimized for LLM context. Use for research, documentation extraction, competitive intelligence, and content monitoring.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Firecrawl CLI",
+  "function_label": "Research"
+}

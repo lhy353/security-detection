@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-marketing-os",
+  "slug": "openclaw-marketing-os",
+  "name": "openclaw-marketing-os",
+  "title": "营销操作系统",
+  "description": "Run, audit, or improve an OpenClaw/ClawLite-style multi-agent marketing operating system. Use when the task is to operate or package a full marketing engine across Hunter research intel, marketing-assets synchronization, JK content packaging, Elon social publishing, Tony blog publishing, Jenny lifecycle/activation, Peter blog QA, Karen truth-gate QA, Mission Control state management, and same-day delivery/receipt discipline. Also use when open-sourcing or documenting the system as a reusable growth operating system for AI-agent teams.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Openclaw Marketing Os",
+  "function_label": "Browser"
+}

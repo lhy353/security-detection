@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skill-refiner",
+  "slug": "skill-refiner",
+  "name": "skill-refiner",
+  "title": "技能精炼者",
+  "description": "Audit and fix all skills in the workspace for compliance with skill-creator requirements. Use when asked to \"refine skills\", \"audit skills\", \"check skill quality\", or \"fix non-compliant skills\". Exhaustively searches the entire workspace (not just skills/) to find every SKILL.md, then audits and repairs each one.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Skill Refiner",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:coordinator",
+  "slug": "coordinator",
+  "name": "coordinator",
+  "title": "并行coordinate者",
+  "description": "并行coordinate者role。专职聚合多方Agent输出，减少主Agent单点负载。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

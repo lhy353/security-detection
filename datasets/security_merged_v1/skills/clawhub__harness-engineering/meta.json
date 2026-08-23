@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:harness-engineering",
+  "slug": "harness-engineering",
+  "name": "harness-engineering",
+  "title": "线束工程",
+  "description": "Evolve an existing repository toward Harness Engineering by making it more legible to agents, moving critical knowledge into repo-local artifacts, adding predictable structure, and replacing policy-only documentation with executable checks. Use when Codex is asked to audit a live codebase against Harness Engineering ideas, strengthen AGENTS.md and docs, add runnable governance and CI checks, or incrementally reduce hidden context and architectural drift without rewriting the project from scratch.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Harness Engineering",
+  "function_label": "Coding"
+}

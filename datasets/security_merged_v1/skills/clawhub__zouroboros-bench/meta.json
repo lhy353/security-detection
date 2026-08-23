@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zouroboros-bench",
+  "slug": "zouroboros-bench",
+  "name": "zouroboros-bench",
+  "title": "祖罗波罗斯长凳",
+  "description": "Benchmark harness for AI memory systems. Evaluates LongMemEval, LoCoMo, and ConvoMem datasets against any memory backend via the zouroboros-memory CLI. Includes Mimir judge for catching architectural drift.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zouroboros Bench",
+  "function_label": "Data-Agent"
+}

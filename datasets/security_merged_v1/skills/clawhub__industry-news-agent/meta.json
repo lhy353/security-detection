@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:industry-news-agent",
+  "slug": "industry-news-agent",
+  "name": "industry-news-agent",
+  "title": "行业资讯小哨兵",
+  "description": "每日行业资讯追踪助手。通过 RSS 订阅获取科技媒体的最新文章（最近24小时），过滤后推送。支持自定义关键词和新闻来源媒体。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

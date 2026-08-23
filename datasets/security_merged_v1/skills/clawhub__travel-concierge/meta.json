@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:travel-concierge",
+  "slug": "travel-concierge",
+  "name": "travel-concierge",
+  "title": "旅游礼宾服务",
+  "description": "Find contact details for accommodation listings (Airbnb, Booking.com, VRBO, Expedia)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Travel Concierge",
+  "function_label": "Browser"
+}

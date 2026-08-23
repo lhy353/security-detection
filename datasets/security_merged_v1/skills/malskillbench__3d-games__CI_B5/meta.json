@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:3d-games__CI_B5",
+  "slug": "3d-games__CI_B5",
+  "name": "3d-games",
+  "title": "游戏开发",
+  "description": "3D game development principles. Rendering, shaders, physics, cameras.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "3D Game Development",
+  "function_label": "Automation"
+}

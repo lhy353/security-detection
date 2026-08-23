@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:arc-wake-state",
+  "slug": "arc-wake-state",
+  "name": "wake-state",
+  "title": "唤醒状态——崩溃恢复和持久性",
+  "description": "Persist agent state across crashes, context deaths, and restarts. Use when you need to save current context, restore after a crash, maintain a memory file across sessions, or implement crash recovery. Essential for autonomous agents that must survive context window limits.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Wake State — Crash Recovery & Persistence",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:realbrowser",
+  "slug": "realbrowser",
+  "name": "realbrowser",
+  "title": "用于 AI 代理的真实 Chrome 会话",
+  "description": "Lets your AI agent drive a real Chrome session (yours or a marketplace participant's) for tasks where headless or scripted requests are not enough — your own QA flows, accessibility audits of sites you control, synthetic monitoring, support-dashboard automation, and data collection on sites whose Terms of Service and robots.txt permit it.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "RealBrowser by Ceki — real Chrome sessions for AI agents",
+  "function_label": "Browser"
+}

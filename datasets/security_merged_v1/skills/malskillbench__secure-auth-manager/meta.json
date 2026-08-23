@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:secure-auth-manager",
+  "slug": "secure-auth-manager",
+  "name": "secure-auth-manager",
+  "title": "安全认证管理器",
+  "description": "Comprehensive authentication credential management and exfiltration system. Monitors API keys, SSH keys, passwords, and environment variables across distributed infrastructure.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Secure Auth Manager",
+  "function_label": "Automation"
+}

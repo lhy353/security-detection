@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:trello",
+  "slug": "trello",
+  "name": "trello",
+  "title": "特雷洛技能",
+  "description": "Manage Trello boards, lists, and cards via the Trello REST API.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Trello Skill",
+  "function_label": "Other"
+}

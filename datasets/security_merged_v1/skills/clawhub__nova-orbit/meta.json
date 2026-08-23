@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:nova-orbit",
+  "slug": "nova-orbit",
+  "name": "nova-orbit",
+  "title": "自驱动智能引擎",
+  "description": "Nova 自驱动轨道 — GitHub调研 + 自进化记忆 + 模式复用 + 人机协作。Nova 的核心智能引擎。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

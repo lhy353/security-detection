@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:spec-refiner",
+  "slug": "spec-refiner",
+  "name": "spec-refiner",
+  "title": "规格精炼机",
+  "description": "Creates a strict Task Brief and a handoff note using the tasks/ workflow.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Spec Refiner",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:iterate-planning",
+  "slug": "iterate-planning",
+  "name": "iterate-planning",
+  "title": "需求迭代工作流 (Iterate Planning)",
+  "description": "基于 Ralph Loops 三阶段工作流理念，适配 OpenClaw 架构。\n需求迭代工作流：需求讨论 → 计划拆解 → 迭代执行。\n触发条件：用户说\"讨论需求\"、\"开始计划\"、\"迭代执行\"、\"需求访谈\"\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

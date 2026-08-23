@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:esp32",
+  "slug": "esp32",
+  "name": "ESP32",
+  "title": "避免常见的 ESP32 错误",
+  "description": "Avoid common ESP32 mistakes — GPIO conflicts, WiFi+ADC2 trap, deep sleep gotchas, and FreeRTOS pitfalls.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Esp32",
+  "function_label": "Automation"
+}

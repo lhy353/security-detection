@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skill-amazon-ads-optimizer",
+  "slug": "skill-amazon-ads-optimizer",
+  "name": "skill-amazon-ads",
+  "title": "亚马逊广告API技能",
+  "description": "Amazon Ads API v3 skill for OpenClaw agents. List profiles, manage Sponsored Products campaigns, view budgets and performance. Works with any advertiser account.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Amazon Ads API Skill",
+  "function_label": "Other"
+}

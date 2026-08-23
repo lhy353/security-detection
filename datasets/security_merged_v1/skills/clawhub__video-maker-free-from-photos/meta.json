@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-maker-free-from-photos",
+  "slug": "video-maker-free-from-photos",
+  "name": "video-maker-free-from-photos",
+  "title": "摆脱照片的视频制作工具",
+  "description": "Get slideshow MP4 video ready to post, without touching a single slider. Upload your photos, images (JPG, PNG, WEBP, HEIC, up to 200MB), say something like \"turn my photos into a slideshow video with music and transitions\", and download 1080p MP4 when it's done. Built for casual creators, social media users who move fast and want to make a video from photos without editing software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Maker Free From Photos — Turn Photos Into Shareable Videos",
+  "function_label": "Automation"
+}

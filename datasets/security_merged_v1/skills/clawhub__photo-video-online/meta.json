@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:photo-video-online",
+  "slug": "photo-video-online",
+  "name": "photo-video-online",
+  "title": "将照片变成可共享的视频",
+  "description": "turn images or photos into slideshow MP4 video with this skill. Works with JPG, PNG, HEIC, WebP files up to 200MB. social media users and casual creators use it for turning photo collections into shareable videos online — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Photo Video Online — Turn Photos Into Shareable Videos",
+  "function_label": "Communication"
+}

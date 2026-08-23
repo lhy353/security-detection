@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:bitcoinui",
+  "slug": "bitcoinui",
+  "name": "bitcoinui",
+  "title": "比特币用户界面评论",
+  "description": "Bitcoin UI review (iOS)",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "BitcoinUI Review"
+}

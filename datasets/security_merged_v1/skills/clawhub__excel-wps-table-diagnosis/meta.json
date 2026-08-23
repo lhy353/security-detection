@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:excel-wps-table-diagnosis",
+  "slug": "excel-wps-table-diagnosis",
+  "name": "excel-wps-table-diagnosis",
+  "title": "表格诊断",
+  "description": "Diagnose spreadsheet structure and recommend practical Excel/WPS-compatible formulas and workflows for cleaning, lookup and matching, summarization, text and date cleanup, and common formula troubleshooting. Use when the user asks what formula to use, how to process a table, how to clean messy columns, how to match sheets, how to make a solution work in both Excel and WPS, or when headers and sample rows should be inspected before deciding what to do next.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Excel/WPS Table Diagnosis",
+  "function_label": "Data-Agent"
+}

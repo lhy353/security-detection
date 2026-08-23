@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cups-printer",
+  "slug": "cups-printer",
+  "name": "printer",
+  "title": "打印机",
+  "description": "Print images and PDFs to any CUPS printer. PPD-aware: reads paper sizes, margins, resolution, and duplex at runtime. Use when the user wants to print files (images like PNG/JPG or PDFs) or query printer capabilities.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Printer",
+  "function_label": "File-Agent"
+}

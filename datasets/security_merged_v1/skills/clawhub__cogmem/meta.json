@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cogmem",
+  "slug": "cogmem",
+  "name": "cogmem-memory-backend",
+  "title": "的 cogmem 内存后端",
+  "description": "Install and connect cogmem as a durable memory backend for OpenClaw. Version 2.5.1.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "cogmem Memory Backend for OpenClaw",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:skill-manager",
+  "slug": "skill-manager",
+  "name": "skill-manager",
+  "title": "全生命周期管理器",
+  "description": "WorkBuddy Skill 全生命周期管理器。列出/查看/创建/删除/搜索/审计/打包/安装技能， 一站管理本地和内置市场的所有 Skill。触发词：技能管理, skill管理, 管理技能, skill manager, 列出技能, 技能列表, 审计技能, 技能审计, 删除技能, 创建技能, 技能健康检查, 清理技能, 技能打包, 重复技能检测。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

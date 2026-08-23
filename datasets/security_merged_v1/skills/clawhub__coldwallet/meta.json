@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:coldwallet",
+  "slug": "coldwallet",
+  "name": "coldwallet",
+  "title": "冷钱包",
+  "description": "Coldwallet reference tool. Use when working with coldwallet in blockchain contexts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Coldwallet",
+  "function_label": "Other"
+}

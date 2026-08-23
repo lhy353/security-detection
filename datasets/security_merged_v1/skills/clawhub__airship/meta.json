@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:airship",
+  "slug": "airship",
+  "name": "airship",
+  "title": "飞艇",
+  "description": "Airship integration. Manage data, records, and automate workflows. Use when the user wants to interact with Airship data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Airship",
+  "function_label": "Automation"
+}

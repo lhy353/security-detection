@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cloudtrail-threat-detector",
+  "slug": "cloudtrail-threat-detector",
+  "name": "aws-cloudtrail-threat-detector",
+  "title": "威胁检测器",
+  "description": "Analyze AWS CloudTrail logs for suspicious patterns, unauthorized changes, and MITRE ATT&CK indicators",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AWS CloudTrail Threat Detector",
+  "function_label": "Other"
+}

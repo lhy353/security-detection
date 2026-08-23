@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-security-reliability-design-review",
+  "slug": "bookforge-security-reliability-design-review",
+  "name": "security-reliability-design-review",
+  "title": "安全性和可靠性设计审查",
+  "description": "Review a system design for security and reliability tradeoffs before implementation begins. Use when: evaluating an architecture proposal or design document and need to identify where security and reliability requirements conflict with feature or cost requirements; auditing a proposed design to determine whether security and reliability are designed in from the start or likely to require expensive retrofitting later; deciding whether to build payment processing or sensitive data handling in-house versus delegating to a third-party provider; assessing whether a microservices framework or platform incorporates security and reliability by construction rather than by convention; or producing a design review report for a security review, production readiness review, or architecture decision record. Applies the emergent property test (security and reliability cannot be bolted on — they must arise from the whole design), the initial-versus-sustained-velocity model (early neglect accelerates to later slowdown), and the Google design document evaluation checklist covering scalability, redundancy, dependency, data integrity, SLA, and security/privacy considerations. Produces: a design review report with identified tensions between feature, security, and reliability requirements; tradeoff recommendations; and prioritized security/reliability improvements. Distinct from threat modeling (which focuses on adversary scenarios) and code review (which audits existing implementation). Applicable at any stage where design decisions are still open.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Security and Reliability Design Review",
+  "function_label": "Coding"
+}

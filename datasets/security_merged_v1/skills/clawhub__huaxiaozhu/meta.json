@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:huaxiaozhu",
+  "slug": "huaxiaozhu",
+  "name": "花小猪",
+  "title": "花小猪 AI 助手",
+  "description": "花小猪打车助手，精通优惠出行、行程规划、费用估算、安全出行",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

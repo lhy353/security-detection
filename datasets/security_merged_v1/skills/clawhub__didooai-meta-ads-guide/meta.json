@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:didooai-meta-ads-guide",
+  "slug": "didooai-meta-ads-guide",
+  "name": "didooai-meta-ads-guide",
+  "title": "元广告技能路由指南",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Meta Ads Skill Routing Guide"
+}

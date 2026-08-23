@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:manufacturing-equipment-maintenance-reflow-machine-maintenance-guidance",
+  "slug": "manufacturing-equipment-maintenance-reflow-machine-maintenance-guidance",
+  "name": "reflow_machine_maintenance_guidance",
+  "title": "斜坡计算的温度区域：",
+  "description": "This skill should be considered when you need to answer reflow machine maintenance questions or provide detailed guidance based on thermocouple data, MES data or defect data and reflow technical handbooks. This skill covers how to obtain important concepts, calculations, definitions, thresholds, and others from the handbook and how to do cross validations between handbook and datasets.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "temperature region for the ramp calculation:",
+  "function_label": "Data-Agent"
+}

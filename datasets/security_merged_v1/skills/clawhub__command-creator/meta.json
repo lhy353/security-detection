@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:command-creator",
+  "slug": "command-creator",
+  "name": "command-creator",
+  "title": "命令创建者",
+  "description": "WHAT: Create Claude Code slash commands - reusable markdown workflows invoked with /command-name.\n\nWHEN: User wants to create, make, or add a slash command. User wants to automate a repetitive workflow or document a consistent process for reuse.\n\nKEYWORDS: \"create a command\", \"make a slash command\", \"add a command\", \"new command\", \"/command\", \"automate this workflow\", \"make this repeatable\"",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Command Creator",
+  "function_label": "Coding"
+}

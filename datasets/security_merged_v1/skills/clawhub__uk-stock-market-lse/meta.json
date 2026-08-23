@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:uk-stock-market-lse",
+  "slug": "uk-stock-market-lse",
+  "name": "uk-stock-market-lse",
+  "title": "一键网关",
+  "description": "Get UK (London Stock Exchange, LSE) market data via FinanceAgent on OneKey Gateway.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OneKey Gateway",
+  "function_label": "Communication"
+}

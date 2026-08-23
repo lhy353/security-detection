@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:vault-integration-helper",
+  "slug": "vault-integration-helper",
+  "name": "vault-integration-helper",
+  "title": "集成助手",
+  "description": "Integrate with HashiCorp Vault and other secret management platforms for secure credential retrieval",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Vault Integration Helper",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:svn-tool",
+  "slug": "svn-tool",
+  "name": "svn-tool",
+  "title": "版本控制技能",
+  "description": "Subversion (SVN) 代码版本控制工具。使用 svn CLI 进行检入、检出、更新、提交、查看日志等操作。当用户需要与 SVN 仓库交互时触发此技能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

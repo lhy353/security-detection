@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hermes-features",
+  "slug": "hermes-features",
+  "name": "hermes-features-openclaw",
+  "title": "的 Hermes 功能",
+  "description": "Hermes-style self-improvement and memory management for OpenClaw agents — learning loop, skill system, persistent memory with overflow archive",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Hermes Features for OpenClaw",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bill-monitor",
+  "slug": "bill-monitor",
+  "name": "bill-monitor",
+  "title": "账单",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bills",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nansen-general-search",
+  "slug": "nansen-general-search",
+  "name": "nansen-general-search",
+  "title": "搜索",
+  "description": "Search for tokens or entities by name. Use when you have a token name and need the full address, or want to find an entity.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Search",
+  "function_label": "Other"
+}

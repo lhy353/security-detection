@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ant-skill-review",
+  "slug": "ant-skill-review",
+  "name": "skill-review",
+  "title": "技能审查",
+  "description": "Security scanner for Claude Code Skill packages. Use when the user wants to audit, review, or check the safety of a Skill before installing — e.g. \"is this skill safe?\", \"check this skill\", \"scan for backdoors\", or \"skill-review\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "skill-review",
+  "function_label": "Automation"
+}

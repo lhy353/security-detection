@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skill-deps",
+  "slug": "skill-deps",
+  "name": "skill-deps",
+  "title": "技能依赖性",
+  "description": "Track and manage dependencies between OpenClaw skills. Scan skills for dependencies, visualize skill trees, detect circular dependencies, and manage skill versioning. Use when analyzing skill relationships, checking which skills depend on others, or managing skill installations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Skill Dependencies",
+  "function_label": "Automation"
+}

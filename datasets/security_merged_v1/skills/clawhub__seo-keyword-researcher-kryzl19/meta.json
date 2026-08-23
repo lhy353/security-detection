@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:seo-keyword-researcher-kryzl19",
+  "slug": "seo-keyword-researcher-kryzl19",
+  "name": "seo-keyword-researcher",
+  "title": "关键词研究员",
+  "description": "Research SEO keywords for any topic and generate a complete article brief with primary keyword, secondary keywords, competition analysis, article structure, and SEO recommendations. Use when: (1) planning new content for TechStack.dev, (2) researching keywords for SEO articles, (3) creating content strategy, (4) identifying low-competition keywords, (5) building an article outline. Triggers on: keyword research, SEO article ideas, what keywords should I target, article topic research, SEO brief, content planning, keyword analysis.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SEO Keyword Researcher",
+  "function_label": "Other"
+}

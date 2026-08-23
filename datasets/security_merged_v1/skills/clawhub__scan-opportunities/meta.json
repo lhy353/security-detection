@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:scan-opportunities",
+  "slug": "scan-opportunities",
+  "name": "scan-opportunities",
+  "title": "扫描机会",
+  "description": "Scan for LP opportunities, arbitrage, and high-yield pools across all Uniswap deployments. Use when the user asks about the best opportunities, high-yield pools, or arbitrage.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Scan Opportunities",
+  "function_label": "Communication"
+}

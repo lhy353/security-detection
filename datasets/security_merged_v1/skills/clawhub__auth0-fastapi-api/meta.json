@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:auth0-fastapi-api",
+  "slug": "auth0-fastapi-api",
+  "name": "auth0-fastapi-api",
+  "title": "集成",
+  "description": "Use when securing FastAPI API endpoints with JWT Bearer token validation, scope/permission checks, or stateless auth - integrates auth0-fastapi-api for REST APIs receiving access tokens from SPAs, mobile apps, or other clients. Also handles DPoP proof-of-possession token binding. Triggers on: Auth0FastAPI, FastAPI API auth, JWT validation, require_auth, DPoP.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Auth0 FastAPI API Integration",
+  "function_label": "Communication"
+}

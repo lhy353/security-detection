@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:gcp-fullstack",
+  "slug": "gcp-fullstack",
+  "name": "gcp-fullstack",
+  "title": "全栈",
+  "description": "Complete development lifecycle super agent for GCP — scaffolding, compute, database, auth, feature generation, testing, pre-production QA gate with go/no-go reports, deploy, Cloudflare CDN/security, and monitoring",
+  "detection_label": "uncertain",
+  "source": "clawhub",
+  "title_en": "Gcp Fullstack"
+}

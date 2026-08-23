@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ftp-client",
+  "slug": "ftp-client",
+  "name": "ftp-client",
+  "title": "客户端",
+  "description": "FTP/FTPS client skill. Connect to FTP servers and perform file operations (list, upload, download, delete, move, copy, mkdir, read). Supports FTP and FTPS (explicit/implicit TLS).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ftp Client",
+  "function_label": "Other"
+}

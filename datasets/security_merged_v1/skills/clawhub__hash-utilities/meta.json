@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hash-utilities",
+  "slug": "hash-utilities",
+  "name": "hash-utilities",
+  "title": "哈希工具包",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Hash Toolkit",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openmerch-company-brief",
+  "slug": "openmerch-company-brief",
+  "name": "openmerch-company-brief",
+  "title": "公司简介（由 OpenMerch 提供支持）",
+  "description": "Look up a company's profile by domain — industry, size, location, founding year, and funding data when available. Powered by OpenMerch.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Company Brief (powered by OpenMerch)",
+  "function_label": "Communication"
+}

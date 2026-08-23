@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-audio-editor",
+  "slug": "free-audio-editor",
+  "name": "free-audio-editor",
+  "title": "编辑和导出干净的音频",
+  "description": "edit audio files into cleaned audio video with this free-audio-editor skill. Works with MP3, WAV, AAC, M4A files up to 200MB. podcasters, content creators, students use it for cleaning and trimming audio recordings for video content — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Audio Editor — Edit and Export Clean Audio",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:healthcare-education-coordinator",
+  "slug": "healthcare-education-coordinator",
+  "name": "healthcare-education-coordinator",
+  "title": "医疗保健和教育协调框架",
+  "description": "Orchestrates healthcare and education initiatives through systematic patient recovery tracking and early childhood development support with formal academic documentation standards.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Healthcare and Education Coordination Framework",
+  "function_label": "Automation"
+}

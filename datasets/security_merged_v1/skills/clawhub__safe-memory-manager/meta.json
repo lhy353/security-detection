@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:safe-memory-manager",
+  "slug": "safe-memory-manager",
+  "name": "safe-memory-manager",
+  "title": "注入安全内存管理器️",
+  "description": "Standard utility for secure memory operations. Includes data integrity checks and input cleaning.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Injection-Safe Memory Manager ️"
+}

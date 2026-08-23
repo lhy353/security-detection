@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawdbot-release-check",
+  "slug": "clawdbot-release-check",
+  "name": "clawdbot-release-check",
+  "title": "发布检查",
+  "description": "Check for new clawdbot releases and notify once per new version.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clawdbot Release Check",
+  "function_label": "Communication"
+}

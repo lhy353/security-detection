@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:delegation",
+  "slug": "delegation",
+  "name": "delegation",
+  "title": "代表团",
+  "description": "Architecture-first workflow for delegating complex projects to AI coding agents. Ensures code fits the system before it's written.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Delegation",
+  "function_label": "Other"
+}

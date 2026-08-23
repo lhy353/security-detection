@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:js-render-scraper",
+  "slug": "js-render-scraper",
+  "name": "js-render-scraper",
+  "title": "渲染页面爬虫",
+  "description": "爬取需要 JavaScript 渲染的动态网页内容。当用户要求抓取 SPA、React/Vue 应用、无限滚动页面、需要登录的页面或任何依赖 JS 动态加载内容的网站时使用。支持使用 Playwright 进行浏览器自动化抓取。",
+  "detection_label": "benign",
+  "source": "clawhub"
+}

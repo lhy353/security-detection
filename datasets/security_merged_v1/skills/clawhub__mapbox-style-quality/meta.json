@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mapbox-style-quality",
+  "slug": "mapbox-style-quality",
+  "name": "mapbox-style-quality",
+  "title": "风格质量技能",
+  "description": "Expert guidance on validating, optimizing, and ensuring quality of Mapbox styles through validation, accessibility checks, and optimization. Use when preparing styles for production, debugging issues, or ensuring map quality standards.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mapbox Style Quality Skill",
+  "function_label": "Coding"
+}

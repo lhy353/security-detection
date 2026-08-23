@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tcm-video-factory",
+  "slug": "tcm-video-factory",
+  "name": "tcm-video-factory",
+  "title": "中医影像厂",
+  "description": "Automate health video production planning (Topic Research - Script - Character - Image/Video Prompts) using Perplexity API. Based on TCM Video Factory workflow.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tcm Video Factory",
+  "function_label": "Other"
+}

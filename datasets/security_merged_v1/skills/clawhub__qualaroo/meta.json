@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:qualaroo",
+  "slug": "qualaroo",
+  "name": "qualaroo",
+  "title": "夸拉罗",
+  "description": "Qualaroo integration. Manage Surveys, Questions, Answers. Use when the user wants to interact with Qualaroo data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Qualaroo",
+  "function_label": "Browser"
+}

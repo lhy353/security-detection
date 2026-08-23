@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:adaptive-agent-build-user-profile",
+  "slug": "adaptive-agent-build-user-profile",
+  "name": "build-user-profile",
+  "title": "建立用户档案",
+  "description": "Build or update the user profile memory by observing workspace context, git history,\nand conversation patterns. Run on first interaction or when profile feels outdated.\nTrigger words: \"build profile\", \"update profile\", \"who am I\", \"user profile\".\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Build User Profile",
+  "function_label": "Other"
+}

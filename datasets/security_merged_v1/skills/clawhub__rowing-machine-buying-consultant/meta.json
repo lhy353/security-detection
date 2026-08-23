@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:rowing-machine-buying-consultant",
+  "slug": "rowing-machine-buying-consultant",
+  "name": "rowing-machine-buying-consultant",
+  "title": "划船机购买顾问",
+  "description": "Guide rowing machine buyers through questions on body profile, goals, noise, space, and region to determine resistance type, rail length, weight capacity, and monitor — brand-neutral.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Rowing Machine Buying Consultant",
+  "function_label": "Other"
+}

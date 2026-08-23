@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:autonomous-loop",
+  "slug": "autonomous-loop",
+  "name": "autonomous-loop",
+  "title": "自主循环",
+  "description": "Add self-sustaining autonomous loop capability to an OpenClaw agent. The agent keeps working after each reply until a stop file is placed. Use when: (1) creating a new long-running agent, (2) converting an existing agent to autonomous mode, (3) debugging a loop that stopped unexpectedly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Autonomous Loop",
+  "function_label": "Coding"
+}

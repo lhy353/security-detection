@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:global-customer-agent",
+  "slug": "global-customer-agent",
+  "name": "跨境客户Agent",
+  "title": "跨境客户Agent",
+  "description": "7×24小时36语种客户接待。自动理解多语种需求，智能推荐商品，生成多语种报价，让全球客户都能获得专业服务体验，适合有多语种客户的外贸企业和独立站运营。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

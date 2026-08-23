@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:justoneapi-amazon-get-best-sellers",
+  "slug": "justoneapi-amazon-get-best-sellers",
+  "name": "Amazon Best Sellers API",
+  "title": "亚马逊畅销书",
+  "description": "Call GET /api/amazon/get-best-sellers/v1 for Amazon Best Sellers through JustOneAPI with category.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Amazon Best Sellers",
+  "function_label": "Other"
+}

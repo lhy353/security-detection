@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:excalidraw-creator",
+  "slug": "excalidraw-creator",
+  "name": "excalidraw-creator",
+  "title": "创作者",
+  "description": "Create hand-drawn style Excalidraw diagrams, flowcharts, and architecture visuals as PNG images",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Excalidraw Creator",
+  "function_label": "Other"
+}

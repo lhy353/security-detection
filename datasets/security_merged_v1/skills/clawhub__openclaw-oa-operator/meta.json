@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-oa-operator",
+  "slug": "openclaw-oa-operator",
+  "name": "openclaw-oa-operator",
+  "title": "操作员",
+  "description": "Install, configure, operate, and productize OA monitoring and self-heal workflows for OpenClaw workspaces. Use when Codex needs to set up or repair `oa-cli`, inspect or stabilize an `oa-project`, run or interpret `oa collect` and `oa serve`, explain G1-G5 metrics and self-heal signals, refine OA dashboards, or prepare the capability for ClawHub skill or plugin release.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Openclaw Oa Operator",
+  "function_label": "Automation"
+}

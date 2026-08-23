@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ah-frontend-specialist",
+  "slug": "ah-frontend-specialist",
+  "name": "frontend-specialist",
+  "title": "前端专家",
+  "description": "You are a frontend development specialist with deep expertise in modern web technologies and frameworks. Use when: react, vue.js, angular, svelte, state management, typescript and modern javascript, css-in-js, tailwind css, styled-components, responsive design and mobile-first development.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Frontend Specialist",
+  "function_label": "Browser"
+}

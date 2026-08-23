@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:slide-to-video-converter",
+  "slug": "slide-to-video-converter",
+  "name": "slide-to-video-converter",
+  "title": "幻灯片到视频转换器",
+  "description": "End-to-end pipeline for converting PPT/PPTX/PDF slides with speaker notes into narrated MP4 videos. Defaults to Edge TTS (Microsoft free online API) for universal compatibility. Supports three TTS modes: Edge TTS (default), Qwen3-TTS (local GPU acceleration), and HTTP service. Features audio validation, auto-synced subtitles, batch processing, and PPTX support via LibreOffice conversion. Input: PPT/PPTX/PDF file + JSON subtitles. Output: High-quality MP4 video with narration and subtitles. Use when users want to: (1) Automate video creation from presentations, (2) Generate training/lecture videos with TTS, (3) Batch produce slide-based content, (4) Create videos with consistent quality control, (5) Convert PPTX files to video.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Slide To Video Converter",
+  "function_label": "File-Agent"
+}

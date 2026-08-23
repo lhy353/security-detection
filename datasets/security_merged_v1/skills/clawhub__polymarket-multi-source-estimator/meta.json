@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:polymarket-multi-source-estimator",
+  "slug": "polymarket-multi-source-estimator",
+  "name": "polymarket-multi-source-estimator",
+  "title": "多源LLM估算器",
+  "description": "Trade prediction markets using LLM probability estimation enriched with 10+ real-time data sources (news, economic data, sports odds, political polling, and more). The skill fetches context from RSS feeds, FRED, GDELT, bookmaker odds, and other APIs, then asks an LLM to estimate the true probability. Trades when the estimate diverges significantly from the market price.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Multi-Source LLM Estimator",
+  "function_label": "Data-Agent"
+}

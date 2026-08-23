@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:log-pii-redactor",
+  "slug": "log-pii-redactor",
+  "name": "log-pii-redactor",
+  "title": "日志 Pi 编辑器",
+  "description": "Detect and redact personally identifiable information (PII) in application logs to comply with GDPR, CCPA, HIPAA, and PCI DSS. Knows the realistic 2026 PII surface — emails, phone numbers, SSNs, credit cards, IPv4/IPv6, JWT tokens, API keys, cloud secret patterns, addresses, names leaked via headers and stack traces. Picks the right strategy per field (irreversible mask vs deterministic tokenize vs salted hash vs drop) and ships a regex pack, a pre-prod scanner, and integration recipes for Fluent Bit, Logstash, Vector, and the OpenTelemetry Collector. Maps every redaction to the relevant compliance clause (GDPR Art 5/32, HIPAA Safe Harbor §164.514(b)(2), PCI DSS 3.4/3.5). Use when asked to scrub logs, build a redaction pipeline, audit a log stream for PII, design a tokenization scheme, prep for a SOC 2 or HIPAA audit, or stop sensitive data flowing into Datadog/Splunk/ELK/S3.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Log Pii Redactor",
+  "function_label": "Communication"
+}

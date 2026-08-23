@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:chatgpt-memory-extraction",
+  "slug": "chatgpt-memory-extraction",
+  "name": "chatgpt-memory-extraction",
+  "title": "内存提取",
+  "description": "Extract structured personal memories from ChatGPT export data (conversations JSON). Produces organized timeline, people profiles, and thematic records by deeply reading every conversation. Use when: (1) user exported or wants to export ChatGPT data, (2) user wants to organize/analyze/search their chat history, (3) user wants to build a personal memory archive or diary from conversations, (4) user asks to extract people/events/emotions/knowledge/timeline from ChatGPT, (5) user mentions conversations.json or ChatGPT data export, (6) user wants to migrate memories from ChatGPT to another system, (7) user wants a summary or review of their ChatGPT usage over time. Triggers on: 'organize my ChatGPT history', 'extract memories from ChatGPT', 'analyze my ChatGPT export', '整理ChatGPT对话', '导出ChatGPT数据', 'build memory from chats', 'what did I talk about with ChatGPT', 'review my ChatGPT conversations', 'make a timeline from my chats', 'ChatGPTのデータを整理'. NOT for: other AI chat exports (Claude/Gemini), real-time logging, or automated summarization without human review.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Chatgpt Memory Extraction",
+  "function_label": "Communication"
+}

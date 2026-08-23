@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:m365-planner-v2",
+  "slug": "m365-planner-v2",
+  "name": "m365-planner",
+  "title": "规划师技能",
+  "description": "Manage Microsoft 365 Planner plans, buckets, and tasks via Microsoft Graph API. Use when creating, listing, updating, or deleting Planner resources. Supports group-based plan management, task assignment, progress tracking, and recurring tasks. Requires Azure AD app registration with Group.Read.All and Tasks.ReadWrite.All permissions.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "M365 Planner Skill"
+}

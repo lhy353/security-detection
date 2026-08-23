@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:yt-thumbnail-grabber",
+  "slug": "yt-thumbnail-grabber",
+  "name": "yt-thumbnail-grabber",
+  "title": "缩略图抓取器",
+  "description": "Download YouTube video thumbnails in various resolutions. Use when you need to get video preview images, create collages, or save thumbnails for reference.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "YouTube Thumbnail Grabber",
+  "function_label": "Other"
+}

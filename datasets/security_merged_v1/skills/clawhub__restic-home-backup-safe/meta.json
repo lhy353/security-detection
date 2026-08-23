@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:restic-home-backup-safe",
+  "slug": "restic-home-backup-safe",
+  "name": "restic-home-backup",
+  "title": "家庭备份",
+  "description": "Design, implement, and operate encrypted restic backups for Linux home directories with systemd automation, retention policies, and restore validation. Use when a user asks to back up ~/, set up daily/weekly/monthly backup jobs, harden backup security, or troubleshoot restore/integrity issues.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Restic Home Backup",
+  "function_label": "Automation"
+}

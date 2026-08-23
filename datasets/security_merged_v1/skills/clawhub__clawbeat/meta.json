@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawbeat",
+  "slug": "clawbeat",
+  "name": "clawbeat",
+  "title": "新闻、研究和活动",
+  "description": "Query live OpenClaw ecosystem intelligence from ClawBeat.co — news, research papers, events, repos, and daily briefings for the OpenClaw agentic framework and alternatives.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClawBeat: OpenClaw News, Research & Events",
+  "function_label": "Other"
+}

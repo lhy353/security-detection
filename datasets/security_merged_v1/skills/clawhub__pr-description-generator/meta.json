@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pr-description-generator",
+  "slug": "pr-description-generator",
+  "name": "pr-description-generator",
+  "title": "描述生成器",
+  "description": "Auto-generate pull request descriptions from git diffs and commit history. Parses conventional commits, categorizes changes (features, fixes, refactoring), analyzes file impact, generates reviewer hints, and produces structured descriptions. Supports minimal, standard, and detailed templates with markdown or JSON output. Use when asked to generate PR descriptions, create pull request summaries, describe git changes, summarize a branch, or prepare a PR body. Triggers on \"PR description\", \"pull request description\", \"generate PR\", \"describe changes\", \"PR summary\", \"what changed\", \"PR body\", \"PR template\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pr Description Generator",
+  "function_label": "Coding"
+}

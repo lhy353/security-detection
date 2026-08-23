@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:todo-planner",
+  "slug": "todo-planner",
+  "name": "todo-planner",
+  "title": "所有计划",
+  "description": "Organize todos with priorities, deadlines, and weekly views. Use when adding tasks, planning agendas, tracking progress, reviewing overdue items.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Todo Planner",
+  "function_label": "Coding"
+}

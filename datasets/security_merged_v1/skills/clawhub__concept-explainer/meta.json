@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:concept-explainer",
+  "slug": "concept-explainer",
+  "name": "concept-explainer",
+  "title": "概念解释者",
+  "description": "Uses analogies to explain complex medical concepts in accessible terms.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Concept Explainer",
+  "function_label": "Data-Agent"
+}

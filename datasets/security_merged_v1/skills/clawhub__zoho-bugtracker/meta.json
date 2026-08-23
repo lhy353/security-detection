@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zoho-bugtracker",
+  "slug": "zoho-bugtracker",
+  "name": "zoho-bugtracker",
+  "title": "集成",
+  "description": "Zoho Bugtracker integration. Manage Projects. Use when the user wants to interact with Zoho Bugtracker data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zoho Bugtracker",
+  "function_label": "Browser"
+}

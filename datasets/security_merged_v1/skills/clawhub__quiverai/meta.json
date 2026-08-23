@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:quiverai",
+  "slug": "quiverai",
+  "name": "quiverai",
+  "title": "矢量图形",
+  "description": "Generate and vectorize SVG graphics via the QuiverAI API (Arrow model). Use when the user asks to create logos, icons, or illustrations as SVG, convert raster images (PNG/JPEG/WebP) to SVG, or generate vector graphics from text prompts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "QuiverAI — AI Vector Graphics",
+  "function_label": "Coding"
+}

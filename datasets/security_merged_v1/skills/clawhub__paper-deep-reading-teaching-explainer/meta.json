@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:paper-deep-reading-teaching-explainer",
+  "slug": "paper-deep-reading-teaching-explainer",
+  "name": "paper-deep-reading-teaching-explainer",
+  "title": "论文深度阅读技巧",
+  "description": "Deep-read research papers into authoritative, evidence-grounded teaching reports, reproducibility/defense-ready explanations, innovation-mining artifacts, staged multi-image cartoon storyboard plans with continuity/cinematography and anti-hallucination source checks grounded in PDF and/or LaTeX sources, and final image-PDF assembly guidance. Use when users need rigorous paper understanding, teachable explanations, answer-prep material, reproducibility checks, and presentation-ready visual workflows without mixing report generation and image generation in one turn.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ChatGPT Paper Deep Reading Skill",
+  "function_label": "Research"
+}

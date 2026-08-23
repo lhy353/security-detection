@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:uplo-education",
+  "slug": "uplo-education",
+  "name": "uplo-education",
+  "title": "学术卓越的机构知识",
+  "description": "AI-powered education knowledge management. Search curriculum documents, student records frameworks, accreditation data, and institutional research with structured extraction.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "UPLO Education — Institutional Knowledge for Academic Excellence",
+  "function_label": "Data-Agent"
+}

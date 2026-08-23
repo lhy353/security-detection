@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:progress-review",
+  "slug": "progress-review",
+  "name": "progress-review",
+  "title": "进度回顾技巧",
+  "description": "Spaced repetition session review for reinforcing learned concepts",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Progress Review Skill",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:presentation-html-generator-skill",
+  "slug": "presentation-html-generator-skill",
+  "name": "presentation-generator",
+  "title": "技术演示和文章生成器",
+  "description": "Generate high-quality technical HTML presentations (Reveal.js) and Markdown technical deep-dive articles from projects or papers. Covers architecture diagrams, code walkthroughs, math formulas, and speaker notes. Use when users say: 'make a presentation', 'create slides', 'generate HTML slides', 'technical presentation', 'paper presentation', 'Reveal.js slides', 'write a technical deep-dive article', 'create tech blog from code', 'generate architecture diagrams with matplotlib'. Triggers on requests to: (1) Convert a project/paper into an HTML slide deck, (2) Write a Markdown technical analysis article, (3) Generate matplotlib architecture diagrams for documentation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Technical Presentation & Article Generator",
+  "function_label": "Other"
+}

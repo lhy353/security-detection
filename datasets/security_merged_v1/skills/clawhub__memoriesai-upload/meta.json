@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:memoriesai-upload",
+  "slug": "memoriesai-upload",
+  "name": "luci-upload",
+  "title": "露西上传",
+  "description": "Upload a video or image to memories.ai. Use when the user wants to upload media, add a video/photo to their memory, or send a file to Luci. This skill is designed to work with luci-memory skill from clawhub",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "luci-upload",
+  "function_label": "Other"
+}

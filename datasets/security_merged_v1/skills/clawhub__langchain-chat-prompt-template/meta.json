@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:langchain-chat-prompt-template",
+  "slug": "langchain-chat-prompt-template",
+  "name": "langchain-chat-prompt-template",
+  "title": "编码 Prompt",
+  "description": "Guide to using ChatPromptTemplate and MessagesPlaceholder in LangChain for conversational AI. Use when building chatbots, conversational interfaces, or AI assistants that need to maintain conversation history.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:make-change",
+  "slug": "make-change",
+  "name": "make-change",
+  "title": "做出改变",
+  "description": "Shaun King's \"Make Change: How to Fight Injustice, Dismantle Systemic Oppression, and Own Our Future\" — an executable toolkit for building social movements, organizing for justice, using your gifts for activism, learning from failure, avoiding burnout, and creating lasting systemic change from the ground up.\nCovers 5 use cases: ① The Choice to Act — moving from despair to organizing (\"I feel hopeless about the state of the world. Where do I even start? How do I move from wanting change to making change?\") ② What Movements Need — energized people, organized people, and sophisticated plans (\"I want to organize for change but I don't know how. What does a successful movement actually require?\") ③ Using Your Gift — finding your role in the fight (\"I'm not a protester or a speaker. What can I contribute? What is my gift and how do I use it for justice?\") ④ Rebounding from Failure — learning from mistakes without quitting (\"I tried to organize something and it failed. What now? How do I keep going when I mess up?\") ⑤ Burnout and Revolutionary Self-Care — sustaining yourself for the long fight (\"I'm exhausted by the constant work of activism. How do I take care of myself without abandoning the cause?\")\nTrigger when users say: \"I want to fight for justice but I don't know where to start\" \"How do I organize for change\" \"I'm overwhelmed by everything happening in the world\" \"I want to be an activist\" \"How do I build a movement\" \"My protest/organizing effort failed\" \"I'm burned out from activism\" \"What can I do to make a difference\" or mention: Shaun King / Make Change / Black Lives Matter / organize / protest / activism / social justice / systemic oppression / grassroots / movement building / civil rights / organizer / community organizing / police brutality / Eric Garner / Ferguson / Tamir Rice / George Floyd / Breonna Taylor Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Make Change",
+  "function_label": "Other"
+}

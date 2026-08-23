@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:audio-speaker-tools",
+  "slug": "audio-speaker-tools",
+  "name": "audio-speaker-tools",
+  "title": "音频扬声器工具",
+  "description": "Speaker separation, voice comparison, and audio processing tools. Use when working with multi-speaker audio, voice cloning, or speaker verification tasks including: (1) separating speakers from audio files via Demucs and pyannote diarization, (2) comparing voice samples for speaker verification or voice clone quality assessment using Resemblyzer, (3) extracting audio segments, (4) preparing samples for ElevenLabs voice cloning, or (5) validating speaker diarization results.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Audio Speaker Tools",
+  "function_label": "Automation"
+}

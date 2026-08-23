@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:krea-ai",
+  "slug": "krea-ai",
+  "name": "krea-image-api",
+  "title": "韩国图像API",
+  "description": "Generate images via Krea.ai API — Nano Banana 2 (default), Flux, Imagen 4, Seedream 3, Ideogram 3.0, Nano Pro/base. Returns direct URLs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Krea Image API",
+  "function_label": "Other"
+}

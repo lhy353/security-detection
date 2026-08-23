@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-to-text-converter",
+  "slug": "video-to-text-converter",
+  "name": "video-to-text-converter",
+  "title": "视频到文本转换器",
+  "description": "Get text transcripts ready to post, without touching a single slider. Upload your video files (MP4, MOV, AVI, WebM, up to 500MB), say something like \"transcribe this video to text and export the transcript\", and download 1080p MP4 when it's done. Built for journalists, students, content creators who move fast and need accurate transcripts without manual typing.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video to Text Converter — Transcribe Video to Text",
+  "function_label": "Communication"
+}

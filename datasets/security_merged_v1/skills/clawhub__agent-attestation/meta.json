@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-attestation",
+  "slug": "agent-attestation",
+  "name": "agent-attestation",
+  "title": "代理认证",
+  "description": "Portable reputation system for agents v3 - Ed25519 signatures, input validation, handoff KV",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Attestation",
+  "function_label": "Other"
+}

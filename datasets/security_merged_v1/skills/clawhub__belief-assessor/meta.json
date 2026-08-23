@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:belief-assessor",
+  "slug": "belief-assessor",
+  "name": "belief-assessor",
+  "title": "信念评估器 v2",
+  "description": "LLM-driven epistemic reasoning engine. Evaluates claims against evidence, outputs calibrated confidence and structured belief state (VERIFIED/CONTESTED/UNCERTAIN). v2 adds 4-way constraint system, parameterized configuration, and formula-based confidence intervals. Use when the agent needs to assess whether information is trustworthy, detect contradictions in evidence, or quantify uncertainty.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "belief-assessor v2",
+  "function_label": "Research"
+}

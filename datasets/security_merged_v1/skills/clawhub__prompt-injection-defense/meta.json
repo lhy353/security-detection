@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:prompt-injection-defense",
+  "slug": "prompt-injection-defense",
+  "name": "prompt-injection-defense",
+  "title": "即时注射防御",
+  "description": "Harden agent sessions against prompt injection from untrusted content. Use when the agent reads web search results, emails, downloaded files, PDFs, or any external text that could contain adversarial instructions. Provides content scanning, memory write guardrails (scan → lint → accept or quarantine), untrusted content tagging, and canary detection. Also use when setting up new tools that ingest external content (email checkers, RSS readers, web scrapers).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Prompt Injection Defense"
+}

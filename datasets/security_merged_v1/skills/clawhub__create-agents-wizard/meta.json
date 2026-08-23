@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:create-agents-wizard",
+  "slug": "create-agents-wizard",
+  "name": "create-agents-wizard",
+  "title": "创建代理向导",
+  "description": "Guided creation of multiple OpenClaw agents and their workspace templates. Use when users ask to create agents in batch, configure new agents, or customize AGENTS/SOUL/IDENTITY/BOOTSTRAP/USER/STYLE files. The workflow confirms scope, collects preferences agent-by-agent, drafts and confirms files, writes to disk, and summarizes results.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Create Agents Wizard",
+  "function_label": "Other"
+}

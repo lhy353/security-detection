@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:spa-diagnostic-engine",
+  "slug": "spa-diagnostic-engine",
+  "name": "spa-diagnostic-engine",
+  "title": "生产部署监视器",
+  "description": "Advanced diagnostic tool for identifying and resolving blank screen issues in deployed single-page applications",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "SPA Diagnostic Engine - Production Deployment Monitor",
+  "function_label": "Automation"
+}

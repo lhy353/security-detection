@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:live-site-polish",
+  "slug": "live-site-polish",
+  "name": "live-site-polish",
+  "title": "现场波兰语",
+  "description": "Use when redesigning or polishing an accessible live website directly in the browser, especially when the goal is to produce high-quality before/after screenshots plus a reference patch script for a downstream code agent. If this skill is selected, do not also invoke any other design-related or browser-use-related skills for the same task.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Live Site Polish",
+  "function_label": "Browser"
+}

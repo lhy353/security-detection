@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:text-to-video-generator-ai-free",
+  "slug": "text-to-video-generator-ai-free",
+  "name": "text-to-video-generator-ai-free",
+  "title": "文本到视频生成器 AI 免费",
+  "description": "generate text prompts into AI-generated videos with this text-to-video-generator-ai-free skill. Works with TXT, DOCX, PDF, copied text files up to 500MB. marketers, content creators, students use it for generating videos from written text without filming anything — processing takes 1-2 minutes on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Text to Video Generator AI Free — Convert Text into AI Videos",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:annotate",
+  "slug": "annotate",
+  "name": "annotate",
+  "title": "注释参考",
+  "description": "Code and data annotation reference — type annotations, JSDoc/docstrings, data labeling for ML, and git blame annotation. Use when documenting code, adding type hints, labeling datasets, or tracing code history.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Annotate — Annotation Reference",
+  "function_label": "Coding"
+}

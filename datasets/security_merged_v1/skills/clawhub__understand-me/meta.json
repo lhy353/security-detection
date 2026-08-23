@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:understand-me",
+  "slug": "understand-me",
+  "name": "understand-me",
+  "title": "了解我",
+  "description": "Use when the user asks the agent to understand, challenge, refine, interrogate, or co-design their ideas, thoughts, proposals, strategies, plans, designs, documents, or vague intuitions. Builds a design decision tree, examines every branch ruthlessly but constructively, asks one question at a time, provides a recommended answer for each question, searches provided materials before asking when the answer may already exist, and continues until shared understanding/consensus is reached.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Understand Me",
+  "function_label": "File-Agent"
+}

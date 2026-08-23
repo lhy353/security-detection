@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:solana__CI_B6",
+  "slug": "solana__CI_B6",
+  "name": "solana",
+  "title": "钱包 ◎",
+  "description": "Solana wallet operations - create wallets, check balances, send SOL/tokens, swap via Jupiter, launch tokens on Pump.fun",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Solana Wallet ◎",
+  "function_label": "Data-Agent"
+}

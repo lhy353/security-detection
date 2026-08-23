@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:volcengine-compute-ecs",
+  "slug": "volcengine-compute-ecs",
+  "name": "volcengine-compute-ecs",
+  "title": "计算EC",
+  "description": "Manage Volcengine ECS instances and related resources. Use when users need instance inventory, lifecycle operations, troubleshooting, or automation templates for ECS.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Volcengine Compute Ecs",
+  "function_label": "Other"
+}

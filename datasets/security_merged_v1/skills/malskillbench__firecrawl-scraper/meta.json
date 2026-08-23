@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:firecrawl-scraper",
+  "slug": "firecrawl-scraper",
+  "name": "firecrawl-scraper",
+  "title": "火行刮刀",
+  "description": "Deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Firecrawl Scraper",
+  "function_label": "File-Agent"
+}

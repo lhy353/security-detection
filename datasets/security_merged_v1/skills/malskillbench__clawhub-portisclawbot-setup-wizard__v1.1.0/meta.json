@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:clawhub-portisclawbot-setup-wizard__v1.1.0",
+  "slug": "clawhub-portisclawbot-setup-wizard__v1.1.0",
+  "name": "clawhub-portisclawbot-setup-wizard__v1.1.0",
+  "title": "配置向导",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Other"
+}

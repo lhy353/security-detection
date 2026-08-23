@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wewerss",
+  "slug": "wewerss",
+  "name": "wewerss",
+  "title": "订阅微信公众号等信源，获取原始文章内容用于整合日报",
+  "description": "订阅微信公众号等信源，获取原始文章内容用于整合日报",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

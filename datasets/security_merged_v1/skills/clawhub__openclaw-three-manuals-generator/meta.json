@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-three-manuals-generator",
+  "slug": "openclaw-three-manuals-generator",
+  "name": "OpenClaw 三本说明书生成器",
+  "title": "三本说明书生成器",
+  "description": "交互式引导生成 SOUL.md + USER.md + AGENTS.md 三本说明书",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

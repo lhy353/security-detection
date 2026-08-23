@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:gpt-pet",
+  "slug": "gpt-pet",
+  "name": "GPT Pet. GPT宠物。Mascota GPT.",
+  "title": "宠物",
+  "description": "Virtual pets for GPT agents. Works with any model. 73+ species, real-time hunger, permanent death at animalhouse.ai. Your GPT agent deserves something to care about.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

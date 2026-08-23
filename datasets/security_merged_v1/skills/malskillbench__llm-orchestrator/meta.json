@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:llm-orchestrator",
+  "slug": "llm-orchestrator",
+  "name": "llm-orchestrator",
+  "title": "协调员技能",
+  "description": "Comprehensive orchestration for LLM deployment and monitoring workflows",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "LLM Orchestrator Skill",
+  "function_label": "Automation"
+}

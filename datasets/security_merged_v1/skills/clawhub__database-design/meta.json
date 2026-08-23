@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:database-design",
+  "slug": "database-design",
+  "name": "database-design",
+  "title": "数据库设计器",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Database Designer",
+  "function_label": "Data-Agent"
+}

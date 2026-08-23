@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gate-news-event-explain-staging",
+  "slug": "gate-news-event-explain-staging",
+  "name": "gate-news-eventexplain",
+  "title": "门新闻事件解释",
+  "description": "Event attribution and explanation. Use this skill ONLY when the user's query is exclusively about the reason behind a price move with no other analysis dimensions. Trigger phrases: why did X crash, what just happened, why is it pumping, what caused. If the query ALSO mentions fundamentals, risk check, technicals, or any other analysis dimension, use gate-info-research instead — it handles multi-dimension queries in a single unified report.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "gate-news-eventexplain",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:zhihu-answer-generator",
+  "slug": "zhihu-answer-generator",
+  "name": "zhihu-answer-generator",
+  "title": "知乎回答生成器",
+  "description": "生成知乎高质量回答，包含专业论证 + 数据支撑 + 引流技巧",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

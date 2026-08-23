@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mentionlytics",
+  "slug": "mentionlytics",
+  "name": "mentionlytics",
+  "title": "提及疗法",
+  "description": "Mentionlytics integration. Manage data, records, and automate workflows. Use when the user wants to interact with Mentionlytics data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mentionlytics",
+  "function_label": "Automation"
+}

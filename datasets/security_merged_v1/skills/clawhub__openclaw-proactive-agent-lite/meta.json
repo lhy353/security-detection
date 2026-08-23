@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-proactive-agent-lite",
+  "slug": "openclaw-proactive-agent-lite",
+  "name": "proactive-agent-lite",
+  "title": "主动代理精简版",
+  "description": "Transform AI agents from task-followers into proactive partners with memory architecture, reverse prompting, and self-healing patterns. Lightweight version focused on core proactive capabilities.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Proactive Agent Lite",
+  "function_label": "Other"
+}

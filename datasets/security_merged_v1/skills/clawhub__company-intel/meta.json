@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:company-intel",
+  "slug": "company-intel",
+  "name": "company-intel",
+  "title": "公司英特尔技能",
+  "description": "Build structured company intelligence for interview preparation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Company Intel Skill",
+  "function_label": "Research"
+}

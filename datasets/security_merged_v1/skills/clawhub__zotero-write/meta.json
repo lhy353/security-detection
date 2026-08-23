@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zotero-write",
+  "slug": "zotero-write",
+  "name": "zotero-write",
+  "title": "书写技巧",
+  "description": "Write, tag, annotate, and edit a local Zotero SQLite database. Use when the user wants to: (1) Add tags or labels to papers in their Zotero library, (2) Add notes or annotations to specific papers, (3) Update paper metadata (title, authors, journal, date, DOI, etc.), (4) Create new Zotero items manually. Activates on: 'tag this paper', 'add a note to', 'update the metadata of', 'add this to my Zotero', 'create a new Zotero entry', 'edit Zotero', 'organize my Zotero with tags', any request to modify, annotate, or write to the Zotero database.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zotero Write Skill",
+  "function_label": "Data-Agent"
+}

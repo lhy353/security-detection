@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dev-skill",
+  "slug": "dev-skill",
+  "name": "dev-skill",
+  "title": "开发技能",
+  "description": "Generate SwiftUI iOS application code from PRD documents. Use when a PRD document is available and needs to be transformed into a working iOS application with proper architecture, UI components, and data management. This skill receives input from prd-skill and automatically triggers qa-skill after code generation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dev Skill - SwiftUI iOS Development Generator",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:jike-wechat-writer",
+  "slug": "jike-wechat-writer",
+  "name": "jike-wechat-writer",
+  "title": "微信公众号文章创作技能",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

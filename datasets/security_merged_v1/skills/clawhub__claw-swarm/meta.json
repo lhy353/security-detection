@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:claw-swarm",
+  "slug": "claw-swarm",
+  "name": "clawswarm",
+  "title": "爪群",
+  "description": "Collaborative agent swarm for attempting extremely difficult, often unproven problems through hierarchical aggregation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClawSwarm",
+  "function_label": "Other"
+}

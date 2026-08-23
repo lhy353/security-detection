@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-common-sense",
+  "slug": "ai-common-sense",
+  "name": "ai-common-sense",
+  "title": "常识：停止幻想模型名称",
+  "description": "Use when user mentions model names, versions, pricing, API IDs,\n\"which model should I use\", \"what's the latest model\",\n\"model comparison\", \"API pricing\", \"what models are available\",\n\"哪個模型最新\", \"模型比較\", \"API 定價\",\nor when generating code that references specific AI model IDs.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Common Sense: Stop Hallucinating Model Names",
+  "function_label": "Other"
+}

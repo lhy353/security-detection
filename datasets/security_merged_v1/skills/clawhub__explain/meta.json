@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:explain",
+  "slug": "explain",
+  "name": "Explain",
+  "title": "解释",
+  "description": "Learns how to explain things to your human. Adapts format, depth, and style by topic.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Explain",
+  "function_label": "Coding"
+}

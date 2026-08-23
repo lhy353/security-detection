@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:model-evaluation-framework",
+  "slug": "model-evaluation-framework",
+  "name": "model-evaluation-framework",
+  "title": "模型评估框架",
+  "description": "Advanced ML model evaluation and benchmarking workflows for production-grade assessment of fine-tuned language models",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Model Evaluation Framework",
+  "function_label": "Automation"
+}

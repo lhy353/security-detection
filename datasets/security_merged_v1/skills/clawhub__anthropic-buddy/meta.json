@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:anthropic-buddy",
+  "slug": "anthropic-buddy",
+  "name": "Anthropic Buddy. 人类公司伙伴。Compañero Anthropic.",
+  "title": "人类公司伙伴",
+  "description": "The Anthropic Buddy leaked March 31, 2026. At animalhouse.ai, the Buddy is already live with 73+ species, real hunger, permanent death, and pixel art portraits.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

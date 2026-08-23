@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kv-senior-architect",
+  "slug": "kv-senior-architect",
+  "name": "senior-architect",
+  "title": "高级架构师",
+  "description": "Design system architecture, evaluate patterns, and produce architecture artifacts. Use when designing a new system or reviewing an existing one, choosing between monolith and microservices, selecting a database or tech stack, creating architecture diagrams (Mermaid, PlantUML, ASCII), writing ADRs, analyzing dependencies, or planning for scalability.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Senior Architect",
+  "function_label": "Automation"
+}

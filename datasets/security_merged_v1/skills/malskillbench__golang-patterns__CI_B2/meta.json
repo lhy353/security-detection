@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:golang-patterns__CI_B2",
+  "slug": "golang-patterns__CI_B2",
+  "name": "golang-patterns",
+  "title": "开发模式",
+  "description": "Idiomatic Go patterns, best practices, and conventions for building robust, efficient, and maintainable Go applications.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Go Development Patterns",
+  "function_label": "Coding"
+}

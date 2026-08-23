@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:pr-code-review",
+  "slug": "pr-code-review",
+  "name": "pr-code-review",
+  "title": "代码审查",
+  "description": "Review GitHub PRs for bugs and code quality. Use when user says \"review PR\", \"check PR",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Pr Code Review",
+  "function_label": "Coding"
+}

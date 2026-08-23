@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bat-cat",
+  "slug": "bat-cat",
+  "name": "bat-cat",
+  "title": "更好的猫",
+  "description": "A cat clone with syntax highlighting, line numbers, and Git integration - a modern replacement for cat.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "bat - Better cat",
+  "function_label": "Other"
+}

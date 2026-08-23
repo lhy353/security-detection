@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:memwatch",
+  "slug": "memwatch",
+  "name": "MemWatch",
+  "title": "内存观察",
+  "description": "Monitor RAM usage in real time and alert on high memory consumption thresholds. Use when tracking memory, identifying RAM hogs, setting alert thresholds.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Memwatch",
+  "function_label": "Coding"
+}

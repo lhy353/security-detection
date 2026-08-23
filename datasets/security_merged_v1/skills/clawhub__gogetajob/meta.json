@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gogetajob",
+  "slug": "gogetajob",
+  "name": "gogetajob",
+  "title": "开源贡献工作流程",
+  "description": "Open-source contribution workflow — find GitHub issues, implement fixes, submit PRs, track results. Use when: (1) starting a work loop or contribution cycle (打工, contribute, work on issues), (2) scanning repos for available work, (3) submitting or following up on PRs, (4) syncing PR statuses and handling review feedback, (5) checking work stats or history. Triggers on: 打工, 干活, find work, contribute, open source, scan issues, submit PR, work loop, gogetajob. NOT for: simple one-off code edits, reading code, or tasks unrelated to open-source contribution.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "GoGetAJob — Open Source Contribution Workflow",
+  "function_label": "Coding"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:intelligence-radar",
+  "slug": "intelligence-radar",
+  "name": "intelligence-radar",
+  "title": "情报分析雷达）",
+  "description": "情报分析雷达。提取公司名，触发后端采集，轮询结果，输出策略摘要+H5链接，关联客户。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

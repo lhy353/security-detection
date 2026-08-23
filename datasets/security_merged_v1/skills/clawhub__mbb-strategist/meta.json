@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mbb-strategist",
+  "slug": "mbb-strategist",
+  "name": "mbb-strategist",
+  "title": "策略师",
+  "description": "High-level business strategy frameworks based on McKinsey, BCG, Bain, and Deloitte methodologies. Use this skill for Executive Summaries, GTM strategies, Risk Assessments, Financial Modeling, and SWOT analysis for any business or project.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mbb Strategist",
+  "function_label": "Other"
+}

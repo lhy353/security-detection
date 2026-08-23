@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:security-symfony",
+  "slug": "security-symfony",
+  "name": "security-symfony",
+  "title": "安全和 GDPR",
+  "description": "Sécurité & RGPD - Atoll Tourisme. Use when reviewing security, implementing auth, or hardening code.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Sécurité & RGPD - Atoll Tourisme",
+  "function_label": "Other"
+}

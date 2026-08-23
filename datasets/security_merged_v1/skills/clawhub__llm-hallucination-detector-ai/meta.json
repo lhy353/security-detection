@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:llm-hallucination-detector-ai",
+  "slug": "llm-hallucination-detector-ai",
+  "name": "LLM Hallucination Detector",
+  "title": "检测大型语言模型输出中的幻觉内容",
+  "description": "检测大型语言模型输出中的幻觉内容。通过事实验证、一致性检查、来源追溯和置信度评估， 帮助用户识别 AI 生成的虚构信息、错误引用和不实陈述，提升 LLM 输出的可信度。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

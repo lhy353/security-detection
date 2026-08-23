@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:the-celestine-prophecy",
+  "slug": "the-celestine-prophecy",
+  "name": "the-celestine-prophecy",
+  "title": "圣境预言——能量、同步性和灵性成长的技能",
+  "description": "James Redfield's The Celestine Prophecy — a spiritual adventure novel about a mysterious manuscript discovered in Peru that reveals Nine Insights into the nature of life, energy, and human potential. A journey through the Peruvian rainforest that becomes a journey into the nature of consciousness, coincidence, and the invisible energy that connects all living things. One of the most influential spiritual books of the 1990s.\nCovers 6 use cases: ① Understanding Synchronicity — recognizing meaningful coincidences (\"I keep seeing the same signs\" \"Is this a coincidence or something more\") ② Managing Personal Energy — sensing and protecting your energy (\"I feel drained by certain people\" \"How do I protect my energy\") ③ Energy Vampires — recognizing and handling people who drain you (\"Certain people exhaust me\" \"How do I deal with energy drainers\") ④ Following Intuition — trusting your inner knowing (\"I have a gut feeling but I'm not sure\" \"How do I trust my intuition\") ⑤ Seeing the Bigger Picture — understanding life as a journey of growth (\"What is the purpose of all this\" \"Life feels random but connected\") ⑥ Spiritual Growth — evolving toward higher consciousness (\"I feel like I'm growing spiritually\" \"What comes next on the path\")\nTrigger when users say: \"I keep noticing coincidences\" \"What is a spiritual path\" \"I feel drained by negative people\" \"I want to understand energy\" \"I'm looking for meaning\" \"Tell me about the nine insights\" \"Synchronicity\" or mention: The Celestine Prophecy / James Redfield / nine insights / energy / the manuscript / coincidences / spiritual growth. Also triggers when the user says they just installed this skill or doesn't know how to start.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "The Celestine Prophecy — A Skill for Energy, Synchronicity, and Spiritual Growth",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kami-video",
+  "slug": "kami-video",
+  "name": "kami-video",
+  "title": "编辑和导出视频剪辑",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — trim the silent parts, add background music, and export as a short clip — and get edited video clips back in 30-60 seconds. Upload MP4, MOV, AVI, WebM files up to 500MB, and the AI handles AI video editing automatically. Ideal for content creators and social media users who want fast video edits without complex software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kami Video — Edit and Export Video Clips",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-unit-test-quality-checker",
+  "slug": "bookforge-unit-test-quality-checker",
+  "name": "unit-test-quality-checker",
+  "title": "单元测试质量检查器",
+  "description": "Evaluate a test suite against rigorous unit-test criteria, classify test types, and choose between fake and mock objects. Use whenever a developer asks 'are these unit tests?', 'why is my test suite slow', 'should I use mocks or fakes', 'fake vs mock', 'what's wrong with my tests', 'my tests hit the database / network / filesystem', 'how do I speed up tests', 'unit vs integration', or when reviewing a codebase's test quality. Activates for 'unit test', 'fake object', 'mock object', 'test double', 'test speed', 'test isolation', 'xUnit', 'JUnit / NUnit / CppUnit', 'slow test suite', 'flaky tests', 'test pyramid'.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Unit Test Quality Checker",
+  "function_label": "Data-Agent"
+}

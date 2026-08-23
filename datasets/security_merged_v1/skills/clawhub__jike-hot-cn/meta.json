@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:jike-hot-cn",
+  "slug": "jike-hot-cn",
+  "name": "jike-hot-cn",
+  "title": "即刻热门话题监控",
+  "description": "即刻热门话题监控 | Jike Hot Topics Monitor. 获取即刻热门动态、圈子讨论、用户精选 | Get Jike trending posts, circle discussions, user highlights. 触发词：即刻、jike、圈子.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

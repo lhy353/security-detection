@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-voiceover-tool",
+  "slug": "ai-voiceover-tool",
+  "name": "ai-voiceover-tool",
+  "title": "配音工具——为视频添加语音旁白",
+  "description": "add video or script into voiced-over videos with this skill. Works with MP4, MOV, AVI, WebM files up to 500MB. content creators and marketers use it for adding AI-generated narration to silent or muted videos — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Voiceover Tool — Add Voice Narration to Videos",
+  "function_label": "Communication"
+}

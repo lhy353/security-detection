@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:revid-ai",
+  "slug": "revid-ai",
+  "name": "revid-ai",
+  "title": "从文本创建视频",
+  "description": "content creators and marketers create text or video into AI-generated videos using this skill. Accepts MP4, MOV, WebM, TXT up to 500MB, renders on cloud GPUs at 1080p, and returns MP4 files in 1-2 minutes. Designed for converting text or scripts into short social media videos.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Revid AI — Create Videos from Text",
+  "function_label": "Communication"
+}

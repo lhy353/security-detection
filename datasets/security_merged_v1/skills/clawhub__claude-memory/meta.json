@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:claude-memory",
+  "slug": "claude-memory",
+  "name": "claude-memory",
+  "title": "克劳德·记忆",
+  "description": "Structured memory system for OpenClaw agents. Provides a 4-type classification (user/feedback/project/reference), layered architecture (MEMORY.md + topics/ + feedback/ + daily notes), write rules, and heartbeat maintenance. Use when setting up a new agent's memory, improving an existing agent's memory system, or answering questions about memory management best practices. Triggers on phrases like \"memory system\", \"memory setup\", \"记忆系统\", \"记忆管理\", \"setup memory\", \"improve memory\", \"memory architecture\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Claude Memory",
+  "function_label": "Coding"
+}

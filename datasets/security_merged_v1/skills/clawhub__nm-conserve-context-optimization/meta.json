@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nm-conserve-context-optimization",
+  "slug": "nm-conserve-context-optimization",
+  "name": "context-optimization",
+  "title": "上下文优化中心",
+  "description": "Optimizes context window via MECW principles and memory tiering",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Context Optimization Hub",
+  "function_label": "Other"
+}

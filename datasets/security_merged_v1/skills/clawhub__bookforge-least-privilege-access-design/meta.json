@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-least-privilege-access-design",
+  "slug": "bookforge-least-privilege-access-design",
+  "name": "least-privilege-access-design",
+  "title": "最小权限访问设计",
+  "description": "Analyze a system's access patterns and design least-privilege controls: classify data and APIs by risk, select the narrowest API surface for each operation, define authorization policies with multi-party approval for sensitive actions, establish emergency access override procedures, and optionally introduce a controlled-access production proxy. Use when reviewing access controls for an existing system, designing authorization for a new service, auditing whether engineers have more permissions than their roles require, deciding whether to use a bastion or proxy for privileged operations, or hardening administrative API surfaces against insider mistakes and external compromise. Produces an access classification report, API surface recommendations, authorization policy decisions, and emergency override guidelines.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Least Privilege Access Design",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:31231",
+  "slug": "31231",
+  "name": "aa",
+  "title": "整合技能",
+  "description": "aa",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "31231",
+  "function_label": "Other"
+}

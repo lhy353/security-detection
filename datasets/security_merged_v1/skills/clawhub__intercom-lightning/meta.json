@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:intercom-lightning",
+  "slug": "intercom-lightning",
+  "name": "intercomswap",
+  "title": "强化技能）",
+  "description": "IntercomSwap (OpenClaw-hardened): operator-run, manual-only P2P RFQ swaps that negotiate over Intercom sidechannels and settle BTC (Lightning) <-> USDT (Solana) via an escrow program. High-risk financial operations; require explicit human approval for any fund-moving action.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "IntercomSwap (OpenClaw-Hardened Skill)",
+  "function_label": "Data-Agent"
+}

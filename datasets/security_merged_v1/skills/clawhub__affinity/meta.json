@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:affinity",
+  "slug": "affinity",
+  "name": "affinity",
+  "title": "亲和力",
+  "description": "Affinity integration. Manage Organizations, Leads, Pipelines, Users, Roles, Filters. Use when the user wants to interact with Affinity data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Affinity",
+  "function_label": "Browser"
+}

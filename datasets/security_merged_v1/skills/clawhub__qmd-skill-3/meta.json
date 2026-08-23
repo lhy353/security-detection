@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:qmd-skill-3",
+  "slug": "qmd-skill-3",
+  "name": "qmd",
+  "title": "快速 Markdown 搜索",
+  "description": "Local hybrid search for markdown notes and docs. Use when searching notes, finding related content, or retrieving documents from indexed collections.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "qmd - Quick Markdown Search",
+  "function_label": "Data-Agent"
+}

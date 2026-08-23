@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:llm-paper-review-generator",
+  "slug": "llm-paper-review-generator",
+  "name": "paper-review-generator",
+  "title": "将论文 PDF 批处理为中文精读总结报告的工作流技能",
+  "description": "将论文 PDF 批处理为中文精读总结报告的工作流技能。适用于“PaddleOCR 或 pdfplumber 抽取文本 + 大模型总结论文”场景。使用时仅读取 skill 目录下 config.json 与 prompt.md，并运行 scripts 中所需脚本，用户可在prompt.md中定义用户研究主题与研究方向。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

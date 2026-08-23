@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:curl",
+  "slug": "curl",
+  "name": "curl",
+  "title": "卷曲",
+  "description": "curl reference tool",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Curl",
+  "function_label": "Coding"
+}

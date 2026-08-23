@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:peer-reviewed-parent",
+  "slug": "peer-reviewed-parent",
+  "name": "peer-reviewed-parent",
+  "title": "同行评审家长",
+  "description": "Evidence-based parenting assistant for children 0-24 months. Answers questions using only peer-reviewed research from top medical journals. Covers cognitive, language, motor, social-emotional, sleep, nutrition, screen time, and discipline development. Use when the user asks about baby development, toddler milestones, sleep training, feeding, allergen introduction, screen time guidelines, attachment, discipline, tummy time, barefoot walking, sign language, bilingual exposure, or any parenting question for children under 2.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Peer Reviewed Parent",
+  "function_label": "Other"
+}

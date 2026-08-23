@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:valuescan-skill-beta",
+  "slug": "valuescan-skill-beta",
+  "name": "valuescan-skill-beta",
+  "title": "加密货币主力资金流分析工具",
+  "description": "ValueScan 加密货币主力资金流分析工具。支持资金异动监控、主力动向追踪、鲸鱼地址分析、板块轮动、机会/风险代币识别、大户成本分析。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

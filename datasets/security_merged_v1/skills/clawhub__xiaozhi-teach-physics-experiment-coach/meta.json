@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:xiaozhi-teach-physics-experiment-coach",
+  "slug": "xiaozhi-teach-physics-experiment-coach",
+  "name": "xiaozhi-teach-physics-experiment-coach",
+  "title": "物理实验教学指导",
+  "description": "帮助物理老师把\"做实验\"升级为\"系统化实验教学\"。 当老师说\"实验怎么教\"、\"实验怎么设计\"、 \"学员不会做实验\"、\"数据怎么处理\"、 \"实验报告怎么写\"、\"学员实验弱\"时， 必须激活此SKILL。 核心工作流：实验目标（验证/探究/测量）→ 实验设计（变量控制/器材选择/步骤）→ 实验实施（操作/观察/记录）→ 数据处理（表格/图像/误差）→ 结论归纳（规律/讨论/反思）→ 实验报告（结构/规范/深度）→ 学员实验能力档案 → 与学生端物理错因 DNA / 建模教练 / 学情分析师建立数据接口。 该版本基于\"实验类型分类\"， 让实验教学从\"走过场\"到\"真探究\"。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mortgage-kb-rag",
+  "slug": "mortgage-kb-rag",
+  "name": "mortgage-kb-rag",
+  "title": "抵押贷款知识库 RAG",
+  "description": "Instant answers to mortgage, credit, and home-buying questions from a curated knowledge base. Ask anything about the buying process, credit repair, loan programs, or terminology — get accurate, sourced answers in seconds.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mortgage Knowledge Base RAG",
+  "function_label": "Other"
+}

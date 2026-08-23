@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:dbmate",
+  "slug": "dbmate",
+  "name": "dbmate",
+  "title": "数据库伙伴技能",
+  "description": "Managing database migrations with dbmate",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "dbmate Skill",
+  "function_label": "Data-Agent"
+}

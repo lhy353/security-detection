@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lattice-integration",
+  "slug": "lattice-integration",
+  "name": "lattice",
+  "title": "格子",
+  "description": "Lattice integration. Manage Persons, Organizations, Roles, Activities, Notes, Files. Use when the user wants to interact with Lattice data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lattice",
+  "function_label": "Communication"
+}

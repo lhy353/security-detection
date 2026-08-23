@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agentcp",
+  "slug": "agentcp",
+  "name": "acp",
+  "title": "通道插件",
+  "description": "ACP channel plugin for OpenClaw — configure and use. Covers single/multi identity configuration, strict 1:1 binding policy (agentId <-> accountId), agent.md creation/sync, daily usage (send messages, sync/status per identity, session behavior, permissions), rank/search API, group chat, and troubleshooting.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ACP Channel Plugin",
+  "function_label": "Communication"
+}

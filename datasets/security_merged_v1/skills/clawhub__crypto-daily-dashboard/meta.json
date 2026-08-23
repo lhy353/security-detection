@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:crypto-daily-dashboard",
+  "slug": "crypto-daily-dashboard",
+  "name": "crypto-daily-dashboard",
+  "title": "加密每日仪表板",
+  "description": "All-in-one crypto dashboard showing Binance portfolio, BTC/ETH/SOL prices, Fear & Greed index, top funding rates, and economic tracking. Beautiful terminal UI. Configurable via environment variables.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Crypto Daily Dashboard",
+  "function_label": "Data-Agent"
+}

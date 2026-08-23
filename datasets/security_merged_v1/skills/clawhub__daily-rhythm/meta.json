@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:daily-rhythm",
+  "slug": "daily-rhythm",
+  "name": "daily-rhythm",
+  "title": "每日节奏",
+  "description": "Automated daily planning and reflection system with morning briefs, wind-down prompts, sleep nudges, and weekly reviews. Use when the user wants to set up a structured daily routine, morning briefings, evening reflection prompts, or weekly planning sessions. Triggers include requests for daily schedules, morning briefs, wind-down routines, sleep reminders, weekly reviews, productivity systems, or daily planning automation.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Daily Rhythm"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-nano-banana-ima",
+  "slug": "ai-nano-banana-ima",
+  "name": "IMA Nano Banana Image Generator",
+  "title": "香蕉图像生成器",
+  "description": "Nano Banana-only image generation on IMA Open API. Supports text_to_image and image_to_image  with gemini-3.1-flash-image (budget) and gemini-3-pro-image (premium). Deterministic size/ratio  mapping, 512/1K/2K/4K resolution. Requires IMA_API_KEY.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "IMA Nano Banana Image Generator",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:xhs-viral-factory",
+  "slug": "xhs-viral-factory",
+  "name": "xhs-viral-factory",
+  "title": "小红书内容全自动生产工厂",
+  "description": "小红书爆款图文全自动生产工厂。支持从 PDF、Markdown 或文件夹提取内容，自动匹配治愈、干货、反直觉、视觉流 4 大模式。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

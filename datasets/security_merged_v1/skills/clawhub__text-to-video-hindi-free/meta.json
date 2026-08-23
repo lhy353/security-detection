@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:text-to-video-hindi-free",
+  "slug": "text-to-video-hindi-free",
+  "name": "text-to-video-hindi-free",
+  "title": "将印地语文本转换为视频",
+  "description": "Get Hindi text videos ready to post, without touching a single slider. Upload your text script (TXT, DOCX, PDF, SRT, up to 200MB), say something like \"create a video from this Hindi text with visuals and voiceover\", and download 1080p MP4 when it's done. Built for Hindi content creators who move fast and need to create Hindi videos without recording or editing skills.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Text to Video Hindi Free — Convert Hindi Text into Videos",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jx-brainstorming",
+  "slug": "jx-brainstorming",
+  "name": "brainstorming",
+  "title": "将想法集思广益转化为设计",
+  "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Brainstorming Ideas Into Designs",
+  "function_label": "Other"
+}

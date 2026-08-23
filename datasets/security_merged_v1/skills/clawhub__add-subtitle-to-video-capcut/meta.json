@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:add-subtitle-to-video-capcut",
+  "slug": "add-subtitle-to-video-capcut",
+  "name": "add-subtitle-to-video-capcut",
+  "title": "自动生成并刻录字幕",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — add subtitles to my video like CapCut does automatically — and get captioned videos back in 30-60 seconds. Upload MP4, MOV, AVI, WebM files up to 500MB, and the AI handles subtitle generation automatically. Ideal for TikTok creators who need captions added quickly without manual typing.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Add Subtitle to Video CapCut — Auto-Generate and Burn In Captions",
+  "function_label": "Communication"
+}

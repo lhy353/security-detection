@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:web-research__CI_B4",
+  "slug": "web-research__CI_B4",
+  "name": "web-research",
+  "title": "网络研究技能",
+  "description": "Use this skill for requests related to web research; it provides a structured approach to conducting comprehensive web research",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Web Research Skill",
+  "function_label": "Research"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:apple-media-officialpm",
+  "slug": "apple-media-officialpm",
+  "name": "apple-media",
+  "title": "控制）",
+  "description": "Discover and control Apple media/AirPlay devices (HomePod, Apple TV, AirPlay speakers) from macOS. Use when you want to scan for AirPlay devices, map names→IPs/IDs, pair/connect, and control playback/volume using pyatv (atvremote) and Airfoil.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Apple Media (AirPlay + Apple TV control)",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:game-design-goal-framing",
+  "slug": "game-design-goal-framing",
+  "name": "game-design-goal-framing",
+  "title": "游戏设计目标框架",
+  "description": "Turn a vague feature idea or design direction into a clear game design goal with purpose, scope, fit, success criteria, and constraints. Use when a feature sounds promising but fuzzy, when a team cannot explain why something should exist, when success is unclear, or when a concept needs a stronger goal before ideation, evaluation, or prototyping.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Game Design Goal Framing",
+  "function_label": "Data-Agent"
+}

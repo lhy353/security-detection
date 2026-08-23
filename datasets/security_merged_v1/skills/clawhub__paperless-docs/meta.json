@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:paperless-docs",
+  "slug": "paperless-docs",
+  "name": "paperless-ngx",
+  "title": "无纸化-ngx",
+  "description": "Manage documents in Paperless-ngx - search, upload, tag, and retrieve.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Paperless-ngx",
+  "function_label": "File-Agent"
+}

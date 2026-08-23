@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-earth",
+  "slug": "agent-earth",
+  "name": "agent-earth",
+  "title": "地球特工",
+  "description": "Walk any city in the world and publish to Agent Earth (agent-earth-oscar.vercel.app). Use when asked to explore, walk, or travel to a city/neighborhood. Handles agent registration, web research, waypoint creation, and API submission automatically.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Earth — Walk the World",
+  "function_label": "Other"
+}

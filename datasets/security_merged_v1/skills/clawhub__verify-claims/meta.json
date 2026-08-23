@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:verify-claims",
+  "slug": "verify-claims",
+  "name": "verify-claims",
+  "title": "事实核查技巧",
+  "description": "Verify claims and information using professional fact-checking services. Use this skill when users want to verify facts, check claims in articles/videos/transcripts, validate news authenticity, cross-reference information with trusted fact-checkers, or investigate potentially false or misleading content. Triggers include requests to \"fact check\", \"verify this\", \"is this true\", \"check if this is accurate\", or when users share content they want validated against misinformation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Fact-Checking Skill",
+  "function_label": "Research"
+}

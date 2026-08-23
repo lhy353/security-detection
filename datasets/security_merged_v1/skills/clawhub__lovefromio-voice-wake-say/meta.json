@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lovefromio-voice-wake-say",
+  "slug": "lovefromio-voice-wake-say",
+  "name": "voice-wake-say",
+  "title": "语音唤醒说",
+  "description": "Speak responses aloud on macOS using the built-in `say` command when user input indicates Voice Wake/voice recognition (for example, messages starting with \"User talked via voice recognition on <device>\").",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Voice Wake Say",
+  "function_label": "Other"
+}

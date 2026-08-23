@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ssl-monitor",
+  "slug": "ssl-monitor",
+  "name": "ssl-monitor",
+  "title": "证书查询",
+  "description": "查询域名 SSL 证书过期时间。用法：说「查 xxx.cn 证书」或「SSL 证书 xxx.com」即可。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

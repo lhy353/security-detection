@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:oc-browser-automation",
+  "slug": "oc-browser-automation",
+  "name": "bb-browser",
+  "title": "浏览器控制工具",
+  "description": "浏览器控制工具 - 封装 OpenClaw browser 工具，支持网页自动化、截图、点击输入等操作",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Browser"
+}

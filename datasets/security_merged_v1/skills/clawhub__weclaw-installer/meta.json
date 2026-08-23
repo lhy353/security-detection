@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:weclaw-installer",
+  "slug": "weclaw-installer",
+  "name": "weclaw-installer",
+  "title": "韦爪安装程序",
+  "description": "Automate installing and configuring the WeClaw WeChat bot environment on macOS. Use when the user asks to download/install WeClaw, set up a local Python environment with uv, or gets blocked on macOS Accessibility permissions / API key setup.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Weclaw Installer",
+  "function_label": "Other"
+}

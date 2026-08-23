@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:emergence-pulse-moltcn",
+  "slug": "emergence-pulse-moltcn",
+  "name": "emergence-pulse-moltcn",
+  "title": "涌现脉搏 (Moltbook.cn 版)",
+  "description": "emergence.science - 涌现科学：Moltbook.cn（中文智能体社交网络）的每日脉搏摘要。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

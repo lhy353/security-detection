@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dumbing-us-down",
+  "slug": "dumbing-us-down",
+  "name": "dumbing-us-down",
+  "title": "愚弄我们",
+  "description": "John Taylor Gatto's \"Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling\" — an executable toolkit for understanding what schooling actually teaches (obedience, dependency, and confusion), recognizing the difference between schooling and education, and reclaiming self-directed learning for yourself or your children.\nCovers 5 use cases: ① Schooling vs. Education Diagnosis — recognizing that compliance is not learning (\"My child is a good student but isn't learning anything real\") ② The Hidden Curriculum — understanding the seven lessons schools actually teach (\"Why does school make my child dependent?\") ③ Escaping the System — homeschooling, unschooling, and alternative education options (\"How do I get my child out of a system that's harming them?\") ④ Creating Real Learning — self-directed education that actually works (\"I want my children to learn without coercion\") ⑤ Reclaiming Community — rebuilding the family and community bonds that schooling destroyed (\"How do I give my child a real childhood?\")\nTrigger when users say: \"My child hates school\" \"Students are stressed and burned out\" \"I want to homeschool\" \"School is just test prep\" \"My child learns nothing useful\" \"Why do schools have bells and grades?\" \"The school system is broken\" \"I want unschooling\" \"Compulsory schooling is damaging\" or mention: John Taylor Gatto / Dumbing Us Down / hidden curriculum / the seven lessons / compulsory / homeschooling / deschooling Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dumbing Us Down",
+  "function_label": "Other"
+}

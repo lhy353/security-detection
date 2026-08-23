@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mobayilo-voice",
+  "slug": "mobayilo-voice",
+  "name": "mobayilo-voice",
+  "title": "莫巴伊洛语音（测试版）",
+  "description": "Place outbound phone calls via Mobayilo with safe defaults (preview mode by default) and explicit live execution.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mobayilo Voice (Beta)",
+  "function_label": "Other"
+}

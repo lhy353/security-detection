@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:render-deploy-diff",
+  "slug": "render-deploy-diff",
+  "name": "render-deploy-diff",
+  "title": "渲染部署差异",
+  "description": "Detect config drift between required local env keys and a Render service before deploy; fails when required keys are missing remotely.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Render Deploy Diff",
+  "function_label": "Automation"
+}

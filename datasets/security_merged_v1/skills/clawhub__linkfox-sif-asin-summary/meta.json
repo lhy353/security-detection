@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:linkfox-sif-asin-summary",
+  "slug": "linkfox-sif-asin-summary",
+  "name": "linkfox-sif-asin-summary",
+  "title": "使用SIF（搜索情报框架）数据分析ASIN的流量来源构成与曝光分布",
+  "description": "使用SIF（搜索情报框架）数据分析ASIN的流量来源构成与曝光分布。当用户提到ASIN流量来源、流量结构分析、自然流量与付费流量占比、曝光得分拆解、竞品流量分析、SP广告关键词数量、品牌广告曝光、Amazon's Choice曝光、编辑推荐曝光、Top Rated曝光、视频广告曝光、自然搜索曝光比例、PPC流量来源、促销秒杀流量来源、ASIN traffic analysis, traffic sources, organic traffic share, ad traffic share, exposure analysis, traffic structure, SIF时触发此技能。即使用户未明确提及\"SIF\"，只要其需求涉及分析ASIN的流量来源、曝光渠道分布或竞品流量结构对比，也应触发此技能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

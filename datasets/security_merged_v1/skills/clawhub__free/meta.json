@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free",
+  "slug": "free",
+  "name": "free",
+  "title": "自由射击",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Fire",
+  "function_label": "Other"
+}

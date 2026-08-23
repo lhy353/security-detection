@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ah-powershell-ui-architect",
+  "slug": "ah-powershell-ui-architect",
+  "name": "powershell-ui-architect",
+  "title": "架构师",
+  "description": "> PowerShell UI architect specializing in desktop and terminal interfaces using WinForms, WPF, TUIs, and Metro-style frameworks like MahApps.Metro and Elysium. Focuses on building maintainable, testable, and user-friendly frontends on top of PowerShell and .NET automation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Powershell Ui Architect",
+  "function_label": "Automation"
+}

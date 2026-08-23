@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:creativity-inc",
+  "slug": "creativity-inc",
+  "name": "creativity-inc",
+  "title": "创意公司",
+  "description": "Ed Catmull's Creativity, Inc. — an executable toolkit for building and sustaining a creative culture by removing the unseen forces that kill originality. Covers 6 use cases: ① Building a candid feedback culture — (\"Braintrust\" \"how to give honest feedback at work\" \"peer review system\") ② Protecting fragile new ideas — (\"ugly baby\" \"protecting innovation\" \"how to nurture early-stage ideas\") ③ Managing the tension between art and commerce — (\"feed the beast\" \"balancing quality and deadlines\" \"marketing vs creativity\") ④ Creating a fearless failure culture — (\"fail fast\" \"psychological safety\" \"learning from mistakes at work\") ⑤ Leading creative teams — (\"how to manage creative people\" \"leadership in creative organizations\" \"Pixar management secrets\") ⑥ Designing environments for collaboration — (\"office layout for creativity\" \"meeting room dynamics\" \"collaboration space design\") Trigger when users say: \"Braintrust\" \"ugly baby\" \"feed the beast\" \"fail early fail fast\" \"candor at work\" \"creative culture\" \"Pixar management\" \"how to give creative feedback\" \"protecting new ideas\" \"creative leadership\" or mention: Ed Catmull / Pixar / creative culture / Braintrust / feedback systems / failure culture / innovation management / organizational creativity. Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Creativity Inc",
+  "function_label": "Other"
+}

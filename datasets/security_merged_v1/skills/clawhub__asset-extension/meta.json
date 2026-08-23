@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:asset-extension",
+  "slug": "asset-extension",
+  "name": "asset-extension",
+  "title": "资产扩展",
+  "description": "Analyze how to extend and leverage existing assets. Use for growth strategy and resource optimization.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Asset Extension",
+  "function_label": "Other"
+}

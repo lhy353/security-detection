@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:strava-api",
+  "slug": "strava-api",
+  "name": "strava-api",
+  "title": "官方 API）",
+  "description": "Official Strava OAuth integration for OpenClaw. Use to connect/authorize Strava, store+refresh tokens, and fetch workout/activity data (runs/rides/etc.) for today/yesterday or a date range. Use for generating training summaries, weekly mileage, activity lists, and for feeding the Wellness hub with normalized workout data.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Strava (Official API)",
+  "function_label": "Browser"
+}

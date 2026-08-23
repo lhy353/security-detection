@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:fec-backend-requirements-handoff",
+  "slug": "fec-backend-requirements-handoff",
+  "name": "fec-backend-requirements-handoff",
+  "title": "前后端需求交接",
+  "description": "Use when frontend work needs to communicate data, action, state, permission, validation, or business-rule needs to backend teams without dictating endpoint design, field names, database shape, or implementation details; Chinese triggers include 前后端需求交接, 后端需求, API 需求澄清, 数据需求说明.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

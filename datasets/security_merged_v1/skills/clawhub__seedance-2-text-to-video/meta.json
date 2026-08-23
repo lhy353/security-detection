@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:seedance-2-text-to-video",
+  "slug": "seedance-2-text-to-video",
+  "name": "seedance-2-text-to-video",
+  "title": "从页面上的文字到屏幕上的视频",
+  "description": "Type a scene, a story beat, or a wild visual idea — and watch it become a real video. This skill uses seedance-2-text-to-video to transform plain text prompts into fluid, high-quality AI-generated clips. Whether you're a content creator storyboarding a concept, a marketer prototyping an ad, or a filmmaker sketching a scene, Seedance 2 delivers motion, mood, and detail from nothing but words.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "From Words on a Page to Video on a Screen",
+  "function_label": "Automation"
+}

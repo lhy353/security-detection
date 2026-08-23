@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:yandex-tracker-cli",
+  "slug": "yandex-tracker-cli",
+  "name": "yandex-tracker-cli",
+  "title": "技能",
+  "description": "CLI for Yandex Tracker (bash + curl). Queues, issues, comments, worklogs, attachments, YQL.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Yandex Tracker CLI Skill",
+  "function_label": "Other"
+}

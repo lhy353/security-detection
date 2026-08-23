@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:agentic-wallet-skill",
+  "slug": "agentic-wallet-skill",
+  "name": "unibase",
+  "title": "代理钱包",
+  "description": "Create and manage agentic wallets with Unibase. Use for autonomous onchain transactions on Ethereum, Solana, and other chains. Triggers on requests involving crypto wallets for AI agents, server-side wallet operations, or autonomous transaction execution.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Unibase Agentic Wallets"
+}

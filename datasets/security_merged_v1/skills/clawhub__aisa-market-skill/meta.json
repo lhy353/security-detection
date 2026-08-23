@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:aisa-market-skill",
+  "slug": "aisa-market-skill",
+  "name": "MarketPulse",
+  "title": "开放爪市场",
+  "description": "Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends for analysis, alerts, and reporting.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenClaw Market"
+}

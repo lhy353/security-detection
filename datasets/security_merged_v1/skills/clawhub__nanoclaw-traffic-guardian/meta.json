@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nanoclaw-traffic-guardian",
+  "slug": "nanoclaw-traffic-guardian",
+  "name": "nanoclaw-traffic-guardian",
+  "title": "纳米爪交通卫士",
+  "description": "NanoClaw runtime traffic monitoring baseline for host-side proxy inspection with container-safe MCP and IPC status surfaces.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Nanoclaw Traffic Guardian",
+  "function_label": "Automation"
+}

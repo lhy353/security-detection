@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:med-info",
+  "slug": "med-info",
+  "name": "med-info",
+  "title": "有信息",
+  "description": "Label-backed medication answers with citations and traceable IDs. RxCUI/NDC/set_id, key label sections, optional recalls/shortages/FAERS/interactions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Med Info",
+  "function_label": "Other"
+}

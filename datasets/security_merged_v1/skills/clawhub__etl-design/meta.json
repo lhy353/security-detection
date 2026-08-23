@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:etl-design",
+  "slug": "etl-design",
+  "name": "etl-design",
+  "title": "设计",
+  "description": "Deep ETL/ELT design workflow—extract patterns, transforms, loading strategies, idempotency, validation, and reconciliation. Use when designing batch data flows between systems or hardening pipelines for correctness.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Etl Design",
+  "function_label": "Automation"
+}

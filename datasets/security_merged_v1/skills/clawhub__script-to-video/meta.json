@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:script-to-video",
+  "slug": "script-to-video",
+  "name": "script-to-video",
+  "title": "将脚本转换为带旁白的视频",
+  "description": "Get AI-generated videos ready to post, without touching a single slider. Upload your written script (TXT, DOCX, PDF, plain text, up to 500MB), say something like \"turn my script into a video with voiceover and matching visuals\", and download 1080p MP4 when it's done. Built for marketers, content creators, educators who move fast and want to produce videos from text without filming or editing manually.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Script to Video — Convert Scripts into Narrated Videos",
+  "function_label": "File-Agent"
+}

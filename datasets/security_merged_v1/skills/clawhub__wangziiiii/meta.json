@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:wangziiiii",
+  "slug": "wangziiiii",
+  "name": "image-processing-toolkit",
+  "title": "图像处理工具包",
+  "description": "Local image processing toolkit for format conversion, compression, resizing, batch jobs, and image-to-PDF. Use when users ask 压缩图片/改尺寸/批量处理/转PDF. Supports single files and directories. Not for OCR or semantic image understanding. ｜Python 图片处理：适合压缩缩放批处理与转 PDF；不用于 OCR/图像理解。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Image Processing Toolkit",
+  "function_label": "File-Agent"
+}

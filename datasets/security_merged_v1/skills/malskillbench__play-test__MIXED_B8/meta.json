@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:play-test__MIXED_B8",
+  "slug": "play-test__MIXED_B8",
+  "name": "play-test",
+  "title": "玩测试 GridRacer",
+  "description": "Visual play-testing via Automation MCP screenshots and numpad input",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Play Test GridRacer",
+  "function_label": "Other"
+}

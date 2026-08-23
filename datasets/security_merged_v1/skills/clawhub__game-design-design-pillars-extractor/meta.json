@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:game-design-design-pillars-extractor",
+  "slug": "game-design-design-pillars-extractor",
+  "name": "game-design-design-pillars-extractor",
+  "title": "游戏设计 设计支柱提取器",
+  "description": "Extract 3 to 5 actionable design pillars from a game, feature, loop, or system based on what the design actually rewards and prioritizes. Use when a team can describe mechanics but cannot clearly articulate the principles those mechanics serve, when pillars are vague, generic, or contradictory, or when you need a sharper set of tradeoff-driven pillars that can guide decisions and cut features.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Game Design Design Pillars Extractor",
+  "function_label": "Other"
+}

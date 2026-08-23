@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:eo-ability-plan",
+  "slug": "eo-ability-plan",
+  "name": "eo-ability-plan",
+  "title": "项目规划能力，调用Planner专家生成WBS任务分解、里程碑计划、团队组成",
+  "description": "项目规划能力，调用Planner专家生成WBS任务分解、里程碑计划、团队组成",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:kugou-skill",
+  "slug": "kugou-skill",
+  "name": "kugou-skill",
+  "title": "酷狗，酷狗音乐，酷狗skill，酷狗音乐skill，酷狗音乐助手\n提供歌曲搜索、…",
+  "description": "酷狗，酷狗音乐，酷狗skill，酷狗音乐skill，酷狗音乐助手\n提供歌曲搜索、每日推荐、相似推荐、收藏管理、听歌统计、酷狗榜单、创建歌单等功能。\n\n**触发场景**（满足任一即使用本技能）：\n- 用户要求推荐歌曲、听歌建议\n- 用户要求搜索歌曲、查找歌手作品\n- 用户要求查看音乐榜单（飙升榜、TOP500、抖音热歌等）\n- 用户要求查看收藏、最近播放、听歌统计\n- 用户要求创建歌单、自建歌单\n- 用户提供 secret（base64 字符串）要求登录或导入身份\n- 用户提到\"酷狗\"、\"kugou\"、\"每日推荐\"、\"相似歌曲\"\n\n**与其他音乐技能的区别**：酷狗音乐以推荐算法见长，榜单数据实时更新，适合获取热门歌曲和个性化推荐。\n\n安装方式：npm install -g @kg-ai/kugou-skill",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

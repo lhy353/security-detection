@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-xiaomi-home",
+  "slug": "openclaw-xiaomi-home",
+  "name": "openclaw-xiaomi-home",
+  "title": "小米家控",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Xiaomi Home Control",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:whiteboard-video-maker",
+  "slug": "whiteboard-video-maker",
+  "name": "whiteboard-video-maker",
+  "title": "白板视频制作",
+  "description": "Your corporate trainer needs a 10-minute onboarding module by Thursday. Your product manager wants a feature explainer for next week's launch. Your professor needs lecture content animated for the flipped-classroom model. Whiteboard Video Maker converts structured concepts into hand-drawn-style animated explainer videos — text appears as if drawn by hand, diagrams build progressively, key terms highlight as the narrator speaks, and the visual pacing matches the learning objective rather than a template's fixed rhythm. Financial advisors use it to explain compound interest. Software engineers use it to walk through system architecture. Teachers use it to animate historical timelines. The hand-drawn aesthetic reduces the perceived complexity of difficult concepts by 40% compared to slide presentations, according to cognitive load research.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Whiteboard Video Maker — AI Sketch Education",
+  "function_label": "Other"
+}

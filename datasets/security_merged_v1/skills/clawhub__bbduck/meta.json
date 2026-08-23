@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:bbduck",
+  "slug": "bbduck",
+  "name": "bbduck",
+  "title": "优先做视觉无损压缩的本地图片压缩 skill：压缩单张图片、读取流式压缩日志，并…",
+  "description": "优先做视觉无损压缩的本地图片压缩 skill：压缩单张图片、读取流式压缩日志，并在需要时打包下载结果 ZIP。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

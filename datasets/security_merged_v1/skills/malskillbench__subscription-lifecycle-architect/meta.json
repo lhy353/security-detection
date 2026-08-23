@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:subscription-lifecycle-architect",
+  "slug": "subscription-lifecycle-architect",
+  "name": "subscription-lifecycle-architect",
+  "title": "订阅生命周期架构师",
+  "description": "Design and implement comprehensive subscription billing systems with advanced lifecycle management, dunning optimization, proration strategies, and payment infrastructure for SaaS platforms.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Subscription Lifecycle Architect",
+  "function_label": "Communication"
+}

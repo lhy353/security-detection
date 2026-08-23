@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gpu-helper",
+  "slug": "gpu-helper",
+  "name": "gpu-helper",
+  "title": "助手",
+  "description": "Reference tool for devtools — covers intro, quickstart, patterns and more. Quick lookup for GPU Helper concepts, best practices, and implementation patterns.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Gpu Helper",
+  "function_label": "Coding"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:accessible-travel-guide",
+  "slug": "accessible-travel-guide",
+  "name": "accessible-travel-guide",
+  "title": "无障碍旅行助手",
+  "description": "零配置即装即用，提供3项无障碍出行工具，支持景点/酒店/交通无障碍设施查询和出行建议，基于国内30+热门景区及主流酒店品牌实地数据。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

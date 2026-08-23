@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:run-nx-generator",
+  "slug": "run-nx-generator",
+  "name": "run-nx-generator",
+  "title": "运行 Nx 生成器",
+  "description": "Run Nx generators with prioritization for workspace-plugin generators. Use this when generating code, scaffolding new features, or automating repetitive tasks in the monorepo.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Run Nx Generator",
+  "function_label": "Automation"
+}

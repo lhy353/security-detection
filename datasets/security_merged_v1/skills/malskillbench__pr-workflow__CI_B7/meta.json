@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:pr-workflow__CI_B7",
+  "slug": "pr-workflow__CI_B7",
+  "name": "pr-workflow",
+  "title": "公关工作流程",
+  "description": "Create pull requests for esphome. Use when creating PRs, submitting changes, or preparing contributions.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "ESPHome PR Workflow",
+  "function_label": "Communication"
+}

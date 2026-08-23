@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tinybird",
+  "slug": "tinybird",
+  "name": "tinybird",
+  "title": "小鸟",
+  "description": "Tinybird integration. Manage data, records, and automate workflows. Use when the user wants to interact with Tinybird data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tinybird",
+  "function_label": "Automation"
+}

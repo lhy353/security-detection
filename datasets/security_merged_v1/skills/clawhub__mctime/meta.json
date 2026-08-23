@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mctime",
+  "slug": "mctime",
+  "name": "mctime",
+  "title": "麦克泰姆",
+  "description": "McTime integration. Manage TimeSheets, Projects, Clients, Users. Use when the user wants to interact with McTime data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mctime",
+  "function_label": "Browser"
+}

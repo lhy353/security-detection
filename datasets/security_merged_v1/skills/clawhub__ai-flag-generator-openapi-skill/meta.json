@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-flag-generator-openapi-skill",
+  "slug": "ai-flag-generator-openapi-skill",
+  "name": "ai-flag-generator-openapi-skill",
+  "title": "技能",
+  "description": "AI flag generator — create a custom flag design from text or a reference image",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WeShop OpenAPI Skill — ai-flag-generator",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:animegarden",
+  "slug": "animegarden",
+  "name": "animegarden",
+  "title": "动漫花园",
+  "description": "Anime Garden is a anime torrent resources aggregation platform, which is also a third-party mirror of 動漫花園, 萌番组, and ANi. Use when required task is searching anime resources.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Animegarden",
+  "function_label": "Other"
+}

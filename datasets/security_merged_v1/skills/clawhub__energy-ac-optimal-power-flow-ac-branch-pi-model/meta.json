@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:energy-ac-optimal-power-flow-ac-branch-pi-model",
+  "slug": "energy-ac-optimal-power-flow-ac-branch-pi-model",
+  "name": "ac-branch-pi-model",
+  "title": "交流分支 Pi 模型 + 变压器处理",
+  "description": "AC branch pi-model power flow equations (P/Q and |S|) with transformer tap ratio and phase shift, matching `acopf-math-model.md` and MATPOWER branch fields. Use when computing branch flows in either direction, aggregating bus injections for nodal balance, checking MVA (rateA) limits, computing branch loading %, or debugging sign/units issues in AC power flow.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AC Branch Pi-Model + Transformer Handling",
+  "function_label": "Coding"
+}

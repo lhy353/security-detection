@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:goose-goose",
+  "slug": "goose-goose",
+  "name": "goose-goose. Goose Pet. 鹅鹅。Ganso Ganso.",
+  "title": "鹅鹅",
+  "description": "Goose Goose. Twice the chaos. Twice the honking. One feeding window. Virtual goose at animalhouse.ai. Real-time hunger. Permanent death. 73+ species.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

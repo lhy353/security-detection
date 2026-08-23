@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:flow-nexus-swarm",
+  "slug": "flow-nexus-swarm",
+  "name": "flow-nexus-swarm",
+  "title": "和工作流程编排",
+  "description": "Cloud-based AI swarm deployment and event-driven workflow automation with Flow Nexus platform",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Flow Nexus Swarm & Workflow Orchestration",
+  "function_label": "Automation"
+}

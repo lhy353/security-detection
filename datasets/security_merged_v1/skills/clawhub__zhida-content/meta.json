@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:zhida-content",
+  "slug": "zhida-content",
+  "name": "zhida-content",
+  "title": "知乎内容搜索与分析",
+  "description": "知乎内容搜索与分析工具。搜索话题热度、分析高价值问题、追踪竞品回答。\n面向内容创作者和自媒体运营者，中文优先。\n当用户说\"搜一下知乎\"、\"知乎有什么\"、\"分析知乎问题\"、\"知乎选题\"、\"搜知乎\"时触发。\nKeywords: 知乎, zhihu, 搜索, 问题分析, 选题, 内容创作, 知乎热榜, 知乎搜索.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

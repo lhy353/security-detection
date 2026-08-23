@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:dknowc-qa",
+  "slug": "dknowc-qa",
+  "name": "dknowc-qa",
+  "title": "深知可信问答",
+  "description": "深知可信问答 - 政策法规权威知识问答引擎。触发条件：(1) 用户咨询政策、法规、条例、规章的详细解读，(2) 用户查询政务办事流程、办理材料、办理条件，(3) 用户说'问一下'、'可信问答'、'深知问答'，(4) 需要带溯源引用的权威回答。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

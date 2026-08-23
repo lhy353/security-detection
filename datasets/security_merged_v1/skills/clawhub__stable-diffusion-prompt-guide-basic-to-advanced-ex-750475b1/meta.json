@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:stable-diffusion-prompt-guide-basic-to-advanced-ex-750475b1",
+  "slug": "stable-diffusion-prompt-guide-basic-to-advanced-ex-750475b1",
+  "name": "stable-diffusion-prompt-guide-basic-to-advanced-ex-750475b1",
+  "title": "稳定扩散提示指南：基础到高级和示例",
+  "description": "t forget to detail the preferred ... image, with common prompts like front view, side view, back view, looking back, eye contact, from above, portrait, headshot, close-up, and bird",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Stable Diffusion Prompt Guide: Basic to Advanced & Examples",
+  "function_label": "Other"
+}

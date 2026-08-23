@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:google-ai-search-optimization",
+  "slug": "google-ai-search-optimization",
+  "name": "google-ai-search-optimization",
+  "title": "谷歌人工智能搜索优化",
+  "description": "Audit websites, pages, content plans, or SEO recommendations for Google Search generative AI features such as AI Overviews and AI Mode. Use whenever the user asks about AI SEO, AEO, GEO, Google AI Overviews visibility, AI Mode readiness, agent-friendly site optimization, or whether tactics like llms.txt, chunking, structured data, or AI-generated content help Google generative search.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Google Ai Search Optimization",
+  "function_label": "Research"
+}

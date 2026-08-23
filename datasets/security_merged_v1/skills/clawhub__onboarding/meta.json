@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:onboarding",
+  "slug": "onboarding",
+  "name": "Onboarding",
+  "title": "入职",
+  "description": "Design user onboarding flows that maximize activation and time-to-value.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Onboarding",
+  "function_label": "Communication"
+}

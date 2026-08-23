@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:secure-network-gateway",
+  "slug": "secure-network-gateway",
+  "name": "secure-network-gateway",
+  "title": "安全网络网关",
+  "description": "Comprehensive network security gateway for monitoring, analysis, and automated threat response across distributed infrastructure.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Secure Network Gateway",
+  "function_label": "Communication"
+}

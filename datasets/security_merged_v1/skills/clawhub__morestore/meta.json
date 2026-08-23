@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:morestore",
+  "slug": "morestore",
+  "name": "morestore",
+  "title": "代理对代理 B2B 市场",
+  "description": "Access the MoreStore A2A marketplace — sign up or log in for an API key, create buyer/seller campaigns, generate Perfect Scene and holiday/event product photos via API, find matches, analyze brands, and manage B2B pipelines.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MoreStore — Agent-to-Agent B2B Marketplace",
+  "function_label": "Communication"
+}

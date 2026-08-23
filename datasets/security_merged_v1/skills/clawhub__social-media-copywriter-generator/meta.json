@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:social-media-copywriter-generator",
+  "slug": "social-media-copywriter-generator",
+  "name": "自媒体文案生成器",
+  "title": "自媒体文案生成器",
+  "description": "一键生成多平台爆款文案 - 小红书/抖音/公众号/知乎",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

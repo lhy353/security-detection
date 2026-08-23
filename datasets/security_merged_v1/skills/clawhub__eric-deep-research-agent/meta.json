@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:eric-deep-research-agent",
+  "slug": "eric-deep-research-agent",
+  "name": "eric-deep-research-agent",
+  "title": "深度研究代理",
+  "description": "Comprehensive research agent for in-depth investigation. Use when users ask for deep research, comprehensive analysis, market research, academic surveys, competitive analysis, technology trends, or any topic requiring 100+ source verification. Triggers on requests like \"調査して\", \"research\", \"分析して\", \"レポートを作成\", \"comprehensive report\", \"deep dive\", \"thorough analysis\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "DeepResearch Agent",
+  "function_label": "File-Agent"
+}

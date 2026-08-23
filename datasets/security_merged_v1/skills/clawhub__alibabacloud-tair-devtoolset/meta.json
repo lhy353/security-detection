@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alibabacloud-tair-devtoolset",
+  "slug": "alibabacloud-tair-devtoolset",
+  "name": "alibabacloud-tair-devtoolset",
+  "title": "全生命周期 Tair 开发助手",
+  "description": "Alibaba Cloud Tair development toolkit — 7 capabilities covering architecture selection, data structure design, instance creation & configuration, connection management, performance monitoring, error troubleshooting, and backup & recovery.\nExecutes real cloud operations via aliyun CLI (creating instances, modifying whitelists, managing backups, restoring data). Restore operations are high-risk and will overwrite current data. Ensure the RAM account has required permissions (see references/ram-policies.md).\nTriggers: \"tair\", \"create tair instance\", \"tair instance\", \"redis\", \"data structure\", \"backup\", \"PITR\", \"tair architecture\", \"tair connection\", \"tair error\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tair DevToolset — Full-Lifecycle Tair Development Assistant",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:x-trade",
+  "slug": "x-trade",
+  "name": "x-trade",
+  "title": "证券型代币交易技巧",
+  "description": "Trade security tokens on the X platform — check balances, place orders, view market data, and review trade history.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "X Security Token Trading Skill",
+  "function_label": "Data-Agent"
+}

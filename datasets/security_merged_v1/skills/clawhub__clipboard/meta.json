@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clipboard",
+  "slug": "clipboard",
+  "name": "clipboard",
+  "title": "剪贴板技巧",
+  "description": "Interact with the system clipboard (text only) using `xclip` from any OpenClaw session.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clipboard Skill",
+  "function_label": "Other"
+}

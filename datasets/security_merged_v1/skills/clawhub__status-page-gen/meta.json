@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:status-page-gen",
+  "slug": "status-page-gen",
+  "name": "status-page-gen",
+  "title": "状态页生成",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Status Page Gen",
+  "function_label": "Automation"
+}

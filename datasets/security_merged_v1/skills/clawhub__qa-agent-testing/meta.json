@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:qa-agent-testing",
+  "slug": "qa-agent-testing",
+  "name": "qa-agent-testing",
+  "title": "测试专项",
+  "description": "AI Agent测试专项，覆盖智能体功能/安全/边界测试。当需要测试AI Agent时激活。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

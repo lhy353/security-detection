@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:generate-connector-spec__CI_B9",
+  "slug": "generate-connector-spec__CI_B9",
+  "name": "generate-connector-spec",
+  "title": "生成连接器规范 YAML",
+  "description": "Generate the connector spec YAML file defining connection parameters and external options allowlist.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Generate Connector Spec YAML",
+  "function_label": "Other"
+}

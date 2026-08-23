@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-smart-router",
+  "slug": "openclaw-smart-router",
+  "name": "smart-router",
+  "title": "智能路由器",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Smart Router",
+  "function_label": "Coding"
+}

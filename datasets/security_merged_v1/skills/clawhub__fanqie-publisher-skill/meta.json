@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:fanqie-publisher-skill",
+  "slug": "fanqie-publisher-skill",
+  "name": "fanqie-novel-publisher",
+  "title": "番茄小说自动发布",
+  "description": "番茄小说章节自动发布工具。使用场景：(1) 发布单个章节到番茄小说平台；(2) 批量发布多个章节；(3) 存入草稿箱；(4) 登录番茄小说作家后台；(5) 查看作品列表和状态。触发词：番茄发布、番茄小说上传、发布章节、存入草稿箱、番茄登录。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Browser"
+}

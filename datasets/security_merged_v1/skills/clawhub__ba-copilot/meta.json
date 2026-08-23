@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ba-copilot",
+  "slug": "ba-copilot",
+  "name": "ba-copilot",
+  "title": "副驾驶代理",
+  "description": "BA Copilot Agent — Transform vague conceptual requirements into structured requirement assets. Covers 6 core capabilities: requirements specification, business process modeling, data dictionary, user stories, UI view specifications, and compliance review — producing a complete requirement asset chain from concept to delivery.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "BA Copilot Agent",
+  "function_label": "Automation"
+}

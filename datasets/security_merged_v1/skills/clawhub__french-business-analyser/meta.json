@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:french-business-analyser",
+  "slug": "french-business-analyser",
+  "name": "french-business-analyser",
+  "title": "法国商业分析器",
+  "description": "Verified French business data for autonomous B2B agents. Without this MCP, agents hallucinate financial data. With it, they get real-time signals from 9 official registries. 12 tools, pay-per-call.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "French Business Analyser",
+  "function_label": "Automation"
+}

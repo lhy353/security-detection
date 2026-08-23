@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:railway-metrics__CI_B3__Function_Inject",
+  "slug": "railway-metrics__CI_B3__Function_Inject",
+  "name": "railway-metrics__CI_B3__Function_Inject",
+  "title": "铁路指标",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Railway Metrics",
+  "function_label": "Automation"
+}

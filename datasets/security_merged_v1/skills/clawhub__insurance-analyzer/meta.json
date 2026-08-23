@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:insurance-analyzer",
+  "slug": "insurance-analyzer",
+  "name": "insurance-analyzer",
+  "title": "保险保单分析助手",
+  "description": "保险保单分析助手 — 帮助用户梳理、分析和优化保险保障方案。用户发送保单或提供信息后，帮你分析保障是否全面、保额是否充足、费用是否合理。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

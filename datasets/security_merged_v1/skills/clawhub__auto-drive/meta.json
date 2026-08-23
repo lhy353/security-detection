@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:auto-drive",
+  "slug": "auto-drive",
+  "name": "auto-drive",
+  "title": "自动驾驶技巧",
+  "description": "Indestructible agent memory — permanently stored, never lost. Save decisions, identity, and context as a memory chain on the Autonomys Network. Rebuild your full history from a single CID, even after total state loss.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Auto-Drive Skill",
+  "function_label": "Communication"
+}

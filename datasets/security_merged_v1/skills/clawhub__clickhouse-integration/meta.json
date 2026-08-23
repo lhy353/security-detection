@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clickhouse-integration",
+  "slug": "clickhouse-integration",
+  "name": "clickhouse",
+  "title": "克利克屋",
+  "description": "ClickHouse integration. Manage data, records, and automate workflows. Use when the user wants to interact with ClickHouse data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClickHouse",
+  "function_label": "Automation"
+}

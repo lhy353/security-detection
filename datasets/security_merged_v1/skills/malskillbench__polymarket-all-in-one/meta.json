@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:polymarket-all-in-one",
+  "slug": "polymarket-all-in-one",
+  "name": "Better Polymarket",
+  "title": "更好的综合市场",
+  "description": "Query Polymarket prediction markets - check odds, trending markets, search events, track prices, list markets by volume.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Better Polymarket",
+  "function_label": "Other"
+}

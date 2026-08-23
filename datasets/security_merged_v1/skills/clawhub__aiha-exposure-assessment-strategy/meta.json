@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aiha-exposure-assessment-strategy",
+  "slug": "aiha-exposure-assessment-strategy",
+  "name": "aiha-exposure-assessment-strategy",
+  "title": "暴露评估策略起草者",
+  "description": "Use this skill when a CIH, ROH, CSP, or EHS manager needs to draft an AIHA-aligned occupational exposure assessment strategy for a workplace, process, or Similar Exposure Group (SEG). Covers basic characterization, SEG construction, qualitative AIHA exposure rating, quantitative sampling plan, and statistical analysis. Produces a DRAFT strategy with an unsigned CIH/ROH/CSP review block for licensed industrial-hygiene review before any respiratory-protection or control-banding decisions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AIHA Exposure Assessment Strategy Drafter",
+  "function_label": "Data-Agent"
+}

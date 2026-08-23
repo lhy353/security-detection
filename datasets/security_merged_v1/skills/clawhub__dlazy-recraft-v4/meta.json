@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dlazy-recraft-v4",
+  "slug": "dlazy-recraft-v4",
+  "name": "dlazy-recraft-v4",
+  "title": "懒惰重造V4",
+  "description": "1MP raster image generation with refined design judgment. Suitable for everyday creative work and fast iteration.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dlazy Recraft V4",
+  "function_label": "File-Agent"
+}

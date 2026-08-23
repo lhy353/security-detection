@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:token-optimizer-1-0-0",
+  "slug": "token-optimizer-1-0-0",
+  "name": "TOKEN节约器",
+  "title": "节约器",
+  "description": "✂️ TOKEN节约器 - 工作流程控制器。通过问题预检、路径验证、进度检查、错误快速定位，防止重复无效工作，节约TOKEN消耗。兼容Windows/Mac/Linux/MaxClaw/ClawHub。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:awublack-personal-memory-system",
+  "slug": "awublack-personal-memory-system",
+  "name": "awublack-personal-memory-system",
+  "title": "一个智能化、高可靠性的个人知识操作系统",
+  "description": "一个智能化、高可靠性的个人知识操作系统。它不仅自动同步你的 MEMORY.md 到 SQLite 数据库并提供自然语言查询，更通过 Git 版本控制、守护进程和日志监控，确保你的记忆**永不丢失、可追溯、可恢复**。\n**使用场景**： (1) 用户需要查询“我过去对 AI 模型的看法？” (2) 用户希望系统自动记录重要决策，避免“心理笔记” (3) 需要一个可版本控制、可检索、可恢复的个人知识库\n**核心功能**： - 自动将 MEMORY.md 中的 ### 标题块同步到 memory.db 数据库 - **智能查询**：接收自然语言问题，自动转换为 SQL 查询，从 memory.db 中精准检索并生成自然语言回答 - 与 Obsidian 和 Git 同步，实现个人知识库的完整闭环\n**系统依赖**： - 必须存在 /home/awu/.openclaw/workspace-work/MEMORY.md - 必须存在 /home/awu/.openclaw/workspace-work/auto_sync_memory.py - 必须存在 /home/awu/.openclaw/workspace-work/memory.db - 必须存在 /home/awu/.openclaw/workspace-work/skills/awublack-personal-memory-system/query_memory.py - **必须存在** /home/awu/.openclaw/workspace-work/obsidian-vault/ （Obsidian 知识库） - **必须存在** /home/awu/.openclaw/workspace-work/git_sync_on_save.sh （Git 自动同步守护进程） - **必须存在** /home/awu/.openclaw/workspace-work/git_sync.log （同步日志） - **必须运行** git_sync_on_save.sh （每10秒检查并推送 Obsidian 变更）\n**重要**：此技能不提供任何外部 API 调用，所有数据均存储在本地，安全可靠。你的记忆存在于三个独立位置： 1. 本地工作区：MEMORY.md, memory.db, git_sync_on_save.sh 2. Obsidian 知识库：/home/awu/.openclaw/workspace-work/obsidian-vault/ 3. 远程 Git 仓库：https://github.com/awublack/obsidian-vault 任何一处损坏，其他两处均可恢复。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

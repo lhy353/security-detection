@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:fastmcp",
+  "slug": "fastmcp",
+  "name": "fastmcp",
+  "title": "用 Python 构建 MCP 服务器",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "FastMCP - Build MCP Servers in Python",
+  "function_label": "Automation"
+}

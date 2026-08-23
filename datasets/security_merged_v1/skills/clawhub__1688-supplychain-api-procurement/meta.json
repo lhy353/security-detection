@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:1688-supplychain-api-procurement",
+  "slug": "1688-supplychain-api-procurement",
+  "name": "1688-supplychain-api-procurement",
+  "title": "供应链采购 API",
+  "description": "1688 供应链采购 API Skill。面向云端 API 调用，不提供交互式找品、复杂表格或下单流程。支持两个功能：发起找挑询并返回 instanceId；按 instanceId 查询实例数据，并由脚本按输出模式返回 instanceId、fieldDesc 和 result。此 Skill 的最终回复格式默认是 raw JSON passthrough；查询实例数据时必须使用文件模式，通过 stream_output 工具输出结果，避免进入大模型上下文。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

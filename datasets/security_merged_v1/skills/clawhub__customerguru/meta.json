@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:customerguru",
+  "slug": "customerguru",
+  "name": "customerguru",
+  "title": "客户大师",
+  "description": "Customer.guru integration. Manage Persons, Organizations, Deals, Leads, Projects, Pipelines and more. Use when the user wants to interact with Customer.guru data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Customer.guru",
+  "function_label": "Browser"
+}

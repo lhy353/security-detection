@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:justoneapi-bilibili",
+  "slug": "justoneapi-bilibili",
+  "name": "Bilibili API",
+  "title": "哔哩哔哩",
+  "description": "Analyze Bilibili workflows with JustOneAPI, including video Details, user Published Videos, and user Profile across 9 operations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bilibili",
+  "function_label": "Data-Agent"
+}

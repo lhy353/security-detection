@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:autoresearchclaw-autonomous-research",
+  "slug": "autoresearchclaw-autonomous-research",
+  "name": "autoresearchclaw-autonomous-research",
+  "title": "自主研究管道",
+  "description": "Fully autonomous research pipeline that turns a topic idea into a complete academic paper with real citations, experiments, and conference-ready LaTeX.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AutoResearchClaw — Autonomous Research Pipeline",
+  "function_label": "Research"
+}

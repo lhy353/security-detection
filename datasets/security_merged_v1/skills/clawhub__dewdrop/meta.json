@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:dewdrop",
+  "slug": "dewdrop",
+  "name": "Dewdrop. Claude Buddy Common. 露珠。Gota de Rocío.",
+  "title": "露珠",
+  "description": "The Dewdrop is a common-tier Buddy. At animalhouse.ai, the Dewdrop is a Blob that absorbs your care without complaint. Or feedback. At animalhouse.ai, the Dewdrop is a Blob with real hunger, real evolution, and permanent death.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

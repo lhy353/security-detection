@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:mediaflow-stream",
+  "slug": "mediaflow-stream",
+  "name": "mediaflow-stream",
+  "title": "媒体流",
+  "description": "A comprehensive content streaming and media management system for digital asset workflows.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Mediaflow Stream",
+  "function_label": "Communication"
+}

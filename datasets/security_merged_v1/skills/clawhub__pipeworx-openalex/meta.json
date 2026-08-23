@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pipeworx-openalex",
+  "slug": "pipeworx-openalex",
+  "name": "pipeworx-openalex",
+  "title": "包装 OpenAlex API（学术作品，免费，无需授权）",
+  "description": "OpenAlex MCP — wraps the OpenAlex API (scholarly works, free, no auth)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pipeworx Openalex",
+  "function_label": "Research"
+}

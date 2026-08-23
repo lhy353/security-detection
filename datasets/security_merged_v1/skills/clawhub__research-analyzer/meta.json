@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:research-analyzer",
+  "slug": "research-analyzer",
+  "name": "research-analyzer",
+  "title": "综合研究分析工具",
+  "description": "综合研究分析工具 - 基于 Tavily API 的智能搜索和报告生成，支持深度研究、竞品分析、技术调研",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

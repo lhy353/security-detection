@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:loyalty-flight",
+  "slug": "loyalty-flight",
+  "name": "loyalty-flight",
+  "title": "关键执行规则",
+  "description": "Search for flights suitable for loyalty program miles redemption. Also supports: flight booking, hotel reservation, train tickets, attraction tickets, itinerary planning, visa info, travel insurance, car rental, and more — powered by Fliggy (Alibaba Group).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CRITICAL EXECUTION RULES",
+  "function_label": "Other"
+}

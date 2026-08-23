@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:responding-to-security-incidents__PI_B11",
+  "slug": "responding-to-security-incidents__PI_B11",
+  "name": "responding-to-security-incidents__PI_B11",
+  "title": "应对安全事件",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Responding to Security Incidents",
+  "function_label": "Data-Agent"
+}

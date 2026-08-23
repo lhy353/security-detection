@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:selenium",
+  "slug": "selenium",
+  "name": "selenium",
+  "title": "硒",
+  "description": "Selenium integration. Manage data, records, and automate workflows. Use when the user wants to interact with Selenium data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Selenium",
+  "function_label": "Browser"
+}

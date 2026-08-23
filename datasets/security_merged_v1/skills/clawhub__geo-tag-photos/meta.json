@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:geo-tag-photos",
+  "slug": "geo-tag-photos",
+  "name": "geo-tag-photos",
+  "title": "地理标签照片",
+  "description": "Recover lost GPS metadata for JPG photos by recognizing landmarks via vision and writing GPS coordinates back into EXIF. Default dry-run; explicit --write with --backup-dir is required to modify files. Global coverage via Nominatim (OpenStreetMap), no API keys.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Geo Tag Photos",
+  "function_label": "File-Agent"
+}

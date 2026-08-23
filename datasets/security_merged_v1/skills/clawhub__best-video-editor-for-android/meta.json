@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:best-video-editor-for-android",
+  "slug": "best-video-editor-for-android",
+  "name": "best-video-editor-for-android",
+  "title": "编辑和导出移动视频",
+  "description": "Turn a 60-second phone-recorded vertical clip into 1080p edited video clips just by typing what you need. Whether it's editing phone-recorded videos into polished shareable clips or quick social content, drop your video clips and describe the result you want. No timeline dragging, no export settings — 30-60 seconds from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Best Video Editor for Android — Edit and Export Mobile Videos",
+  "function_label": "Communication"
+}

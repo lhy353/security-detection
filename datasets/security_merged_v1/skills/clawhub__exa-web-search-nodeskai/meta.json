@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:exa-web-search-nodeskai",
+  "slug": "exa-web-search-nodeskai",
+  "name": "exa-web-search-nodeskai",
+  "title": "网络搜索（免费）",
+  "description": "NodeSkai's optimized Free AI search via Exa MCP. Enhanced web search for news/info, code search for docs/examples from GitHub/StackOverflow, and deep company research. No API key needed.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Exa Web Search (Free)",
+  "function_label": "Research"
+}

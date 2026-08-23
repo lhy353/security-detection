@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:appdev",
+  "slug": "appdev",
+  "name": "delegate_app_dev",
+  "title": "应用程序开发委派技巧",
+  "description": "Triggers whenever the user asks to build a feature, fix a bug, create a screen, or modify the mobile app.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "App Dev Delegation Skill",
+  "function_label": "Other"
+}

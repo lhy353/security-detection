@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:axiom-iban-validator",
+  "slug": "axiom-iban-validator",
+  "name": "axiom-iban-validator",
+  "title": "验证器",
+  "description": "IBAN validator — check IBAN format and mod-97 checksum for 100+ countries. Use when you need to validate international bank account numbers. Pure stdlib, no LLM.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Axiom Iban Validator",
+  "function_label": "Other"
+}

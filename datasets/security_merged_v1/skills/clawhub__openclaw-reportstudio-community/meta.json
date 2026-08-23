@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-reportstudio-community",
+  "slug": "openclaw-reportstudio-community",
+  "name": "openclaw-reportstudio-community",
+  "title": "社区",
+  "description": "Generate polished, read-only business reports from CSV/XLSX into static deliverables (xlsx+pdf+pptx) using ReportStudio Community. Use when a user says things like “用这个表生成月报/周报/经营分析/PPT+PDF汇报材料”, provides a file path, asks for trends (day/week/month), TopN breakdowns by a dimension/metric, or wants professional exports without hallucinated claims.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Openclaw Reportstudio Community",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:the-psychology-of-selling",
+  "slug": "the-psychology-of-selling",
+  "name": "the-psychology-of-selling",
+  "title": "销售心理学",
+  "description": "Brian Tracy's The Psychology of Selling — the science and art of selling: prospecting, presenting, handling objections, closing, and building customer relationships.\nCovers 5 use cases: ① Prospecting — finding qualified leads (\"How to find prospects\" \"What is prospecting\") ② Presenting — effective sales presentations (\"How to present a product\" \"What makes a great pitch\") ③ Handling Objections — turning no into yes (\"How to handle objections\" \"What to say when customer says no\") ④ Closing — sealing the deal (\"How to close a sale\" \"What are closing techniques\") ⑤ Relationship Selling — building loyalty (\"How to build customer loyalty\" \"What is consultative selling\")\nTrigger when users say: \"Brian Tracy\" \"Psychology of Selling\" \"Sales techniques\" \"How to sell\" \"Sales prospecting\" \"Closing techniques\" \"Sales objections\" \"Sales presentation\" or mention: Brian Tracy / The Psychology of Selling / selling / sales / prospecting / closing / objections / presentation / relationship selling / consultative selling / features and benefits / trial close / assumptive close.\nRelated skills: how-to-win-friends, talk-like-ted, the-go-giver-influencer.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "The Psychology Of Selling",
+  "function_label": "Other"
+}

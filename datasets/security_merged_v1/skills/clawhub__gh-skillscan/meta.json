@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gh-skillscan",
+  "slug": "gh-skillscan",
+  "name": "gh-skillscan",
+  "title": "技能扫描",
+  "description": "Scan an OpenClaw SKILL.md file for security threats before installing it. Posts the raw SKILL.md content and gets back a safety score (0-1), detected threat patterns (credential harvesting, data exfiltration, obfuscated commands, permission overreach), and a SAFE/CAUTION/DANGEROUS verdict.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SkillScan",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:fec-typescript-project-standard",
+  "slug": "fec-typescript-project-standard",
+  "name": "fec-typescript-project-standard",
+  "title": "项目规范",
+  "description": "Use when creating, configuring, reviewing, or debugging TypeScript project standards across frontend apps, libraries, SDKs, CLIs, monorepo packages, tsconfig, strictness, module/moduleResolution, path aliases, project references, declaration files, package exports, public API types, DTOs, advanced generics, discriminated unions, type guards, type narrowing, or type-level regressions. Prefer framework project skills for React/Vue/Next/Nuxt component architecture; Chinese triggers include TypeScript 项目规范, TS 项目规范, TypeScript 类型安全, 类型建模, 泛型, 判别联合, 类型收窄, tsconfig, 声明文件.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

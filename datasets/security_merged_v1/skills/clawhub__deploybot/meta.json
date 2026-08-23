@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:deploybot",
+  "slug": "deploybot",
+  "name": "deploybot",
+  "title": "部署机器人",
+  "description": "DeployBot integration. Manage data, records, and automate workflows. Use when the user wants to interact with DeployBot data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Deploybot",
+  "function_label": "Automation"
+}

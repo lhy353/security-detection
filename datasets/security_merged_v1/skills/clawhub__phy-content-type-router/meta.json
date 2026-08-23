@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:phy-content-type-router",
+  "slug": "phy-content-type-router",
+  "name": "content-type-router",
+  "title": "内容类型路由器",
+  "description": "Detect and route to the correct visual content type (hero shot, poster, infographic, etc.) from a text description or output type hint. Use when you need to classify a content generation request into a structured type with layout rules, visual mode, and generation hints.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Content Type Router",
+  "function_label": "Other"
+}

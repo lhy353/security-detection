@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:db-security-audit",
+  "slug": "db-security-audit",
+  "name": "db-security-audit",
+  "title": "数据库安全审计技巧",
+  "description": "Comprehensive database security assessment with vulnerability scanning and compliance monitoring",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Database Security Audit Skill",
+  "function_label": "Data-Agent"
+}

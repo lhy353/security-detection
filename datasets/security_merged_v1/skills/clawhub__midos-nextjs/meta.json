@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:midos-nextjs",
+  "slug": "midos-nextjs",
+  "name": "nextjs",
+  "title": "应用程序路由器生产模式",
+  "description": "Next.js 15/16 App Router patterns — async APIs, caching semantics, Turbopack, Server Components, Route Handlers, and migration from v14",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Next.js App Router Production Patterns",
+  "function_label": "Coding"
+}

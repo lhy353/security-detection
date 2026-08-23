@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:testimonials-generator",
+  "slug": "testimonials-generator",
+  "name": "testimonials-generator",
+  "title": "组成部分：感言",
+  "description": "When the user wants to add, optimize, or design customer testimonials, reviews, or case study sections. Also use when the user mentions \"testimonials,\" \"reviews,\" \"customer quotes,\" \"social proof,\" \"case studies,\" \"testimonial section,\" \"customer reviews,\" \"review schema,\" \"testimonial design,\" or \"social proof section.\" For case studies page, use customer-stories-page-generator.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Components: Testimonials",
+  "function_label": "Other"
+}

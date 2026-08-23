@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:daily-hot",
+  "slug": "daily-hot",
+  "name": "热点聚合服务",
+  "title": "热点聚合服务",
+  "description": "基于Model Context Protocol (MCP)协议的全网热点趋势一站式聚合服务，支持Python实现，适用于新闻资讯、社交媒体、科技开发等多领域。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:jest-unittest",
+  "slug": "jest-unittest",
+  "name": "jest-unittest",
+  "title": "单元测试 Skills 集合",
+  "description": "单元测试 Skills 集合。当用户提到单测、单元测试、覆盖率、单测覆盖、单测失败、单测报错、修复单测、补充测试、覆盖率不足、覆盖率100%、运行单测、组件测试等关键词时触发。 包含三个子技能：unittest-checker（覆盖率检测）、unittest-completer（自动补全测试至100%）、unittest-doctor（诊断并修复单测报错）。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

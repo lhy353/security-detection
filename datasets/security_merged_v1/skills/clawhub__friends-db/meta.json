@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:friends-db",
+  "slug": "friends-db",
+  "name": "friends-db",
+  "title": "朋友数据库",
+  "description": "Query and maintain Alex's local friends database stored in a private SQLite file under the OpenClaw workspace. Use when looking up a friend, finding phone/email/contact details, reading relationship notes, or updating those records. Prefer this over reading friends.md directly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Friends Db",
+  "function_label": "Data-Agent"
+}

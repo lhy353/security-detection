@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-audio-tts",
+  "slug": "ai-audio-tts",
+  "name": "ai-audio-tts",
+  "title": "将文本转换为视频配音",
+  "description": "convert text or script into voiced video output with this skill. Works with MP4, MOV, TXT, DOCX files up to 200MB. content creators, marketers use it for adding AI voiceover to videos from written scripts — processing takes 20-45 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Audio TTS — Convert Text to Video Voiceover",
+  "function_label": "File-Agent"
+}

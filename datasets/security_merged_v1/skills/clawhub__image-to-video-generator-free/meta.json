@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:image-to-video-generator-free",
+  "slug": "image-to-video-generator-free",
+  "name": "image-to-video-generator-free",
+  "title": "立即将静态照片变成迷人的视频",
+  "description": "Tired of static photos that fail to capture attention on social media or presentations? The image-to-video-generator-free skill transforms your still images into dynamic, engaging videos without any cost or complex software. Using this skill, you can breathe life into product photos, travel snapshots, or artwork by generating smooth animated video sequences. Whether you're a content creator, small business owner, or educator, image-to-video-generator-free gives everyone the power to produce scroll-stopping video content from photos they already own.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Turn Still Photos Into Captivating Videos Instantly",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:market-insight-architect",
+  "slug": "market-insight-architect",
+  "name": "market-insight-architect",
+  "title": "市场洞察架构师",
+  "description": "Orchestrates comprehensive market analysis and product discovery for e-commerce growth.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Market Insight Architect",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:douyu",
+  "slug": "douyu",
+  "name": "douyu",
+  "title": "斗鱼",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

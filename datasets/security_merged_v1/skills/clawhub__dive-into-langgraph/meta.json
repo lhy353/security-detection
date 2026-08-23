@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dive-into-langgraph",
+  "slug": "dive-into-langgraph",
+  "name": "dive-into-langgraph",
+  "title": "深入了解 Langgraph",
+  "description": "A comprehensive guide and reference for building agents using LangGraph 1.0, including ReAct agents, state graphs, and tool integrations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dive Into Langgraph",
+  "function_label": "Research"
+}

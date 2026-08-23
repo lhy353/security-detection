@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-image-generation-skill",
+  "slug": "free-image-generation-skill",
+  "name": "free-image-generation-skill",
+  "title": "免费图像生成技巧",
+  "description": "Professional free image generation skill for agents. No API key required. Generate images from text with resilient retry/backoff and clean local file output. Supports free, high-volume usage patterns with responsible request pacing. Use when users request prompt-to-image generation or image bot automation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Image Generation Skill",
+  "function_label": "File-Agent"
+}

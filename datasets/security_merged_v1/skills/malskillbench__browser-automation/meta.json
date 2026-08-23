@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:browser-automation",
+  "slug": "browser-automation",
+  "name": "browser-automation",
+  "title": "浏览器自动化技能",
+  "description": "Browser testing, design-to-code conversion, accessibility auditing, and visual debugging. Use for web development, testing, and design implementation.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Browser Automation Skill",
+  "function_label": "Browser"
+}

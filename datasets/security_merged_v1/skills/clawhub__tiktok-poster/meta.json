@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tiktok-poster",
+  "slug": "tiktok-poster",
+  "name": "tiktok-poster",
+  "title": "抖音海报",
+  "description": "TikTok automation via browser. Upload videos, add captions, hashtags. Schedule for optimal engagement times.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tiktok Poster",
+  "function_label": "Browser"
+}

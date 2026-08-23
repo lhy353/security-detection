@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mma-bridge",
+  "slug": "mma-bridge",
+  "name": "Meteor Master AI Bridge",
+  "title": "通过 mma-bridge 命令行工具与 Meteor Master AI 交互",
+  "description": "通过 mma-bridge 命令行工具与 Meteor Master AI 交互",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

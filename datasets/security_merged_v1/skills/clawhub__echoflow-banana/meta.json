@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:echoflow-banana",
+  "slug": "echoflow-banana",
+  "name": "echoflow-image-gen",
+  "title": "图片生成 (Nano Banana Pro) / Image Generation",
+  "description": "通过清云 EchoFlow API 生成和编辑图片（基于 Nano Banana Pro / Gemini 3 Pro Image）。\n支持图片生成、单图编辑、多图合成（最多14张）、多种分辨率（1K/2K/4K）。\n触发词：图像生成、图片生成、AI绘画、生成美女、生成图片、Nano Banana Pro、Gemini 图片生成。\nEnglish: Generate or edit images via EchoFlow API using Nano Banana Pro (Gemini 3 Pro Image).\nSupports image generation, editing, and multi-image composition (up to 14 images) with resolutions 1K/2K/4K.\n",
+  "detection_label": "benign",
+  "source": "clawhub"
+}

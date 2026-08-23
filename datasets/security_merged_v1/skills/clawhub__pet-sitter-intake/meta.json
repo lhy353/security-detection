@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pet-sitter-intake",
+  "slug": "pet-sitter-intake",
+  "name": "pet-sitter-intake",
+  "title": "宠物保姆客户登记表生成器",
+  "description": "Generate professional PDF client intake forms for pet sitting businesses. Use when a pet sitter, dog walker, pet boarder, or pet care professional needs a client intake form, onboarding questionnaire, or pet information sheet. Trigger phrases: \"create intake form\", \"new client form for my pet sitting business\", \"pet sitter questionnaire\", \"boarding intake form\". Supports fillable PDFs, custom color themes, multi-pet forms, home access sections, and service-specific templates.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pet Sitter Client Intake Form Generator",
+  "function_label": "File-Agent"
+}

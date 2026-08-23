@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-risk-manager",
+  "slug": "openclaw-risk-manager",
+  "name": "risk-manager",
+  "title": "风险经理",
+  "description": "Use when user asks about  Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses. Use PROACTIVELY for risk assessment, trade tracking, or portfolio protection.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Risk Manager",
+  "function_label": "Data-Agent"
+}

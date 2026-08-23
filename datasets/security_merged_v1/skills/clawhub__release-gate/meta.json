@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:release-gate",
+  "slug": "release-gate",
+  "name": "release-gate",
+  "title": "释放门",
+  "description": "Prevents bad deploys by enforcing structured sign-off before any irreversible action. Configurable checklist with named reviewers (Dev, QA, Legal, Product). Blocks execution until all required gates pass and logs every decision. Use before systemctl restarts, file deploys, database migrations, public launches, or any action that is hard to undo.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Release Gate",
+  "function_label": "Data-Agent"
+}

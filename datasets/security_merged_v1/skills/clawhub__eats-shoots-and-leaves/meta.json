@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:eats-shoots-and-leaves",
+  "slug": "eats-shoots-and-leaves",
+  "name": "eats-shoots-and-leaves",
+  "title": "吃、射击和离开——标点符号、清晰度和正确写作艺术的技巧",
+  "description": "Lynne Truss's Eats, Shoots & Leaves — a hilarious and passionately argued book about punctuation. The title comes from a joke about a panda who walks into a bar, eats a sandwich, shoots the bartender, and leaves — because of a poorly punctuated wildlife guide entry. Truss makes the case that punctuation matters, that it saves lives, and that its decline is a tragedy for clear communication.\nCovers 6 use cases: ① Understanding Apostrophes — the most abused punctuation mark (\"When do I use its vs it's\" \"Apostrophes for possession\") ② Mastering Commas — the pause that clarifies (\"I never know where to put commas\" \"The Oxford comma debate\") ③ Using Dashes and Hyphens — the connectors and interrupters (\"Em dash vs en dash\" \"When to use a hyphen\") ④ Quotation Marks and Colons — reporting speech and introducing lists (\"Quotation mark rules\" \"Colons and semicolons\") ⑤ Common Punctuation Mistakes — what to watch for (\"The most common errors\" \"Punctuation pet peeves\") ⑥ Writing Clearly — how punctuation improves communication (\"Punctuation saves lives\" \"The importance of clarity\")\nTrigger when users say: \"When do I use its vs it's\" \"I never know where to put commas\" \"The Oxford comma\" \"How to use semicolons\" \"Apostrophe rules\" \"Common punctuation mistakes\" \"Writing more clearly\" \"English grammar help\" or mention: Lynne Truss / Eats Shoots and Leaves / punctuation / grammar / apostrophes / commas / writing. Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Eats, Shoots & Leaves — A Skill for Punctuation, Clarity, and the Art of Correct Writing",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:docker-expert",
+  "slug": "docker-expert",
+  "name": "docker-expert",
+  "title": "专家",
+  "description": "Especialista em Docker, containers e orquestração para criar, otimizar e debugar ambientes containerizados",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Docker Expert",
+  "function_label": "Automation"
+}

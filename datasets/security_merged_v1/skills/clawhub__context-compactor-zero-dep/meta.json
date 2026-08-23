@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:context-compactor-zero-dep",
+  "slug": "context-compactor-zero-dep",
+  "name": "context-compactor",
+  "title": "上下文压缩器",
+  "description": "Automatic context compression for OpenClaw sessions. Summarizes long conversations into structured digests (decisions, facts, pending items, technical details), saves compressed summaries to disk, and injects them into new sessions. Reduces token waste from redundant context repetition. Use when conversation exceeds ~50 turns, when context feels bloated, when starting a new session and prior context is needed, or when the user says \"compact\", \"summarize this conversation\", \"start fresh but remember\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Context Compactor"
+}

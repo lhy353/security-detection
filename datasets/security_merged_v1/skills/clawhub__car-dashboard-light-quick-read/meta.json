@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:car-dashboard-light-quick-read",
+  "slug": "car-dashboard-light-quick-read",
+  "name": "car-dashboard-light-quick-read",
+  "title": "汽车仪表盘灯快速读取",
+  "description": "Create a driver-facing quick-read card for one dashboard warning light by identifying the icon, color, and urgency; advising safe pull-over actions for red or flashing warnings; documenting service notes; and deferring diagnosis or repair to qualified professionals.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Car Dashboard Light Quick Read",
+  "function_label": "Other"
+}

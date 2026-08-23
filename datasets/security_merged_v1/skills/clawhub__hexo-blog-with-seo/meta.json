@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hexo-blog-with-seo",
+  "slug": "hexo-blog-with-seo",
+  "name": "blog-hexo",
+  "title": "博客-hexo 技能",
+  "description": "Draft and publish Hexo posts end-to-end (front matter + SEO polish + deploy)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "blog-hexo Skill",
+  "function_label": "Automation"
+}

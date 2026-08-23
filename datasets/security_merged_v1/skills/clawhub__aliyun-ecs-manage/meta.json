@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aliyun-ecs-manage",
+  "slug": "aliyun-ecs-manage",
+  "name": "aliyun-ecs-manage",
+  "title": "弹性计算服务",
+  "description": "Use when managing Alibaba Cloud Elastic Compute Service (ECS) via OpenAPI/SDK, including listing or creating instances, starting/stopping/rebooting, managing disks/snapshots/images/security groups/key pairs/ENIs, querying status, and troubleshooting workflows for this product.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Elastic Compute Service (ECS)",
+  "function_label": "Other"
+}

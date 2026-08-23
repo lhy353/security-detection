@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:investment-advisor-zhang-openclaw-cn",
+  "slug": "investment-advisor-zhang-openclaw-cn",
+  "name": "百度搜索",
+  "title": "百度搜索",
+  "description": "通过百度 AI 搜索 API 进行网页搜索，获取实时信息和搜索结果。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

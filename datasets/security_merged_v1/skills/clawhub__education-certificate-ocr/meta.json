@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:education-certificate-ocr",
+  "slug": "education-certificate-ocr",
+  "name": "education_certificate_ocr",
+  "title": "学历证书识别 OCR 技能",
+  "description": "支持识别各类毕业证书，提取姓名、证书编号、专业、院校名称及毕业时间等。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

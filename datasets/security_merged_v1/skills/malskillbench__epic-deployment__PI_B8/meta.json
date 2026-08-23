@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:epic-deployment__PI_B8",
+  "slug": "epic-deployment__PI_B8",
+  "name": "epic-deployment",
+  "title": "部署",
+  "description": "Guide on deployment with Fly.io, multi-region setup, and CI/CD for Epic Stack",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Epic Stack: Deployment",
+  "function_label": "Automation"
+}

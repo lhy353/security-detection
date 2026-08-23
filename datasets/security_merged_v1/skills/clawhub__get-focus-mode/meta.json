@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:get-focus-mode",
+  "slug": "get-focus-mode",
+  "name": "get-focus-mode",
+  "title": "获取对焦模式",
+  "description": "Get the current macOS Focus mode",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Get Focus Mode",
+  "function_label": "Other"
+}

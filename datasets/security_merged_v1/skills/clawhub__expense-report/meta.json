@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:expense-report",
+  "slug": "expense-report",
+  "name": "expense-report",
+  "title": "费用报告生成器",
+  "description": "Gera relatórios de despesas estruturados a partir de descrições de recibos, notas fiscais ou gastos do dia a dia.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Expense Report Generator",
+  "function_label": "Communication"
+}

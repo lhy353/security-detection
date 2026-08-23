@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:erc8004-reputation",
+  "slug": "erc8004-reputation",
+  "name": "ERC-8004 Reputation",
+  "title": "声誉技能",
+  "description": "On-chain reputation for AI agents. Give feedback, check scores, view leaderboards, and build trust via the ERC-8004 Reputation Registry. Supports Base, Ethereum, Polygon, Monad, BNB.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ERC-8004 Reputation Skill",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:group-tour",
+  "slug": "group-tour",
+  "name": "group-tour",
+  "title": "关键执行规则",
+  "description": "Find organized group tours and travel packages with professional guides, planned itineraries, meals included, and hassle-free travel for those who prefer structure. Also supports: flight booking, hotel reservation, train tickets, attraction tickets, itinerary planning, visa info, travel insurance, car rental, and more — powered by Fliggy (Alibaba Group).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "️ CRITICAL EXECUTION RULES",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:multi-panel-figure-assembler",
+  "slug": "multi-panel-figure-assembler",
+  "name": "multi-panel-figure-assembler",
+  "title": "多面板图形组装器",
+  "description": "Assemble 6 sub-figures (A–F) into a high-resolution composite figure with consistent labels, padding, and publication-ready DPI.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Multi-Panel Figure Assembler",
+  "function_label": "Other"
+}

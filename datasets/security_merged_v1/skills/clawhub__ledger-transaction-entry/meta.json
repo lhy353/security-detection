@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ledger-transaction-entry",
+  "slug": "ledger-transaction-entry",
+  "name": "ledger-transaction-entry",
+  "title": "账本交易录入",
+  "description": "Convert natural-language spending/income statements into ledger JSONL records and append them into projects/data/YYYY/YYYY-MM.jsonl. Use when the user describes a transaction (expense/income), asks to记账,补账, or wants to append a new entry in the ledger project.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ledger Transaction Entry",
+  "function_label": "Other"
+}

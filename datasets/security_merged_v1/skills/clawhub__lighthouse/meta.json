@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lighthouse",
+  "slug": "lighthouse",
+  "name": "lighthouse",
+  "title": "灯塔",
+  "description": "Lighthouse integration. Manage Organizations. Use when the user wants to interact with Lighthouse data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lighthouse",
+  "function_label": "Browser"
+}

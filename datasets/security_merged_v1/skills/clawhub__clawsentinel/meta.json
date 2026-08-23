@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawsentinel",
+  "slug": "clawsentinel",
+  "name": "ClawSentinel",
+  "title": "利爪哨兵 v2.3",
+  "description": "Pure local 2026 ClawHub/OpenClaw skill scanner. Detects ClawHavoc malware, MCP backdoors, obfuscated payloads, and supply-chain attacks. 100% read-only analysis.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClawSentinel v2.3",
+  "function_label": "Other"
+}

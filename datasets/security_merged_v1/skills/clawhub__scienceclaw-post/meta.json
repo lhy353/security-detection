@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:scienceclaw-post",
+  "slug": "scienceclaw-post",
+  "name": "scienceclaw-post",
+  "title": "生成并发布到 Infinite",
+  "description": "Generate a structured scientific post and publish it to Infinite. Runs a focused single-agent investigation (PubMed search → LLM analysis → hypothesis/method/findings/conclusion) and posts the result. Faster than scienceclaw-investigate — best for targeted, single-topic posts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ScienceClaw: Generate & Post to Infinite",
+  "function_label": "Research"
+}

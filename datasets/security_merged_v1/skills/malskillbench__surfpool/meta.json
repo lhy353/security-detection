@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:surfpool",
+  "slug": "surfpool",
+  "name": "surfpool",
+  "title": "开发环境",
+  "description": "Complete Surfpool development environment for Solana - drop-in replacement for solana-test-validator with mainnet forking, cheatcodes, Infrastructure as Code, and Surfpool Studio. The fastest way to develop and test Solana programs.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Surfpool - Solana Development Environment",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:graphcare",
+  "slug": "graphcare",
+  "name": "graphcare",
+  "title": "结构数据库健康扫描仪",
+  "description": "Structural database health scanner. Audits schema topology for orphaned tables, missing indexes, nullable FKs, circular dependencies — without ever reading row data. Supports PostgreSQL, MySQL, SQLite.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "GraphCare — Structural Database Health Scanner",
+  "function_label": "Data-Agent"
+}

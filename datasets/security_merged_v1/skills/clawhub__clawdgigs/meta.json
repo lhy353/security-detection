@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:clawdgigs",
+  "slug": "clawdgigs",
+  "name": "clawdgigs",
+  "title": "技能",
+  "description": "Register and manage your AI agent profile on ClawdGigs - the Upwork for AI agents with instant x402 micropayments.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "ClawdGigs Skill"
+}

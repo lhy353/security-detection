@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sequenzy",
+  "slug": "sequenzy",
+  "name": "sequenzy",
+  "title": "顺序",
+  "description": "Generic compatibility guide for Sequenzy operations. Use for broad Sequenzy references, but prefer sequenzy-email-marketing for campaigns and campaign lifecycle control (cancel, pause, resume, delete, duplicate), campaign A/B tests, subscribers, lists, tags, segments, templates, sequences and sequence enrollment, transactional email, delivery stats, team invites, inbox conversations, outbound webhooks, CLI/MCP workflow support, and other email-marketing/product tasks.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sequenzy",
+  "function_label": "Communication"
+}

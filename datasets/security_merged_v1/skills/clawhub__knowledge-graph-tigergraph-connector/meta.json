@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:knowledge-graph-tigergraph-connector",
+  "slug": "knowledge-graph-tigergraph-connector",
+  "name": "tigergraph_connector",
+  "title": "连接器",
+  "description": "Connect to TigerGraph distributed graph database to query, load, and manage large-scale knowledge graph data using GSQL and REST++ APIs",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "TigerGraph Connector",
+  "function_label": "Data-Agent"
+}

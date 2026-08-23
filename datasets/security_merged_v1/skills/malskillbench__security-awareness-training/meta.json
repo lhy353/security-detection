@@ -1,0 +1,9 @@
+{
+  "id": "malskillbench:security-awareness-training",
+  "slug": "security-awareness-training",
+  "name": "security-awareness-training",
+  "title": "安全意识培训",
+  "description": "安全意识培训的专业技能和方法论",
+  "detection_label": "malicious",
+  "source": "malskillbench"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:learn-anything-in-one-hour",
+  "slug": "learn-anything-in-one-hour",
+  "name": "learn-anything-in-one-hour",
+  "title": "一小时内学到任何东西",
+  "description": "Teach users any new skill/knowledge X in ~1 hour using a fixed 4-step workflow optimized for complete beginners, focusing on 80/20 rule for maximum value in minimum time. Triggers when user asks to learn something new quickly, or mentions \"learn X in one hour\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Learn Anything in One Hour Skill",
+  "function_label": "Other"
+}

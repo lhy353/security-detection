@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:deepsleep",
+  "slug": "deepsleep",
+  "name": "deepsleep",
+  "title": "深度睡眠 v3.0",
+  "description": "Two-phase daily memory persistence for AI agents. v3.0: unified pack+dispatch cron, smart silence handling, memory importance tiers, cross-group correlation, OQ health tracking, and schedule priority system.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "DeepSleep v3.0"
+}

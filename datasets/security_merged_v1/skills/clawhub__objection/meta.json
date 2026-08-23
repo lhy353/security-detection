@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:objection",
+  "slug": "objection",
+  "name": "dissent",
+  "title": "异议技巧",
+  "description": "Activate this skill whenever the user asks you to \"find problems,\" \"poke holes,\" \"stress test,\" \"play devil's advocate,\" \"be critical,\" \"challenge this,\" \"find flaws,\" or any variant of adversarial review — for plans, code, documents, arguments, data pipelines, architecture, or any other artifact. Also trigger when the user says \"dissent\" or \"/dissent\". The goal is maximum problem discovery, not balance. Do NOT self-censor in favor of politeness or efficiency. This skill overrides the default bias toward helpfulness-as-affirmation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dissent Skill",
+  "function_label": "Other"
+}

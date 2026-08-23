@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:vps-deploy",
+  "slug": "vps-deploy",
+  "name": "vps-deploy",
+  "title": "部署",
+  "description": "Deploy a full-stack app to any VPS from zero to production in one command. Handles SSH hardening, firewall, Docker, Nginx reverse proxy, SSL certificates, and health verification. Works with any stack (Node.js, Python, Go, Next.js) and any VPS provider (Hostinger, DigitalOcean, Hetzner, Linode, Vultr). Use when the user says 'deploy to VPS', 'set up my server', 'deploy to production', 'configure my VPS', or needs to go from a bare Ubuntu/Debian server to a running production app.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Vps Deploy"
+}

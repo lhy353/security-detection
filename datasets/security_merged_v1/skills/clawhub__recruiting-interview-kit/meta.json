@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:recruiting-interview-kit",
+  "slug": "recruiting-interview-kit",
+  "name": "recruiting-interview-kit",
+  "title": "招聘面试工具包",
+  "description": "根据 JD 生成面试题、评分维度、红旗项与面试记录模板。；use for recruiting, interview, hiring workflows；do not use for 生成歧视性问题, 替代最终录用决策.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:poster-style-generator",
+  "slug": "poster-style-generator",
+  "name": "poster-style-generator",
+  "title": "海报风格生成器",
+  "description": "使用gpt-image-2生成海报，支持10种设计风格。每种风格精调了prompt，直接出图。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

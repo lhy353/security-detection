@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:claudeemailskill",
+  "slug": "claudeemailskill",
+  "name": "claudeemailskill",
+  "title": "克劳德电子邮件技巧",
+  "description": "Use when Codex, Hermes, OpenClaw, Claude Code, Cowork, or another AI agent needs to plan, review, implement, audit, or improve email work focused on Claude-oriented email prompts, campaign drafting, critique loops, and human review. Triggers include requests about prompt packs, campaign draft evaluation, review rubrics, rewrite loops, and Claude Code email handoffs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Claude Email Skill",
+  "function_label": "Communication"
+}

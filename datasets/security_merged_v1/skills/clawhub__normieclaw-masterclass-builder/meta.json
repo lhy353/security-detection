@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:normieclaw-masterclass-builder",
+  "slug": "normieclaw-masterclass-builder",
+  "name": "masterclass-builder",
+  "title": "大师班建造者",
+  "description": "Create personalized multi-day masterclasses on any topic. Triggers on \"teach me [topic]\", \"create a masterclass on [topic]\", \"I want to learn [topic]\", \"next lesson\", \"lesson [N]\", \"my courses\", \"course progress\", or \"resume [course]\". Designs custom curricula, generates rich daily lessons with exercises, tracks progress, and adapts difficulty — like having a personal tutor who builds a course just for you.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Masterclass Builder",
+  "function_label": "Other"
+}

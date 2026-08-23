@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:intercom-docs",
+  "slug": "intercom-docs",
+  "name": "intercom",
+  "title": "对讲机",
+  "description": "Create, update, improve, and review Intercom help-center and support documentation. Use when writing new Intercom articles, revising existing docs, auditing a help center for gaps, turning product or codebase context into customer-facing documentation, or working with Intercom workspace content via the Intercom API using a private workspace access token.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "intercom",
+  "function_label": "File-Agent"
+}

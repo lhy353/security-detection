@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:alibabacloud-oos-template-generation",
+  "slug": "alibabacloud-oos-template-generation",
+  "name": "alibabacloud-oos-template-generation",
+  "title": "模板智能生成技巧",
+  "description": "OOS template intelligent generation skill. Use when users need to create, write, or generate Alibaba Cloud OOS (Operation Orchestration Service) automation templates.\nApplicable for: generating OOS templates based on O&M requirements, querying available Actions and OpenAPIs, validating template syntax, iteratively fixing template errors.\nTriggers: \"generate template\", \"create template\", \"write a template\", \"OOS template\", \"operation orchestration\", \"automation template\", \"help me orchestrate\"",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "OOS Template Intelligent Generation Skill"
+}

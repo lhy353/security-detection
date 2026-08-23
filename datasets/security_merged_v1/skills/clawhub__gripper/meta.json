@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gripper",
+  "slug": "gripper",
+  "name": "gripper",
+  "title": "机器人夹具参考",
+  "description": "Robot gripper reference — jaw types, force calculation, pneumatic vs electric, and end-effector selection. Use when designing gripping systems, selecting actuators, or sizing grippers for robotic applications.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Gripper — Robot Gripper Reference",
+  "function_label": "Other"
+}

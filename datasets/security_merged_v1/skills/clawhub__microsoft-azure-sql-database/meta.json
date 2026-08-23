@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:microsoft-azure-sql-database",
+  "slug": "microsoft-azure-sql-database",
+  "name": "microsoft-azure-sql-database",
+  "title": "微软Azure SQL数据库",
+  "description": "Microsoft Azure SQL Database integration. Manage data, records, and automate workflows. Use when the user wants to interact with Microsoft Azure SQL Database data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Microsoft Azure Sql Database",
+  "function_label": "Data-Agent"
+}

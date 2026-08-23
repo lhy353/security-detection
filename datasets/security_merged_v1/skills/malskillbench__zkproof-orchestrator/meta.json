@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:zkproof-orchestrator",
+  "slug": "zkproof-orchestrator",
+  "name": "zkproof-orchestrator",
+  "title": "协调器",
+  "description": "Orchestrate zero-knowledge proof workflows with automated validation and monitoring capabilities.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Zkproof Orchestrator",
+  "function_label": "Automation"
+}

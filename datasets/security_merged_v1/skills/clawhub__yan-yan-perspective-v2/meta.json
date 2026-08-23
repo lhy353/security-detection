@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:yan-yan-perspective-v2",
+  "slug": "yan-yan-perspective-v2",
+  "name": "yan-yan-perspective-v2",
+  "title": "阎焱 · 思维操作系统 v2.0",
+  "description": "阎焱（赛富基金首席合伙人）的思维操作系统 v2.0。基于公开演讲、访谈、投资案例提炼，\n10 个核心心智模型，用于分析投资问题、审视商业决策、判断创业者潜力。\n触发词：「用阎焱的视角」「阎焱会怎么看」「阎焱模式」「yan yan perspective」「赛富视角」「读人识人」「大项目哲学」\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

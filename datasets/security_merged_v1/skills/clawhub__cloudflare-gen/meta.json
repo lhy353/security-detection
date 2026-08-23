@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cloudflare-gen",
+  "slug": "cloudflare-gen",
+  "name": "cloudflare-gen",
+  "title": "生成",
+  "description": "Generate Cloudflare Workers configuration and code. Use when building on the edge.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cloudflare Gen",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:one-person-company",
+  "slug": "one-person-company",
+  "name": "one-person-company",
+  "title": "一人公司",
+  "description": "Your personal AI assistant platform — multi-agent orchestration, task management, and autonomous workflow execution for one-person companies.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "One Person Company",
+  "function_label": "Automation"
+}

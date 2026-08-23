@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:printer-ai-skills",
+  "slug": "printer-ai-skills",
+  "name": "printer-ai",
+  "title": "跨平台本地打印机技能",
+  "description": "Cross-platform local printer CLI - Manage and print to local printers (Windows/macOS/Linux) via the printer-ai CLI. Use when the user needs to print files, query printer status, or manage print jobs. NOT for: cloud/remote printers.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cross-Platform Local Printer Skill",
+  "function_label": "File-Agent"
+}

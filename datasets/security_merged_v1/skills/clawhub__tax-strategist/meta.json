@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:tax-strategist",
+  "slug": "tax-strategist",
+  "name": "税务策略师",
+  "title": "税务策略师 代理",
+  "description": "专注于税务优化、多辖区合规、转让定价和战略税务规划的专业税务策略师。在确保完全遵守中国及地方税务法规的前提下，驾驭复杂的税制以合法合规地优化税负。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

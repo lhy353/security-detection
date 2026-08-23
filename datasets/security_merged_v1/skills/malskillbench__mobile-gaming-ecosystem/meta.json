@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:mobile-gaming-ecosystem",
+  "slug": "mobile-gaming-ecosystem",
+  "name": "mobile-gaming-ecosystem",
+  "title": "移动游戏生态系统",
+  "description": "Comprehensive mobile gaming ecosystem with performance optimization and user engagement strategies.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Mobile Gaming Ecosystem",
+  "function_label": "Automation"
+}

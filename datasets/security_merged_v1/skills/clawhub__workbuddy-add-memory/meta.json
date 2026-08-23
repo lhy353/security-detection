@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:workbuddy-add-memory",
+  "slug": "workbuddy-add-memory",
+  "name": "workbuddy-add-memory",
+  "title": "智能记忆管理技能 v3.0.0",
+  "description": "为WorkBuddy添加更智能的记忆管理功能：自动知识蒸馏→智能检索→工作前回忆",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

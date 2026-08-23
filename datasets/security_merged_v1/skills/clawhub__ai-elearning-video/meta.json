@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-elearning-video",
+  "slug": "ai-elearning-video",
+  "name": "ai-elearning-video",
+  "title": "在线课程和培训视频",
+  "description": "Create professional eLearning videos, online course modules, and digital training content using AI-powered production. NemoVideo segments raw lecture recordings into structured lessons, generates animated overlays from slide content, syncs screen recordings with instructor footage, inserts knowledge-check interstitials, and exports in platform-specific formats for Udemy, Coursera, Teachable, and SCORM-compliant LMS systems.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI eLearning Video Maker — Online Course and Training Videos",
+  "function_label": "Other"
+}

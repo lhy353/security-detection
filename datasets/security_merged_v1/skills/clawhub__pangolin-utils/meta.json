@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pangolin-utils",
+  "slug": "pangolin-utils",
+  "name": "pywayne-visualization-pangolin-utils",
+  "title": "可视化 Pangolin Utils",
+  "description": "3D visualization toolkit wrapping Pangolin viewer for real-time display of point clouds, trajectories, cameras, planes, chessboards, and images. Use when visualizing sensor data (IMU, SLAM, tracking), robot states, or any 3D data with camera poses and trajectories. Supports dual-image display, step mode for debugging, and main camera following.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pywayne Visualization Pangolin Utils",
+  "function_label": "Coding"
+}

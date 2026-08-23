@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:justoneapi-imdb-title-critics-review-summary-query",
+  "slug": "justoneapi-imdb-title-critics-review-summary-query",
+  "name": "IMDb Critics Review Summary API",
+  "title": "评论家评论摘要",
+  "description": "Call GET /api/imdb/title-critics-review-summary-query/v1 for IMDb Critics Review Summary through JustOneAPI with id.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "IMDb Critics Review Summary",
+  "function_label": "Other"
+}

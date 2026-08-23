@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:daily-market-insight",
+  "slug": "daily-market-insight",
+  "name": "daily-market-insight",
+  "title": "每日市场洞察",
+  "description": "每日市场洞察报告生成系统。使用多Agent协作：新闻采集→分析→市场趋势预测→飞书文档报告。每天10:00自动运行。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-short-video",
+  "slug": "ai-short-video",
+  "name": "ai-short-video",
+  "title": "短视频——从镜头生成短片",
+  "description": "Turn a 10-minute vlog recording into 1080p short video clips just by typing what you need. Whether it's generating short clips from long recordings or quick social content, drop your raw footage and describe the result you want. No timeline dragging, no export settings — 1-2 minutes from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Short Video — Generate Short Clips from Footage",
+  "function_label": "Communication"
+}

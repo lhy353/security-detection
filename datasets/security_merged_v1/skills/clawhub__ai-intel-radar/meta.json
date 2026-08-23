@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-intel-radar",
+  "slug": "ai-intel-radar",
+  "name": "ai-intel-radar",
+  "title": "你有英特尔雷达",
+  "description": "Build a high-signal AI intelligence brief from fresh web sources, with separate daily and weekly formats. Use when the user asks for latest AI news, trend monitoring, market/tech updates, or actionable AI scouting reports for business decisions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ai Intel Radar",
+  "function_label": "Other"
+}

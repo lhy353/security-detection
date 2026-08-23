@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:impossible-scene-generator",
+  "slug": "impossible-scene-generator",
+  "name": "impossible-scene-generator",
+  "title": "不可能的场景生成器",
+  "description": "Generate photorealistic impossible scenes and anti-physics landscapes powered by AI — crystal mountains with auroras, floating islands, organic-growing buildings, surreal cinematic environments, and dreamlike sci-fi vistas. Perfect for desktop wallpapers, concept art, book covers, album art, sci-fi posters, fantasy worldbuilding, and print-on-demand artwork via the Neta AI image generation API (free trial at neta.art/open).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Impossible Scene Generator",
+  "function_label": "Other"
+}

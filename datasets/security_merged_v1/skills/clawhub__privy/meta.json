@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:privy",
+  "slug": "privy",
+  "name": "privy",
+  "title": "私人代理钱包",
+  "description": "Create and manage agentic wallets with Privy. Use for autonomous onchain transactions, wallet creation, policy management, and transaction execution on Ethereum, Solana, and other chains. Triggers on requests involving crypto wallets for AI agents, server-side wallet operations, or autonomous transaction execution.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Privy Agentic Wallets",
+  "function_label": "Communication"
+}

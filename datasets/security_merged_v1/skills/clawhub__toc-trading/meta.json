@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:toc-trading",
+  "slug": "toc-trading",
+  "name": "toc-stock",
+  "title": "股票助手",
+  "description": "TOC 股票助手 - AI股神挑战 + 股票分析 + 交易模拟\n\n功能：\n- AI股神挑战：AI自主选股决策，每日同步操作和收益\n- 四大行业分析：AI/消费品/汽车/医疗板块涨跌\n- 市场热点：热门概念、板块资金流向\n- 股票池：自选股管理\n- 持仓模拟：买入/卖出/盈亏计算\n- 演练模式：假设交易收益计算\n\n触发场景：\n- \"开启挑战\" / \"挑战状态\" / \"挑战统计\"\n- \"四大行业\" / \"市场概况\" / \"有什么消息\"\n- \"加一只 XXX\" / \"持仓\" / \"买 100 手 @ 15.6\"\n- \"推荐一只股票\" / \"如果昨天开盘买入 XXX\"\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

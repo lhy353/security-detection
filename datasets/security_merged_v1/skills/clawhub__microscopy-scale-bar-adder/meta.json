@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:microscopy-scale-bar-adder",
+  "slug": "microscopy-scale-bar-adder",
+  "name": "microscopy-scale-bar-adder",
+  "title": "显微镜比例尺加法器",
+  "description": "Add accurate, publication-ready scale bars to microscopy images given pixel-to-unit calibration data.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Microscopy Scale Bar Adder",
+  "function_label": "Other"
+}

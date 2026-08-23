@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:media-saber-cloud-assistant",
+  "slug": "media-saber-cloud-assistant",
+  "name": "media-saber-cloud-assistant",
+  "title": "云助手",
+  "description": "在 Media Saber MCP 中运行云存储和下载任务，包括 115 转移和磁力/ed2k 离线下载。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

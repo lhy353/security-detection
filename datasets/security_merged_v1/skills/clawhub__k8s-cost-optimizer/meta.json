@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:k8s-cost-optimizer",
+  "slug": "k8s-cost-optimizer",
+  "name": "k8s-cost-optimizer",
+  "title": "成本优化器",
+  "description": "Find and rank Kubernetes cost-saving opportunities from kubectl, metrics-server, kube-state-metrics, and cloud billing. Identifies overprovisioned CPU/memory requests and limits, idle namespaces and workloads, oversized PersistentVolumes, unused LoadBalancer services, expensive node types, missing HorizontalPodAutoscalers, and clusters that haven't adopted spot/preemptible/Graviton nodes. Outputs a ranked list of recommendations with $/month savings estimates and ready-to-apply YAML patches. Covers EKS, GKE, and AKS specifics including instance pricing, savings plans, committed-use discounts, and reservation strategies. Use when asked to cut a Kubernetes cloud bill, right-size workloads, plan a spot migration, build a FinOps report, or tune HPA settings. Triggers on \"kubernetes cost\", \"k8s cost\", \"eks cost\", \"gke cost\", \"aks cost\", \"right-size\", \"rightsize\", \"kubecost\", \"opencost\", \"vpa\", \"hpa\", \"spot instances\", \"preemptible\", \"savings plan\", \"node pool\", \"pod requests\", \"finops\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kubernetes Cost Optimizer",
+  "function_label": "Automation"
+}

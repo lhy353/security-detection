@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:xhs-parser",
+  "slug": "xhs-parser",
+  "name": "xhs-parser",
+  "title": "小红书链接解析",
+  "description": "小红书（XHS/RedNote）链接解析工具。解析小红书短链接或作品链接，获取作品信息（标题、作者、正文、标签、下载地址）。当用户发送小红书链接（xhslink.com 或 xiaohongshu.com）并要求解析、下载、分析内容时触发。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

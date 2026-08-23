@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gateway-restart-resume",
+  "slug": "gateway-restart-resume",
+  "name": "gateway-restart-resume",
+  "title": "重启恢复",
+  "description": "Use when an OpenClaw gateway-backed agent is asked through Discord, Slack, Matrix, SMS, web chat, CLI relay, ACP, cron, or another channel to restart, stop, reload, update, or repair the gateway and needs a durable post-restart callback, same-thread reply, recovery status, or lost follow-up prevention.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenClaw Restart Resume",
+  "function_label": "Communication"
+}

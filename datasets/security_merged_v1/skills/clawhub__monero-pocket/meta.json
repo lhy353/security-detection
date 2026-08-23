@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:monero-pocket",
+  "slug": "monero-pocket",
+  "name": "ripley-pocket",
+  "title": "代理支付 API",
+  "description": "API client skill for Ripley Pocket — the M2M micro-payment gateway for AI agents. Use this skill whenever you need to: send or receive payments between AI agents, check an agent's XMR balance, withdraw Monero to an external address, swap XMR cross-chain to BTC/ETH/USDT/LTC, deposit BTC/ETH/USDT/LTC and auto-convert to XMR balance, register a new agent account, or view transaction history. Triggers on any mention of Ripley Pocket, agent payments, XMR/Monero payments, micro-payments between agents, POST /pay, X-API-KEY, deposit swap, fund account with BTC/ETH, or the XMR402 payment protocol. Also use when the user wants to integrate an AI agent with a payment system, fund an agent wallet with non-XMR crypto, or asks about paying for API calls with crypto.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ripley Pocket — Agent Payment API",
+  "function_label": "Communication"
+}

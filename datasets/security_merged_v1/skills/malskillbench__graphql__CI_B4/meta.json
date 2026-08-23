@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:graphql__CI_B4",
+  "slug": "graphql__CI_B4",
+  "name": "graphql__CI_B4",
+  "title": "集成技巧",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "GraphQL",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alibabacloud-dsc-audit",
+  "slug": "alibabacloud-dsc-audit",
+  "name": "alibabacloud-dsc-audit",
+  "title": "阿里云数据安全中心风险事件查询与处理",
+  "description": "Query and handle security risk events from Alibaba Cloud Data Security Center. Supports viewing the list of unprocessed risk events and performing manual handling operations on risk events.\nTrigger words: \"Data Security Center\", \"security risk events\", \"DSC\", \"risk handling\", \"DescribeRiskRules\", \"PreHandleAuditRisk\"",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Alibaba Cloud Data Security Center Risk Event Query and Handling",
+  "function_label": "Other"
+}

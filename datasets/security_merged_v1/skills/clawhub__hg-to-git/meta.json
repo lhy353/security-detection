@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hg-to-git",
+  "slug": "hg-to-git",
+  "name": "hg-to-git",
+  "title": "到 Git 转换器",
+  "description": "Convert Mercurial (hg) repositories to Git. Use when migrating from Mercurial to Git, converting hg repos to git format, preserving history and branches during VCS migration, or when working with legacy Mercurial repositories that need to be moved to Git.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mercurial to Git Converter",
+  "function_label": "Communication"
+}

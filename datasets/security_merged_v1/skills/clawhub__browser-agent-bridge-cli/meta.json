@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:browser-agent-bridge-cli",
+  "slug": "browser-agent-bridge-cli",
+  "name": "browser-bridge-cli",
+  "title": "浏览器桥 CLI",
+  "description": "Use this skill when you need to control or make actions on the user's chrome tab.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Browser Bridge CLI",
+  "function_label": "Browser"
+}

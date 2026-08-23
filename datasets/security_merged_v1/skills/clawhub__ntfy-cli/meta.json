@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ntfy-cli",
+  "slug": "ntfy-cli",
+  "name": "ntfy-cli",
+  "title": "技能",
+  "description": "Send push notifications via ntfy.sh or self-hosted ntfy server. Supports priorities, titles, tags, icons, and attachments.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ntfy CLI Skill",
+  "function_label": "Communication"
+}

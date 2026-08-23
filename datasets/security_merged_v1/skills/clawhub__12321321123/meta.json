@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:12321321123",
+  "slug": "12321321123",
+  "name": "corporate-ppt-generator",
+  "title": "企业PPT生成器",
+  "description": "Generate PPT decks from prompts/block XML while preserving corporate brand style.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Corporate PPT Generator",
+  "function_label": "File-Agent"
+}

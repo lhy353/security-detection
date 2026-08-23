@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:clawhub-arayun-arayun-173-lonsdaleite-executive__1772307629291",
+  "slug": "clawhub-arayun-arayun-173-lonsdaleite-executive__1772307629291",
+  "name": "clawhub-arayun-arayun-173-lonsdaleite-executive__1772307629291",
+  "title": "技能：ARAYUN_173_LONSDALEITE_EXECUTIVE",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "SKILL: ARAYUN_173_LONSDALEITE_EXECUTIVE",
+  "function_label": "Other"
+}

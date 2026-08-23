@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:youmind",
+  "slug": "youmind",
+  "name": "youmind",
+  "title": "技能",
+  "description": "This skill should be used when interacting with the YouMind API to manage content such as boards, crafts, notes, picks, and materials. It provides installation and usage instructions for the youmind CLI, which enables searching, inspecting, and calling YouMind's OpenAPI endpoints.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "YouMind CLI Skill",
+  "function_label": "Other"
+}

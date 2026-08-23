@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dukaan",
+  "slug": "dukaan",
+  "name": "dukaan",
+  "title": "一家商店",
+  "description": "Dukaan integration. Manage Recordses. Use when the user wants to interact with Dukaan data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dukaan",
+  "function_label": "Browser"
+}

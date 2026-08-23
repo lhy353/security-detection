@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:obsidian-linux",
+  "slug": "obsidian-linux",
+  "name": "obsidian",
+  "title": "黑曜石",
+  "description": "Work with Obsidian vaults (plain Markdown notes) and automate via notesmd-cli.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Obsidian",
+  "function_label": "Other"
+}

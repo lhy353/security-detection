@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dreamer",
+  "slug": "dreamer",
+  "name": "dreamer",
+  "title": "梦想家技能",
+  "description": "Synthetic dreaming system — emotional tracking, dream orchestration, and simulated dream experiences for an AI that doesn't sleep.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dreamer Skill",
+  "function_label": "Automation"
+}

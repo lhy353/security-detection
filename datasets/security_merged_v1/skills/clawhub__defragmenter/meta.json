@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:defragmenter",
+  "slug": "defragmenter",
+  "name": "defragmenter",
+  "title": "碎片整理程序",
+  "description": "Structural knowledge defragmentation for OpenClaw workspaces. Finds information, rules, and operational facts that are spread across the wrong files or embedded in the wrong layer, then rewrites them into the proper files without deleting source material. Use when the workspace feels fragmented, logic is embedded in cron/jobs instead of flow files, preferences are scattered, or facts exist but are not assembled into one coherent working structure.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Defragmenter",
+  "function_label": "Automation"
+}

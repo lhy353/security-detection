@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pagerduty-oncall",
+  "slug": "pagerduty-oncall",
+  "name": "pagerduty-oncall",
+  "title": "随叫随到技能",
+  "description": "Manage PagerDuty incidents, on-call schedules, escalation policies, and services via the PagerDuty REST API. Use when you need to: (1) List or acknowledge active incidents, (2) Trigger or resolve incidents, (3) Check who is on-call right now, (4) View escalation policies, (5) Manage PagerDuty services, (6) Get incident timelines or notes, (7) Snooze or reassign incidents, (8) Run PagerDuty operations from the agent. Requires PAGERDUTY_API_KEY env var.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PagerDuty On-Call Skill",
+  "function_label": "Communication"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:douban-cli",
+  "slug": "douban-cli",
+  "name": "douban-cli",
+  "title": "豆瓣电影/书籍/影人/用户收藏查询与标记 CLI",
+  "description": "豆瓣电影/书籍/影人/用户收藏查询与标记 CLI。触发词：豆瓣、电影推荐、热门电影、想看什么、top250、美剧日剧韩剧、影评短评、标记看过、评分、好书推荐、书籍、豆列、关注、导出观影记录、影人、演员导演。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Browser"
+}

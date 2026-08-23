@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:laundry-care-symbol-decoder",
+  "slug": "laundry-care-symbol-decoder",
+  "name": "laundry-care-symbol-decoder",
+  "title": "洗衣护理符号解码表",
+  "description": "Decode clothing care symbols into a one-garment or batch care sheet with symbol meanings, actions, avoid notes, delicate-fabric warnings, and label-readability flags.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Laundry Care Symbol Decoder Sheet",
+  "function_label": "Other"
+}

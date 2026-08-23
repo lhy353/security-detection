@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:self-improving-legal",
+  "slug": "self-improving-legal",
+  "name": "self-improving-legal",
+  "title": "自我提升法律技能",
+  "description": "Captures clause risks, compliance gaps, precedent shifts, contract deviations, regulatory changes, and litigation exposure to enable continuous legal operations improvement. Use when: (1) An unfavorable clause is accepted or slips through review, (2) A compliance deadline is missed or approaching, (3) A new regulation impacts the organization, (4) A contract remains unsigned past SLA, (5) An IP infringement notice is received, (6) New case law changes interpretation in a relevant jurisdiction, (7) A data subject access request reveals process gaps.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Self-Improving Legal Skill",
+  "function_label": "Other"
+}

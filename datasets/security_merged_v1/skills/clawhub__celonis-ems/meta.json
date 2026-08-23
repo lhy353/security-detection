@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:celonis-ems",
+  "slug": "celonis-ems",
+  "name": "celonis-ems",
+  "title": "塞洛尼斯·埃姆斯",
+  "description": "Celonis EMS integration. Manage Organizations. Use when the user wants to interact with Celonis EMS data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Celonis Ems",
+  "function_label": "Browser"
+}

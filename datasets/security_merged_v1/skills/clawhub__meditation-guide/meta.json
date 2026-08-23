@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:meditation-guide",
+  "slug": "meditation-guide",
+  "name": "meditation-guide",
+  "title": "冥想指南",
+  "description": "Guided meditation with breathing exercises and session tracking. Use when practicing mindfulness.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Meditation Guide",
+  "function_label": "Other"
+}

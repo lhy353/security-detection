@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:security-group-auditor",
+  "slug": "security-group-auditor",
+  "name": "aws-security-group-auditor",
+  "title": "安全组和网络暴露审核员",
+  "description": "Audit AWS Security Groups and VPC configurations for dangerous internet exposure",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AWS Security Group & Network Exposure Auditor",
+  "function_label": "Data-Agent"
+}

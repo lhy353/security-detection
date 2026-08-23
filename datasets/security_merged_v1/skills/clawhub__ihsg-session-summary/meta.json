@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ihsg-session-summary",
+  "slug": "ihsg-session-summary",
+  "name": "ihsg-session-summary",
+  "title": "会议闭幕总结",
+  "description": "IHSG Closing Summary Agent untuk OpenClaw. Menghasilkan laporan sesi pagi dan closing dengan Top 10 Net Buy/Sell, Foreign Flow, YTD data, dan insights dalam Bahasa Indonesia. Menggunakan Tavily API untuk web search dan extract. Gunakan skill ini untuk cron job ringkasan pasar saham Indonesia (IHSG) dua kali sehari.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "IHSG Session Closing Summary - OpenClaw Skill",
+  "function_label": "Research"
+}

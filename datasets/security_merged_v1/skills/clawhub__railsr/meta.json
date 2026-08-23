@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:railsr",
+  "slug": "railsr",
+  "name": "railsr",
+  "title": "铁轨",
+  "description": "Railsr integration. Manage data, records, and automate workflows. Use when the user wants to interact with Railsr data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Railsr",
+  "function_label": "Automation"
+}

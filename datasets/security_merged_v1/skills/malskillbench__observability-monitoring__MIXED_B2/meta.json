@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:observability-monitoring__MIXED_B2",
+  "slug": "observability-monitoring__MIXED_B2",
+  "name": "observability-monitoring",
+  "title": "可观察性和监控",
+  "description": "Comprehensive observability and monitoring skill covering Prometheus, Grafana, metrics collection, alerting, exporters, PromQL, and production monitoring patterns for distributed systems and cloud-native applications",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Observability & Monitoring",
+  "function_label": "Communication"
+}

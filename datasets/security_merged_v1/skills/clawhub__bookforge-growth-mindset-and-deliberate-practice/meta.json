@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-growth-mindset-and-deliberate-practice",
+  "slug": "bookforge-growth-mindset-and-deliberate-practice",
+  "name": "growth-mindset-and-deliberate-practice",
+  "title": "成长心态和刻意练习",
+  "description": "Diagnose fixed vs growth mindset patterns and design a deliberate practice protocol for expertise development. Use when someone wants to develop expertise in a skill domain, is struggling to improve despite repeated practice, attributes their performance plateau to talent limits, praises or criticizes someone for being a \"natural,\" says \"I'm just not good at this,\" avoids challenges to protect their reputation, or asks how to get to 10000 hours effectively. Applies Dweck's 4-quadrant model (fixed/growth mindset × performance/learning goal orientation) to classify the learner's current stance, identifies fixed-mindset signals and attribution patterns, then designs a deliberate practice plan using Ericsson's 5 characteristics. Growth mindset is the prerequisite — without it, deliberate practice collapses into avoidance. Together they form a complete talent vs effort expertise-building pathway. Produces: mindset diagnostic report + deliberate practice plan with feedback loops, mental model targets, and practice structure.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Growth Mindset and Deliberate Practice",
+  "function_label": "Communication"
+}

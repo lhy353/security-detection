@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-signet",
+  "slug": "openclaw-signet",
+  "name": "openclaw-signet",
+  "title": "开爪徽记",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Openclaw Signet",
+  "function_label": "Other"
+}

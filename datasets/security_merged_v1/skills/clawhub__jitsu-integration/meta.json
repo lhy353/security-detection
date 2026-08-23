@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jitsu-integration",
+  "slug": "jitsu-integration",
+  "name": "jitsu",
+  "title": "实术",
+  "description": "Jitsu integration. Manage data, records, and automate workflows. Use when the user wants to interact with Jitsu data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Jitsu",
+  "function_label": "Automation"
+}

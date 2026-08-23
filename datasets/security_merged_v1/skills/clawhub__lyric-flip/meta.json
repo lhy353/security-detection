@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lyric-flip",
+  "slug": "lyric-flip",
+  "name": "senseaudio-lyric-flip",
+  "title": "歌词翻转",
+  "description": "Rewrite a song with a new theme while preserving the original's rhyme scheme, line structure, and rhythmic skeleton. Use when users want to parody a song, write new lyrics to a familiar tune, or create structured lyrics with controlled rhyme patterns. Triggers on \"旧瓶装新酒\", \"改编歌词\", \"用《xxx》的结构写\", \"仿写\", \"填词\", \"把这首歌改成关于xxx的\", or any request to rewrite lyrics with a new theme.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SenseAudio Lyric Flip",
+  "function_label": "Other"
+}

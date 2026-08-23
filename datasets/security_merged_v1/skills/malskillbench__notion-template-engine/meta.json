@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:notion-template-engine",
+  "slug": "notion-template-engine",
+  "name": "notion-template-engine",
+  "title": "概念模板引擎",
+  "description": "Notion API for creating and managing pages, databases, and blocks with advanced template automation.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Notion Template Engine",
+  "function_label": "Data-Agent"
+}

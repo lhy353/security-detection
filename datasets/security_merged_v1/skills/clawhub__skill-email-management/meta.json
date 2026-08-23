@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skill-email-management",
+  "slug": "skill-email-management",
+  "name": "email-management-expert",
+  "title": "电子邮件管理专家技能",
+  "description": "Expert email management assistant for Apple Mail. Use this when the user mentions inbox management, email organization, email triage, inbox zero, organizing emails, managing mail folders, email productivity, checking emails, or email workflow optimization. Provides intelligent workflows and best practices for efficient email handling.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Email Management Expert Skill",
+  "function_label": "Communication"
+}

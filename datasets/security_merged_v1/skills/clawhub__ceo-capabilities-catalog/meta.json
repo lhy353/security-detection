@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ceo-capabilities-catalog",
+  "slug": "ceo-capabilities-catalog",
+  "name": "ceo-capabilities-catalog",
+  "title": "首席执行官能力目录",
+  "description": "Catalog the current OpenClaw instance's installed skills, custom skills, and coordination-oriented capabilities. Use when the user asks what this agent can do, what skills are installed, or needs a backup inventory of current capabilities.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ceo Capabilities Catalog",
+  "function_label": "Other"
+}

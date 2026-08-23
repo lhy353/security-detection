@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:coros-skill",
+  "slug": "coros-skill",
+  "name": "🏃 coros",
+  "title": "高驰跑步数据获取",
+  "description": "COROS 高驰跑步数据获取（跑步专项）：\n- 自动登录 COROS 账号（支持 Token/Cookie 缓存）\n- 获取 Dashboard（训练状态、负荷分析、最近运动）\n- 获取活动列表与活动详情（含分圈、天气、训练效果）\n- 获取训练日程与训练目标汇总\n触发词示例：\n- \"查看高驰跑步数据\"\n- \"我的跑步记录\"\n- \"高驰运动分析\"\n- \"今天跑步了吗\"\n- \"帮我看最近一次跑步详情\"\n- \"给我做个跑步复盘\"",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

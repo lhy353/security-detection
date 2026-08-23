@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skill-cutmv-video",
+  "slug": "skill-cutmv-video",
+  "name": "skill-cutmv-video",
+  "title": "剪切并导出编辑后的视频",
+  "description": "cut raw video footage into trimmed edited clips with this skill. Works with MP4, MOV, AVI, WebM files up to 500MB. content creators and video editors use it for cutting and trimming raw video footage into clean final clips — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Skill Cut MV Video — Cut and Export Edited Videos",
+  "function_label": "Communication"
+}

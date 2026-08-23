@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ping-beads",
+  "slug": "ping-beads",
+  "name": "ping-beads",
+  "title": "平珠",
+  "description": "Verify the bead daemon is alive and responsive",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ping Beads",
+  "function_label": "Other"
+}

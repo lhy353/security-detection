@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:simplify",
+  "slug": "simplify",
+  "name": "simplify",
+  "title": "简化",
+  "description": "Manually trigger the cdd-code-simplifier agent to review and simplify code",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Simplify",
+  "function_label": "Automation"
+}

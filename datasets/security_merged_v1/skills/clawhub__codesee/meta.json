@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:codesee",
+  "slug": "codesee",
+  "name": "codesee",
+  "title": "代码查看器",
+  "description": "CodeSee integration. Manage data, records, and automate workflows. Use when the user wants to interact with CodeSee data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Codesee",
+  "function_label": "Automation"
+}

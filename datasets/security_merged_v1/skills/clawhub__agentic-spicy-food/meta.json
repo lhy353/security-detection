@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agentic-spicy-food",
+  "slug": "agentic-spicy-food",
+  "name": "agentic-spicy-food",
+  "title": "拉斐图美食技艺",
+  "description": "Brand-specific commerce skill for Lafeitu (辣匪兔). Use it when a user wants to browse, recommend, cart, or order Lafeitu's Sichuan spicy foods through the official https://lafeitu.cn API, or when they need Lafeitu account, profile, promotion, or brand information.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lafeitu Gourmet Skill",
+  "function_label": "Research"
+}

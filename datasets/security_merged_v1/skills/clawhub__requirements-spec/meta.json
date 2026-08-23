@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:requirements-spec",
+  "slug": "requirements-spec",
+  "name": "requirements-spec",
+  "title": "需求规格",
+  "description": "Assists in writing high-quality requirements documents using an 8-dimension framework. Covers background, objectives, scope, detailed flows, non-functional needs, data tracking, acceptance criteria, and risk assessment. Use when drafting, writing, reviewing, or structuring product requirements, PRDs, or requirements documents.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Requirements Specification",
+  "function_label": "Data-Agent"
+}

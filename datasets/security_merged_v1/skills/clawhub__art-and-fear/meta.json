@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:art-and-fear",
+  "slug": "art-and-fear",
+  "name": "art-and-fear",
+  "title": "艺术与恐惧",
+  "description": "David Bayles and Ted Orland's 'Art & Fear: Observations on the Perils (and Rewards) of Artmaking' — a classic guide to the creative process. Not about how to paint or write, but about the internal obstacles that prevent artists from doing their work: fear, perfectionism, self-doubt, and the gap between vision and execution. An essential companion for any artist, writer, or creator struggling to make the work they want to make.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Art And Fear",
+  "function_label": "Other"
+}

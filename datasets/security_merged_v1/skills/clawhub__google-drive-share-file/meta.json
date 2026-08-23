@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:google-drive-share-file",
+  "slug": "google-drive-share-file",
+  "name": "Google Drive Share File",
+  "title": "云端硬盘共享文件",
+  "description": "Atomic node skill to share a file in Google Drive using the gog CLI.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Google Drive Share File",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:git-summary",
+  "slug": "git-summary",
+  "name": "git-summary",
+  "title": "总结技巧",
+  "description": "Get a quick summary of the current Git repository including status, recent commits, branches, and contributors.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Git Summary Skill",
+  "function_label": "Coding"
+}

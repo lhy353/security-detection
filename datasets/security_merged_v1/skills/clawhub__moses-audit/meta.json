@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:moses-audit",
+  "slug": "moses-audit",
+  "name": "moses-audit",
+  "title": "审计追踪",
+  "description": "MO§ES™ Audit Trail — SHA-256 chained append-only governance ledger. Every agent appends before final response. Provides moses_log_action and moses_verify_chain tools. Tamper-evident. Part of the moses-governance bundle. Patent pending Serial No. 63/877,177.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MO§ES™ Audit Trail",
+  "function_label": "Other"
+}

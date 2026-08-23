@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kid-activity-registration-command-center",
+  "slug": "kid-activity-registration-command-center",
+  "name": "Kid Activity Registration Command Center",
+  "title": "儿童活动登记指挥中心",
+  "description": "Organize child activity registrations with deadline tracking, document checklists, payments, gear, schedules, transportation, and follow-up reminders.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kid Activity Registration Command Center",
+  "function_label": "Other"
+}

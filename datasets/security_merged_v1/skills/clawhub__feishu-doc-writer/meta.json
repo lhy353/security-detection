@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:feishu-doc-writer",
+  "slug": "feishu-doc-writer",
+  "name": "feishu-doc-writer",
+  "title": "飞书文档写入工具",
+  "description": "飞书文档写入工具。用于解决飞书文档创建后内容为空的问题。正确流程：先用 create 创建文档（只有标题），再用 append 追加内容。支持 Markdown 格式自动转换。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

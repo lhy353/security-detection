@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:rush-find-skills",
+  "slug": "rush-find-skills",
+  "name": "clawdhub-find-skills",
+  "title": "寻找技能（重新技能）",
+  "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. Uses reskill as the package manager.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Find Skills (reskill)",
+  "function_label": "Automation"
+}

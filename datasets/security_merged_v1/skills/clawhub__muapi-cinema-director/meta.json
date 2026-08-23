@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:muapi-cinema-director",
+  "slug": "muapi-cinema-director",
+  "name": "muapi-cinema-director",
+  "title": "导演技能",
+  "description": "Direct high-fidelity cinematic video with AI — translates creative intent into technical cinematographic directives for Veo3, Kling, and Luma video models via muapi.ai",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Cinema Director Skill",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:windows-wechat-mcp",
+  "slug": "windows-wechat-mcp",
+  "name": "windows-wechat-mcp",
+  "title": "微信MCP",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Windows Wechat Mcp",
+  "function_label": "Communication"
+}

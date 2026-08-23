@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:prompt-engineer-toolkit",
+  "slug": "prompt-engineer-toolkit",
+  "name": "prompt-engineer-toolkit",
+  "title": "提示工程师工具包",
+  "description": "Analyzes and rewrites prompts for better AI output, creates reusable prompt templates for marketing use cases (ad copy, email campaigns, social media), and structures end-to-end AI content workflows. Use when the user wants to improve prompts for AI-assisted marketing, build prompt templates, or optimize AI content workflows. Also use when the user mentions 'prompt engineering,' 'improve my prompts,' 'AI writing quality,' 'prompt templates,' or 'AI content workflow.'",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Prompt Engineer Toolkit"
+}

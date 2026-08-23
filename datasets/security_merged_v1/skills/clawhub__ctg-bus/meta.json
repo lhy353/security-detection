@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ctg-bus",
+  "slug": "ctg-bus",
+  "name": "ctg-bus",
+  "title": "中旅巴士查询",
+  "description": "查询中旅巴士（hkctgbus）班次、票价和余票。当用户提到「中旅」「中旅巴士」「ctg」「hkctgbus」「中旅快线」「跨境巴士」等查询时触发。支持中文自然语言输入，自动解析日期、城市、站点。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

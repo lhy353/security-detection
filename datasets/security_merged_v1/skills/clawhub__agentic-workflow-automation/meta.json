@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agentic-workflow-automation",
+  "slug": "agentic-workflow-automation",
+  "name": "agentic-workflow-automation",
+  "title": "代理工作流程自动化",
+  "description": "Generate reusable multi-step agent workflow blueprints. Use for trigger/action orchestration, deterministic workflow definitions, and automation handoff artifacts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agentic Workflow Automation",
+  "function_label": "Automation"
+}

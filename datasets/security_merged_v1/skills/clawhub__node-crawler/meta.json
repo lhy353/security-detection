@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:node-crawler",
+  "slug": "node-crawler",
+  "name": "node-crawler",
+  "title": "节点爬虫（`crawler`包）",
+  "description": "Node.js web crawler for production-grade, large-scale tasks — NOT for simple one-off requests. Use only when: bulk scraping, batch downloading, multi-page crawling, long-running spiders, or complex multi-step workflows that need connection pooling, rate limiting, proxy rotation, automatic retries, and Cheerio   parsing. Skip this for single pages or simple fetch — use `curl` instead. Triggers: scrape website at scale, crawl hundreds of pages, batch download files, web spider, data extraction from many URLs, crawl multiple pages with retries and proxies.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Node Crawler (`crawler` package)",
+  "function_label": "Browser"
+}

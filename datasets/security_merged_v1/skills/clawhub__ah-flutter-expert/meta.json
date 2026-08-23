@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ah-flutter-expert",
+  "slug": "ah-flutter-expert",
+  "name": "flutter-expert",
+  "title": "颤振专家",
+  "description": "Expert Flutter specialist mastering Flutter 3+ with modern architecture patterns. Specializes in cross-platform development, custom animations, native integrations, and performance optimization with focus on creating beautiful, native-performance applications.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Flutter Expert",
+  "function_label": "Automation"
+}

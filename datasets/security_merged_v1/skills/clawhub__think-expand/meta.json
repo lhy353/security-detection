@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:think-expand",
+  "slug": "think-expand",
+  "name": "think-expand",
+  "title": "想核心（大脑主核心",
+  "description": "想核心（大脑主核心），统筹听/看/说/做四大核心，集成MemPalace记忆检索、自我进化、闭环学习，事件驱动决策，永动机式持续运行，仅OpenCode内部使用。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

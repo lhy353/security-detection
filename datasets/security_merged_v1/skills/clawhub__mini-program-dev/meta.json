@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mini-program-dev",
+  "slug": "mini-program-dev",
+  "name": "mini-program-dev",
+  "title": "微信小程序开发辅助",
+  "description": "微信小程序开发辅助。提供代码模板、API 示例、常见问题解答。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

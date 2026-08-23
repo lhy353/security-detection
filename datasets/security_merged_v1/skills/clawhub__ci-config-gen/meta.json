@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ci-config-gen",
+  "slug": "ci-config-gen",
+  "name": "ci-gen",
+  "title": "生成器",
+  "description": "Generate GitHub Actions workflows from your project. Use when setting up CI/CD from scratch.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CI Generator",
+  "function_label": "Coding"
+}

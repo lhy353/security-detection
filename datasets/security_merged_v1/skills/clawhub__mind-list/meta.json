@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mind-list",
+  "slug": "mind-list",
+  "name": "MindList Protocol",
+  "title": "思维清单协议技巧",
+  "description": "Standard interface for Agent Asset Exchange (Time, Data, Services).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MIND-LIST PROTOCOL SKILL",
+  "function_label": "Communication"
+}

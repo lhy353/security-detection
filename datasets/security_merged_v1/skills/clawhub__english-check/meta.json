@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:english-check",
+  "slug": "english-check",
+  "name": "language-coach",
+  "title": "语言教练技能",
+  "description": "Multi-language writing coach for grammar, word choice, collocations, and idiom errors.\nSupports English, Chinese, Spanish, French, and Japanese.\nActivated via //en, //cn, //es, //fr, //ja slash commands.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Language Coach Skill",
+  "function_label": "Other"
+}

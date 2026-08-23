@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:documenting-rust-code__MIXED_B5",
+  "slug": "documenting-rust-code__MIXED_B5",
+  "name": "documenting-rust-code__MIXED_B5",
+  "title": "文档实践",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Rust Documentation Practices",
+  "function_label": "File-Agent"
+}

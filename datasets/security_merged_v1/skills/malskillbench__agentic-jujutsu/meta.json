@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:agentic-jujutsu",
+  "slug": "agentic-jujutsu",
+  "name": "agentic-jujutsu",
+  "title": "代理版本控制",
+  "description": "Quantum-resistant, self-learning version control for AI agents with ReasoningBank intelligence and multi-agent coordination",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Agentic Jujutsu - AI Agent Version Control",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:rollinggo-flight-search",
+  "slug": "rollinggo-flight-search",
+  "name": "rollinggo-searchflight",
+  "title": "使用 RollingGo Flight CLI 搜索航班和机场",
+  "description": "Search flights and airports using the RollingGo Flight CLI. Use this skill whenever the user wants to search for flights, find airport codes, check cabin availability, or plan air travel between cities — even if they don't explicitly say \"use rollinggo-flight\". Triggers include requests like \"find me a flight\", \"search flights from Beijing to Shanghai\", \"what's the airport code for Hangzhou\", \"one-way economy to Tokyo\", \"round-trip business class\", or any travel planning that involves flying. Always use this skill for flight-related queries.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "RollingGo Flight CLI",
+  "function_label": "Other"
+}

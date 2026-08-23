@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:terminal-pet",
+  "slug": "terminal-pet",
+  "name": "Terminal Pet. 终端宠物。Mascota de Terminal.",
+  "title": "终端宠物",
+  "description": "A terminal pet for AI agents. Not ASCII art. A real creature with real hunger, accessed via REST API. 73+ species. Permanent death. The terminal pet that needs feeding.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

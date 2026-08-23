@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mema",
+  "slug": "mema",
+  "name": "mema",
+  "title": "集中记忆）",
+  "description": "Mema's personal brain - SQLite metadata index for documents and Redis short-term context buffer. Use for organizing workspace knowledge paths and managing ephemeral session state.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mema Brain (Centralized Memory)",
+  "function_label": "Data-Agent"
+}

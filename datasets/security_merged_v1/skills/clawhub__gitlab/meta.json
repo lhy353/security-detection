@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gitlab",
+  "slug": "gitlab",
+  "name": "GitLab",
+  "title": "规则陷阱、静默失败和 YAML 合并陷阱",
+  "description": "Avoid common GitLab CI/CD mistakes — rules gotchas, silent failures, and YAML merge traps.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Gitlab",
+  "function_label": "Automation"
+}

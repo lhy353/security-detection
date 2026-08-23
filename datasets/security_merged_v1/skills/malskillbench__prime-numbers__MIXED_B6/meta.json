@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:prime-numbers__MIXED_B6",
+  "slug": "prime-numbers__MIXED_B6",
+  "name": "prime-numbers",
+  "title": "素数",
+  "description": "Problem-solving strategies for prime numbers in graph number theory",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Prime Numbers",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:deployer",
+  "slug": "deployer",
+  "name": "deployer",
+  "title": "部署者",
+  "description": "Reference tool for devtools — covers intro, quickstart, patterns and more. Quick lookup for Deployer concepts, best practices, and implementation patterns.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Deployer",
+  "function_label": "Coding"
+}

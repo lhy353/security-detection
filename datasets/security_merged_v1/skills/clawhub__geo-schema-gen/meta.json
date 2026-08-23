@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:geo-schema-gen",
+  "slug": "geo-schema-gen",
+  "name": "geo-schema-gen",
+  "title": "模式标记生成器",
+  "description": "Generate complete, validated Schema.org JSON-LD markup for any content type to boost AI citation rates. Creates structured data for Organization, FAQPage, Article, BlogPosting, Product, HowTo, BreadcrumbList, WebSite, VideoObject, and ImageObject schemas. Use whenever the user mentions adding schema markup, generating structured data, creating JSON-LD, implementing Schema.org, optimizing for rich snippets, or wants to improve how AI understands and cites their content. Also trigger for requests about Organization schema, FAQ schema, Article markup, Product schema, or any structured data implementation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Schema Markup Generator",
+  "function_label": "Other"
+}

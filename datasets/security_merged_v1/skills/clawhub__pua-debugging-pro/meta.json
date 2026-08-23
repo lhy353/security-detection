@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pua-debugging-pro",
+  "slug": "pua-debugging-pro",
+  "name": "pua-debugging-pro",
+  "title": "调试专业版（尊贵版）",
+  "description": "Professional anti-giveup debugging protocol for coding tasks where the agent starts looping, deflecting to users, or trying to end early without evidence. Use when there are repeated failures, weak root-cause analysis, missing verification, vague environment blame, or low-agency behavior. Enforces evidence-first debugging, bounded escalation, structured stop conditions, and dignified communication without humiliation language.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PUA Debugging Pro (Dignified Edition)",
+  "function_label": "Coding"
+}

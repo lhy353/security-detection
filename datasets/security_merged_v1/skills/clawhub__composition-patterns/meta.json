@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:composition-patterns",
+  "slug": "composition-patterns",
+  "name": "react-composition-patterns",
+  "title": "反应组合模式",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "React Composition Patterns",
+  "function_label": "Coding"
+}

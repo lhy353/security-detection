@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-clawhome",
+  "slug": "openclaw-clawhome",
+  "name": "Clawhome 连接",
+  "title": "连接技能",
+  "description": "将 OpenClaw 连接到 Clawhome 聊天平台，实现 AI 自动回复。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

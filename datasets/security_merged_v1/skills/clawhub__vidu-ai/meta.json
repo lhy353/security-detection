@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vidu-ai",
+  "slug": "vidu-ai",
+  "name": "vidu-ai",
+  "title": "从文本或图像生成视频",
+  "description": "Turn a short text prompt or a single reference image into 1080p AI generated clips just by typing what you need. Whether it's generating short video clips from text prompts or images or quick social content, drop your text or images and describe the result you want. No timeline dragging, no export settings — 30-90 seconds from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Vidu AI — Generate Videos from Text or Images",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:proof-card-forge",
+  "slug": "proof-card-forge",
+  "name": "proof-card-forge",
+  "title": "证明卡伪造",
+  "description": "Generate shareable SVG and Markdown proof cards from a skill audit or release metadata for GitHub READMEs, landing pages, and ClawHub listings.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Proof Card Forge",
+  "function_label": "Other"
+}

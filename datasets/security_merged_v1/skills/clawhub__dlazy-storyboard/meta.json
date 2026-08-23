@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dlazy-storyboard",
+  "slug": "dlazy-storyboard",
+  "name": "dlazy-storyboard",
+  "title": "故事板",
+  "description": "storyboard to video, character animation, animated short, AI anime, multi-shot video — script, characters and shot prompts, ref-sheets and first/last frames, i2v shot videos, voice/TTS plus music/SFX/subtitles, then Remotion assembles and renders. Use for a multi-shot animated short with consistent characters.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "storyboard",
+  "function_label": "Communication"
+}

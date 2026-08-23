@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:maxhub-pipixia",
+  "slug": "maxhub-pipixia",
+  "name": "maxhub-pipixia",
+  "title": "皮皮虾 数据助手",
+  "description": "皮皮虾（Pipixia）内容数据查询与轻量运营分析 skill，通过 MaxHub API 查询作品详情、统计、评论、首页流、搜索、热搜、话题和用户相关内容。适合内容研究、互动分析、热点追踪和素材筛选。包含 restricted 高风险能力 fetch_increase_post_view_count（增加浏览数/写操作），不属于纯只读 skill；agent 默认不得调用该能力，必须获得用户明确授权并提示平台 ToS 风险。所有请求发送到 https://www.aconfig.cn。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:the-water-is-wide",
+  "slug": "the-water-is-wide",
+  "name": "the-water-is-wide",
+  "title": "水很宽——教学的技巧、勇气和教育的力量",
+  "description": "Pat Conroy's The Water Is Wide — a memoir of a young white teacher sent to teach impoverished Black children on Yamacraw Island, off the coast of South Carolina in the 1960s. Determined to give his students the education they deserve, Conroy defies a school system that has written them off. A story about the transformative power of teaching, the courage to challenge an unjust system, and the children society forgot.\nCovers 6 use cases: ① The Power of Teaching — how one teacher can change lives (\"I want to make a difference as a teacher\" \"How do I reach students who have been written off\") ② Challenging an Unjust System — standing up when the system is wrong (\"The system is failing the people it should serve\" \"How do I fight a broken system\") ③ Crossing Cultural Divides — teaching and learning across difference (\"I'm working with people from a different background\" \"How do I bridge the gap\") ④ Seeing Potential Others Miss — believing in students no one else believes in (\"Everyone has given up on them\" \"I see what others don't see\") ⑤ The Courage to Be Fired — integrity over conformity (\"I might lose my job for doing the right thing\" \"Was it worth it\") ⑥ Education as Liberation — what real learning looks like (\"Teaching is not about test scores\" \"Real education opens minds\")\nTrigger when users say: \"I want to be a teacher who makes a difference\" \"The system is failing the people it should serve\" \"How do I reach students written off\" \"Everyone has given up on them\" \"I might lose my job for doing what's right\" \"Real education is about opening minds\" or mention: The Water Is Wide / Pat Conroy / Conrack / Yamacraw Island / teaching / education / South Carolina. Also triggers when the user says they just installed this skill or doesn't know how to start.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "The Water Is Wide — A Skill for Teaching, Courage, and the Power of Education",
+  "function_label": "Other"
+}

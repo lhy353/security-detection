@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tutur-bali",
+  "slug": "tutur-bali",
+  "name": "tutur-bali",
+  "title": "巴厘岛赛义德",
+  "description": "Produce, adapt, or review text for Bahasa Bali with an offline-first regional-language workflow. Use when the user asks for Bahasa Bali, Bali regional diction, local-language adaptation, or culturally aware Indonesian-to-Bali wording without claiming native-level fluency or inventing undocumented vocabulary.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tutur Bali",
+  "function_label": "Other"
+}

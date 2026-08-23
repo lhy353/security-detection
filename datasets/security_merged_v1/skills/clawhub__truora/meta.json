@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:truora",
+  "slug": "truora",
+  "name": "truora",
+  "title": "特鲁拉",
+  "description": "Truora integration. Manage data, records, and automate workflows. Use when the user wants to interact with Truora data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Truora",
+  "function_label": "Automation"
+}

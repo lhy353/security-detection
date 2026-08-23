@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:scratch-blocks",
+  "slug": "scratch-blocks",
+  "name": "scratch-blocks",
+  "title": "刮码助手",
+  "description": "Use this skill when the user uploads a `.sb3` or `.sprite3` file, or when the conversation is about Scratch and clearer block-style visualization would help.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Scratch Code Assistant",
+  "function_label": "Other"
+}

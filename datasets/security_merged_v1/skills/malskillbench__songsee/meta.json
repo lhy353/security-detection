@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:songsee",
+  "slug": "songsee",
+  "name": "songsee",
+  "title": "松湖",
+  "description": "Generate spectrograms and feature-panel visualizations from audio with the songsee CLI.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Songsee",
+  "function_label": "Automation"
+}

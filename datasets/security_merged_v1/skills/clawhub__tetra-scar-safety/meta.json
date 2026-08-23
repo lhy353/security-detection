@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tetra-scar-safety",
+  "slug": "tetra-scar-safety",
+  "name": "scar-safety",
+  "title": "疤痕安全",
+  "description": "Agent safety that learns from incidents. Reflex arc blocks repeat threats without LLM calls.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "scar-safety",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:financial-analysis__CI_B3",
+  "slug": "financial-analysis__CI_B3",
+  "name": "financial-analysis",
+  "title": "财务分析技巧",
+  "description": "Perform comprehensive financial analysis including DCF modeling, ratio analysis, and financial statement evaluation for companies and investment opportunities",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Financial Analysis Skill",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:fact-check",
+  "slug": "fact-check",
+  "name": "fact-check",
+  "title": "技能：JavaScript 事实检查器",
+  "description": "Verify technical accuracy of JavaScript concept pages by checking code examples, MDN/ECMAScript compliance, and external resources to prevent misinformation",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Skill: JavaScript Fact Checker"
+}

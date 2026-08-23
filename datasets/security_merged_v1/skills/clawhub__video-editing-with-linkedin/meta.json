@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-editing-with-linkedin",
+  "slug": "video-editing-with-linkedin",
+  "name": "video-editing-with-linkedin",
+  "title": "使用 LinkedIn 进行视频编辑",
+  "description": "Cloud-based video-editing-with-linkedin tool that handles editing and formatting videos for LinkedIn posts. Upload MP4, MOV, AVI, WebM files (up to 500MB), describe what you need, and get 1080p MP4 output in 30-60 seconds. Built for marketers who work with video clips.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Editing with LinkedIn — Edit and Share LinkedIn Videos",
+  "function_label": "Communication"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:repairing-signal-tower",
+  "slug": "repairing-signal-tower",
+  "name": "repairing-signal-tower",
+  "title": "第七章:信号塔修复 (Repairing Signal Tower)",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Other"
+}

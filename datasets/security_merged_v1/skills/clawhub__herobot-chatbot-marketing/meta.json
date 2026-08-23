@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:herobot-chatbot-marketing",
+  "slug": "herobot-chatbot-marketing",
+  "name": "herobot-chatbot-marketing",
+  "title": "聊天机器人营销",
+  "description": "HeroBot Chatbot Marketing integration. Manage Organizations. Use when the user wants to interact with HeroBot Chatbot Marketing data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Herobot Chatbot Marketing",
+  "function_label": "Automation"
+}

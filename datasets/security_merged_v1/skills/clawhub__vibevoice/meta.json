@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vibevoice",
+  "slug": "vibevoice",
+  "name": "vibevoice",
+  "title": "盛传语音 TTS",
+  "description": "Local Spanish TTS using Microsoft VibeVoice. Generate natural voice audio from text, optimized for WhatsApp voice messages.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "VibeVoice TTS",
+  "function_label": "Communication"
+}

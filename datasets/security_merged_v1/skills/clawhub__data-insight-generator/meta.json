@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:data-insight-generator",
+  "slug": "data-insight-generator",
+  "name": "data-insight-generator",
+  "title": "零代码BI分析器",
+  "description": "零代码BI分析器，支持CSV/JSON数据自动清洗、指标计算、图表推荐与业务洞察输出",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

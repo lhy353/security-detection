@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sol-dapp-builder",
+  "slug": "sol-dapp-builder",
+  "name": "solana_dapp_builder",
+  "title": "构建器",
+  "description": "Designs, scopes, and scaffolds production-minded Solana dApps with clear on-chain/off-chain boundaries, modern tooling choices, authority design, and implementation checklists.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Solana dApp Builder",
+  "function_label": "Data-Agent"
+}

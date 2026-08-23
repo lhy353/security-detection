@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:github-bounty-hunter-v2",
+  "slug": "github-bounty-hunter-v2",
+  "name": "github-bounty-hunter",
+  "title": "赏金猎人",
+  "description": "Automatically search for low-competition GitHub bounty tasks (comments < 5) and generate a clean report with details and estimated difficulty.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "GitHub Bounty Hunter",
+  "function_label": "Other"
+}

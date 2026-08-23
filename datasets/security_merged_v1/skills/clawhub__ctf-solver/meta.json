@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ctf-solver",
+  "slug": "ctf-solver",
+  "name": "ctf-solver",
+  "title": "求解器",
+  "description": "Use when Codex needs to analyze, triage, or solve Capture The Flag (CTF) challenges and adjacent lab tasks such as web exploitation, binary exploitation, reverse engineering, cryptography, forensics, steganography, OSINT, or misc puzzle solving. Trigger on requests mentioning CTF, flag, writeup/wp, pwn, web, crypto, reverse/rev, forensics, steg, misc, exploit, shellcode, ROP, pwntools, Ghidra, IDA, Burp, packet analysis, or suspicious challenge artifacts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ctf Solver",
+  "function_label": "Other"
+}

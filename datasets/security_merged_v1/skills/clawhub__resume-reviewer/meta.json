@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:resume-reviewer",
+  "slug": "resume-reviewer",
+  "name": "resume-reviewer",
+  "title": "总体判断",
+  "description": "Analyze resumes for target roles, identify weak bullets, missing keywords, ATS gaps, and provide actionable rewrite suggestions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Overall Verdict",
+  "function_label": "Data-Agent"
+}

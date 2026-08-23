@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-maker-generator-free",
+  "slug": "video-maker-generator-free",
+  "name": "video-maker-generator-free",
+  "title": "从您的内容生成视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — turn these images into a 30-second promo video with music and text — and get ready-to-share videos back in 30-60 seconds. Upload MP4, MOV, JPG, PNG files up to 500MB, and the AI handles AI video creation automatically. Ideal for content creators and small business owners who want to make videos quickly without paying for editing tools.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Maker Generator Free — Generate Videos from Your Content",
+  "function_label": "Communication"
+}

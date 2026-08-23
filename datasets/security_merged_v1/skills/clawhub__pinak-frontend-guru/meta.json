@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pinak-frontend-guru",
+  "slug": "pinak-frontend-guru",
+  "name": "pinak-frontend-guru",
+  "title": "前端大师",
+  "description": "Expert UI/UX and React performance auditor (PinakBot persona). Use when a user needs a \"deep audit\" of their frontend code, wants to \"make it pro\", or needs advice on both React performance and Web design best practices. Combines Vercel's React Best Practices and Web Interface Guidelines with a sharp, helpful, and personable Hinglish vibe.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pinak Frontend Guru",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:api-test",
+  "slug": "api-test",
+  "name": "api-doc-writer",
+  "title": "接口文档",
+  "description": "API接口文档助手。用于编写REST API文档、定义接口规范、生成接口说明。当需要编写API文档、接口规范时触发。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

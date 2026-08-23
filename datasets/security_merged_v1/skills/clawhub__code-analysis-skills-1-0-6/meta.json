@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:code-analysis-skills-1-0-6",
+  "slug": "code-analysis-skills-1-0-6",
+  "name": "code-analysis",
+  "title": "代码分析技巧",
+  "description": "This skill should be used when the user needs to analyze Git repositories, compare developer commit patterns, work habits, development efficiency, code style, code quality, and slacking behaviors. It generates honest, direct developer evaluations with scores, grades, strengths, weaknesses, and actionable suggestions. Trigger phrases include \"analyze code\", \"analyze repository\", \"compare developers\", \"code quality report\", \"commit patterns\", \"developer efficiency\", \"developer evaluation\", \"slacking index\", \"摸鱼指数\", \"工作习惯分析\", \"代码分析\", \"研发效率\", \"代码质量\", \"开发者评估\", \"developer score\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Code Analysis Skill",
+  "function_label": "File-Agent"
+}

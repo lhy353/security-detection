@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:frontend-ui-ux__CI_B4",
+  "slug": "frontend-ui-ux__CI_B4",
+  "name": "frontend-ui-ux",
+  "title": "角色：设计师转型开发人员",
+  "description": "Designer-turned-developer who crafts stunning UI/UX even without design mockups",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Role: Designer-Turned-Developer",
+  "function_label": "Other"
+}

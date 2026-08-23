@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cosco",
+  "slug": "cosco",
+  "name": "cosco",
+  "title": "中远海运 COSCO",
+  "description": "Information assistant for 中远海运 COSCO. Search products, news, financials, and official resources for 中远海运 COSCO.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

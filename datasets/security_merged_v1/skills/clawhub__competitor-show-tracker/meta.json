@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:competitor-show-tracker",
+  "slug": "competitor-show-tracker",
+  "name": "competitor-show-tracker",
+  "title": "竞争对手展示追踪器",
+  "description": "Rank upcoming trade shows by how many of your competitors are exhibiting there. \"Which shows are my competitors at?\" / \"竞争对手去哪些展会\" / \"Auf welchen Messen sind meine Wettbewerber?\" / \"競合他社の出展先は?\" / \"¿En qué ferias están mis competidores?\". competitor shows, competitive intelligence, show tracking, 竞品展会/竞争对手参展追踪 Wettbewerber Messepräsenz 競合他社出展先 seguimiento ferias competidores",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Competitor Show Tracker",
+  "function_label": "Other"
+}

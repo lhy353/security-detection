@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dopesecurity",
+  "slug": "dopesecurity",
+  "name": "dopesecurity",
+  "title": "毒品安全",
+  "description": "Dope.security integration. Manage data, records, and automate workflows. Use when the user wants to interact with Dope.security data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dope.security",
+  "function_label": "Automation"
+}

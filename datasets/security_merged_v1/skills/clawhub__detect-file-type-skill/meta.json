@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:detect-file-type-skill",
+  "slug": "detect-file-type-skill",
+  "name": "detect-file-type-skill",
+  "title": "删除此技能",
+  "description": "DEPRECATED — remove this legacy listing; superseded by detect-file-type-local",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "DEPRECATED — Remove This Skill",
+  "function_label": "Other"
+}

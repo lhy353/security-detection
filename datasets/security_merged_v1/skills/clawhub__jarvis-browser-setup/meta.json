@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jarvis-browser-setup",
+  "slug": "jarvis-browser-setup",
+  "name": "jarvis-browser-setup",
+  "title": "贾维斯浏览器设置",
+  "description": "Setup Jarvis Browser Control System for new users. Generates unique WebSocket auth token, configures server, and prepares extension files. Use when user wants to share the browser control system with others or setup a new instance. Fully automated - no manual steps required, OpenClaw handles everything.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Jarvis Browser Setup",
+  "function_label": "Browser"
+}

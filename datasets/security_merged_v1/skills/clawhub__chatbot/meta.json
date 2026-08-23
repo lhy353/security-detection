@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:chatbot",
+  "slug": "chatbot",
+  "name": "senseaudio-voice-chatbot",
+  "title": "语音聊天机器人",
+  "description": "Build real-time voice chatbot applications with natural conversation flow and customizable personalities. Use when users want to create voice assistants, conversational AI, or interactive voice agents.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SenseAudio Voice Chatbot",
+  "function_label": "Browser"
+}

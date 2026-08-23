@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:qclaw-task-submitter",
+  "slug": "qclaw-task-submitter",
+  "name": "QClaw任务提交",
+  "title": "任务提交",
+  "description": "通过 QClaw 向 WorkBuddy 提交需要复杂执行的任务。当用户想要：\n- 通过微信/对话将任务交给 WorkBuddy 执行\n- \"帮我生成/制作/分析/整理...\"\n- 需要创建文档、PPT、Excel、报告\n- 深度数据分析、多步骤操作\n- 批量文件处理\n- 定时自动化任务\n- 明确说\"交给 WorkBuddy\"、\"远程执行\"\n- QClaw 做不到的事，WorkBuddy 来做\n触发词：交给WorkBuddy、QClaw发任务、微信转WorkBuddy、远程执行、任务分发、WorkBuddy生成、WorkBuddy分析\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

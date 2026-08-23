@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:quality-standards",
+  "slug": "quality-standards",
+  "name": "quality-standards",
+  "title": "可接受的复杂性示例（复杂性 = 5）",
+  "description": "Code quality metrics and continuous improvement. Use when quality standards guidance is required.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Example of acceptable complexity (complexity = 5)",
+  "function_label": "Coding"
+}

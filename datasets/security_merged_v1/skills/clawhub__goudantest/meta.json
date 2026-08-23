@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:goudantest",
+  "slug": "goudantest",
+  "name": "code-review-v2",
+  "title": "代码审查 v2",
+  "description": "Advanced code review assistant with intelligent analysis, multi-language support, and structured feedback. Performs comprehensive reviews covering correctness, security, performance, maintainability, and observability. Use when reviewing pull requests, code changes, conducting security audits, performance reviews, or when the user requests detailed code analysis. Supports Python, JavaScript/TypeScript, Java, Go, Rust, C#, Ruby, PHP.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Code Review v2",
+  "function_label": "Coding"
+}

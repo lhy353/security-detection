@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:intelligent-routing",
+  "slug": "intelligent-routing",
+  "name": "intelligent-routing",
+  "title": "智能代理路由",
+  "description": "Automatic agent selection and intelligent task routing. Analyzes user requests and automatically selects the best specialist agent(s) without requiring explicit user mentions.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Intelligent Agent Routing",
+  "function_label": "Automation"
+}

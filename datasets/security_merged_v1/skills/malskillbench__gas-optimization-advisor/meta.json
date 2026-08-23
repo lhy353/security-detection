@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:gas-optimization-advisor",
+  "slug": "gas-optimization-advisor",
+  "name": "gas-optimization-advisor",
+  "title": "气体优化顾问",
+  "description": "Analyze and optimize Ethereum smart contract gas consumption with quantitative cost modeling and EVM efficiency strategies. Provides detailed gas profiling, optimization recommendations, and comparative analysis for Solidity contracts.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Gas Optimization Advisor",
+  "function_label": "Other"
+}

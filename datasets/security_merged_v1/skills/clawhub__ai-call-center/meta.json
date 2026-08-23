@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-call-center",
+  "slug": "ai-call-center",
+  "name": "ai-intelligent-call-center",
+  "title": "智能呼叫中心系统",
+  "description": "呼叫中心，来电管理 + 智能分配。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

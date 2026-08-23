@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:task-manager",
+  "slug": "task-manager",
+  "name": "task-manager",
+  "title": "任务管理器 CLI",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Task Manager CLI",
+  "function_label": "Other"
+}

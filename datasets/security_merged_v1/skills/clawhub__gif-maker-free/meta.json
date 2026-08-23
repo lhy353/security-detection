@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gif-maker-free",
+  "slug": "gif-maker-free",
+  "name": "gif-maker-free",
+  "title": "将视频剪辑转换为 GIF",
+  "description": "Get looping GIF files ready to post, without touching a single slider. Upload your video clips or images (MP4, MOV, GIF, WebM, up to 200MB), say something like \"convert this video clip into a looping GIF\", and download 720p MP4 when it's done. Built for social media users and content creators who move fast and want to make GIFs quickly without paying for software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "GIF Maker Free — Convert Video Clips to GIFs",
+  "function_label": "Communication"
+}

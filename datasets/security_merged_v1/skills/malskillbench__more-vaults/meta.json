@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:more-vaults",
+  "slug": "more-vaults",
+  "name": "more-vaults",
+  "title": "向协议添加更多保管库",
+  "description": "Add more vault smart contract types to an existing protocol",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Add more vaults to protocol",
+  "function_label": "Other"
+}

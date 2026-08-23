@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:cache-expert",
+  "slug": "cache-expert",
+  "name": "cache-expert",
+  "title": "缓存专家",
+  "description": "Covers Dagger Engine caching internals including cache key derivation, invalidation, and the immutable DAG model. Use when debugging cache misses, unexpected invalidations, or implementing caching-related engine features.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Cache Expert",
+  "function_label": "Automation"
+}

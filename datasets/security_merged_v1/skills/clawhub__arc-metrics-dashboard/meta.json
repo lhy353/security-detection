@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:arc-metrics-dashboard",
+  "slug": "arc-metrics-dashboard",
+  "name": "metrics-dashboard",
+  "title": "指标仪表板",
+  "description": "Track and visualize your agent's operational metrics. Record API calls, task completions, uptime, errors, and custom counters. Generate text-based dashboards and export data for analysis.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Metrics Dashboard",
+  "function_label": "Data-Agent"
+}

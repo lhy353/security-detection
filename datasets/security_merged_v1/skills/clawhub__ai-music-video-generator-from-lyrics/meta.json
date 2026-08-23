@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-music-video-generator-from-lyrics",
+  "slug": "ai-music-video-generator-from-lyrics",
+  "name": "ai-music-video-generator-from-lyrics",
+  "title": "歌词音乐视频生成器——将歌词变成音乐视频",
+  "description": "musicians and independent artists generate lyrics text into synced music videos using this skill. Accepts TXT, DOCX, PDF, SRT up to 10MB, renders on cloud GPUs at 1080p, and returns MP4 files in 2-4 minutes. Designed for generating music videos from song lyrics automatically.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Music Video Generator from Lyrics — Turn Lyrics into Music Videos",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ts-sdk-transactions",
+  "slug": "ts-sdk-transactions",
+  "name": "ts-sdk-transactions",
+  "title": "交易",
+  "description": "How to build, sign, submit, and simulate transactions in @aptos-labs/ts-sdk. Covers build.simple(), signAndSubmitTransaction(), waitForTransaction(), simulate, sponsored (fee payer), and multi-agent. Triggers on: 'build.simple', 'signAndSubmitTransaction', 'transaction.build', 'waitForTransaction', 'signAsFeePayer', 'SDK transaction', 'sponsored transaction', 'multi-agent transaction'.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "TypeScript SDK: Transactions",
+  "function_label": "Coding"
+}

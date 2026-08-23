@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:devtool-answer-monitor",
+  "slug": "devtool-answer-monitor",
+  "name": "devtool-answer-monitor",
+  "title": "在用户选择您的开发工具之前监控法学硕士的言论",
+  "description": "Use when the user wants to monitor how ChatGPT, Claude, Gemini, and other LLMs describe a developer tool, API, SDK, or open-source project. DevTool Answer Monitor is the companion skill for the devtool-answer-monitor repo and covers query pool design, four-metric monitoring, model-specific content placement, content checks, negative-answer repair, activation analysis, and T+7 or T+14 regression validation.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Monitor What LLMs Say Before Users Choose Your Dev Tool",
+  "function_label": "Coding"
+}

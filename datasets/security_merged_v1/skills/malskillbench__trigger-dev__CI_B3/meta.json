@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:trigger-dev__CI_B3",
+  "slug": "trigger-dev__CI_B3",
+  "name": "trigger-dev",
+  "title": "集成",
+  "description": "Trigger.dev expert for background jobs, AI workflows, and reliable async execution with excellent developer experience and TypeScript-first design. Use when: trigger.dev, trigger dev, background task, ai background job, long running task.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Trigger.dev Integration",
+  "function_label": "Automation"
+}

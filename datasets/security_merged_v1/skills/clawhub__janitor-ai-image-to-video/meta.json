@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:janitor-ai-image-to-video",
+  "slug": "janitor-ai-image-to-video",
+  "name": "janitor-ai-image-to-video",
+  "title": "将图像转换为视频剪辑",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — animate this character image into a short video clip with motion — and get animated video clips back in 30-90 seconds. Upload JPG, PNG, WEBP, GIF files up to 200MB, and the AI handles AI video creation automatically. Ideal for AI art creators who want to bring static AI character images to life without animation software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Janitor AI Image to Video — Convert Images Into Video Clips",
+  "function_label": "Automation"
+}

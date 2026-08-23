@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sl-trafiklab-api",
+  "slug": "sl-trafiklab-api",
+  "name": "sl-trafiklab-api",
+  "title": "技能",
+  "description": "Fetch real-time SL (Stockholm public transport) departures and deviation information. Use when checking upcoming departures from stops, querying active train/bus delays, or configuring favourite stops/routes for autonomous monitoring. Note: The skill can query ANY stop or route on demand without registration; favourite_stops and favourite_routes are solely for autonomous background monitoring.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SL Trafiklab API Skill",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:go-concurrency-patterns",
+  "slug": "go-concurrency-patterns",
+  "name": "go-concurrency-patterns",
+  "title": "并发模式",
+  "description": "Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building concurrent Go applications, implementing worker pools, or debugging race conditions.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Go Concurrency Patterns",
+  "function_label": "Automation"
+}

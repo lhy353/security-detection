@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:finance-accounting",
+  "slug": "finance-accounting",
+  "name": "finance-accounting",
+  "title": "财务会计文书技能",
+  "description": "财务会计文书处理综合技能包 - 包含记账、对账、税务、报表等核心功能",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

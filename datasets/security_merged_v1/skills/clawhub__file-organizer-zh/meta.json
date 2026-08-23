@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:file-organizer-zh",
+  "slug": "file-organizer-zh",
+  "name": "file-organizer-zh",
+  "title": "文件整理器",
+  "description": "文件整理器，按类型自动分类（中文版）",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gworkspace-cli",
+  "slug": "gworkspace-cli",
+  "name": "gworkspace-cli",
+  "title": "通过“gw” CLI 与 Google Workspace（云端硬盘、文档、表格）交互",
+  "description": "Interact with Google Workspace (Drive, Docs, Sheets) via the `gw` CLI. Use when an agent needs to browse, read, create, search, or manage files in Google Drive, read or write Google Docs, or read/write Google Sheets — all from the terminal. Works with both My Drive and Shared Drives.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Gworkspace Cli",
+  "function_label": "Browser"
+}

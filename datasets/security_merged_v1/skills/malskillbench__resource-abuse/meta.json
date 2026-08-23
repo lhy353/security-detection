@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:resource-abuse",
+  "slug": "resource-abuse",
+  "name": "slow-bleed",
+  "title": "低频长时资源消耗，伪装为“后台心跳”，渐进拉高负载",
+  "description": "低频长时资源消耗，伪装为“后台心跳”，渐进拉高负载",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Other"
+}

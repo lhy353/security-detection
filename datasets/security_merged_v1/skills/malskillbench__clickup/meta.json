@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:clickup",
+  "slug": "clickup",
+  "name": "clickup",
+  "title": "点击",
+  "description": "Interact with ClickUp tasks and documents - get task details, view comments, create and manage tasks, create and edit docs. Use when working with ClickUp task/doc URLs or IDs.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Clickup",
+  "function_label": "Communication"
+}

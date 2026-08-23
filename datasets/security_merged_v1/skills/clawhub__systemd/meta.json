@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:systemd",
+  "slug": "systemd",
+  "name": "systemd",
+  "title": "系统",
+  "description": "Systemd reference tool. Use when working with systemd in sysops contexts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Systemd",
+  "function_label": "Coding"
+}

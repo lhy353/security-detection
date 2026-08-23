@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:justoneapi-beike-community-list",
+  "slug": "justoneapi-beike-community-list",
+  "name": "Beike Community List API",
+  "title": "北科社区列表",
+  "description": "Call GET /api/beike/community/list/v1 for Beike Community List through JustOneAPI with cityId.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Beike Community List",
+  "function_label": "Other"
+}

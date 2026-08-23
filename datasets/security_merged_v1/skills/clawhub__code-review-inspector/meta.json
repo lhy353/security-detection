@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:code-review-inspector",
+  "slug": "code-review-inspector",
+  "name": "code-review-inspector",
+  "title": "代码审查助理",
+  "description": "Automated code review checking for bugs, security issues, best practices, performance problems, and code style",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Code Review Assistant",
+  "function_label": "Coding"
+}

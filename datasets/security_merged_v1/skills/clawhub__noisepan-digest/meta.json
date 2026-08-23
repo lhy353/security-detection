@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:noisepan-digest",
+  "slug": "noisepan-digest",
+  "name": "noisepan-digest",
+  "title": "噪音潘文摘",
+  "description": "Set up automated news digests using noisepan (signal extraction), entropia (source verification), and HN blind spot detection. Use when configuring daily news briefs, curating RSS feeds, or building an automated intelligence pipeline that replaces manual news browsing.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Noisepan Digest"
+}

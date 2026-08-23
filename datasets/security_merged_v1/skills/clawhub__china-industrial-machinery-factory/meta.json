@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:china-industrial-machinery-factory",
+  "slug": "china-industrial-machinery-factory",
+  "name": "china-industrial-machinery-factory",
+  "title": "中国工业机械厂技能",
+  "description": "Comprehensive industrial machinery industry factory guide for international buyers – provides detailed information about China's machine tools, construction machinery, agricultural equipment, packaging lines, robotics, and other industrial machinery manufacturing clusters, supply chain structure, regional specializations, and industry trends (2026 updated).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "China Industrial Machinery Factory Skill",
+  "function_label": "Other"
+}

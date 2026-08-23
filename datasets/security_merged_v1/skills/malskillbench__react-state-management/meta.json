@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:react-state-management",
+  "slug": "react-state-management",
+  "name": "react-state-management",
+  "title": "反应状态管理",
+  "description": "Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "React State Management",
+  "function_label": "Coding"
+}

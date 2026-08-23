@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bb-report-template",
+  "slug": "bb-report-template",
+  "name": "bb-report-template",
+  "title": "错误赏金报告模板生成器",
+  "description": "Generate professional bug bounty reports for HackerOne, Bugcrowd, and other platforms. Pre-filled templates with CWE mapping, reproduction steps, and severity assessment.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bug Bounty Report Template Generator",
+  "function_label": "Other"
+}

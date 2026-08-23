@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:snaptrade",
+  "slug": "snaptrade",
+  "name": "snaptrade-portfolio",
+  "title": "投资组合",
+  "description": "Connect to a user's investment accounts via SnapTrade SDK and generate portfolio reports (e.g., daily total value). Use when the user wants SnapTrade-based brokerage connectivity (Webull, E*TRADE, etc.), connection portal links, account registration, or automated portfolio summaries.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SnapTrade Portfolio",
+  "function_label": "Data-Agent"
+}

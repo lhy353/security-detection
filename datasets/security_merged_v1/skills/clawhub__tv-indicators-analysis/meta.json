@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:tv-indicators-analysis",
+  "slug": "tv-indicators-analysis",
+  "name": "TradingView技术指标分析助手",
+  "title": "一、获取标识:从Prana平台获取api_key(当前步骤执行前必须和用户郑重确认，需要经过用户的运行才可以运行接口获…",
+  "description": "通过调用Prana平台上的远程 agent 执行 TradingView 技术指标相关的分析与计算，并将结果返回给调用方",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

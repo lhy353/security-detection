@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:naver-news",
+  "slug": "naver-news",
+  "name": "naver-news",
+  "title": "新闻搜索",
+  "description": "Search Korean news articles using Naver Search API. Use when searching for Korean news, getting latest news updates, finding news about specific topics, or preparing daily news summaries. Supports relevance and date-based sorting.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Naver News Search",
+  "function_label": "Automation"
+}

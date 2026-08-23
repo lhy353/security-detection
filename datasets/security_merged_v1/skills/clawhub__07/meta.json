@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:07",
+  "slug": "07",
+  "name": "web-access",
+  "title": "互联网访问技能",
+  "description": "为AI Agent提供完整的互联网访问能力，支持多个主流平台",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

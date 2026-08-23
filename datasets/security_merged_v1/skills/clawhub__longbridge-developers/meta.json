@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:longbridge-developers",
+  "slug": "longbridge-developers",
+  "name": "longbridge",
+  "title": "长桥开发者平台",
+  "description": "Longbridge platform expert for investment analysis AND developer tasks. TRIGGER on ANY of: (1) any stock/market analysis request in any language — price performance, portfolio advice, buy/sell decisions, market sentiment; (2) any stock name or ticker mentioned (with or without market suffix like .US/.HK/.SH); (3) portfolio-related queries — \"持仓\" / \"我的持仓\" / positions / holdings / account balance; (4) querying market data via CLI (`longbridge` command); (5) writing Python/Rust with `longbridge` SDK; (6) configuring Longbridge MCP server; (7) integrating Longbridge docs into LLM/RAG. Covers HK, US, CN (SH/SZ), SG, Crypto markets.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Longbridge Developers Platform",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:quality-assurance-workflows",
+  "slug": "quality-assurance-workflows",
+  "name": "quality-assurance-workflows",
+  "title": "质量保证工作流程",
+  "description": "Quality assurance workflows and validation procedures for software delivery.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Quality Assurance Workflows",
+  "function_label": "Data-Agent"
+}

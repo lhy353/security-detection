@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:html-slides",
+  "slug": "html-slides",
+  "name": "corporate-slides",
+  "title": "企业幻灯片",
+  "description": "Create interactive, self-contained HTML slide decks with sidebar navigation, comment panel, zoom controls, inline editing, and present mode. Default brand is Shopee/Sea but supports custom brand presets. Use when the user says \"做slides\"、\"create slides\"、\"创建幻灯片\"、\"做PPT\"、\"做汇报\"、\"bi-weekly\"、\"biweekly\"、\"双周汇报\"、\"quarterly review\"、\"product review\"、\"roadmap presentation\"、\"strategy deck\"、\"post-mortem slides\", or any request to create a presentation deck.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Corporate Slides",
+  "function_label": "Data-Agent"
+}

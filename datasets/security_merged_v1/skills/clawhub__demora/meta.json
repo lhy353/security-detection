@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:demora",
+  "slug": "demora",
+  "name": "demora",
+  "title": "延迟",
+  "description": "Use the Demora OpenClaw plugin for dementia-friendly companionship, medication reminders, caregiver escalation, Weixin intervention, and voice-safe patient replies.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Demora for OpenClaw",
+  "function_label": "Communication"
+}

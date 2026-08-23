@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:spool",
+  "slug": "spool",
+  "name": "spool",
+  "title": "线轴",
+  "description": "Threads CLI - Read, post, reply, and search on Meta's Threads using OpenClaw browser tool. Use when the user wants to interact with Threads: posting, reading timeline, viewing profiles, replying to threads, or searching.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Spool",
+  "function_label": "Browser"
+}

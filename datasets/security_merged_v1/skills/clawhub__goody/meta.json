@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:goody",
+  "slug": "goody",
+  "name": "goody",
+  "title": "古迪",
+  "description": "Goody integration. Manage Organizations, Pipelines, Projects, Users, Goals, Filters. Use when the user wants to interact with Goody data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Goody",
+  "function_label": "Browser"
+}

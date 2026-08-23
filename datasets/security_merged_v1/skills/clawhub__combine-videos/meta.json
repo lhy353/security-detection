@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:combine-videos",
+  "slug": "combine-videos",
+  "name": "combine-videos",
+  "title": "将多个剪辑合并为一个",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Merger - Combine Multiple Clips into One",
+  "function_label": "Other"
+}

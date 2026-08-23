@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:disease-investigation",
+  "slug": "disease-investigation",
+  "name": "disease-investigation",
+  "title": "疾病调查技能指南",
+  "description": "Conduct comprehensive disease investigation combining academic literature, epidemiological data, clinical guidelines, pharmaceutical intelligence, and clinical trial reports.\nUsers may inquire about disease pathogenesis, symptoms, pharmaceutical interventions, treatment options, patent landscapes, and business development opportunities.\n\nLoad the skill when queries involve:\n- Disease pathology and molecular mechanisms\n- Regional disease incidence and subtypes\n- Clinical symptoms and diagnostic indicators\n- Treatment landscape and drug development pipeline\n- Patent and IP analysis for therapeutic areas\n- Business development and deal intelligence\n\nTypical queries\n- Pathogenesis of NSCLC\n- Treatment options for influenza\n- Incidence rates of leukemia in China\n- Clinical manifestations of depression\n- PD-1/PD-L1 patent landscape\n- Drug development pipeline for NSCLC\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Disease Investigation Skill Guide",
+  "function_label": "Automation"
+}

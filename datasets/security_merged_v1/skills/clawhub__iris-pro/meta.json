@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:iris-pro",
+  "slug": "iris-pro",
+  "name": "iris-pro",
+  "title": "完整的收件箱智能",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Iris Pro — Full Inbox Intelligence",
+  "function_label": "Communication"
+}

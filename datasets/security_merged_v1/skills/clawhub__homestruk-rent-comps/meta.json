@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:homestruk-rent-comps",
+  "slug": "homestruk-rent-comps",
+  "name": "homestruk-rent-comps",
+  "title": "租金比较分析仪",
+  "description": "Analyze rental comps and recommend rent pricing for Massachusetts properties. Use when user asks about rent pricing, market rent, comparable properties, rent increases, or what to charge for rent. Searches Zillow, Apartments.com, and Craigslist data to find comparable listings and calculates recommended rent based on property features, location, and market conditions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Homestruk Rent Comps Analyzer",
+  "function_label": "Data-Agent"
+}

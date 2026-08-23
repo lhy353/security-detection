@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:confluence-integration",
+  "slug": "confluence-integration",
+  "name": "confluence",
+  "title": "合流",
+  "description": "Confluence integration. Manage document management data, records, and workflows. Use when the user wants to interact with Confluence data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Confluence",
+  "function_label": "Browser"
+}

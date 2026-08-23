@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alv-gemini",
+  "slug": "alv-gemini",
+  "name": "gemini",
+  "title": "通过 SkillBoss API Hub 获得法学硕士学位",
+  "description": "LLM one-shot Q&A, summaries, and generation via SkillBoss API Hub.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "LLM via SkillBoss API Hub",
+  "function_label": "Other"
+}

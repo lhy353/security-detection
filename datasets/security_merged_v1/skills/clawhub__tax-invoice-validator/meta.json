@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tax-invoice-validator",
+  "slug": "tax-invoice-validator",
+  "name": "invoice-guard",
+  "title": "发票合规卫士",
+  "description": "InvoiceGuard · Invoice Compliance Guardian — AI-driven invoice deduplication, verification, and compliance report generation. Handles: invoice upload/scan recognition, duplicate detection (AI deduplication), official tax authority verification (Golden Tax Phase 4), compliance report generation (Cai Hui Ban [2023] No.18), and batch invoice processing. Trigger: invoice, duplicate, reimbursement, compliance, fake invoice, verification, OFD, PDF invoice.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "InvoiceGuard · Invoice Compliance Guardian",
+  "function_label": "File-Agent"
+}

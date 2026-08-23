@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:phy-dockerfile-audit",
+  "slug": "phy-dockerfile-audit",
+  "name": "Dockerfile Audit",
+  "title": "安全审计器",
+  "description": "Dockerfile static security auditor. Scans any Dockerfile for 10 security issues — running as root, unpinned base images, secrets in ENV/ARG, remote ADD fetch, shell-form ENTRYPOINT, sudo installed, missing .dockerignore, privileged port EXPOSE, apt-get without --no-install-recommends, and hardcoded ARG defaults. Zero external dependencies (no hadolint, no Docker daemon, no network). Maps to CIS Docker Benchmark and CWE. CI fail-gate included.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "phy-dockerfile-audit — Dockerfile Security Auditor"
+}

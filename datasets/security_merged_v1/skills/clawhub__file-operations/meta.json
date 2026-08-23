@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:file-operations",
+  "slug": "file-operations",
+  "name": "file-operations",
+  "title": "技能：文件操作",
+  "description": "Perform safe, auditable file operations with path validation and backups.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SKILL: file-operations",
+  "function_label": "Other"
+}

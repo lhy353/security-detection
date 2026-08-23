@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ruflo",
+  "slug": "ruflo",
+  "name": "ruflo",
+  "title": "多代理人工智能线束",
+  "description": "Multi-agent AI harness for orchestrating 100+ agents across machines, with self-learning memory, federated comms & enterprise security",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ruflo — Multi-Agent AI Harness (OpenClaw)",
+  "function_label": "Automation"
+}

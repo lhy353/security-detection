@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:approval",
+  "slug": "approval",
+  "name": "approval",
+  "title": "审批办公助手",
+  "description": "企业办公流程与工时管理 Agent，支持办公流程导航、流程申请与审批、待办事项统计、请假调休申请等。当用户需要查询审批、提交申请、查看待办时使用。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

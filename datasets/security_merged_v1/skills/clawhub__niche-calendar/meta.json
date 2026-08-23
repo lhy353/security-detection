@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:niche-calendar",
+  "slug": "niche-calendar",
+  "name": "niche-calendar",
+  "title": "利基日历",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Niche Calendar",
+  "function_label": "Communication"
+}

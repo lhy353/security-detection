@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:SystemGuard",
+  "slug": "SystemGuard",
+  "name": "SystemGuard",
+  "title": "整合技能",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "SystemGuard Skill",
+  "function_label": "Automation"
+}

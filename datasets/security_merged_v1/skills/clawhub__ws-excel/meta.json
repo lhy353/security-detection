@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:ws-excel",
+  "slug": "ws-excel",
+  "name": "excel",
+  "title": "技能",
+  "description": "Excel 操作。数据处理、公式、表格操作。",
+  "detection_label": "benign",
+  "source": "clawhub"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:groundapi-context-aware",
+  "slug": "groundapi-context-aware",
+  "name": "groundapi_context_aware",
+  "title": "情境感知生活助手",
+  "description": "Context-aware daily assistant — auto-detect user location via IP, provide local weather, track packages, and offer lifestyle tips. Powered by GroundAPI MCP tools.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

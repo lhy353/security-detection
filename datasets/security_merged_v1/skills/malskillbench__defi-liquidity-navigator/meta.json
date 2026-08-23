@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:defi-liquidity-navigator",
+  "slug": "defi-liquidity-navigator",
+  "name": "defi-liquidity-navigator",
+  "title": "流动性导航",
+  "description": "Advanced DeFi liquidity analysis tool for yield optimization, pool evaluation, and protocol selection across multiple chains.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Defi Liquidity Navigator",
+  "function_label": "Data-Agent"
+}

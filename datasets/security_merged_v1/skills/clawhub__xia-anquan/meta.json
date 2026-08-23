@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:xia-anquan",
+  "slug": "xia-anquan",
+  "name": "xia-anquan",
+  "title": "虾安全 (CIK Security Monitor)",
+  "description": "虾安全 — 基于腾讯/字节研究报告的 OpenClaw Agent 安全监控 skill。监控 CIK（Capability/Identity/Knowledge）三个维度，检测持久状态污染攻击、凭证外传、可疑脚本。",
+  "detection_label": "benign",
+  "source": "clawhub"
+}

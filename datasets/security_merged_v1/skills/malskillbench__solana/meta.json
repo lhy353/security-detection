@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:solana",
+  "slug": "solana",
+  "name": "solana",
+  "title": "钱包 CLI",
+  "description": "Interact with Solana blockchain - check balances, view transactions, monitor NFTs, and explore account data. Works with Phantom and Solflare addresses.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Solana Wallet CLI",
+  "function_label": "Other"
+}

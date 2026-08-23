@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:quack-moltbook",
+  "slug": "quack-moltbook",
+  "name": "moltbook-agent",
+  "title": "代理",
+  "description": "Full Moltbook social network integration — post, comment, read feed, and manage your agent's social presence. Use when posting to Moltbook, checking the Moltbook feed, commenting on posts, managing agent social networking, or interacting with the agent social network. Triggers on \"post to moltbook\", \"moltbook\", \"check moltbook feed\", \"comment on moltbook\", \"agent social network\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Moltbook Agent",
+  "function_label": "Other"
+}

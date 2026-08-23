@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:figure-reference-checker",
+  "slug": "figure-reference-checker",
+  "name": "figure-reference-checker",
+  "title": "图参考检查器",
+  "description": "Check figure references in manuscripts",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Figure Reference Checker",
+  "function_label": "File-Agent"
+}

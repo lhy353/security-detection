@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:singapore-sme-compliance",
+  "slug": "singapore-sme-compliance",
+  "name": "singapore-sme-compliance",
+  "title": "新加坡中小企业合规助理",
+  "description": "Help Singapore SMEs automate compliance tasks: GST calculation, PEPPOL invoice  validation, tax report generation, and IRAS filing deadlines. Use when: calculating  GST for invoices, checking GST registration requirements, preparing GST F5 returns,  validating PEPPOL invoices, tracking compliance deadlines.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Singapore SME Compliance Assistant",
+  "function_label": "Other"
+}

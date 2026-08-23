@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:python3",
+  "slug": "python3",
+  "name": "python",
+  "title": "使用 Python 进行实际项目设置、依赖项安装、脚本执行和安全环境故障排除",
+  "description": "Use Python for practical project setup, dependency install, script execution, and environment troubleshooting with safe defaults. Use when tasks involve pyproject.toml or requirements.txt, virtual environment setup, running Python scripts/tests, packaging basics, or fixing common Python errors (interpreter mismatch, pip resolver conflicts, missing modules, build failures).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Python",
+  "function_label": "Other"
+}

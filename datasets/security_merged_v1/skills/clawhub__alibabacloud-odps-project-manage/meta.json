@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alibabacloud-odps-project-manage",
+  "slug": "alibabacloud-odps-project-manage",
+  "name": "alibabacloud-odps-project-manage",
+  "title": "项目管理",
+  "description": "Alibaba Cloud MaxCompute Project Management Skill. Use for creating, querying, and listing MaxCompute projects.\nTriggers: \"maxcompute project\", \"odps project\", \"create maxcompute project\", \"manage maxcompute project\", \"list maxcompute project\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MaxCompute Project Management",
+  "function_label": "Other"
+}

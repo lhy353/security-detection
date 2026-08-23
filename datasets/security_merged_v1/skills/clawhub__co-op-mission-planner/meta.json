@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:co-op-mission-planner",
+  "slug": "co-op-mission-planner",
+  "name": "co-op-mission-planner",
+  "title": "合作任务规划师",
+  "description": "Turn a shared task into a co-op mission with clear roles, handoff points, sync rhythm, fallback coverage, and low-conflict alignment language. Use when two or more people need to coordinate a family task, study effort, or small project.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Co-op Mission Planner",
+  "function_label": "Other"
+}

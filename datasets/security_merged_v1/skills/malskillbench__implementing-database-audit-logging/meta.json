@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:implementing-database-audit-logging",
+  "slug": "implementing-database-audit-logging",
+  "name": "implementing-database-audit-logging",
+  "title": "实施数据库审计日志记录",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Implementing Database Audit Logging",
+  "function_label": "Data-Agent"
+}

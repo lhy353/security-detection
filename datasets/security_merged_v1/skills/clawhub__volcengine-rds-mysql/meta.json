@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:volcengine-rds-mysql",
+  "slug": "volcengine-rds-mysql",
+  "name": "volcengine-rds-mysql",
+  "title": "方式 1: 使用 uv (推荐，自动管理依赖)",
+  "description": "使用火山引擎 RDS MySQL MCP Server，帮助用户完成 RDS MySQL 相关的实例管理、数据库操作、账号管理和运维任务，可直接调用 uv run ./scripts/call_rds_mysql.py 脚本获取实时结果。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

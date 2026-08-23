@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:subscriptions",
+  "slug": "subscriptions",
+  "name": "Subscriptions",
+  "title": "总计.md",
+  "description": "Build a personal subscription tracker for managing recurring payments, renewals, and cutting waste.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "totals.md",
+  "function_label": "Other"
+}

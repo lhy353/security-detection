@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawhub-publisher-auto",
+  "slug": "clawhub-publisher-auto",
+  "name": "ClawHub Publisher",
+  "title": "自动将技能发布到 ClawHub",
+  "description": "Automated skill publishing to ClawHub. Fix push error issue with acceptLicenseTerms support",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClawHub Publisher",
+  "function_label": "Automation"
+}

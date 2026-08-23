@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:hr-policy-generator-cn",
+  "slug": "hr-policy-generator-cn",
+  "name": "hr-policy-generator-cn",
+  "title": "人力资源政策生成器（中文版）",
+  "description": "综合性 HR 政策设计工具，覆盖考勤、休假、加班、远程办公及合规要求。根据公司规模、办公模式、适用法律等输入，生成完整的政策文档、法律合规清单、例外处理机制及员工沟通方案。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

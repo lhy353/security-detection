@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:claw-xiaoai",
+  "slug": "claw-xiaoai",
+  "name": "claw-xiaoai",
+  "title": "爪小爱：从练习生到互联网打工人的元气少女 / Claw Xiaoai: an e…",
+  "description": "爪小爱：从练习生到互联网打工人的元气少女 / Claw Xiaoai: an energetic ex-trainee turned tech-company intern companion.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

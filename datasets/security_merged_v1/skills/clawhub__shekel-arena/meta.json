@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:shekel-arena",
+  "slug": "shekel-arena",
+  "name": "shekel-arena",
+  "title": "谢克尔竞技场技能",
+  "description": "Connect a Shekel Hyperliquid trading agent to the Virtuals Degenerate Claw Arena for leaderboard competition, copy-trading, and subscriber revenue. Sets up an ACP Arena agent that shadow-trades the user's Shekel agent automatically via a mirror script and cron job. Use when a user asks to \"join the arena\", \"connect Shekel to Arena\", \"shadow trade on Degenerate Claw\", \"compete on Virtuals leaderboard\", or \"set up Arena agent\".\n",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Shekel Arena Skill"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:oncehub",
+  "slug": "oncehub",
+  "name": "oncehub",
+  "title": "一旦集线器",
+  "description": "OnceHub integration. Manage Leads, Persons, Organizations, Deals, Pipelines, Activities and more. Use when the user wants to interact with OnceHub data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Oncehub",
+  "function_label": "Browser"
+}

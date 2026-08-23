@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:placed-resume-builder",
+  "slug": "placed-resume-builder",
+  "name": "placed-resume-builder",
+  "title": "放置简历生成器",
+  "description": "This skill should be used when the user wants to \"build a resume\", \"create a resume\", \"update my resume\", \"export resume as PDF\", \"change resume template\", \"list my resumes\", \"download resume\", \"switch template\", or wants to manage resumes using the Placed career platform at placed.exidian.tech.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Placed Resume Builder",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:docker-optimizer",
+  "slug": "docker-optimizer",
+  "name": "docker-optimizer",
+  "title": "优化器",
+  "description": "Optimize Dockerfiles with multi-stage builds, layer caching, security best practices, and size reduction techniques",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Docker Optimizer"
+}

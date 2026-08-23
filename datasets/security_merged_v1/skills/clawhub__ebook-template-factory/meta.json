@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ebook-template-factory",
+  "slug": "ebook-template-factory",
+  "name": "ebook-template-factory",
+  "title": "电子书/模板工厂)",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

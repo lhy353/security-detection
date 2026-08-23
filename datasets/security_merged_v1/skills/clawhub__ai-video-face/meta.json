@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-video-face",
+  "slug": "ai-video-face",
+  "name": "ai-video-face",
+  "title": "视频人脸——交换和编辑视频中的人脸",
+  "description": "Turn a 30-second talking head video clip into 1080p face-edited videos just by typing what you need. Whether it's replacing or enhancing faces in video clips or quick social content, drop your video footage and describe the result you want. No timeline dragging, no export settings — 1-2 minutes from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Video Face — Swap and Edit Faces in Video",
+  "function_label": "Communication"
+}

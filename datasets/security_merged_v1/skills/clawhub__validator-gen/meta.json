@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:validator-gen",
+  "slug": "validator-gen",
+  "name": "validator-gen",
+  "title": "验证器生成器",
+  "description": "Generate Zod and Yup validation schemas from TypeScript types. Use when you need runtime validation that matches your types.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Validator Gen",
+  "function_label": "Coding"
+}

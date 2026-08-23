@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:yufluentcn-comp-scrape",
+  "slug": "yufluentcn-comp-scrape",
+  "name": "yufluentcn-comp-scrape",
+  "title": "竞品批量对比",
+  "description": "竞品批量对比分析，基于用户上传的 CSV 导出或已授权 API 快照，非未授权爬虫。 经 Yufluent 云端 Harness 执行。Use for 竞品批量、CSV 对比、competitor export、 批量对标.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

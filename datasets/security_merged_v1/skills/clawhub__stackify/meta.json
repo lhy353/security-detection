@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:stackify",
+  "slug": "stackify",
+  "name": "stackify",
+  "title": "堆栈化",
+  "description": "Stackify integration. Manage data, records, and automate workflows. Use when the user wants to interact with Stackify data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Stackify",
+  "function_label": "Automation"
+}

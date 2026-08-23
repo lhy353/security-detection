@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:dingtalk-todo-cli",
+  "slug": "dingtalk-todo-cli",
+  "name": "dingtalk-todo-cli",
+  "title": "钉钉CLI待办管理专家",
+  "description": "Manage DingTalk tasks and todos using the official dws CLI (v1.0.32+, 10+ domains). Teach AI agents how to create, track, sync, and automate DingTalk todo workflows including personal task management, team task distribution, DING-based urgent escalation, AI sheet integration for tracking, and cross-platform task sync. Covers: daily standup automation (Todo→DING→Sheet), task delegation with tracking (Todo→Contact→DING→Sheet), overdue escalation (Todo→DING→Calendar), sprint planning (Sheet→Todo→Calendar), and meeting action item capture (Calendar→Todo→DING). Triggers on: 钉钉待办管理, dingtalk todo, dws task management, 钉钉CLI任务, dingtalk CLI todo, 钉钉DING提醒, dingtalk DING escalation, 钉钉AI表格追踪, dingtalk sheet tracking, 钉钉任务同步, dingtalk task sync, 钉钉工作流, dingtalk workflow automation, agent dingtalk orchestration, AI钉钉待办",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

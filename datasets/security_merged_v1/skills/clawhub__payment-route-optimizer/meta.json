@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:payment-route-optimizer",
+  "slug": "payment-route-optimizer",
+  "name": "payment-route-optimizer",
+  "title": "支付路径优化器",
+  "description": "Build payment-routing diagnostics, route matrices, retry and failover policies, rollout guardrails, and merchant-friendly planning briefs for payment, checkout, finance, and cross-border ecommerce teams. Use when comparing PSPs, acquirers, local methods, authorization rate, processing cost, or chargeback-sensitive routing decisions without touching live payment traffic.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Payment Route Optimizer",
+  "function_label": "Other"
+}

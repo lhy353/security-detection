@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-generator-free",
+  "slug": "free-generator-free",
+  "name": "free-generator-free",
+  "title": "免费视频生成器免费",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — generate a 30-second video from this text prompt at no cost — and get generated video clips back in 30-60 seconds. Upload MP4, MOV, JPG, PNG files up to 200MB, and the AI handles free video generation automatically. Ideal for content creators, students, marketers who want to create videos without paying or downloading software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Video Generator Free — Generate Videos at No Cost",
+  "function_label": "Automation"
+}

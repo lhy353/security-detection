@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:stayforge-api",
+  "slug": "stayforge-api",
+  "name": "stayforge-api",
+  "title": "技能",
+  "description": "Hotel booking and accommodation search using StayForge API - hotel booking, hotel search, accommodation booking, hotel reservation, find hotels, book hotels, travel booking, lodging search, accommodation finder, hotel deals, hotel prices, hotel availability, vacation rentals, business travel, leisure travel, hotel comparison, best hotel rates, cheap hotels, luxury hotels, budget accommodation, hotel rooms, travel accommodation, hospitality booking, stay booking, overnight accommodation, travel lodging, hotel inventory, property booking, guest accommodation, and comprehensive travel accommodation search and booking services.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "StayForge API Skill",
+  "function_label": "Communication"
+}

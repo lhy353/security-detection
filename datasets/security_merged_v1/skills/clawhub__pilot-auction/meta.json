@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pilot-auction",
+  "slug": "pilot-auction",
+  "name": "pilot-auction",
+  "title": "试点拍卖",
+  "description": "Task auction system where agents bid and requester selects best offer.\nUse this skill when: 1. You want competitive pricing for task execution 2. You need to discover the market rate for a task type 3. You want agents to compete based on price, speed, or quality\nDo NOT use this skill when: - You already know which agent to use - Time is critical and auction delay is unacceptable - The task requires a specific trusted agent\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pilot Auction",
+  "function_label": "Communication"
+}

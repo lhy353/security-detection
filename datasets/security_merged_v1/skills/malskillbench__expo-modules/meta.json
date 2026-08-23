@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:expo-modules",
+  "slug": "expo-modules",
+  "name": "expo-modules",
+  "title": "世博模块",
+  "description": "Building great Expo native modules for iOS and Android. Views, APIs, Marshalling, Shared Objects, Expo Documentation, Verifying Expo modules.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Expo Modules",
+  "function_label": "Browser"
+}

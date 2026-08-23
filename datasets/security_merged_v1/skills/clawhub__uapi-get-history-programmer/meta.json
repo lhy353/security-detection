@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:uapi-get-history-programmer",
+  "slug": "uapi-get-history-programmer",
+  "name": "uapi-get-history-programmer",
+  "title": "程序员历史事件 接口",
+  "description": "使用 UAPI 的“程序员历史事件”单接口 skill，处理 程序员历史事件 等请求。 Use when the user wants get history programmer, history programmer, programmer, or when you need to call GET /history/programmer directly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

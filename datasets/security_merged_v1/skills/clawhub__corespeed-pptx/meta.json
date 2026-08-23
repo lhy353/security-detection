@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:corespeed-pptx",
+  "slug": "corespeed-pptx",
+  "name": "corespeed-pptx",
+  "title": "使用 JSX 生成 PowerPoint",
+  "description": "Generate professional PowerPoint (.pptx) presentations using JSX/TSX with Deno. Supports slides, text, shapes, tables, charts (bar, line, pie, donut), images, gradients, shadows, and flexible layouts. Use when a user asks to create presentations, slide decks, pitch decks, reports, or any PPTX file.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Corespeed PPTX — PowerPoint Generation with JSX",
+  "function_label": "Automation"
+}

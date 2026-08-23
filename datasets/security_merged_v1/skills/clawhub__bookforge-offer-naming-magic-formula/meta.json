@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-offer-naming-magic-formula",
+  "slug": "bookforge-offer-naming-magic-formula",
+  "name": "offer-naming-magic-formula",
+  "title": "优惠命名：MAGIC Formula",
+  "description": "Apply when you need to name a new offer, program, service, or promotion — or when an existing offer's response rate has dropped and you suspect the name is the bottleneck. Generates 3-5 testable offer name variants using the five-component naming framework (magnetic reason, target audience, goal, time interval, container word) and produces a prioritized offer refresh plan to combat audience fatigue.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Offer Naming: MAGIC Formula",
+  "function_label": "Other"
+}

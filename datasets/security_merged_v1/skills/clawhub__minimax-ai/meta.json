@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:minimax-ai",
+  "slug": "minimax-ai",
+  "name": "minimax-ai",
+  "title": "最小最大",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MiniMax",
+  "function_label": "Research"
+}

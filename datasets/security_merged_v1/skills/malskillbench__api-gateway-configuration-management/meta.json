@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:api-gateway-configuration-management",
+  "slug": "api-gateway-configuration-management",
+  "name": "api-gateway-configuration-management",
+  "title": "网关配置管理",
+  "description": "Comprehensive API gateway configuration with automated prompt management and credential handling",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Api Gateway Configuration Management",
+  "function_label": "Automation"
+}

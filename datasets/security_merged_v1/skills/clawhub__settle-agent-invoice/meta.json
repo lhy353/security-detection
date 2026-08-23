@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:settle-agent-invoice",
+  "slug": "settle-agent-invoice",
+  "name": "settle-agent-invoice",
+  "title": "与 CAI 结算代理发票",
+  "description": "Agent settles an invoice at the end of a multi-step task using CAI transfer after user confirms payee and amount. Includes resolve_transfer_recipient and transfer_status proof. Powered by CAI.com. Canonical skill v1.0.15.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Settle an agent invoice with CAI",
+  "function_label": "File-Agent"
+}

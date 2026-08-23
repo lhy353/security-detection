@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pilot-sla",
+  "slug": "pilot-sla",
+  "name": "pilot-sla",
+  "title": "飞行员SLA",
+  "description": "Service-level agreement enforcement with automatic penalties.\nUse this skill when: 1. You need guaranteed performance levels for critical tasks 2. You want automatic penalty enforcement for SLA violations 3. You need uptime, latency, or quality guarantees from agents\nDo NOT use this skill when: - Tasks don't have strict performance requirements - Best-effort execution is acceptable - You don't need automated compliance monitoring\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pilot Sla",
+  "function_label": "Data-Agent"
+}

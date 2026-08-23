@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:compactness",
+  "slug": "compactness",
+  "name": "compactness",
+  "title": "紧凑",
+  "description": "Problem-solving strategies for compactness in topology",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Compactness",
+  "function_label": "Data-Agent"
+}

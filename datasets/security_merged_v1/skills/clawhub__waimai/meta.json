@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:waimai",
+  "slug": "waimai",
+  "name": "waimai",
+  "title": "外麦",
+  "description": "Waimai takeout decision assistant. Input cuisine, budget, location constraints, merchant candidates, or a takeout link; compare delivery fee, minimum order, discounts, meal fit, timing, and merchant risk. Safe boundary: no login, no order submission, no payment.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Waimai",
+  "function_label": "Browser"
+}

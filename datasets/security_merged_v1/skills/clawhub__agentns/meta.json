@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agentns",
+  "slug": "agentns",
+  "name": "agentns",
+  "title": "代理的域名注册",
+  "description": "Register and manage ICANN domains for AI agents. Wallet authentication (SIWE/SIWS), USDC payments on Base or Solana, full DNS management.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AgentNS - Domain Registration for AI Agents",
+  "function_label": "Communication"
+}

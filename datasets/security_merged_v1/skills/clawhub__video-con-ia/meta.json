@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:video-con-ia",
+  "slug": "video-con-ia",
+  "name": "video-con-ia",
+  "title": "编辑和导出 AI 视频",
+  "description": "Get AI-edited videos ready to post, without touching a single slider. Upload your raw video footage (MP4, MOV, AVI, WebM, up to 500MB), say something like \"cut the silences, add subtitles, and export in 1080p\", and download 1080p MP4 when it's done. Built for content creators and marketers who move fast and want fast AI-powered edits without complex software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video con IA — Edit and Export AI Videos"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:codex-review",
+  "slug": "codex-review",
+  "name": "codex-review",
+  "title": "三层代码质量防御",
+  "description": "Three-tier code quality defense: L1 quick scan, L2 deep audit (via bug-audit), L3 cross-validation with adversarial testing. 三级代码质量防线。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Codex Review — Three-Tier Code Quality Defense",
+  "function_label": "Automation"
+}

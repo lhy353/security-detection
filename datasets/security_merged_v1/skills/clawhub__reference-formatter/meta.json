@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:reference-formatter",
+  "slug": "reference-formatter",
+  "name": "reference-formatter",
+  "title": "参考格式化程序",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Reference Formatter",
+  "function_label": "Research"
+}

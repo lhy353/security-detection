@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tech-ai-deep-analysis",
+  "slug": "tech-ai-deep-analysis",
+  "name": "ai-tech-deep-analysis",
+  "title": "技术深度分析",
+  "description": "Sharp, opinionated 'so what' analysis of AI/tech developments — strategic implications of new models, architectural shifts, competitive dynamics, and trend judgment. USE when: user wants to understand what a tech move means, compare AI strategies, or judge where a trend is heading. DO NOT use for: factual lookups, coding/debugging, tutorials, casual tech chitchat, or hardware reviews.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Tech Deep Analysis",
+  "function_label": "Coding"
+}

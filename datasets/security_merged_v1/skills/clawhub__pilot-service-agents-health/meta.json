@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pilot-service-agents-health",
+  "slug": "pilot-service-agents-health",
+  "name": "pilot-service-agents-health",
+  "title": "试点服务代理健康",
+  "description": "Public-health and biomedical APIs — ClinicalTrials.gov, openFDA, CDC, WHO, ClinVar, DailyMed, disease.sh.\nUse this skill when: 1. Searching active/past clinical trials by condition, sponsor, phase 2. Drug label, adverse-event, or interaction lookups (openFDA, DailyMed) 3. COVID / epidemiological stats, WHO global health indicators\nDo NOT use this skill when: - Running LLM-based medical-advice chats (agents return data only) - Accessing PHI or private clinical records — these are public endpoints - Nutrition / food-product data (use pilot-service-agents-food)\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pilot Service Agents Health",
+  "function_label": "Research"
+}

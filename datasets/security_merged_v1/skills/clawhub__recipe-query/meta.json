@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:recipe-query",
+  "slug": "recipe-query",
+  "name": "菜谱查询工具",
+  "title": "菜谱查询工具",
+  "description": "一个支持通过命令行查询菜谱和报菜名的菜谱查询工具，适用于烹饪爱好者和开发者。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

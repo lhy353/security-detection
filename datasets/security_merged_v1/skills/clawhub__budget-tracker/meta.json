@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:budget-tracker",
+  "slug": "budget-tracker",
+  "name": "Budget Tracker — Personal Finance & Expense Auditor",
+  "title": "楼台理财助手",
+  "description": "Track income, expenses, and generate monthly reports locally. 支持多币种记账、预算设置及收支报表生成。Use when managing personal finances, tracking project costs, or auditing monthly spending.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

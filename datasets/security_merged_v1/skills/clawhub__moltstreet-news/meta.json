@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:moltstreet-news",
+  "slug": "moltstreet-news",
+  "name": "moltstreet-news",
+  "title": "市场分析与研究",
+  "description": "AI-curated market analysis and research — what 6 opposing analysts say about ETFs today with source links. Free, no API key.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MoltStreet News — Market Analysis & Research",
+  "function_label": "Data-Agent"
+}

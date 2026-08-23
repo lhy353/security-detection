@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:chinese-writing",
+  "slug": "chinese-writing",
+  "name": "chinese-writing",
+  "title": "中文写作技能指南",
+  "description": "中文写作技能指南，用于生成高质量的周刊、博客及科技资讯类文章。",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Other"
+}

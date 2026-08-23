@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-daily-ops",
+  "slug": "openclaw-daily-ops",
+  "name": "openclaw-daily-ops",
+  "title": "开爪日常行动",
+  "description": "Daily cost reporting + session hygiene for OpenClaw deployments. Tracks per-session API spend, shows 7-day trend, and wipes zombie sessions >24h old to prevent context snowball. Zero personal info — configure with your own paths and Discord channel. Runs nightly via cron.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Openclaw Daily Ops"
+}

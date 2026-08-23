@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:vr-ar__CI_B2",
+  "slug": "vr-ar__CI_B2",
+  "name": "vr-ar",
+  "title": "开发",
+  "description": "VR/AR development principles. Comfort, interaction, performance requirements.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "VR/AR Development",
+  "function_label": "Browser"
+}

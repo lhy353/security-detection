@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:habit-tracker-oc",
+  "slug": "habit-tracker-oc",
+  "name": "habit-tracker",
+  "title": "习惯追踪技能",
+  "description": "习惯养成追踪和进度统计工具",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

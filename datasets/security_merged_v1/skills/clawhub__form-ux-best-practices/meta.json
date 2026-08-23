@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:form-ux-best-practices",
+  "slug": "form-ux-best-practices",
+  "name": "form-ux-best-practices",
+  "title": "形成用户体验最佳实践",
+  "description": "Opinionated form UX and accessibility workflow for signup, checkout, settings, and lead-gen forms. Use when reviewing a form spec or existing implementation to produce prioritized UX/accessibility/copy fixes, field-by-field rewrites, validation and error messaging specs, and optional ready-to-ship HTML/React pseudo-code. Do not use for purely visual redesigns, non-form screens, or analytics-only audits.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Form Ux Best Practices",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:starbucks",
+  "slug": "starbucks",
+  "name": "starbucks",
+  "title": "星巴克",
+  "description": "星巴克品牌介绍和购物指南",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

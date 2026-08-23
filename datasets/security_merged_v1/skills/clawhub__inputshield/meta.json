@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:inputshield",
+  "slug": "inputshield",
+  "name": "InputShield",
+  "title": "输入验证和清理扫描器",
+  "description": "Input validation & sanitization scanner -- catches missing validation, unsafe deserialization, ReDoS, path traversal, command injection, and XSS patterns",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "InputShield -- Input Validation & Sanitization Scanner",
+  "function_label": "Other"
+}

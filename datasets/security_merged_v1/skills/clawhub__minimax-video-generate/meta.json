@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:minimax-video-generate",
+  "slug": "minimax-video-generate",
+  "name": "minimax-video",
+  "title": "支持文生视频 、图…",
+  "description": "MiniMax 视频生成技能 - 支持文生视频(Text-to-Video)、图生视频(Image-to-Video)、首尾帧视频(Frame-to-Frame)、主体参考视频(Subject-to-Video)。使用模型 MiniMax-Hailuo-2.3，默认生成 5 秒 720P MP4 视频，自动下载保存到本地。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

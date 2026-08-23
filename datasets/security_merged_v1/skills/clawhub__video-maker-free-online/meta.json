@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-maker-free-online",
+  "slug": "video-maker-free-online",
+  "name": "video-maker-free-online",
+  "title": "在线创建和导出视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — combine these photos into a 30-second promo video with transitions and text — and get polished MP4 videos back in 30-60 seconds. Upload MP4, MOV, JPG, PNG files up to 500MB, and the AI handles AI video creation automatically. Ideal for content creators and small business owners who want to make videos quickly without installing or learning complex software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Maker Free Online — Create and Export Videos Online",
+  "function_label": "Communication"
+}

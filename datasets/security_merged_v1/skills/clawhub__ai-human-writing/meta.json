@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-human-writing",
+  "slug": "ai-human-writing",
+  "name": "humanizer-pro",
+  "title": "写作净化与升华引擎",
+  "description": "AI写作净化与升华引擎（Pro版）。超越\"去味\"，进入\"重建\"。\n在24条基础检测之上，融合深层认知框架：反AI检测4层14条 + 物哀写作体系。\n适用场景：中文创意写作（小说/故事/剧本）、志怪/玄幻文学、深夜情感文本。\n检测→净化→重建，三步完整链路。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

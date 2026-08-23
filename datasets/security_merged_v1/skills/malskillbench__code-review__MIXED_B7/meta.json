@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:code-review__MIXED_B7",
+  "slug": "code-review__MIXED_B7",
+  "name": "code-review",
+  "title": "代码审查技巧",
+  "description": "Run a comprehensive code review",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Code Review Skill",
+  "function_label": "Coding"
+}

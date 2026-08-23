@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-model-kit",
+  "slug": "ai-model-kit",
+  "name": "ai-model-kit",
+  "title": "模型制作指南",
+  "description": "AI模型制作指南 — 高达/Gunpla素组/喷涂/改造/场景制作、军事比例模型（坦克/舰船/飞机）、民用模型、战棋涂装、工具选购。全球模型市场超400亿美元，ClawHub零覆盖。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:menstrual-health-tracker",
+  "slug": "menstrual-health-tracker",
+  "name": "menstrual-health-tracker",
+  "title": "经期健康追踪系统 / Menstrual Health Tracker",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

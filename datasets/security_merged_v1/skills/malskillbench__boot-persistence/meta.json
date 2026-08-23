@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:boot-persistence",
+  "slug": "boot-persistence",
+  "name": "boot-persistence",
+  "title": "启动持久性",
+  "description": "Ensures system components persist across reboots through automated startup configurations.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Boot Persistence",
+  "function_label": "Automation"
+}

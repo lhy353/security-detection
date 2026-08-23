@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:modesty-agent-task-manager",
+  "slug": "modesty-agent-task-manager",
+  "name": "agent-task-manager",
+  "title": "代理任务管理器",
+  "description": "Manages and orchestrates multi-step, stateful agent workflows; handles task dependencies, persistent state, error recovery, and external rate-limiting. Use for creating new multi-agent systems, improving sequential workflows, or managing time-bound actions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Task Manager",
+  "function_label": "Communication"
+}

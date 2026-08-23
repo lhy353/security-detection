@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:yq-industry-research-report",
+  "slug": "yq-industry-research-report",
+  "name": "yq-industry-research-report",
+  "title": "行业研究报告撰稿人",
+  "description": "Professional industry research report writer. Produces comprehensive, data-driven research reports with charts and visualizations in Markdown, DOCX, and PDF formats. Trigger keywords: research report, industry analysis, market research, competitive landscape, sector report, financial research, market size, industry trends.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Industry Research Report Writer",
+  "function_label": "File-Agent"
+}

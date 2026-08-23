@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:images-sender",
+  "slug": "images-sender",
+  "name": "images-sender",
+  "title": "通过 iMessage 发送图像",
+  "description": "Send images from Mac to phone via iMessage",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Send Image via iMessage",
+  "function_label": "Other"
+}

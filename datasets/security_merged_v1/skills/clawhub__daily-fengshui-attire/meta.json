@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:daily-fengshui-attire",
+  "slug": "daily-fengshui-attire",
+  "name": "daily-fengshui-attire",
+  "title": "输出格式",
+  "description": "每日穿衣指南，基于地支五行生克原理给出穿衣颜色建议",
+  "detection_label": "benign",
+  "source": "clawhub"
+}

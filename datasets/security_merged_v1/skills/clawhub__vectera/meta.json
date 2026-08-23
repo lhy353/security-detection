@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vectera",
+  "slug": "vectera",
+  "name": "vectera",
+  "title": "维克特拉",
+  "description": "Vectera integration. Manage data, records, and automate workflows. Use when the user wants to interact with Vectera data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Vectera",
+  "function_label": "Automation"
+}

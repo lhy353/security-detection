@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lukaizj-notion",
+  "slug": "lukaizj-notion",
+  "name": "Notion Integration",
+  "title": "概念整合",
+  "description": "Notion integration - Manage pages, databases, and content in Notion",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Notion Integration",
+  "function_label": "Data-Agent"
+}

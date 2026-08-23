@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:uniqlo",
+  "slug": "uniqlo",
+  "name": "uniqlo",
+  "title": "信息助理",
+  "description": "Information assistant for Uniqlo. Search products, news, financials, and official resources for Uniqlo.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Uniqlo — Information Assistant",
+  "function_label": "Research"
+}

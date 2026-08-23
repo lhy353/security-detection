@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:editor-online-free",
+  "slug": "editor-online-free",
+  "name": "editor-online-free",
+  "title": "在线编辑和导出视频",
+  "description": "Turn a 2-minute raw screen recording into 1080p edited MP4 clips just by typing what you need. Whether it's editing videos online without downloading software or quick social content, drop your video clips and describe the result you want. No timeline dragging, no export settings — 1-2 minutes from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Editor Online Free — Edit and Export Videos Online",
+  "function_label": "Communication"
+}

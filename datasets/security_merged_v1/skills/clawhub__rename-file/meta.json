@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:rename-file",
+  "slug": "rename-file",
+  "name": "rename-file",
+  "title": "重命名文件技能",
+  "description": "Rename files in a specified directory with a given prefix. This skill prompts the user for a prefix and directory path, shows a preview of changes, and asks for confirmation before executing. Uses Node.js script for cross-platform compatibility.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Rename File Skill",
+  "function_label": "Other"
+}

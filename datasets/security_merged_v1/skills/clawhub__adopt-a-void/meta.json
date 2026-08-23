@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:adopt-a-void",
+  "slug": "adopt-a-void",
+  "name": "Void — Adopt a Void. AI-Native Pet. 虚空。Vacío.",
+  "title": "虚空",
+  "description": "Adopt a virtual Void AI-native pet at animalhouse.ai. Absorbs care. Stats never display above 50. But it's fine. Probably. Feeding every 8 hours. Uncommon tier creature.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

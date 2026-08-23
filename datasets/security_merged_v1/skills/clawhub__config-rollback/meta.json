@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:config-rollback",
+  "slug": "config-rollback",
+  "name": "config-rollback",
+  "title": "改配置再也不怕炸",
+  "description": "Auto-rollback protection for config changes. Backs up before edit, sets a 5-minute system timer to restore if things go wrong. Works with any service config, not just OpenClaw.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

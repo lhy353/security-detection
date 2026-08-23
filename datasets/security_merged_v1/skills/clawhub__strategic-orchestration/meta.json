@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:strategic-orchestration",
+  "slug": "strategic-orchestration",
+  "name": "strategic-orchestration",
+  "title": "技能：战略策划",
+  "description": "Coordinate agents toward a unified objective; assign roles, sequence work, prevent conflicts, and define success criteria.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SKILL: strategic-orchestration",
+  "function_label": "Communication"
+}

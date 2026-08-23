@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alibabacloud-nginx-ingress-to-api-gateway",
+  "slug": "alibabacloud-nginx-ingress-to-api-gateway",
+  "name": "alibabacloud-nginx-ingress-to-api-gateway",
+  "title": "入口到 APIG 迁移",
+  "description": "Alibaba Cloud APIG Migration Skill. Migrate Kubernetes nginx Ingress resources to Alibaba Cloud API Gateway (APIG, ingressClass: apig).\nUsers provide Ingress YAML (paste, file, or directory) — no cluster access required for analysis.\nCovers annotation compatibility classification, Higress native mapping, built-in plugin selection, custom WasmPlugin development, migrated Ingress YAML generation, and migration report with deployment guide.\nTriggers: \"nginx ingress migration\", \"APIG compatibility\", \"gateway migration\", \"ingress-nginx to APIG\", \"nginx迁移\", \"网关迁移\", \"Ingress兼容性分析\", \"APIG迁移\", \"迁移评估\", \"annotation兼容性\", \"WasmPlugin开发\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Nginx Ingress to APIG Migration",
+  "function_label": "Automation"
+}

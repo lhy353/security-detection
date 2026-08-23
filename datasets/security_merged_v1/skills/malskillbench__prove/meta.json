@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:prove",
+  "slug": "prove",
+  "name": "prove",
+  "title": "机器验证的证明（5 阶段工作流程）",
+  "description": "Formal theorem proving with research, testing, and verification phases",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "/prove - Machine-Verified Proofs (5-Phase Workflow)",
+  "function_label": "Other"
+}

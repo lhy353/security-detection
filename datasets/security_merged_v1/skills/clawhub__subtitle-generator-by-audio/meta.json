@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:subtitle-generator-by-audio",
+  "slug": "subtitle-generator-by-audio",
+  "name": "subtitle-generator-by-audio",
+  "title": "音频字幕生成器",
+  "description": "Turn a 3-minute interview recording in MP3 into 1080p captioned video files just by typing what you need. Whether it's adding auto-generated subtitles from audio to videos or quick social content, drop your audio or video files and describe the result you want. No timeline dragging, no export settings — 30-90 seconds from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Subtitle Generator by Audio — Generate Subtitles from Audio",
+  "function_label": "Communication"
+}

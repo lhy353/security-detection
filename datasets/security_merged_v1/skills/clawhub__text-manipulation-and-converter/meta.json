@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:text-manipulation-and-converter",
+  "slug": "text-manipulation-and-converter",
+  "name": "text-manipulation-and-converter",
+  "title": "文本操作和转换器",
+  "description": "Text Manipulation and Converter: Manipulate text: case conversion (11 formats), whitespace handling, line operations, sorting, deduplication, wrapping, character counts. Use when an agent needs text manipulation and converter, converting variable names between programming language conventions, cleaning and normalizing imported data, meeting word or character count requirements, formatting text to specific column widths, add quotes, text, quote type through AgentPMT-hosted remote tool calls.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Text Manipulation And Converter",
+  "function_label": "Other"
+}

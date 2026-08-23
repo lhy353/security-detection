@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:timeline",
+  "slug": "timeline",
+  "name": "timeline",
+  "title": "时间线技能",
+  "description": "Log dated events and facts to a queryable personal timeline. Use when the user wants to record something that happened (medical events, family moments, milestones) without cluttering the calendar. Not for scheduling — for remembering.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Timeline Skill",
+  "function_label": "Other"
+}

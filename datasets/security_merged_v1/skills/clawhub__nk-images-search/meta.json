@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nk-images-search",
+  "slug": "nk-images-search",
+  "name": "NK Images Search",
+  "title": "免费素材照片",
+  "description": "Search 1+ million free high-quality AI stock photos. Generate up to 240 free AI images daily. No API key, no tokens, no cost. 235+ niches and growing.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "NK Images Search - 1M+ Free Stock Photos",
+  "function_label": "Data-Agent"
+}

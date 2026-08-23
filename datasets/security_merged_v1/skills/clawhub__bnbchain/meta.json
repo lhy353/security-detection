@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bnbchain",
+  "slug": "bnbchain",
+  "name": "bnbchain-mcp",
+  "title": "链MCP技能",
+  "description": "Interact with the BNB Chain Model Context Protocol (MCP) server. Blocks, contracts, tokens, NFTs, wallet, Greenfield, and ERC-8004 agent tools. Use npx @bnb-chain/mcp@latest or read the official skill page.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "BNB Chain MCP Skill",
+  "function_label": "Data-Agent"
+}

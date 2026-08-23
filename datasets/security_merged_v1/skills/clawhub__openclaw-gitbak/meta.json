@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-gitbak",
+  "slug": "openclaw-gitbak",
+  "name": "openclaw-gitbak",
+  "title": "备份/恢复",
+  "description": "Backup/restore OpenClaw config and workspace via git.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenClaw Git Backup/Restore",
+  "function_label": "Other"
+}

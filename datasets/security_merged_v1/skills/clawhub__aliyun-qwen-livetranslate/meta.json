@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aliyun-qwen-livetranslate",
+  "slug": "aliyun-qwen-livetranslate",
+  "name": "aliyun-qwen-livetranslate",
+  "title": "模型工作室 Qwen LiveTranslate",
+  "description": "Use when live speech translation is needed with Alibaba Cloud Model Studio Qwen LiveTranslate models, including bilingual meetings, realtime interpretation, and speech-to-speech or speech-to-text translation flows.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Model Studio Qwen LiveTranslate",
+  "function_label": "Other"
+}

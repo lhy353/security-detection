@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:senior-secops",
+  "slug": "senior-secops",
+  "name": "senior-secops",
+  "title": "高级安全运维工程师",
+  "description": "Comprehensive SecOps skill for application security, vulnerability management, compliance, and secure development practices. Includes security scanning, vulnerability assessment, compliance checking, and security automation. Use when implementing security controls, conducting security audits, responding to vulnerabilities, or ensuring compliance requirements.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Senior SecOps Engineer",
+  "function_label": "Automation"
+}

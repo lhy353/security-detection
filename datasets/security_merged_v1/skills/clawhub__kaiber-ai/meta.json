@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kaiber-ai",
+  "slug": "kaiber-ai",
+  "name": "kaiber-ai",
+  "title": "生成 AI 动画视频",
+  "description": "generate images or video clips into AI-animated video clips with this skill. Works with MP4, MOV, JPG, PNG files up to 500MB. musicians, content creators, TikTok creators use it for turning images or clips into AI-generated music videos or animations — processing takes 1-3 minutes on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kaiber AI — Generate AI Animated Videos",
+  "function_label": "Communication"
+}

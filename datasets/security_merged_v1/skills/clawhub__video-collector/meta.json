@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:video-collector",
+  "slug": "video-collector",
+  "name": "video-collector",
+  "title": "视频收藏入库",
+  "description": "抖音/B站视频收藏入库——接收视频链接，自动抓取信息、生成总结、分类、入库飞书多维表格。触发词：视频入库 / 收藏视频 / 帮我整理这个视频。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

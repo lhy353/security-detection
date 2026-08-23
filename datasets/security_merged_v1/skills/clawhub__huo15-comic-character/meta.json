@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:huo15-comic-character",
+  "slug": "huo15-comic-character",
+  "name": "huo15-comic-character",
+  "title": "火15 漫剧-角色三联卡",
+  "description": "根据剧本 characters 字段，用 Seedream 4.0 生成每个角色的全身立绘/半身特写/Q 版三联卡。后续分镜用这三张图做多图参考保证角色一致性。触发词：生成角色卡、角色立绘、人物设定图。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

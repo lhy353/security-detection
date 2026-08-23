@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-shopify-manager",
+  "slug": "openclaw-shopify-manager",
+  "name": "openclaw-shopify-manager",
+  "title": "经理",
+  "description": "Connect OpenClaw to Shopify with guided setup, local `.env` secret storage, Shopify OAuth, webhook validation, product and content operations, and host or Docker-sidecar deployment support. Use when connecting a Shopify store to OpenClaw, completing Shopify app setup, reading store information, listing or finding products, updating approved Shopify content, or running a small local Shopify connector for OpenClaw.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Openclaw Shopify Manager",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:supportforge",
+  "slug": "supportforge",
+  "name": "supportforge",
+  "title": "支持锻造",
+  "description": "AI customer support via SupportForge API — ticket creation, auto-replies, routing, knowledge base search. Use when user needs customer support automation, ticket management, auto-response generation, or support knowledge base features. Free tier available (100 req/day).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Supportforge",
+  "function_label": "Communication"
+}

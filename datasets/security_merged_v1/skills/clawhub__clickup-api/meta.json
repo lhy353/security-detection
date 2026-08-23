@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clickup-api",
+  "slug": "clickup-api",
+  "name": "clickup",
+  "title": "点击按钮",
+  "description": "ClickUp API integration with managed OAuth. Access tasks, lists, folders, spaces, workspaces, users, and manage webhooks. Use this skill when users want to manage work items, track projects, or integrate with ClickUp workflows. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClickUp",
+  "function_label": "Browser"
+}

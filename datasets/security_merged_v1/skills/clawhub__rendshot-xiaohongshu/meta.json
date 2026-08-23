@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:rendshot-xiaohongshu",
+  "slug": "rendshot-xiaohongshu",
+  "name": "xiaohongshu",
+  "title": "小红书内容图片生成器",
+  "description": "Create high-performing Xiaohongshu (Little Red Book / RED) cover images and content graphics. Use when the user mentions: '小红书', 'xiaohongshu', 'RED', '种草', '笔记封面', '小红书图片', '小红书卡片', or wants to create content for the Xiaohongshu platform. Combines platform algorithm knowledge, visual design best practices, and Rendshot image generation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Xiaohongshu Content Image Generator",
+  "function_label": "Other"
+}

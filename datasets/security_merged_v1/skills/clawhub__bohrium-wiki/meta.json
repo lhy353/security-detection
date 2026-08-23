@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bohrium-wiki",
+  "slug": "bohrium-wiki",
+  "name": "bohrium-wiki",
+  "title": "技能：Bohrium SciencePedia",
+  "description": "Browse and search Bohrium SciencePedia (encyclopedia) via open.bohrium.com. Use when: user asks about finding scientific topics, reading encyclopedia-style entries, browsing by major/level/field hierarchy, or looking up a specific concept's article. NOT for: paper search (use bohrium-paper-search), knowledge base management (use bohrium-knowledge-base).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SKILL: Bohrium SciencePedia",
+  "function_label": "Other"
+}

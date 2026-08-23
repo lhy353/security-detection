@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:email-outreach",
+  "slug": "email-outreach",
+  "name": "email-outreach",
+  "title": "电子邮件推广技巧",
+  "description": "Automated email outreach campaign builder and optimizer. Use when asked to write cold emails, build outreach sequences, create follow-up cadences, personalize email templates at scale, audit existing email copy for deliverability and response rates, generate subject line variants, or build lead lists. Triggers on phrases like \"cold email\", \"outreach sequence\", \"email campaign\", \"follow-up emails\", \"personalize emails\", \"email templates\", \"improve open rates\", \"sales emails\", \"lead outreach\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Email Outreach Skill",
+  "function_label": "Communication"
+}

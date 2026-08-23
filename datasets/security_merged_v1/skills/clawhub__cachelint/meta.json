@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cachelint",
+  "slug": "cachelint",
+  "name": "CacheLint",
+  "title": "缓存反模式分析器",
+  "description": "Caching anti-pattern analyzer -- detects Redis/Memcached misuse, TTL problems, cache invalidation failures, stampedes, architecture issues, and security hygiene gaps in application-level caching",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CacheLint -- Caching Anti-Pattern Analyzer",
+  "function_label": "Browser"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:gmail-skill",
+  "slug": "gmail-skill",
+  "name": "gmail-skill",
+  "title": "技能",
+  "description": "Gmail automation: summarize, labels, spam purge, filing, deletion, permanent delete",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Gmail Skill"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cs-flyai-plan-japan-travel",
+  "slug": "cs-flyai-plan-japan-travel",
+  "name": "flyai-plan-japan-travel",
+  "title": "关键执行规则",
+  "description": "Plan your complete Japan trip — flights, hotels in Tokyo/Osaka/Kyoto/Hokkaido, shrine visits, cherry blossom spots, visa requirements, and JR Pass info. Handles single queries and full multi-city itinerary planning. Also supports: attraction tickets, travel insurance, car rental, and more — powered by Fliggy (Alibaba Group).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "️ CRITICAL EXECUTION RULES",
+  "function_label": "Automation"
+}

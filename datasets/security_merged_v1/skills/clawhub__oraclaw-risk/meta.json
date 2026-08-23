@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:oraclaw-risk",
+  "slug": "oraclaw-risk",
+  "name": "oraclaw-risk",
+  "title": "特工风险评估",
+  "description": "Risk assessment engine for AI agents. Value at Risk (VaR), CVaR, stress testing, and multi-factor risk scoring. Monte Carlo powered. Built for trading agents, lending agents, and portfolio managers.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OraClaw Risk — Risk Assessment for Agents",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nm-imbue-rigorous-reasoning",
+  "slug": "nm-imbue-rigorous-reasoning",
+  "name": "rigorous-reasoning",
+  "title": "严谨的推理",
+  "description": "Applies anti-sycophancy checklist to override agreement bias",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Rigorous Reasoning",
+  "function_label": "Communication"
+}

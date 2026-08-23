@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:storyclaw-x2c-publish",
+  "slug": "storyclaw-x2c-publish",
+  "name": "storyclaw-x2c-publish",
+  "title": "分发和钱包 API",
+  "description": "X2C Distribution and Wallet API — publish video to X2C platform, manage assets (balance, claim X2C, swap to USDC, withdraw, transactions).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "X2C Publish - Distribution & Wallet API",
+  "function_label": "Data-Agent"
+}

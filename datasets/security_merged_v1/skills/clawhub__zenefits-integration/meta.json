@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zenefits-integration",
+  "slug": "zenefits-integration",
+  "name": "zenefits",
+  "title": "泽尼菲斯",
+  "description": "Zenefits integration. Manage Persons, Organizations, Benefits, Payrolls, Tasks. Use when the user wants to interact with Zenefits data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zenefits",
+  "function_label": "Browser"
+}

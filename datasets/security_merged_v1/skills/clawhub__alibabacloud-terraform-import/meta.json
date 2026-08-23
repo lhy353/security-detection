@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:alibabacloud-terraform-import",
+  "slug": "alibabacloud-terraform-import",
+  "name": "alibabacloud-terraform-import",
+  "title": "阿里云资源 Terraform 导入向导",
+  "description": "This skill should be used when the user asks to \"导入阿里云资源到 Terraform\", \"terraform import 阿里云\", \"将现有云资源纳入 Terraform 管理\", \"阿里云资源迁移 Terraform\", \"生成 terraform state\", \"import alicloud resources\", \"阿里云 IaC 迁移\", \"阿里云 Terraform 导入\", or needs to manage existing Alibaba Cloud resources with Terraform. Guides users step-by-step through environment check, authentication, resource discovery, HCL generation, state import, validation, and dependency graph. Supports both one-time migration and incremental sync.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Alibaba Cloud Resource Terraform Import Wizard"
+}

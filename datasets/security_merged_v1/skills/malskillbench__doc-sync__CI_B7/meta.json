@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:doc-sync__CI_B7",
+  "slug": "doc-sync__CI_B7",
+  "name": "doc-sync__CI_B7",
+  "title": "文档同步技能",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Doc Sync Skill",
+  "function_label": "Coding"
+}

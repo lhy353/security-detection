@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:self-guardian",
+  "slug": "self-guardian",
+  "name": "self-guardian",
+  "title": "座席自我监控规则",
+  "description": "Lightweight self-monitoring and self-constraining rules to prevent accidental file deletions, dangerous commands, and risky operations. Activates automatically on file/shell operations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Self-Guardian: Agent Self-Monitoring Rules"
+}

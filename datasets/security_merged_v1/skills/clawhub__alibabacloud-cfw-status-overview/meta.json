@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alibabacloud-cfw-status-overview",
+  "slug": "alibabacloud-cfw-status-overview",
+  "name": "alibabacloud-cfw-status-overview",
+  "title": "云防火墙状态概览",
+  "description": "Alibaba Cloud Firewall Status Overview Skill. One-click query of overall cloud firewall status including asset management, border firewall switch status, and traffic overview.\nTriggers: \"cloud firewall status\", \"firewall overview\", \"firewall status overview\", \"asset management\", \"protection coverage\", \"what is the overall cloud firewall status\", \"how many assets are not managed\", \"what is the protection coverage for each boundary\", \"CFW status\", \"cloud firewall overview\"",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cloud Firewall Status Overview",
+  "function_label": "Other"
+}

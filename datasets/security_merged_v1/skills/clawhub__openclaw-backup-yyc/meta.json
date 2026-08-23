@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-backup-yyc",
+  "slug": "openclaw-backup-yyc",
+  "name": "openclaw-backup-yyc",
+  "title": "备份恢复工具 / OpenClaw Backup & Restore Tool",
+  "description": "OpenClaw 数据备份与恢复工具。⚠️ 触发条件：用户消息必须精确等于\"备份openclaw数据\"、\"恢复openclaw数据\"（中文）或\"backup openclaw data\"、\"restore openclaw data\"（英文），其中 openclaw 不区分大小写。其他任何输入（包括部分关键词如\"备份\"、\"备份OpenClaw\"等）均不触发此 skill，当作普通对话处理，不给出任何备份相关提示或引导。执行前必须向用户确认操作。语言适配规则：中文命令触发时使用中文提示，英文命令触发时使用英文提示。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

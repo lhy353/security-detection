@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:schedule-interpreter",
+  "slug": "schedule-interpreter",
+  "name": "skylv-cron-parser",
+  "title": "表达式解析器",
+  "description": "Parses, validates, and explains cron expressions. Converts between human-readable and cron format. Triggers: parse cron, validate cron, cron expression.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cron Expression Parser",
+  "function_label": "Automation"
+}

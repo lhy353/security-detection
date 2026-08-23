@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:spark-sql-optimizer",
+  "slug": "spark-sql-optimizer",
+  "name": "spark-sql-optimizer",
+  "title": "优化器",
+  "description": "Spark Sql Optimizer - Auto-activating skill for Data Pipelines.\nTriggers on: spark sql optimizer, spark sql optimizer\nPart of the Data Pipelines skill category.\n",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Spark Sql Optimizer",
+  "function_label": "Automation"
+}

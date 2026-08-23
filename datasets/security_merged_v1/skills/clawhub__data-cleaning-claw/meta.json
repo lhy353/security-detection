@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:data-cleaning-claw",
+  "slug": "data-cleaning-claw",
+  "name": "data-cleaning-claw",
+  "title": "数据自动化清洗虾",
+  "description": "数据自动化清洗虾。处理脏数据、重复数据与广告噪音，输出高质量干净数据。\n触发场景：用户提到\"清洗数据\"、\"去重\"、\"数据清理\"、\"脏数据\"、\"数据标准化\"、\"格式统一\"、\"去噪\"、\"数据预处理\"、\"数据质量\"、\"缺失值处理\"，或上传了 CSV/Excel/JSON 文件并要求清洗处理时。\n支持：Excel/CSV/JSON 输入，去重、缺失值填充、格式标准化（日期/金额/电话）、HTML去噪、数据验证，输出清洗后文件 + 清洗报告。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

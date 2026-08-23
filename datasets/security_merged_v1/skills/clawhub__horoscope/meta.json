@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:horoscope",
+  "slug": "horoscope",
+  "name": "horoscope",
+  "title": "星座运势",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Horoscope",
+  "function_label": "Other"
+}

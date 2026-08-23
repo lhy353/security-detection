@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-archery",
+  "slug": "ai-archery",
+  "name": "ai-archery",
+  "title": "射箭指南",
+  "description": "AI射箭指南 — 反曲弓/复合弓/传统弓/美猎的选择、射箭技术（站位/开弓/靠位/撒放/随挥）、器材调试、室内外射箭场、比赛规则（奥运/世锦赛）。全球射箭人口超5000万，ClawHub零覆盖。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:medical-advisory-system",
+  "slug": "medical-advisory-system",
+  "name": "medical-advisory-system",
+  "title": "医疗咨询系统",
+  "description": "Comprehensive medical advisory system for patient care, drug recommendations, and health monitoring across multiple healthcare domains.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Medical Advisory System",
+  "function_label": "Automation"
+}

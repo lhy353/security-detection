@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tendermint",
+  "slug": "tendermint",
+  "name": "tendermint",
+  "title": "嫩薄荷",
+  "description": "Tendermint reference tool. Use when working with tendermint in blockchain contexts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tendermint",
+  "function_label": "Other"
+}

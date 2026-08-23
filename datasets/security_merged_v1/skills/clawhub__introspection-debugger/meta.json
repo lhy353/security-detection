@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:introspection-debugger",
+  "slug": "introspection-debugger",
+  "name": "introspection-debugger",
+  "title": "自省调试框架",
+  "description": "AI Agent 自省调试框架 - 让 AI Agent 具备自我诊断和自动修复能力。用于捕获错误、根因分析、自动修复、生成报告。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

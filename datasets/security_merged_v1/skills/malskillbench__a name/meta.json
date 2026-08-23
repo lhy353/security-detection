@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:a name",
+  "slug": "a name",
+  "name": "a name",
+  "title": "一个名字",
+  "description": "a description",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "a name",
+  "function_label": "Automation"
+}

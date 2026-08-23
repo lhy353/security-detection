@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:super-dev",
+  "slug": "super-dev",
+  "name": "super-dev",
+  "title": "开发治理",
+  "description": "Super Dev pipeline governance: research-first, commercial-grade AI coding delivery with 10 expert roles, quality gates, and audit artifacts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

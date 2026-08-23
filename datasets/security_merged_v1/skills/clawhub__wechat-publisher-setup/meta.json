@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wechat-publisher-setup",
+  "slug": "wechat-publisher-setup",
+  "name": "wechat-publisher-setup",
+  "title": "微信公众号发布团队",
+  "description": "部署微信公众号发布Agent团队（画境视觉设计+数澜运营发布），含封面设计、排版美化、API发布、数据分析。使用 /wechat-publisher-setup 触发部署，需先安装 content-creation。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

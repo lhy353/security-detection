@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:automatic-video-editing",
+  "slug": "automatic-video-editing",
+  "name": "automatic-video-editing",
+  "title": "编辑和导出精美视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — trim the silences, add transitions, and sync cuts to the background music — and get edited video clips back in 1-2 minutes. Upload MP4, MOV, AVI, WebM files up to 500MB, and the AI handles AI video editing automatically. Ideal for content creators and marketers who want fast professional edits without learning complex editing software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Automatic Video Editing — Edit and Export Polished Videos",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:api-integration-manager",
+  "slug": "api-integration-manager",
+  "name": "api-integration-manager",
+  "title": "集成经理",
+  "description": "Manages API integration workflows with automated endpoint monitoring and documentation",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Api Integration Manager",
+  "function_label": "Data-Agent"
+}

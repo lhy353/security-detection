@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alibabacloud-pai-workspace-manage",
+  "slug": "alibabacloud-pai-workspace-manage",
+  "name": "alibabacloud-pai-workspace-manage",
+  "title": "工作空间管理",
+  "description": "Alibaba Cloud PAI Workspace Management Skill. Create, query, and list workspaces on the Platform for AI (PAI).\nTriggers: \"create PAI workspace\", \"query PAI workspace\", \"list workspaces\", \"PAI workspace\", \"create workspace\", \"get workspace\", \"list workspaces\", \"AIWorkSpace CreateWorkspace\", \"AIWorkSpace GetWorkspace\", \"AIWorkSpace ListWorkspaces\"",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PAI Workspace Management",
+  "function_label": "Automation"
+}

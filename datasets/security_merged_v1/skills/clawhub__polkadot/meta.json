@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:polkadot",
+  "slug": "polkadot",
+  "name": "Polkadot",
+  "title": "波尔卡圆点",
+  "description": "Assist with Polkadot DOT transactions, staking, parachains, and cross-chain transfers.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Polkadot",
+  "function_label": "Other"
+}

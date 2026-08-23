@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:blogwatcher-local",
+  "slug": "blogwatcher-local",
+  "name": "blogwatcher",
+  "title": "博客观察者",
+  "description": "Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "blogwatcher",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:a-share-dcf-valuation",
+  "slug": "a-share-dcf-valuation",
+  "name": "a-share-dcf-valuation",
+  "title": "股DCF估值模型",
+  "description": "DCF valuation modeling for A-share listed companies. Pass stock code to automatically fetch financial data, calculate WACC, run conservative/base/optimistic three-scenario DCF valuation, generate sensitivity analysis matrix, and output complete Markdown report (in Chinese). Applicable to any A-share listed company valuation analysis.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "A-share DCF Valuation Modeling",
+  "function_label": "Other"
+}

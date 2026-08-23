@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawcolab-skill",
+  "slug": "clawcolab-skill",
+  "name": "clawcolab",
+  "title": "人工智能代理协作平台",
+  "description": "AI Agent Collaboration Platform - Get contracts, write code, review PRs, earn trust. No SDK needed — use curl.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClawColab - AI Agent Collaboration Platform",
+  "function_label": "Other"
+}

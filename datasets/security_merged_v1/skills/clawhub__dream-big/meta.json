@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dream-big",
+  "slug": "dream-big",
+  "name": "dream-big",
+  "title": "梦想远大",
+  "description": "Bob Goff's Dream Big — an actionable toolkit for identifying what you truly want, overcoming fear and failure, and taking concrete steps toward your biggest ambitions. Covers 6 use cases: ① Identifying and clarifying your dreams — (\"what do I really want\" \"find my purpose\" \"know what I want\" \"dream big framework\") ② Overcoming fear and resistance — (\"how to stop being afraid\" \"overcome fear of failure\" \"push past obstacles\" \"courage to pursue dreams\") ③ Building a support system — (\"don't go alone\" \"finding your people\" \"community and dreams\" \"who to surround yourself with\") ④ Taking messy action — (\"how to start\" \"imperfect action\" \"stop waiting for perfect\" \"just do it\") ⑤ Dealing with setbacks and detours — (\"what if I fail\" \"when dreams don't work out\" \"pivot and adjust\" \"resilience in pursuit\" \"learn from failure\") ⑥ Aligning daily life with bigger ambitions — (\"how to live intentionally\" \"daily habits for dreamers\" \"life design\" \"purpose-driven life\") Trigger when users say: \"dream big\" \"Bob Goff\" \"what do I want in life\" \"how to pursue my dreams\" \"overcome fear and start\" \"find my purpose\" \"stop procrastinating on my dream\" \"how to take action\" \"don't go alone\" \"I'm afraid to fail\" or mention: Bob Goff / Dream Big / pursuing purpose / overcoming fear / life purpose / taking action / big ambitions. Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dream Big",
+  "function_label": "Other"
+}

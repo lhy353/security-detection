@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tronscan-token-list",
+  "slug": "tronscan-token-list",
+  "name": "tronscan-token-list",
+  "title": "代币列表",
+  "description": "Get TRC20 token list on TRON with price, 24h change, 24h volume, market cap, holder count.\nUse when user asks \"token list\", \"TRC20 list\", \"hot tokens\", \"trending tokens\", or to discover quality projects.\nDo NOT use for single token deep dive (use tronscan-token-scanner).\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Token List",
+  "function_label": "Data-Agent"
+}

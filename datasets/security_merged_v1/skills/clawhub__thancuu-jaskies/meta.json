@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:thancuu-jaskies",
+  "slug": "thancuu-jaskies",
+  "name": "thancuu",
+  "title": "深度人体分析系统",
+  "description": "Hệ thống phân tích tính cách Thần Cửu độc lập (phát minh bởi Anh Vũ). Hỗ trợ tính toán 8 chỉ số cốt lõi và phân tích tương quan mối quan hệ. Yêu cầu bộ tài liệu hướng dẫn trong thư mục references.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Thần Cửu: Hệ thống Phân tích Nhân sinh chuyên sâu",
+  "function_label": "Other"
+}

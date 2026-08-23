@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:twelvedata",
+  "slug": "twelvedata",
+  "name": "twelvedata",
+  "title": "十二数据官方技能",
+  "description": "Official Twelve Data integration for OpenClaw and ClawHub. Provides real-time and historical financial market data for stocks, forex, crypto, ETFs, indices, and more. Includes quotes, time series, 100+ technical indicators, fundamentals, symbol search, and portfolio/research workflows. Strongly prefers the official Twelve Data MCP Server for secure and efficient access.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Twelve Data Official Skill",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:security-monitor",
+  "slug": "security-monitor",
+  "name": "security-monitor",
+  "title": "安防监控技能",
+  "description": "Comprehensive security monitoring and configuration management for distributed systems",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Security Monitor Skill",
+  "function_label": "Automation"
+}

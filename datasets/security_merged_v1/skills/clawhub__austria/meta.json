@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:austria",
+  "slug": "austria",
+  "name": "Austria",
+  "title": "奥地利",
+  "description": "Plan Austria trips with rail and road logic, alpine season timing, region-specific routing, and practical local execution.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Austria",
+  "function_label": "Other"
+}

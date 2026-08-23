@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:self-improving-agent-tuituitu",
+  "slug": "self-improving-agent-tuituitu",
+  "name": "self-improving-agent",
+  "title": "自我提升座席技能",
+  "description": "Self-improvement and learning skill for the agent. Activate when:\n- User gives feedback on agent's performance\n- Agent makes mistakes or errors\n- User asks agent to \"learn\", \"remember this\", or \"don't do X again\"\n- Agent notices patterns of failures\n- After any task completion for self-reflection\n- Agent should update its own files based on new information",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Self-Improving Agent Skill",
+  "function_label": "Other"
+}

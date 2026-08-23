@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:meal-prep-framework",
+  "slug": "meal-prep-framework",
+  "name": "Meal Prep Framework",
+  "title": "膳食准备框架",
+  "description": "Weekly meal planning and batch cooking system — save time, eat well, and reduce food waste with structured prep.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Meal Prep Framework",
+  "function_label": "File-Agent"
+}

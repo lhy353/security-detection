@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:belief-state-runtime",
+  "slug": "belief-state-runtime",
+  "name": "belief-state-runtime",
+  "title": "信念状态运行时技能",
+  "description": "LLM-driven epistemic reasoning engine. Evaluates claims against evidence, outputs calibrated confidence and structured belief state (VERIFIED/CONTESTED/UNCERTAIN). Use when the agent needs to assess whether information is trustworthy, detect contradictions in evidence, or quantify uncertainty.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "belief-state-runtime.skill",
+  "function_label": "Other"
+}

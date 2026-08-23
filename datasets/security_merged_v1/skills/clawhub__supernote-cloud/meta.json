@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:supernote-cloud",
+  "slug": "supernote-cloud",
+  "name": "supernote",
+  "title": "超级笔记私有云",
+  "description": "Access a self-hosted Supernote Private Cloud instance to browse files and folders, upload documents (PDF, EPUB) and notes, convert web articles to EPUB/PDF and send them to the device, check storage capacity, and navigate the directory tree. Use when the user mentions Supernote, e-ink device files, wants to upload/browse documents on their Supernote cloud, or wants to send an article/URL to their e-reader.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Supernote Private Cloud",
+  "function_label": "File-Agent"
+}

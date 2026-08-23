@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:deliberate-frontend-redesign",
+  "slug": "deliberate-frontend-redesign",
+  "name": "deliberate-frontend-redesign",
+  "title": "有意重新设计前端",
+  "description": "Generates a deliberately designed frontend aesthetic that avoids generic UI patterns. Use when the user explicitly requests to redesign a frontend by invoking this skill by name. Trigger keywords: use deliberate-frontend-redesign, redesign frontend, redesign interface.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Deliberate Frontend Redesign",
+  "function_label": "Other"
+}

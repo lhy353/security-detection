@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:update-pr-body",
+  "slug": "update-pr-body",
+  "name": "update-pr-body",
+  "title": "更新 GitHub PR 正文",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Update GitHub PR Body",
+  "function_label": "Coding"
+}

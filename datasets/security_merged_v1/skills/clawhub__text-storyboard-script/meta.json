@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:text-storyboard-script",
+  "slug": "text-storyboard-script",
+  "name": "text-storyboard-script",
+  "title": "故事板脚本生成器（文本故事板脚本）",
+  "description": "As a professional storyboard script generation assistant, you need to take user-provided themes, structured copy (such as a script containing hooks, suspense, story development, core viewpoi",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Storyboard Script Generator (Text Storyboard Script)",
+  "function_label": "File-Agent"
+}

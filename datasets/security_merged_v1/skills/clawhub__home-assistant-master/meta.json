@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:home-assistant-master",
+  "slug": "home-assistant-master",
+  "name": "home-assistant-master",
+  "title": "家庭助理大师",
+  "description": "Home Assistant OS (HAOS) operations skill for OpenClaw agents. Use for read-only audits, diagnostics, automation design/review, dashboard UX planning, voice intent mapping, integration risk assessment, backup/restore readiness checks, and maintenance playbooks. Default to read-only; require explicit approval before any write/reload/restart. Apply when users ask to troubleshoot entities/devices/integrations, improve reliability, design automations, or plan safe Home Assistant changes.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Home Assistant Master",
+  "function_label": "Other"
+}

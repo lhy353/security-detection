@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-editing-with-francais",
+  "slug": "video-editing-with-francais",
+  "name": "video-editing-with-francais",
+  "title": "使用法语字幕编辑视频",
+  "description": "edit video clips into French-captioned videos with this video-editing-with-francais skill. Works with MP4, MOV, AVI, WebM files up to 500MB. French-speaking creators and educators use it for adding French subtitles or dubbing to existing videos — processing takes 1-2 minutes on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Editing with Français — Edit Videos with French Captions",
+  "function_label": "Communication"
+}

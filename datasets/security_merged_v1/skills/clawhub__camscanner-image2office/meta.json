@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:camscanner-image2office",
+  "slug": "camscanner-image2office",
+  "name": "camscanner-image2office",
+  "title": "扫描仪图像到办公室",
+  "description": "Use CamScanner to intelligently recognize image content and accurately convert to editable Word (.docx) or Excel (.xlsx) format. Handles tables, text, and complex layouts with high fidelity. Triggers on \"image to Word\", \"image to Excel\", \"extract table from image to Excel\", \"OCR to Word\", or when the user has an image containing text or tables and needs it as an editable Office document.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CamScanner Image to Office",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:infrastructure-monitoring",
+  "slug": "infrastructure-monitoring",
+  "name": "infrastructure-monitoring",
+  "title": "基础设施监控系统",
+  "description": "Comprehensive monitoring and alerting system for infrastructure health assessment and performance optimization.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Infrastructure Monitoring System",
+  "function_label": "Communication"
+}

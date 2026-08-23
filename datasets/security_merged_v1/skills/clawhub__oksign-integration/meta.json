@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:oksign-integration",
+  "slug": "oksign-integration",
+  "name": "oksign",
+  "title": "好的标志",
+  "description": "OKSign integration. Manage Documents, Templates, Users, Teams. Use when the user wants to interact with OKSign data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OKSign",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:architecture-rendering",
+  "slug": "architecture-rendering",
+  "name": "architecture-rendering",
+  "title": "建筑效果图",
+  "description": "Generate photorealistic architectural renders and visualizations using each::sense AI. Create exterior views, interior renders, sketch-to-render conversions, and more for architects, designers, and real estate professionals.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Architecture Rendering",
+  "function_label": "Other"
+}

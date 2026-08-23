@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:infant-cry-analysis",
+  "slug": "infant-cry-analysis",
+  "name": "infant-cry-analysis",
+  "title": "婴儿哭声智能解析技能",
+  "description": "Detects baby cries via audio AI in real-time, analyzes causes, and precisely identifies needs like hunger, tiredness, pain, discomfort, or irritability to assist new parents. | 婴儿哭声智能解析技能，通过音频AI实时检测婴儿哭声，自动解析哭声成因，精准识别饥饿、困倦、疼痛、身体不适、情绪烦躁等不同需求，辅助新手爸妈科学育婴",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

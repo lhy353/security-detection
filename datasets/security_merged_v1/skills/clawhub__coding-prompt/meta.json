@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:coding-prompt",
+  "slug": "coding-prompt",
+  "name": "coding-prompt",
+  "title": "编程提示词最佳实践",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

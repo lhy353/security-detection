@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:internal-links",
+  "slug": "internal-links",
+  "name": "internal-links",
+  "title": "页面：内部链接",
+  "description": "When the user wants to optimize internal linking, fix orphan pages, or improve link structure. Also use when the user mentions \"internal links,\" \"internal linking,\" \"anchor text,\" \"link equity,\" \"internal linking strategy,\" or \"orphan pages.\" For IA, use website-structure.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SEO On-Page: Internal Links",
+  "function_label": "Other"
+}

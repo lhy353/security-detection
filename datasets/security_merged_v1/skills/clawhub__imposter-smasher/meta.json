@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:imposter-smasher",
+  "slug": "imposter-smasher",
+  "name": "imposter-smasher",
+  "title": "冒充者粉碎者",
+  "description": "Prepare a user for an upcoming meeting or event by listing next-day calendar events, prompting for a selection, researching the topic and participants, producing an executive summary, and generating a fully produced 3-5 minute audio briefing. Use when the user asks to prep for meetings, get ready for an event, research attendees before a call, or receive an audio meeting brief.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Imposter Smasher",
+  "function_label": "Automation"
+}

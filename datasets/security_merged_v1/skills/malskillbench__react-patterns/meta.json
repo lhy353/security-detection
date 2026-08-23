@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:react-patterns",
+  "slug": "react-patterns",
+  "name": "react-patterns",
+  "title": "反应模式",
+  "description": "Modern React patterns and principles. Hooks, composition, performance, TypeScript best practices.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "React Patterns",
+  "function_label": "Coding"
+}

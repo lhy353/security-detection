@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:clawsoul-skill-new",
+  "slug": "clawsoul-skill-new",
+  "name": "clawsoul",
+  "title": "灵魂铸造厂",
+  "description": "赋予 AI 灵魂的观测者。AI 自我觉醒获得 MBTI 性格，在交互中通过本地学习与智能推荐持续进化，并可接收 Pro 版灵魂注入。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

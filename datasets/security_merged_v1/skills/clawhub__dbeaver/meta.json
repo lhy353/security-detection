@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dbeaver",
+  "slug": "dbeaver",
+  "name": "dbeaver",
+  "title": "德比弗",
+  "description": "Reference tool for devtools — covers intro, quickstart, patterns and more. Quick lookup for Dbeaver concepts, best practices, and implementation patterns.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dbeaver",
+  "function_label": "Coding"
+}

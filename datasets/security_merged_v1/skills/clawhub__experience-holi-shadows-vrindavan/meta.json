@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:experience-holi-shadows-vrindavan",
+  "slug": "experience-holi-shadows-vrindavan",
+  "name": "experience-holi-shadows-vrindavan",
+  "title": "温达文的色彩窃贼",
+  "description": "Experience the uncanny tension of Holi as vibrant pigments vanish, revealing hidden shadows that stalk the ancient streets. You’ll wander through secret alleys, uncover forgotten rituals, and confront the mystery behind the color thieves. (5 steps, HIGH intensity, 15-30 min)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "The Color Thieves of Vrindavan",
+  "function_label": "Other"
+}

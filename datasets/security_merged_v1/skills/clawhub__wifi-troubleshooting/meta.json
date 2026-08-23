@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wifi-troubleshooting",
+  "slug": "wifi-troubleshooting",
+  "name": "cloudnet-analyze",
+  "title": "针对无线场景下终端体验差、网卡、无法接入 WiFi 等问题进行排障",
+  "description": "针对无线场景下终端体验差、网卡、无法接入 WiFi 等问题进行排障",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

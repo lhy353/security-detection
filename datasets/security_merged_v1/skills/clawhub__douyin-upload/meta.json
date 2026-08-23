@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:douyin-upload",
+  "slug": "douyin-upload",
+  "name": "douyin-uploader",
+  "title": "抖音上传者",
+  "description": "Automatically generates and publishes articles to Douyin (TikTok China). Users provide a topic, and this skill generates engaging markdown content and cover images, then publishes them using the sau command-line tool. Ideal for content creators who want to automate their Douyin article publishing workflow.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Douyin Uploader",
+  "function_label": "Other"
+}

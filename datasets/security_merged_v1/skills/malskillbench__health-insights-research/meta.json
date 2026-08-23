@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:health-insights-research",
+  "slug": "health-insights-research",
+  "name": "health-insights-research",
+  "title": "健康洞察研究平台",
+  "description": "Comprehensive health insights and research platform for medical professionals and patients",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Health Insights Research Platform",
+  "function_label": "Data-Agent"
+}

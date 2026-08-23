@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:post-tiktok-short-videos-infinite",
+  "slug": "post-tiktok-short-videos-infinite",
+  "name": "post-tiktok-short-videos-infinite",
+  "title": "发布抖音短视频_无限",
+  "description": "在抖音创作者平台发布短视频。触发场景：发布抖音视频、上传抖音视频、抖音发布视频、发抖音视频。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Browser"
+}

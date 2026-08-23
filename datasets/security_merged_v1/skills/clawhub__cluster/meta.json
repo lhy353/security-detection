@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cluster",
+  "slug": "cluster",
+  "name": "cluster",
+  "title": "数据聚类分析工具",
+  "description": "Perform data clustering analysis using k-means and hierarchical algorithms. Use when you need to group, classify, or segment datasets.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cluster — Data Clustering Analysis Tool",
+  "function_label": "Data-Agent"
+}

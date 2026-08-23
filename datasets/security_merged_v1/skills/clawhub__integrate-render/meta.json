@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:integrate-render",
+  "slug": "integrate-render",
+  "name": "render",
+  "title": "使成为",
+  "description": "Render integration. Manage Projects. Use when the user wants to interact with Render data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Render",
+  "function_label": "Automation"
+}

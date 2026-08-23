@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:reliability-monitoring",
+  "slug": "reliability-monitoring",
+  "name": "reliability-monitoring",
+  "title": "可靠性监控框架",
+  "description": "Comprehensive monitoring and alerting framework for service reliability with automated safety protocols.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Reliability Monitoring Framework",
+  "function_label": "Data-Agent"
+}

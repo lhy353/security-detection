@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hive-builder",
+  "slug": "hive-builder",
+  "name": "hive-builder",
+  "title": "蜂巢生成器",
+  "description": "Design, scaffold, and carefully activate a Hive-style one-person company inside OpenClaw using an orchestrator pattern. Use when planning or building a multi-agent Hive system with a CEO main session plus specialist subagents, especially when distinguishing fresh-workspace setup from existing-workspace adoption.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Hive Builder",
+  "function_label": "Automation"
+}

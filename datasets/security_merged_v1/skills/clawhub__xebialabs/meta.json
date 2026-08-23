@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:xebialabs",
+  "slug": "xebialabs",
+  "name": "xebialabs",
+  "title": "谢比亚实验室",
+  "description": "XebiaLabs integration. Manage data, records, and automate workflows. Use when the user wants to interact with XebiaLabs data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Xebialabs",
+  "function_label": "Automation"
+}

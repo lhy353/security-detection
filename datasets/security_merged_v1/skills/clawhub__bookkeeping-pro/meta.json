@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookkeeping-pro",
+  "slug": "bookkeeping-pro",
+  "name": "bookkeeping-pro",
+  "title": "簿记",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "bookkeeping",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:skill-douyin",
+  "slug": "skill-douyin",
+  "name": "skill-douyin",
+  "title": "抖音开放平台 API",
+  "description": "douyin:api - 抖音开放平台 API",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:wisepops",
+  "slug": "wisepops",
+  "name": "wisepops",
+  "title": "智者波普斯",
+  "description": "WisePops integration. Manage data, records, and automate workflows. Use when the user wants to interact with WisePops data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Wisepops",
+  "function_label": "Automation"
+}

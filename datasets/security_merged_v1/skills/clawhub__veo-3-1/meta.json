@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:veo-3-1",
+  "slug": "veo-3-1",
+  "name": "poyo-veo-3-1",
+  "title": "视频生成",
+  "description": "Use PoYo AI Veo 3.1 for frame-conditioned video generation through the `https://api.poyo.ai/api/generate/submit` endpoint. Use when a user wants fast or quality modes, start-frame and end-frame guidance, up to 4K resolution, reference-image video generation, or PoYo payloads for `veo3.1-fast` and `veo3.1-quality`.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PoYo Veo 3.1 Video Generation",
+  "function_label": "Other"
+}

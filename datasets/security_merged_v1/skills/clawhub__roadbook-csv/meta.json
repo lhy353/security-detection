@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:roadbook-csv",
+  "slug": "roadbook-csv",
+  "name": "roadbook-csv",
+  "title": "旅行线路 CSV 提交工具",
+  "description": "通过 CSV 格式提交旅行线路数据，自动生成路书分享链接。数据存储在 Redis，支持多日行程、酒店住宿跨天衔接、高德地图可视化。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

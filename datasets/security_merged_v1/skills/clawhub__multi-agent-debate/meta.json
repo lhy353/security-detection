@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:multi-agent-debate",
+  "slug": "multi-agent-debate",
+  "name": "agent-debate",
+  "title": "分歧中的真相",
+  "description": "Verify facts, reduce hallucinations, and explore multiple viewpoints through structured multi-agent debate. Multiple agents independently answer the same question, then critique each other's responses, refining answers through rounds of debate. Use for fact-checking, complex reasoning, exploring trade-offs, or any question where accuracy and avoiding bias matter. Particularly effective for reducing confident-sounding wrong answers.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Debate - Truth Through Disagreement",
+  "function_label": "Other"
+}

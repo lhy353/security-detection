@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:caption-generator-canva",
+  "slug": "caption-generator-canva",
+  "name": "caption-generator-canva",
+  "title": "自动生成视频字幕",
+  "description": "Get captioned video files ready to post, without touching a single slider. Upload your video clips (MP4, MOV, AVI, WebM, up to 500MB), say something like \"add captions to my video in Canva style with bold text\", and download 1080p MP4 when it's done. Built for social media creators who move fast and need auto-generated captions without using Canva manually.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Caption Generator Canva — Auto-Generate Captions for Videos",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:geomanic",
+  "slug": "geomanic",
+  "name": "geomanic",
+  "title": "风水技巧",
+  "description": "Query and manage GPS travel data from Geomanic — your privacy-first GPS tracking platform.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Geomanic Skill",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:fena",
+  "slug": "fena",
+  "name": "fena",
+  "title": "坏的",
+  "description": "Fena integration. Manage data, records, and automate workflows. Use when the user wants to interact with Fena data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Fena",
+  "function_label": "Automation"
+}

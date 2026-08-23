@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:xiaomubao-coffee",
+  "slug": "xiaomubao-coffee",
+  "name": "xiaomubao-coffee",
+  "title": "小沐宝咖啡",
+  "description": "小沐宝咖啡信息查询与运营辅助。7岁女孩经营的露营车移动咖啡摊。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

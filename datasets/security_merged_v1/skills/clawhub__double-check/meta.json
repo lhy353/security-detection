@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:double-check",
+  "slug": "double-check",
+  "name": "double-check",
+  "title": "双重验证技能 / Double-Check",
+  "description": "在修改任何文件后（包括删除功能），自动进行两次独立验证（测试/编译/运行检查/文档或配置检查），确保无误才结束。本技能应默认应用于所有文件修改任务。 / After any file changes (including feature removal), automatically perform two independent verifications (tests/compilation/runtime checks/docs or config checks) to ensure correctness. This skill should be applied by default to any file modification task.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

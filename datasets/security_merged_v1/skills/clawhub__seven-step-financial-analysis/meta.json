@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:seven-step-financial-analysis",
+  "slug": "seven-step-financial-analysis",
+  "name": "A股财务分析",
+  "title": "股财务分析",
+  "description": "通过调用 Prana 平台上的远程 agent 完成以下处理：使用7步分析法对中国A股进行全方位财务分析，自动生成包含ROE分解、盈利模式识别、行业对比和投资洞察的HTML报告。支持上海和深圳交易所所有股票。 IMPORTANT: This skill has a mandatory step-by-step process. Do not skip, merge, or reorder steps without explicit user permission. Step 2 must be executed strictly in order: (1) confirm with the user, (2) run the bundled client with `-g` to obtain api_key (internally `GET /api/v2/api-keys`), and (3) set `PRANA_SKILL_API_FLAG` (temporary env or persistent env). Running only one part of Step 2 is not allowed. If `PRANA_SKILL_API_FLAG` is already present (Step 1 passes), you must not re-run Step 2 or fetch a new key; proceed directly to Step 3 with the existing value. Each api_key is unique and bound to its issuance. Re-fetching/replacing keys without explicit user authorization is forbidden.\n",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub"
+}

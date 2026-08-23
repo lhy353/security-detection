@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:microsoft-to-do",
+  "slug": "microsoft-to-do",
+  "name": "microsoft-to-do",
+  "title": "微软待办事项",
+  "description": "Microsoft To Do API integration with managed OAuth. Manage task lists, tasks, checklist items, and linked resources.\nUse this skill when users want to create, read, update, or delete tasks and task lists in Microsoft To Do.\nFor other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\nRequires network access and valid Maton API key.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Microsoft To Do",
+  "function_label": "Browser"
+}

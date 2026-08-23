@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sdw-kb",
+  "slug": "sdw-kb",
+  "name": "sdw-kb",
+  "title": "任何输入（代码、文档、论文、图像）→知识图谱→集群社区→HTML + JSON +审计报告",
+  "description": "any input (code, docs, papers, images) → knowledge graph → clustered communities → HTML + JSON + audit report. Uses graphifyy via uv tool environment. Trigger whenever the user mentions knowledge graphs, graphify, sdw-kb, or wants to turn files/code/docs into a navigable knowledge graph, even if they don't explicitly say \"sdw-kb\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "/sdw-kb",
+  "function_label": "Research"
+}

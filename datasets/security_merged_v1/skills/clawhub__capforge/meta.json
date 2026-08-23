@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:capforge",
+  "slug": "capforge",
+  "name": "capforge",
+  "title": "铸能)",
+  "description": "",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub"
+}

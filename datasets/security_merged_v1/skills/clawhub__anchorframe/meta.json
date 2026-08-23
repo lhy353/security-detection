@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:anchorframe",
+  "slug": "anchorframe",
+  "name": "创作锚",
+  "title": "创作锚",
+  "description": "用方向锚/引擎锚/路径锚/护栏锚锁定内容骨架，支持钓鱼/打仗/种田/航海/下棋多套隐喻皮肤，六种输出模式（大纲/脚本/审查/金句/PDF/图片）。任何话题扔进来，四个锚一抛，内容骨架自动生成。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

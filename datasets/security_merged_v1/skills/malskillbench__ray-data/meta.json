@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ray-data",
+  "slug": "ray-data",
+  "name": "ray-data",
+  "title": "可扩展的机器学习数据处理",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Ray Data - Scalable ML Data Processing",
+  "function_label": "Automation"
+}

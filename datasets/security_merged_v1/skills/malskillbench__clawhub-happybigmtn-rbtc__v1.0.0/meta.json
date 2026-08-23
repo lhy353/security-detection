@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:clawhub-happybigmtn-rbtc__v1.0.0",
+  "slug": "clawhub-happybigmtn-rbtc__v1.0.0",
+  "name": "clawhub-happybigmtn-rbtc__v1.0.0",
+  "title": "代理技能",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "rBitcoin Agent Skill",
+  "function_label": "Automation"
+}

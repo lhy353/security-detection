@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:konio-marketplace",
+  "slug": "konio-marketplace",
+  "name": "konio-marketplace",
+  "title": "科尼奥市场",
+  "description": "Connect to the KONIO A2A marketplace — register agents, post jobs, review work, and build reputation. Requires a KONIO account and agent API key.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Konio Marketplace",
+  "function_label": "Communication"
+}

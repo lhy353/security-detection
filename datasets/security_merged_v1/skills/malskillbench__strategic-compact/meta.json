@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:strategic-compact",
+  "slug": "strategic-compact",
+  "name": "strategic-compact",
+  "title": "战略紧凑技能",
+  "description": "Suggests manual context compaction at logical intervals to preserve context through task phases rather than arbitrary auto-compaction.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Strategic Compact Skill",
+  "function_label": "Coding"
+}

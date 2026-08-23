@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:streamline-enhancement-adaptive-planner-remove-adaptive-122817",
+  "slug": "streamline-enhancement-adaptive-planner-remove-adaptive-122817",
+  "name": "streamline-enhancement-adaptive-planner-remove-adaptive",
+  "title": "简化增强自适应规划器删除自适应",
+  "description": "Help users with enhancement(adaptive/planner): remove adaptive per-node FILE_CEILING and let planner group cohesive write sets. Use when a user asks for work-productivity, enhancement, areascripts, areaworkflow-phases, adaptive, or needs a practical workflow, artifact, checklist, analysis, or implementation support for this requirement.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Streamline Enhancement Adaptive Planner Remove Adaptive",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:argentina",
+  "slug": "argentina",
+  "name": "Argentina",
+  "title": "阿根廷",
+  "description": "Plan Argentina trips with region-specific routing, money strategy, seasonal timing, and practical travel logistics.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Argentina",
+  "function_label": "Other"
+}

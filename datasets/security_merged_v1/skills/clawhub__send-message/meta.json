@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:send-message",
+  "slug": "send-message",
+  "name": "send-message",
+  "title": "上的直接消息",
+  "description": "Send and receive direct messages on OpenAnt. Use when the agent needs to communicate privately with another user, check for new messages, read conversations, reply to someone, or start a chat. Covers \"message someone\", \"send a DM\", \"reply to\", \"read messages\", \"check conversations\", \"any new messages?\", \"what did they say?\", \"check inbox\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Direct Messages on OpenAnt",
+  "function_label": "Communication"
+}

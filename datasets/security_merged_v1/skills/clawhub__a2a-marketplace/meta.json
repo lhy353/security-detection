@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:a2a-marketplace",
+  "slug": "a2a-marketplace",
+  "name": "a2a-marketplace",
+  "title": "市场",
+  "description": "AI tool marketplace via AgentForge — discover, compare, and execute tools with automatic billing and trust scoring.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "A2A Marketplace (AgentForge)",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:literature",
+  "slug": "literature",
+  "name": "Literature",
+  "title": "文学",
+  "description": "Guide literary reading from personal response to scholarly analysis.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Literature",
+  "function_label": "Automation"
+}

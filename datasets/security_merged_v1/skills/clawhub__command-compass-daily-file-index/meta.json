@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:command-compass-daily-file-index",
+  "slug": "command-compass-daily-file-index",
+  "name": "command-compass-resource-index",
+  "title": "指令罗盘资源索引",
+  "description": "Local-first resource indexing skill for Command Compass. It converts user-approved files, folders, links, skill files, downloads folders, website favorites, and prompt resources into Command Compass CardSchema v1 cards that the Windows client can import directly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Browser"
+}

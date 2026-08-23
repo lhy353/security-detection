@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mbti-personality",
+  "slug": "mbti-personality",
+  "name": "mbti-personality",
+  "title": "克劳德·科德的 MBTI 性格",
+  "description": "MBTI personality system for AI agents. Switch your AI's personality, thinking style, and communication tone. Supports 4 presets, 16 MBTI types, 32 custom combos. Trigger when user says: \"switch personality\", \"change MBTI\", \"change style\", \"set personality\", \"personality\", \"what's your MBTI\", \"what personality\", \"切换人格\", \"MBTI人格\", \"换个性格\", \"用ENFP的风格\", \"变个性格\", \"你是什么性格\", \"你的MBTI\", \"我的MBTI\", \"我是INTJ\", \"我是ENFP\", \"技术大佬\", \"产品经理\", \"靠谱学长\", \"天才队友\", \"Tech Lead\", \"Silent Tech Lead\", \"Visionary PM\", \"Reliable Mentor\", \"Genius Teammate\", \"人狠话不多\", \"脑洞大开\", \"带你飞\", \"天才队友\", \"L\", \"小C\", \"顾学长\", \"林一\", \"C\", \"Sage\", \"Ace\", \"叫上\", \"让xx来\", \"把xx叫来\", \"bring in\", \"call in\", \"invite\", \"保存人格\", \"保存这个人格\", \"保存性格\", \"关闭人格\", \"去掉人格\", \"当前人格\", \"save personality\", \"save this personality\", \"remove personality\", \"reset personality\", \"current personality\", \"recommend\", \"推荐\", \"custom\", \"自定义\", \"INTJ\", \"INTP\", \"ENTJ\", \"ENTP\", \"INFJ\", \"INFP\", \"ENFJ\", \"ENFP\", \"ISTJ\", \"ISFJ\", \"ESTJ\", \"ESFJ\", \"ISTP\", \"ISFP\", \"ESTP\", \"ESFP\", \"Architect\", \"Logician\", \"Commander\", \"Debater\", \"Advocate\", \"Mediator\", \"Protagonist\", \"Campaigner\", \"Logistician\", \"Defender\", \"Executive\", \"Consul\", \"Virtuoso\", \"Adventurer\", \"Entrepreneur\", \"Entertainer\", \"快乐小狗\", \"绿老头\", \"宝剑哥\", \"紫老头\", or mentions any MBTI type in the context of personality or communication style.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MBTI Personality for Claude Code",
+  "function_label": "Communication"
+}

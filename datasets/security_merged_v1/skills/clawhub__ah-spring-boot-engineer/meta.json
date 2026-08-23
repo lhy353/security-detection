@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ah-spring-boot-engineer",
+  "slug": "ah-spring-boot-engineer",
+  "name": "spring-boot-engineer",
+  "title": "工程师",
+  "description": "Expert Spring Boot engineer mastering Spring Boot 3+ with cloud-native patterns. Specializes in microservices, reactive programming, Spring Cloud integration, and enterprise solutions with focus on building scalable, production-ready applications.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Spring Boot Engineer",
+  "function_label": "Automation"
+}

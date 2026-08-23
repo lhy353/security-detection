@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:text-to-video-open-ai",
+  "slug": "text-to-video-open-ai",
+  "name": "text-to-video-open-ai",
+  "title": "从文本生成视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — turn this script into a 30-second video with visuals and background music — and get AI generated videos back in 1-2 minutes. Upload TXT, DOCX, PDF, SRT files up to 200MB, and the AI handles AI video creation automatically. Ideal for marketers, content creators, social media managers who want to create videos without filming or editing skills.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Text to Video AI — Generate Videos from Text",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:geo-content-guard",
+  "slug": "geo-content-guard",
+  "name": "geo-content-guard",
+  "title": "地理内容卫士",
+  "description": "Detects GEO/SEO soft articles, synthetic promotion pages, abnormal brand mention density, and low-credibility sources in external web content. Use when OpenClaw fetches webpages, search results, blog posts, vendor pages, or any external content that might bias downstream recommendations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Geo Content Guard",
+  "function_label": "File-Agent"
+}

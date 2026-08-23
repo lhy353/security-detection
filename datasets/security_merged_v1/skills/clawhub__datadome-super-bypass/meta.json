@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:datadome-super-bypass",
+  "slug": "datadome-super-bypass",
+  "name": "datadome-super-bypass",
+  "title": "超级绕过",
+  "description": "End-to-end DataDome bypass orchestration for authorized targets by chaining probe, cookie harvest fallback, cookie injection, retest, and optional CapSolver token path. Use when anti-bot challenge blocks login/search and single-step methods fail.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Datadome Super Bypass",
+  "function_label": "Browser"
+}

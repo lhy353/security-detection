@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:photo-video-maker-linkedin",
+  "slug": "photo-video-maker-linkedin",
+  "name": "photo-video-maker-linkedin",
+  "title": "照片视频制作工具",
+  "description": "turn photos and images into LinkedIn-ready video with this photo-video-maker-linkedin skill. Works with JPG, PNG, HEIC, WebP files up to 200MB. professionals and marketers use it for creating professional LinkedIn videos from static photos — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Photo Video Maker for LinkedIn — Turn Photos into LinkedIn Videos",
+  "function_label": "Communication"
+}

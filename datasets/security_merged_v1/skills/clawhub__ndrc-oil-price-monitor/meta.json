@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ndrc-oil-price-monitor",
+  "slug": "ndrc-oil-price-monitor",
+  "name": "ndrc-oil-price",
+  "title": "成品油价格监控器",
+  "description": "Monitor NDRC (National Development and Reform Commission) website for oil price adjustment announcements. Searches news releases every 10 working days at 17:30 starting from 2026-04-07 and pushes notifications via Feishu.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

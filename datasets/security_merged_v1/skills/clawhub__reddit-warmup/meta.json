@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:reddit-warmup",
+  "slug": "reddit-warmup",
+  "name": "instagram-place-posts",
+  "title": "发布帖子",
+  "description": "Scrapes Instagram posts tagged at a specific location or place, returning media items with captions, like/comment counts, media URLs and user info. Use when user mentions Instagram location posts, posts from a place on Instagram, Instagram geotag scraping, posts tagged at location, Instagram place feed, get posts from a venue on Instagram, Instagram location data, posts near me Instagram, place-based Instagram content, tagged location posts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Instagram — Place Posts",
+  "function_label": "Browser"
+}

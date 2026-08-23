@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:playwright-1-0-3",
+  "slug": "playwright-1-0-3",
+  "name": "Playwright (Automation + MCP + Scraper)",
+  "title": "剧作家（自动化+MCP+Scraper）",
+  "description": "Browser automation via Playwright MCP. Navigate websites, click elements, fill forms, take screenshots, extract data, and debug real browser workflows. Use when (1) you need a real browser, not static fetch; (2) the task involves Playwright MCP, browser tools, Playwright tests, scripts, or JS-rendered pages; (3) the user wants navigation, forms, screenshots, PDFs, downloads, or browser-driven extraction turned into a reliable outcome.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Playwright (Automation + MCP + Scraper)",
+  "function_label": "Browser"
+}

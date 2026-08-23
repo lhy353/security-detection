@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-commerce-engine",
+  "slug": "agent-commerce-engine",
+  "name": "agent-commerce-engine",
+  "title": "标准代理商务引擎",
+  "description": "A production-ready universal engine for Agentic Commerce. This tool enables autonomous agents to interact with any compatible headless e-commerce backend through a standardized protocol. It provides out-of-the-box support for discovery, cart operations, and secure user management.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Standard Agentic Commerce Engine",
+  "function_label": "Browser"
+}

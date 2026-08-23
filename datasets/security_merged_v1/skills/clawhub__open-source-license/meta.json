@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:open-source-license",
+  "slug": "open-source-license",
+  "name": "open-source-license",
+  "title": "开源许可技能",
+  "description": "Open Source License guidance, selection, compliance review, and drafting. Use this skill when users ask about choosing open source licenses, checking license compatibility, reviewing projects for OSS compliance, generating LICENSE/NOTICE files, or understanding specific license terms. Triggers include questions about MIT, Apache, GPL, BSD, LGPL, AGPL, MPL, copyleft, permissive licenses, license compatibility, SPDX identifiers, 木兰宽松许可证, Mulan PSL v2, or any OSS licensing topic.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Open Source License Skill",
+  "function_label": "Other"
+}

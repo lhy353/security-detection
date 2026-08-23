@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:splynx",
+  "slug": "splynx",
+  "name": "splynx",
+  "title": "斯普林克斯",
+  "description": "Splynx integration. Manage data, records, and automate workflows. Use when the user wants to interact with Splynx data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Splynx",
+  "function_label": "Automation"
+}

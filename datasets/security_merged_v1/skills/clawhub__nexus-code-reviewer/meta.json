@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nexus-code-reviewer",
+  "slug": "nexus-code-reviewer",
+  "name": "nexus-code-reviewer",
+  "title": "代码审查器",
+  "description": "Deep code review: security, architecture, QA, performance. Python/FastAPI/React specialist.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Nexus Code Reviewer",
+  "function_label": "Coding"
+}

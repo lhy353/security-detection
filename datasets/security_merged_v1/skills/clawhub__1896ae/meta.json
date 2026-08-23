@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:1896ae",
+  "slug": "1896ae",
+  "name": "办公软件-1896ae",
+  "title": "办公软件",
+  "description": "从抖音视频学习: 办公软件 — 原来是办公软件啊妈妈从现在起电脑上只用办公软件我行吧",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

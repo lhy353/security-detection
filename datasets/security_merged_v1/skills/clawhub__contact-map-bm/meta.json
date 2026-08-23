@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:contact-map-bm",
+  "slug": "contact-map-bm",
+  "name": "contact-map-bm",
+  "title": "联系地图",
+  "description": "Generate an interactive Germany map of Odoo contacts (click markers to open the record in Odoo).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Contact Map (contact-map-bm)",
+  "function_label": "Communication"
+}

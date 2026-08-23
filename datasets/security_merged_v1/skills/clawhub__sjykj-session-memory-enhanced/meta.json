@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:sjykj-session-memory-enhanced",
+  "slug": "sjykj-session-memory-enhanced",
+  "name": "session-memory-enhanced",
+  "title": "统一增强版",
+  "description": "Session-Memory Enhanced v4.0 - 统一增强版。融合 session-memory + memu-engine 核心功能。特性：结构化提取 + 向量检索 + 不可变分片 + 三位一体自动化 + 多代理隔离 + AI 摘要 + 零配置启动。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

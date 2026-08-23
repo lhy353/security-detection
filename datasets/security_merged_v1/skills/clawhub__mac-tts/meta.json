@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mac-tts",
+  "slug": "mac-tts",
+  "name": "mac-tts",
+  "title": "麦克Tts",
+  "description": "Text-to-speech using macOS built-in `say` command. Use for voice notifications, audio alerts, reading text aloud, or announcing messages through Mac speakers. Supports multiple languages including Chinese (Mandarin), English, Japanese, etc.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mac Tts",
+  "function_label": "Other"
+}

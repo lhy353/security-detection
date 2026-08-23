@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:game-audio__MIXED_B6",
+  "slug": "game-audio__MIXED_B6",
+  "name": "game-audio",
+  "title": "游戏音频原理",
+  "description": "Game audio principles. Sound design, music integration, adaptive audio systems.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Game Audio Principles",
+  "function_label": "Browser"
+}

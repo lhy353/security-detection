@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:exam-generator",
+  "slug": "exam-generator",
+  "name": "exam-generator",
+  "title": "中国中小学试卷生成器",
+  "description": "中国中小学试卷生成器。Use when teacher needs to create exam papers for Chinese primary/middle school. Supports all subjects, multiple question types, official curriculum standards, and accurate answers. Uses web search for latest knowledge. 试卷生成、出题、考试卷。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:arxiv-summarizer-orchestrator",
+  "slug": "arxiv-summarizer-orchestrator",
+  "name": "arxiv-summarizer-orchestrator",
+  "title": "使用三个子技能进行定期 arXiv 收集和报告的端到端编排技能： arxiv-search-collecto",
+  "description": "End-to-end orchestration skill for periodic arXiv collection and reporting using three sub-skills: arxiv-search-collector, arxiv-paper-processor, and arxiv-batch-reporter. Supports manual language control across all markdown outputs and Stage-B processing strategy (`subagent_parallel` default max 5, or serial).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Arxiv Summarizer Orchestrator",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-browser-shield",
+  "slug": "agent-browser-shield",
+  "name": "agent-browser-shield",
+  "title": "代理浏览器盾",
+  "description": "Install and operate the agent-browser-shield Chromium extension — masks PII/secrets, neutralizes dark patterns, and strips prompt-injection surfaces before the agent sees the page. Use at session bootstrap; covers headed-Chromium install and the agent behavior contract for handling its DOM markers.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Browser Shield",
+  "function_label": "Browser"
+}

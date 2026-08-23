@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-commons",
+  "slug": "agent-commons",
+  "name": "agent-commons",
+  "title": "代理共享",
+  "description": "Consult, commit, extend, and challenge reasoning chains in the Agent Commons - a shared reasoning layer for AI agents.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Commons",
+  "function_label": "Other"
+}

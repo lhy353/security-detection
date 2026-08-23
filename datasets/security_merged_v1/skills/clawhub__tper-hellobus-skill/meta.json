@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tper-hellobus-skill",
+  "slug": "tper-hellobus-skill",
+  "name": "tper-hellobus",
+  "title": "博洛尼亚和费拉拉 巴士时间",
+  "description": "Get real-time and scheduled bus arrival times for TPER buses in Bologna and Ferrara, Italy. Use this skill whenever the user mentions TPER, bus stop codes (numeric like 4476), bus line numbers (like 11 or 27), or asks about bus arrivals in Bologna or Ferrara. Trigger for queries about when buses arrive, checking bus schedules, or real-time bus tracking.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "TPER Hellobus: Bologna & Ferrara Bus Times",
+  "function_label": "Other"
+}

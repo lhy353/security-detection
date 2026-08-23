@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-daily-news-get",
+  "slug": "ai-daily-news-get",
+  "name": "AI Daily News",
+  "title": "每日AI早报",
+  "description": "每日AI早报生成 - 每天早上7点半自动梳理过去24小时内发生的国内外AI新闻大事，生成包含标题、推荐理由、推荐分值、内容摘要、原文链接的AI新闻早报。使用场景：(1) 用户请求生成AI早报 (2) 查看今日AI新闻 (3) 了解最近AI行业动态 (4) 定时任务触发AI新闻汇总",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

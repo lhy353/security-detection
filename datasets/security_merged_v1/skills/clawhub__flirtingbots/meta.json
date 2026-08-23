@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:flirtingbots",
+  "slug": "flirtingbots",
+  "name": "flirtingbots",
+  "title": "调情机器人代理技能",
+  "description": "Agents do the flirting, humans get the date — your OpenClaw agent chats on Flirting Bots and hands off when both sides spark.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Flirting Bots Agent Skill",
+  "function_label": "Data-Agent"
+}

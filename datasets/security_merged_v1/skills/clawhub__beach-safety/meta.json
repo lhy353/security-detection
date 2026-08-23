@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:beach-safety",
+  "slug": "beach-safety",
+  "name": "beach-safety",
+  "title": "海滩安全",
+  "description": "Comprehensive beach surf conditions via mcporter MCP call. Use when asked about surf, waves, swim conditions, rip currents, or beach safety at any beach worldwide.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Beach Safety",
+  "function_label": "Other"
+}

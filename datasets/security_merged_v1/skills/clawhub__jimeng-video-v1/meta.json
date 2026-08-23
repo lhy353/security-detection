@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:jimeng-video-v1",
+  "slug": "jimeng-video-v1",
+  "name": "jimeng-video",
+  "title": "即梦AI视频生成工具（带声音版本），通过火山引擎API自动生成带音频的高质量视频",
+  "description": "即梦AI视频生成工具（带声音版本），通过火山引擎API自动生成带音频的高质量视频。支持文生视频、图生视频，适用于短视频内容创作。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

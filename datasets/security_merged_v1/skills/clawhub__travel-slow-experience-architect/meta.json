@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:travel-slow-experience-architect",
+  "slug": "travel-slow-experience-architect",
+  "name": "Slow Travel Experience Architect",
+  "title": "慢行体验架构师",
+  "description": "Designs meaningful slow travel experiences",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Slow Travel Experience Architect",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:journal-prompt",
+  "slug": "journal-prompt",
+  "name": "journal-prompt",
+  "title": "日记提示",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Journal Prompt",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ultimate-music-manager",
+  "slug": "ultimate-music-manager",
+  "name": "ultimate-music-manager",
+  "title": "索尼克凤凰",
+  "description": "Organises a messy local music library into a clean Language/Artist/Album hierarchy using acoustic fingerprinting, deduplication, metadata enrichment, and optional Spotify sync. Use when: (1) User wants to sort or clean up a folder of audio files, (2) User has untagged or badly-tagged MP3/FLAC/M4A files, (3) User wants to identify unknown songs via Shazam fingerprinting, (4) User wants to deduplicate audio files by content hash, (5) User wants to enrich metadata with iTunes artwork and LrcLib lyrics, (6) User wants to sync their local library to Spotify playlists.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sonic Phoenix",
+  "function_label": "Automation"
+}

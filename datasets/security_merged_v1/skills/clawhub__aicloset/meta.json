@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:aicloset",
+  "slug": "aicloset",
+  "name": "aicloset",
+  "title": "爱搭衣橱）",
+  "description": "AI智能衣橱 — 衣橱管理、AI搭配推荐、知识库搜索、虚拟试衣",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

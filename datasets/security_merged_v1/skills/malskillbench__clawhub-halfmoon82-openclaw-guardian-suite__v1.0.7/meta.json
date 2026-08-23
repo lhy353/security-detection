@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:clawhub-halfmoon82-openclaw-guardian-suite__v1.0.7",
+  "slug": "clawhub-halfmoon82-openclaw-guardian-suite__v1.0.7",
+  "name": "OpenClaw 全能守护包",
+  "title": "全能守护包",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Automation"
+}

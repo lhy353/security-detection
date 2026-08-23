@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:convergence",
+  "slug": "convergence",
+  "name": "convergence",
+  "title": "收敛",
+  "description": "Problem-solving strategies for convergence in real analysis",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Convergence",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openbroker",
+  "slug": "openbroker",
+  "name": "openbroker",
+  "title": "开放经纪商",
+  "description": "Hyperliquid trading plugin with background position monitoring and custom automations. Execute market orders, limit orders, manage positions, view funding rates, run trading strategies, and write event-driven automation scripts with automatic alerts for PnL changes and liquidation risk.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Open Broker - Hyperliquid Trading CLI",
+  "function_label": "Data-Agent"
+}

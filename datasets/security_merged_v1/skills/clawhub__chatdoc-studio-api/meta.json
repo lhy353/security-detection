@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:chatdoc-studio-api",
+  "slug": "chatdoc-studio-api",
+  "name": "chatdoc-studio-api",
+  "title": "使用指南",
+  "description": "ChatDOC Studio API usage guide - complete documentation and examples for PDF parsing, chat applications, agent applications, content retrieval, and data extraction APIs",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Chatdoc Studio Api",
+  "function_label": "File-Agent"
+}

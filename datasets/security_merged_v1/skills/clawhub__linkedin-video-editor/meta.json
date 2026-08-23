@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:linkedin-video-editor",
+  "slug": "linkedin-video-editor",
+  "name": "linkedin-video-editor",
+  "title": "领英视频编辑器",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Linkedin Video Editor",
+  "function_label": "Communication"
+}

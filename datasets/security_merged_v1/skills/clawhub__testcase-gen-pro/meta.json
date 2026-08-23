@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:testcase-gen-pro",
+  "slug": "testcase-gen-pro",
+  "name": "testcase-generator",
+  "title": "测试用例生成专家",
+  "description": "测试用例生成专家技能。当用户提供产品需求文档、API链接、页面链接，或要求生成测试用例时触发。功能：多维度需求分析、系统化测试用例设计（等价类划分、边界值分析、决策表、状态转换、场景法、错误推测法）、高覆盖率保障。输出语言统一使用中文，严格按照标准测试用例格式输出。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

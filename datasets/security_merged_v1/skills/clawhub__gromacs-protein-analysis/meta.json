@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:gromacs-protein-analysis",
+  "slug": "gromacs-protein-analysis",
+  "name": "gromacs-protein-analysis",
+  "title": "蛋白质分析",
+  "description": "蛋白质分子动力学模拟分析的流程知识指南。当 Agent 需要执行某个分析但不清楚具体流程时调用。涵盖九种核心分析的完整工作流：(1) PBC 修正 - 消除周期性边界伪影，居中蛋白质/配体；(2) RMSD 分析 - 测量结构稳定性和模拟收敛性；(3) RMSF 分析 - 评估每个残基的灵活性；(4) 回转半径分析 - 评估蛋白质紧密性和折叠状态；(5) SASA 分析 - 研究溶剂可及性和表面性质；(6) DCCM 分析 - 动态互相关矩阵，研究原子间相关运动；(7) RDCM 分析 - 残基距离接触矩阵，分析残基间空间关系；(8) PCA 分析 - 主成分分析，识别集体运动和构象变化；(9) FEL 分析 - 自由能景观映射，使用 RMSD/Gyrate 或 PCA 作为反应坐标。包含分析间的依赖关系说明（如 FEL 依赖 PCA 或 RMSD/Gyrate 结果）。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

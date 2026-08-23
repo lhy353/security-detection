@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:multiplayer",
+  "slug": "multiplayer",
+  "name": "multiplayer",
+  "title": "多人游戏开发",
+  "description": "Multiplayer game development principles. Architecture, networking, synchronization.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Multiplayer Game Development",
+  "function_label": "Automation"
+}

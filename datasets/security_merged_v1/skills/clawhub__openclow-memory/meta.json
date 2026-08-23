@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclow-memory",
+  "slug": "openclow-memory",
+  "name": "memory-system",
+  "title": "长期记忆管理系统",
+  "description": "OpenClaw 长期记忆管理系统。提供结构化记忆、向量记忆、语义搜索功能。Use when: 用户需要 AI 记住长期上下文、偏好、决策，或需要从记忆中进行语义搜索。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

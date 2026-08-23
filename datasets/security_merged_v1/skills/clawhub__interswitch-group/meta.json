@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:interswitch-group",
+  "slug": "interswitch-group",
+  "name": "interswitch-group",
+  "title": "互转组",
+  "description": "Interswitch Group integration. Manage data, records, and automate workflows. Use when the user wants to interact with Interswitch Group data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Interswitch Group",
+  "function_label": "Automation"
+}

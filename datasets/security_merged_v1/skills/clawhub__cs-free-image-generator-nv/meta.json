@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cs-free-image-generator-nv",
+  "slug": "cs-free-image-generator-nv",
+  "name": "cs-free-image-generator-nv",
+  "title": "文图生成",
+  "description": "使用 NVIDIA MoCL 模型（via NVIDIA API Playground）进行免费文图生成（Text-to-Image）。当用户要求\"生成图片\"、\"画一张图\"、\"text to image\"、\"文生图\"时触发。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

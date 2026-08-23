@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:micro-change-helper",
+  "slug": "micro-change-helper",
+  "name": "micro-change-helper",
+  "title": "微改变助手",
+  "description": "Turn a stuck problem into one tiny actionable 5% change",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Micro Change Helper",
+  "function_label": "Communication"
+}

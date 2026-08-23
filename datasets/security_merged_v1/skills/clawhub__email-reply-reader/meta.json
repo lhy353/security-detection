@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:email-reply-reader",
+  "slug": "email-reply-reader",
+  "name": "email-reply-reader",
+  "title": "电子邮件回复阅读器",
+  "description": "Read and parse job application email replies from companies. Activate when user asks to check job application replies, read recruiter emails, see who responded, check inbox for HR replies, or follow up on job applications. Uses gog Gmail to fetch and classify recruiter responses.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Email Reply Reader",
+  "function_label": "Communication"
+}

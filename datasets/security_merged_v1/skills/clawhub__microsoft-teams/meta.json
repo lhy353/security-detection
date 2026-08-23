@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:microsoft-teams",
+  "slug": "microsoft-teams",
+  "name": "microsoft-teams",
+  "title": "微软团队",
+  "description": "Microsoft Teams API integration with managed OAuth. Manage teams, channels, messages, and meetings via Microsoft Graph API.\nUse this skill when users want to list teams, create channels, send messages, schedule meetings, or access meeting recordings and transcripts.\nFor other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Microsoft Teams",
+  "function_label": "Browser"
+}

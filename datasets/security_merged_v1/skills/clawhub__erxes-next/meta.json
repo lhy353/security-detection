@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:erxes-next",
+  "slug": "erxes-next",
+  "name": "erxes",
+  "title": "能力",
+  "description": "Manage contacts, companies, products, tags, documents, brands, automations, team members, and organization data on an erxes instance. Use when the user wants to view, create, update, or remove erxes data through GraphQL.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "erxes– Чадварууд",
+  "function_label": "Browser"
+}

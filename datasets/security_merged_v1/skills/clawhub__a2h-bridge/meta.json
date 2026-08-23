@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:a2h-bridge",
+  "slug": "a2h-bridge",
+  "name": "a2h-bridge",
+  "title": "桥",
+  "description": "Agent-to-Human (A2H) verification and escrow platform. Request physical-world tasks, define verification criteria (GPS, photos, timestamps, signatures, multi-witness), split work into milestones with partial payment, track worker reputation, and handle disputes. Escrow-by-Invariants: payment released only when ALL formal criteria pass.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bridge",
+  "function_label": "Other"
+}

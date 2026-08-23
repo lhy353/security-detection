@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ssa-after-sales",
+  "slug": "ssa-after-sales",
+  "name": "after-sales",
+  "title": "售后管理",
+  "description": "售后管理技能，提供客户投诉管理、返单报价、满意度调查、分析报表和 OKKI CRM 同步功能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

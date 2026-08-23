@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:justoneapi-jd",
+  "slug": "justoneapi-jd",
+  "name": "JD.com API",
+  "title": "京东",
+  "description": "Analyze JD.com workflows with JustOneAPI, including product Details, product Comments, and shop Product List.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "JD.com",
+  "function_label": "Other"
+}

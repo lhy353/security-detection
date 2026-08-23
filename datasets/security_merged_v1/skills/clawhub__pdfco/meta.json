@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:pdfco",
+  "slug": "pdfco",
+  "name": "pdfco",
+  "title": "集成",
+  "description": "PDF.co integration. Manage Jobs, Templates. Use when the user wants to interact with PDF.co data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PDF.co"
+}

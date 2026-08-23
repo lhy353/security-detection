@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:gh-cli",
+  "slug": "gh-cli",
+  "name": "gh-cli",
+  "title": "存储库、问题、拉取请求、操作、项目、发布、要点、cod 的综合参考",
+  "description": "GitHub CLI (gh) comprehensive reference for repositories, issues, pull requests, Actions, projects, releases, gists, codespaces, organizations, extensions, and all GitHub operations from the command line.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "GitHub CLI (gh)",
+  "function_label": "Automation"
+}

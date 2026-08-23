@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:anygen-data-analysis",
+  "slug": "anygen-data-analysis",
+  "name": "anygen-data-analysis",
+  "title": "数据分析",
+  "description": "Analyze CSV data with AnyGen AI. Uses dialogue mode to understand analysis goals, metrics, and visualization needs before generating. Triggers: analyze data, analyze CSV, data table, organize data, data summary, chart from data.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AnyGen Data Analysis (CSV)",
+  "function_label": "Data-Agent"
+}

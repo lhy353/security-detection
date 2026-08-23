@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ultrahuman-analytics",
+  "slug": "ultrahuman-analytics",
+  "name": "ultrahuman-analytics",
+  "title": "超人分析",
+  "description": "Advanced Ultrahuman analytics, trends, predictions, and reports. Use this skill when the user asks for weekly report, 7-day summary, recovery trend, sleep consistency, metabolic week, VO2 or movement trend, deep/REM balance, tomorrow readiness, training load check, low-recovery alert, glucose spike risk, sleep-glucose link, sleep-recovery link, rest day effect, weekday vs weekend, PDF summary, coach view, monthly one-pager, best night of the week, streak, personal record, or weekly MVP. Use for any multi-day analysis, prediction, correlation, or export from Ultrahuman ring/CGM data.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ultrahuman Analytics",
+  "function_label": "File-Agent"
+}

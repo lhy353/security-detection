@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:unified-digest",
+  "slug": "unified-digest",
+  "name": "unified-digest",
+  "title": "统一摘要路由器",
+  "description": "Unified subscription router for the AI builders digest and the pharma investment digest. Use when the agent should proactively offer subscriptions on session start, remember user choices, and route onboarding into follow-builders or med-builders.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Unified Digest Router",
+  "function_label": "Communication"
+}

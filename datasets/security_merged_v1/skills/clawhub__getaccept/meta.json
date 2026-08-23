@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:getaccept",
+  "slug": "getaccept",
+  "name": "getaccept",
+  "title": "接受",
+  "description": "GetAccept integration. Manage Deals, Persons, Organizations, Leads, Projects, Pipelines and more. Use when the user wants to interact with GetAccept data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Getaccept",
+  "function_label": "Browser"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:gadget",
+  "slug": "gadget",
+  "name": "Gadget",
+  "title": "硬核数码",
+  "description": "提供智能家居、硬核数码新品测评、购买建议及极客玩法。 ",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:industry-analyst",
+  "slug": "industry-analyst",
+  "name": "industry-analyst",
+  "title": "行业分析师 🏭",
+  "description": "［何时使用］当用户需要快速了解一个行业时；当用户问\"这个行业值得投资吗\"时；当进行行业研究时；当需要判断行业生命周期时",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

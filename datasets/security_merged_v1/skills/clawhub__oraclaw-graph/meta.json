@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:oraclaw-graph",
+  "slug": "oraclaw-graph",
+  "name": "oraclaw-graph",
+  "title": "代理的网络智能",
+  "description": "Network intelligence for AI agents. PageRank, community detection (Louvain), critical path, and bottleneck analysis for any graph of connected things.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OraClaw Graph — Network Intelligence for Agents"
+}

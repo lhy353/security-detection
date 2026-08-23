@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:abuselpdb",
+  "slug": "abuselpdb",
+  "name": "abuselpdb",
+  "title": "滥用数据库",
+  "description": "AbuselPDB integration. Manage data, records, and automate workflows. Use when the user wants to interact with AbuselPDB data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Abuselpdb",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:photo-video-maker-facebook",
+  "slug": "photo-video-maker-facebook",
+  "name": "photo-video-maker-facebook",
+  "title": "照片视频制作器",
+  "description": "Cloud-based photo-video-maker-facebook tool that handles creating Facebook slideshow videos from photos. Upload JPG, PNG, HEIC, WebP files (up to 200MB), describe what you need, and get 1080p MP4 output in 30-60 seconds. Built for Facebook users and social media marketers who work with photos and images.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Photo Video Maker for Facebook — Turn Photos into Facebook Videos",
+  "function_label": "Communication"
+}

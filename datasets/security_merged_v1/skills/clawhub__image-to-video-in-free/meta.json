@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:image-to-video-in-free",
+  "slug": "image-to-video-in-free",
+  "name": "image-to-video-in-free",
+  "title": "将图像转换为视频剪辑",
+  "description": "Turn three product photos in JPG format into 1080p animated video clips just by typing what you need. Whether it's converting still photos into shareable video content or quick social content, drop your static images and describe the result you want. No timeline dragging, no export settings — 30-60 seconds from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Image to Video Free — Convert Images Into Video Clips",
+  "function_label": "Communication"
+}

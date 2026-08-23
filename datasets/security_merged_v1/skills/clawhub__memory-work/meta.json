@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:memory-work",
+  "slug": "memory-work",
+  "name": "memory-work",
+  "title": "记忆工作 v2",
+  "description": "An AI-first knowledge management system with evolvable memory - 一套 AI 时代的注意力保护架构",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Memory Work v2"
+}

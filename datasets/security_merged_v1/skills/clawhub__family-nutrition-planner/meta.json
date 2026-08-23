@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:family-nutrition-planner",
+  "slug": "family-nutrition-planner",
+  "name": "family-nutrition-planner",
+  "title": "家庭营养规划师",
+  "description": "家庭营养规划师 - 根据家庭成员健康需求、饮食偏好和营养目标，\n生成营养均衡的一周菜单、食材采购清单和分餐计划。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

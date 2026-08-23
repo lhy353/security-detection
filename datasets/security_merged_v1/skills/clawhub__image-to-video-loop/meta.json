@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:image-to-video-loop",
+  "slug": "image-to-video-loop",
+  "name": "image-to-video-loop",
+  "title": "将图像转换为循环视频",
+  "description": "Turn a single product photo or illustration into 1080p looping video clips just by typing what you need. Whether it's converting static images into looping videos for social media or quick social content, drop your still images and describe the result you want. No timeline dragging, no export settings — 20-40 seconds from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Image to Video Loop — Convert Images into Looping Videos",
+  "function_label": "Communication"
+}

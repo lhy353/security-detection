@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:catch-my-skill",
+  "slug": "catch-my-skill",
+  "name": "catch-my-skill",
+  "title": "自动检测本地与线上 skill 版本差异",
+  "description": "自动检测本地与线上 skill 版本差异 - 支持 ClawHub/GitHub，定期检查更新",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

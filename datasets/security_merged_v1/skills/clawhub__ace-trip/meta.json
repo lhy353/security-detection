@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ace-trip",
+  "slug": "ace-trip",
+  "name": "tennis-grand-slam-planner",
+  "title": "网球大满贯计划",
+  "description": "When a user mentions watching tennis, Grand Slam travel, or planning a trip to the Australian Open, French Open (Roland Garros), Wimbledon, or US Open, activate this skill. It combines the Grand Slam calendar with flyai travel APIs to generate a complete \"match-chasing\" itinerary — including flights, hotels near the venue, local attractions, and event tickets — all organized around the tournament schedule. Not for general travel planning without a tennis event context.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tennis Grand Slam Planner — Chase the Match Calendar",
+  "function_label": "Other"
+}

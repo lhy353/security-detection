@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:intro-maker",
+  "slug": "intro-maker",
+  "name": "intro-maker",
+  "title": "创建品牌视频简介",
+  "description": "Get branded intro clips ready to post, without touching a single slider. Upload your brand assets, images (PNG, JPG, MP4, MOV, up to 200MB), say something like \"create a 5-second intro with my logo and a fade-in animation\", and download 1080p MP4 when it's done. Built for YouTubers, content creators who move fast and want a professional intro without hiring a motion designer.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Intro Maker — Create Branded Video Intros",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-caption",
+  "slug": "free-caption",
+  "name": "free-caption",
+  "title": "自动生成视频字幕",
+  "description": "add video files into captioned video files with this skill. Works with MP4, MOV, AVI, WebM files up to 500MB. content creators use it for adding free automatic captions to videos — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Caption — Auto-Generate Captions for Videos",
+  "function_label": "Communication"
+}

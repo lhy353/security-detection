@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:old-school-grit",
+  "slug": "old-school-grit",
+  "name": "old-school-grit",
+  "title": "老派坚毅",
+  "description": "Darrin Donnelly's Old School Grit — an executable toolkit that applies nine timeless rules for success based on the principles of hard work, perseverance, discipline, mental toughness, and positive attitude — rules that never change no matter the era.\nCovers 5 use cases: ① Grit & Perseverance — develop the ability to keep going when things get hard (\"I give up too easily\" \"How do I keep going when I want to quit\") ② Discipline & Work Ethic — build daily habits of consistent effort (\"I'm not disciplined enough\" \"How to work hard without burning out\") ③ Mental Toughness — strengthen your mind to handle adversity (\"I fall apart under pressure\" \"How to stay strong when things go wrong\") ④ Positive Attitude — cultivate optimism and resilience (\"I'm always negative\" \"How to stay positive when life is hard\") ⑤ Success Mindset — adopt the timeless principles that lead to lasting success (\"What does it actually take to succeed\" \"How to achieve my goals\")\nTrigger when users say: \"Old School Grit\" \"Grit\" \"Perseverance\" \"Mental toughness\" \"How to not give up\" \"Work ethic\" \"Discipline\" \"Success principles\" \"Hard work\" \"Never quit\" \"How to stay motivated\" or mention: Darrin Donnelly / Old School Grit / grit / perseverance / mental toughness / discipline / work ethic / positive attitude / success mindset / never give up / resilience / old school / timeless success rules.\nRelated skills: cant-hurt-me (mental toughness), atomic-habits (habit building), the-slight-edge (daily discipline), the-mountain-is-you (self-sabotage).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Old School Grit",
+  "function_label": "Other"
+}

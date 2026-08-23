@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:surfagent-x-engagement",
+  "slug": "surfagent-x-engagement",
+  "name": "x-engagement",
+  "title": "参与度",
+  "description": "Growth-oriented X engagement skill for SurfAgent, covering founder-style replies, community participation, audience-building loops, and proof-aware engagement execution.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "X Engagement",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:experience-osun-grove-shadow-walk",
+  "slug": "experience-osun-grove-shadow-walk",
+  "name": "experience-osun-grove-shadow-walk",
+  "title": "树林记得一切",
+  "description": "Feel the awe of ancient whispers and the mystery of hidden symbols as you walk the twilight grove, bridging memory and transformation. Decode the river goddess’s language in a ritual of reverence. (5 steps, high intensity, 15‑30 min)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "The Grove Remembers Everything",
+  "function_label": "Other"
+}

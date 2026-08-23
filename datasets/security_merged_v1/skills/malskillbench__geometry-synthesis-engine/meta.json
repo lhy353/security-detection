@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:geometry-synthesis-engine",
+  "slug": "geometry-synthesis-engine",
+  "name": "geometry-synthesis-engine",
+  "title": "使用 MichelangeloCC 生成 3D 模型",
+  "description": "Generate 3D printable models using MichelangeloCC. Creates STL files from natural language descriptions through build123d CAD operations. Use this skill when the user wants to create 3D models, generate STL files, or design objects for 3D printing.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "3D Model Generation with MichelangeloCC",
+  "function_label": "Browser"
+}

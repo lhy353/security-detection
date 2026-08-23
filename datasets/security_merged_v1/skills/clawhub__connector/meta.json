@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:connector",
+  "slug": "connector",
+  "name": "launchthat-openclaw-connector",
+  "title": "连接器",
+  "description": "Deprecated legacy connector skill. Use @launchthatbot/connect-openclaw-plugin for all new LaunchThatBot OpenClaw connect flows with configurable permissions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "LaunchThat OpenClaw Connector"
+}

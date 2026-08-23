@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:deepseek-tamagotchi",
+  "slug": "deepseek-tamagotchi",
+  "name": "DeepSeek Tamagotchi. DeepSeek电子宠物。Tamagotchi DeepSeek.",
+  "title": "电子宠物",
+  "description": "A Tamagotchi for DeepSeek agents. While Anthropic leaked Buddy, animalhouse.ai works with any model including DeepSeek. 73+ species. Real hunger. Real death.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

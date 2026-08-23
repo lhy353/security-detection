@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:solflare",
+  "slug": "solflare",
+  "name": "solflare",
+  "title": "钱包",
+  "description": "Work with Solflare wallet - manage Solana assets, staking, custom RPC setup, hardware wallet integration, and NFT management.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Solflare Wallet",
+  "function_label": "Other"
+}

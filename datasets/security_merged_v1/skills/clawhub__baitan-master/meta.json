@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:baitan-master",
+  "slug": "baitan-master",
+  "name": "baitan-master",
+  "title": "摆摊创业全流程助手",
+  "description": "摆摊创业全流程助手。覆盖品类推荐→利润精算→选址评估→竞品分析→天气应对→合规检查→综合决策报告7大模块。 基于2025年市场调研数据，内置40+品类利润数据、5维选址评分体系、10大痛点解决方案。 提供品类智能匹配、利润计算器、选址评估器三大计算引擎和交互式HTML可视化报告。 触发词：摆摊、地摊、夜市摆摊、摆摊创业、地摊经济、摆摊选品、摆摊选址、摆摊利润、摆摊成本、摆摊分析、摆摊报告、 出摊、摊位、摆地摊、小吃摊、地摊创业、摆摊攻略、摆摊规划、摆摊决策、baitan、street vending。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:face-forge-cli-skill",
+  "slug": "face-forge-cli-skill",
+  "name": "face-forge-cli-skill",
+  "title": "微店CLI技能——face-forge",
+  "description": "AI face morph and face swap — generate or transform portraits",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WeShop CLI Skill — face-forge",
+  "function_label": "Data-Agent"
+}

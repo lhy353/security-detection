@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ollama-skill",
+  "slug": "ollama-skill",
+  "name": "ollama-skill",
+  "title": "本地/本地/Docker",
+  "description": "Use when user wants to integrate Ollama into coding agents, IDEs, or agent harnesses. Supports local/on-prem/Docker deployment, Ollama Cloud, OpenAI/Anthropic-compatible endpoints, streaming, structured outputs, embeddings, tool calling, and web search.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Local / on-prem / Docker",
+  "function_label": "Automation"
+}

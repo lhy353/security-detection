@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:api2cli",
+  "slug": "api2cli",
+  "name": "api2cli",
+  "title": "从任何 REST API 生成 CLI + AgentSkill",
+  "description": "Generate a CLI + AgentSkill from any REST API. Use when: user says 'create a CLI for X', 'wrap this API', 'make a skill for X', 'publish my CLI', 'publish to npm', 'push to github'. Handles discovery, scaffolding, resource implementation, building, linking, skill generation, npm publishing, and GitHub publishing.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Api2Cli"
+}

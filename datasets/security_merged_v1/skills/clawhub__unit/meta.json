@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:unit",
+  "slug": "unit",
+  "name": "unit",
+  "title": "单位全能换算技能，支持长度、重量、面积、体积、温度、时间、速度、数据存储、能量、…",
+  "description": "单位全能换算技能，支持长度、重量、面积、体积、温度、时间、速度、数据存储、能量、功率、压力等基础单位换算，以及150+货币实时汇率换算。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

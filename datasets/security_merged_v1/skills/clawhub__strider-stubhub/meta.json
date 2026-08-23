@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:strider-stubhub",
+  "slug": "strider-stubhub",
+  "name": "strider-stubhub",
+  "title": "连接器",
+  "description": "Buy and sell tickets via StubHub using Strider Labs MCP connector. Search resale tickets, compare prices, buy guaranteed tickets, list your own. Complete autonomous ticket marketplace for your AI agent.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Strider StubHub Connector",
+  "function_label": "Communication"
+}

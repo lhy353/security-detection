@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:poku-test",
+  "slug": "poku-test",
+  "name": "poku",
+  "title": "外拨电话、短信和号码预订",
+  "description": "Places outbound phone calls, sends outbound SMS texts, and reserves dedicated phone numbers on the user's behalf using the Poku API and the exec tool. Use when the user wants to call or text a restaurant, a contact, a business, doctor's office, or any phone number. Also use when the user wants to reserve a dedicated phone number for their agent.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Poku — Outbound Calls, SMS & Number Reservation",
+  "function_label": "Communication"
+}

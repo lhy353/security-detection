@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:fuguang-content-pro",
+  "slug": "fuguang-content-pro",
+  "name": "content-monetization",
+  "title": "内容变现技能，集成微头条/小红书/网文/Prompt模板创作指南",
+  "description": "AI内容变现技能，集成微头条/小红书/网文/Prompt模板创作指南。触发词：'写微头条'、'发小红书'、'帮我写文案'、'创作变现'、'写Prompt'、'今日内容'。涵盖头条微头条、抖音文案、小红书笔记、网文开头、Prompt模板等多种变现内容创作。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

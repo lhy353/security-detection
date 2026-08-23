@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:workflow-stop-design",
+  "slug": "workflow-stop-design",
+  "name": "workflow-stop-design",
+  "title": "工作流暂停逻辑设计方案",
+  "description": "工作流暂停逻辑设计方案",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Coding"
+}

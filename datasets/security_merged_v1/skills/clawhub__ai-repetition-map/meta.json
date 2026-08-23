@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-repetition-map",
+  "slug": "ai-repetition-map",
+  "name": "AI Repetitive Task Finder",
+  "title": "重复任务查找器",
+  "description": "Map repeated weekly computer work into a one-page repeat-task board and identify the top three safe AI-assist candidates without building live automation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Repetitive Task Finder",
+  "function_label": "Browser"
+}

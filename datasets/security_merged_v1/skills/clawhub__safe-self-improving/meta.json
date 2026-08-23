@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:safe-self-improving",
+  "slug": "safe-self-improving",
+  "name": "safe-self-improving",
+  "title": "安全自我提升",
+  "description": "A privacy-first consent-based self-improvement skill for AI agents.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Safe Self Improving",
+  "function_label": "Other"
+}

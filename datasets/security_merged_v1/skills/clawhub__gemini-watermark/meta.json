@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gemini-watermark",
+  "slug": "gemini-watermark",
+  "name": "gemini-watermark",
+  "title": "双子座水印去除器",
+  "description": "Remove visible Gemini AI watermarks from images via reverse alpha blending. Use for cleaning Gemini-generated images, removing the star/sparkle logo watermark, batch watermark removal.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Gemini Watermark Remover",
+  "function_label": "Other"
+}

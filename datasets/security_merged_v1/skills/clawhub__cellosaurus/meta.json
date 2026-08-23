@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cellosaurus",
+  "slug": "cellosaurus",
+  "name": "细胞系知识资源服务",
+  "title": "细胞系知识资源服务",
+  "description": "Cellosaurus MCP Server是一个非官方的模型上下文协议服务器，用于访问SIB Cellosaurus细胞系知识资源，提供细胞系搜索、详细信息获取和数据库版本信息等功能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

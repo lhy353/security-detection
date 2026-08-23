@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alibabacloud-dataworks-workspace-manage",
+  "slug": "alibabacloud-dataworks-workspace-manage",
+  "name": "alibabacloud-dataworks-workspace-manage",
+  "title": "工作空间生命周期管理",
+  "description": "DataWorks Workspace Lifecycle Management Skill. Used for creating workspaces, querying workspace information, and adding workspace members with role authorization.\nTriggers: \"DataWorks\", \"workspace management\", \"workspace\", \"member authorization\", \"role assignment\"",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "DataWorks Workspace Lifecycle Management",
+  "function_label": "Automation"
+}

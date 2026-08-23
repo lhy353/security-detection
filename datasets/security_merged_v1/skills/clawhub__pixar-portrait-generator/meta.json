@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pixar-portrait-generator",
+  "slug": "pixar-portrait-generator",
+  "name": "pixar-portrait-generator",
+  "title": "皮克斯肖像生成器",
+  "description": "selfies and portraits into Pixar-style 3D animated characters with cinematic CGI rendering. Generate Disney Pixar movie-quality avatars, 3D cartoon portraits, and animated character art featuring soft volumetric lighting, expressive oversized eyes, and glossy subsurface skin — perfect for viral profile pictures, animated-style headshots, family portraits, and 3D cartoon transformations of people, pets, and original characters via the Neta AI image generation API (free trial at neta.art/open).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pixar Portrait Generator",
+  "function_label": "Other"
+}

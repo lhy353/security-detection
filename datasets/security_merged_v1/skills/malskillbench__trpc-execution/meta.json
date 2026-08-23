@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:trpc-execution",
+  "slug": "trpc-execution",
+  "name": "trpc-execution",
+  "title": "执行层",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "tRPC Execution Layer",
+  "function_label": "Automation"
+}

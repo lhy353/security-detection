@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:deepread-id-documents",
+  "slug": "deepread-id-documents",
+  "name": "deepread-id-documents",
+  "title": "深读身份证件",
+  "description": "Extract structured data from passports, driver's licenses, and national ID cards for KYC/onboarding — name, document number, dates, nationality — as typed JSON. Vision AI reads scans and photos. Per-field confidence flags. PII redaction built in for compliant storage. Free 2,000 pages/month.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Deepread Id Documents",
+  "function_label": "Other"
+}

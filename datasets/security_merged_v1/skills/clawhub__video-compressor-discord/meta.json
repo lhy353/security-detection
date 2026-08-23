@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-compressor-discord",
+  "slug": "video-compressor-discord",
+  "name": "video-compressor-discord",
+  "title": "压缩视频以进行 Discord 共享",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — compress this video to under 8MB so I can send it in Discord — and get compressed MP4 files back in 20-40 seconds. Upload MP4, MOV, AVI, WebM files up to 500MB, and the AI handles AI video compression automatically. Ideal for gamers and Discord users who need to shrink videos under 8MB or 25MB to share in Discord without Nitro.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Compressor for Discord — Compress Videos for Discord Sharing",
+  "function_label": "Communication"
+}

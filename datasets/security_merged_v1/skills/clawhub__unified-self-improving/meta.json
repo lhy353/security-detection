@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:unified-self-improving",
+  "slug": "unified-self-improving",
+  "name": "unified-self-improving",
+  "title": "统一自我进化系统 (Unified Self-Improving)",
+  "description": "统一自我进化系统，整合 self-improving-agent、self-improving、mulch 三个技能的优势，提供结构化日志、三层存储、自动升级、模式检测、命名空间隔离和 token 高效的 JSONL 格式支持。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

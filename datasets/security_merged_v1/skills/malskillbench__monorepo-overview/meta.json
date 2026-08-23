@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:monorepo-overview",
+  "slug": "monorepo-overview",
+  "name": "monorepo-overview",
+  "title": "概述",
+  "description": "GROWI monorepo structure, workspace organization, and architectural principles. Auto-invoked for all GROWI development work.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "GROWI Monorepo Overview",
+  "function_label": "Browser"
+}

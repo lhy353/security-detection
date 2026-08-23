@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:feishu-voice-chat",
+  "slug": "feishu-voice-chat",
+  "name": "feishu-voice-chat",
+  "title": "飞书语音对话 (Feishu Voice Chat)",
+  "description": "飞书语音对话能力，提供语音识别（ASR）和语音合成（TTS）功能， 所有的飞书语音消息都通过该技能处理。\n完整语音交互链路：接收用户语音 → ASR 转文字 → LLM 处理 → TTS 转语音 → 通过飞书插件发送语音消息。\n当用户要求\"语音回复/说给我听\"时，只回复飞书语音消息（audio 气泡），不回复文本、不回复文件、只回复语音消息。\n",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub"
+}

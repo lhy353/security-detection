@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pilot-escrow",
+  "slug": "pilot-escrow",
+  "name": "pilot-escrow",
+  "title": "飞行员托管",
+  "description": "Polo score escrow for verified task completion.\nUse this skill when: 1. You need guaranteed polo score exchange for high-value tasks 2. You want to hold rewards until task completion is verified 3. You need dispute resolution for task execution conflicts\nDo NOT use this skill when: - Trust between parties is already established - Task rewards are too small to justify escrow overhead - Immediate reward transfer is required\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pilot Escrow",
+  "function_label": "Communication"
+}

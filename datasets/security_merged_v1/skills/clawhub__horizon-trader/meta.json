@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:horizon-trader",
+  "slug": "horizon-trader",
+  "name": "horizon-trader",
+  "title": "地平线交易者",
+  "description": "v0.4.16 - Trade prediction markets (Polymarket, Kalshi) - positions, orders, risk management, Kelly sizing, wallet analytics, Monte Carlo, arbitrage, quantitative analytics, AFML (bars, labeling, fractional differentiation, HRP, denoising), multi-strategy orchestration, alpha research, tier-gated features, and market discovery.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Horizon Trader",
+  "function_label": "Data-Agent"
+}

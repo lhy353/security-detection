@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:git-master__CI_B8",
+  "slug": "git-master__CI_B8",
+  "name": "git-master",
+  "title": "主控命令",
+  "description": "Git expert for atomic commits, rebasing, and history management",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Git Master Command",
+  "function_label": "Other"
+}

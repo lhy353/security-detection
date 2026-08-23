@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:chan-theory",
+  "slug": "chan-theory",
+  "name": "chan-theory",
+  "title": "缠论技术分析体系",
+  "description": "缠论（Chan Theory）技术分析 — 完全本土化的A股技术分析体系。当用户说「缠论」「用缠论分析」「走势中枢」「背驰」「三类买卖点」「线段破坏」「笔和线段」时激活。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:create-blog-post-from-url",
+  "slug": "create-blog-post-from-url",
+  "name": "create-blog-post-from-url",
+  "title": "中文标题}",
+  "description": "从给定 URL 抽取信息并生成新的博客 Markdown 文章、资源目录和 frontmatter。",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Other"
+}

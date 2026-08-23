@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dynamics-crm",
+  "slug": "dynamics-crm",
+  "name": "dynamics-crm",
+  "title": "微软动态365",
+  "description": "Microsoft Dynamics 365 integration. Manage crm and sales data, records, and workflows. Use when the user wants to interact with Microsoft Dynamics 365 data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Microsoft Dynamics 365",
+  "function_label": "Browser"
+}

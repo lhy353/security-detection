@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:checkly-cli-skills",
+  "slug": "checkly-cli-skills",
+  "name": "checkly-cli-skills",
+  "title": "技能",
+  "description": "Comprehensive Checkly CLI command reference and Monitoring as Code workflows. Use when user mentions Checkly CLI, monitoring as code, synthetic monitoring, API checks, browser checks, Playwright testing, check deployment, or npx checkly commands. Routes to specialized sub-skills for auth, config, checks, testing, deployment, imports, constructs, and advanced patterns. Triggers on checkly, monitoring as code, synthetic monitoring, checkly cli, npx checkly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Checkly Cli Skills",
+  "function_label": "Browser"
+}

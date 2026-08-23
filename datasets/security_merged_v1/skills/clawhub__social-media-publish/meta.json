@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:social-media-publish",
+  "slug": "social-media-publish",
+  "name": "social-media-publish",
+  "title": "社交媒体浏览器自动化发布",
+  "description": "社交媒体浏览器自动化发布。支持微信公众号、百家号、小红书等平台。当用户说\"发公众号\"、\"发百家号\"、\"发布到...\"时使用此技能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Browser"
+}

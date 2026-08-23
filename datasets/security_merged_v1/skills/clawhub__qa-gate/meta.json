@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:qa-gate",
+  "slug": "qa-gate",
+  "name": "qa-gate",
+  "title": "质量检测门",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

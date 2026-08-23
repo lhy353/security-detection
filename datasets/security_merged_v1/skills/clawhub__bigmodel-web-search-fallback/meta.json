@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bigmodel-web-search-fallback",
+  "slug": "bigmodel-web-search-fallback",
+  "name": "bigmodel-web-search-fallback",
+  "title": "网络搜索后备",
+  "description": "Use Zhipu / BigModel web search as a non-invasive fallback when the built-in web_search route is unavailable, failing, or the user explicitly wants 智谱 / BigModel / GLM search. Supports both direct structured search results and chat-completions search-with-summary. Supports engine switching across search_std, search_pro, search_pro_sogou, and search_pro_quark.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bigmodel Web Search Fallback",
+  "function_label": "Research"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sixsigma",
+  "slug": "sixsigma",
+  "name": "sixsigma",
+  "title": "六西格码方法参考",
+  "description": "Six Sigma methodology reference — DMAIC process, statistical tools, control charts, and capability analysis. Use when running improvement projects, analyzing process variation, or preparing for Six Sigma certification.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Six Sigma — Six Sigma Methodology Reference",
+  "function_label": "Other"
+}

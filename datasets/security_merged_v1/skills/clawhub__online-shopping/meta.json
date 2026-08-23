@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:online-shopping",
+  "slug": "online-shopping",
+  "name": "online-shopping",
+  "title": "网上购物",
+  "description": "Browse and buy products from online stores, including Cloudflare-protected sites. Use when the user asks to find, compare, or order products online. Handles product search, price comparison, adding to cart, filling checkout forms, and navigating to payment. Uses a stealth browser (Patchright) to bypass bot detection.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Online Shopping",
+  "function_label": "Browser"
+}

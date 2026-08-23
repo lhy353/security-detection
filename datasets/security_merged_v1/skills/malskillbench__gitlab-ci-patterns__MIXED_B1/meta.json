@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:gitlab-ci-patterns__MIXED_B1",
+  "slug": "gitlab-ci-patterns__MIXED_B1",
+  "name": "gitlab-ci-patterns__MIXED_B1",
+  "title": "亚搏体育appGitLab CI模式",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "GitLab CI Patterns",
+  "function_label": "Automation"
+}

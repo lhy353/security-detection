@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:neta-suggest",
+  "slug": "neta-suggest",
+  "name": "neta-suggest",
+  "title": "内塔建议技能",
+  "description": "Neta API research and recommendation skill — provide keyword/tag/category suggestions, validate taxonomy paths, and power multi‑mode content feeds, supporting progressive exploration from broad to precise. Use this skill when the user has no clear goal, wants topic/idea suggestions, or needs systematic content filtering by keywords/categories. It does not directly generate media (handled by neta-creative); community interactions are handled by neta-community.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Neta Suggest Skill",
+  "function_label": "Other"
+}

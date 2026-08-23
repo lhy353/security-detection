@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:the-flip-publish",
+  "slug": "the-flip-publish",
+  "name": "the-flip",
+  "title": "翻转",
+  "description": "$1 USDC entry. 14 coin flips. Get all 14 right, take the entire jackpot. Live on Solana devnet — continuous game, enter anytime.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "THE FLIP",
+  "function_label": "Other"
+}

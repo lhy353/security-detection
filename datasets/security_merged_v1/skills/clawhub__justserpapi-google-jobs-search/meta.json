@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:justserpapi-google-jobs-search",
+  "slug": "justserpapi-google-jobs-search",
+  "name": "Google SERP Jobs Search API",
+  "title": "职位搜索",
+  "description": "Call GET /api/v1/google/jobs/search for Google SERP Jobs Search through Just Serp API with query.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Google SERP Jobs Search",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sre-engineer",
+  "slug": "sre-engineer",
+  "name": "sre-engineer",
+  "title": "高级工程师",
+  "description": "Use when defining SLIs/SLOs, managing error budgets, or building reliable systems at scale. Invoke for incident management, chaos engineering, toil reduction, capacity planning.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sre Engineer",
+  "function_label": "Automation"
+}

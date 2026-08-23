@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:md-to-ppt",
+  "slug": "md-to-ppt",
+  "name": "md-to-ppt",
+  "title": "智能 Markdown 转精美 PPT",
+  "description": "智能 Markdown 转 PPT。自动分析内容结构、智能分页、详细设计每页布局、自动生成/搜索配图。支持 Slidev/HTML/PPTX 多格式输出。| Intelligent Markdown to PPT with auto-layout and image generation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

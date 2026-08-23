@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kirk-build-market-research-faq-page",
+  "slug": "kirk-build-market-research-faq-page",
+  "name": "Build Market Research FAQ Page",
+  "title": "建立市场研究常见问题解答页面",
+  "description": "Generate customer-facing answers for common market research questions. Use when working on FAQ content for analysts, founders, strategy teams.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Build Market Research FAQ Page",
+  "function_label": "Other"
+}

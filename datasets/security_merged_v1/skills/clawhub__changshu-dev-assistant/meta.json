@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:changshu-dev-assistant",
+  "slug": "changshu-dev-assistant",
+  "name": "changshu-dev-assistant",
+  "title": "昌叔专属软件开发助手",
+  "description": "昌叔专属软件开发助手 - 以达梦数据库工具为核心，专注SQL Server→达梦迁移、代码安全扫描、知识库搜索",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ydc-openai-agent-sdk-integration",
+  "slug": "ydc-openai-agent-sdk-integration",
+  "name": "ydc-openai-agent-sdk-integration",
+  "title": "将 OpenAI Agents SDK 与 You.com MCP 集成",
+  "description": "Integrate OpenAI Agents SDK with You.com MCP server - Hosted and Streamable HTTP support for Python and TypeScript. Use when developer mentions OpenAI Agents SDK, OpenAI agents, or integrating OpenAI with MCP.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Integrate OpenAI Agents SDK with You.com MCP"
+}

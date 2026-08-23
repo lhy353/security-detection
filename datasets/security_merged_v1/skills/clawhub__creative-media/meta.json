@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:creative-media",
+  "slug": "creative-media",
+  "name": "creative-media",
+  "title": "创意媒体",
+  "description": "Creative media for agents over one zero-setup Image Skill runtime: image generation, image editing, video, audio, and image-to-3D assets with no provider API key, OAuth, local runtime, or per-provider billing account. Use when an agent needs generated media plus durable hosted URLs, recoverable jobs, cost receipts, model parameters, stable JSON, payments, and feedback through one identity and one wallet.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Creative Media",
+  "function_label": "Other"
+}

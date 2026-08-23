@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-cnc-quick-probe",
+  "slug": "openclaw-cnc-quick-probe",
+  "name": "cnc-quick-probe",
+  "title": "快速探明",
+  "description": "CNC快速探明 - 5参数快速收敛。当报价请求参数不全时自动触发，收集材料、数量、精度、表面处理、Ra。收敛度≥80%后自动执行报价。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

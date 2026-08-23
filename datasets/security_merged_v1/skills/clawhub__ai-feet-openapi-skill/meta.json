@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-feet-openapi-skill",
+  "slug": "ai-feet-openapi-skill",
+  "name": "ai-feet-openapi-skill",
+  "title": "微商OpenAPI技能——ai-feet",
+  "description": "AI feet generator — generate a realistic low-angle bare feet photo from a portrait",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WeShop OpenAPI Skill — ai-feet",
+  "function_label": "Other"
+}

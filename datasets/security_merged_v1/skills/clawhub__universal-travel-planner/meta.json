@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:universal-travel-planner",
+  "slug": "universal-travel-planner",
+  "name": "universal-travel-planner",
+  "title": "通用商旅出行规划技能 (Universal Travel Planner)",
+  "description": "通用商旅出行规划技能 v1.0 · 面向所有商务出差人士。\n一站式AI出行规划 + 全平台酒店比价 + HTML报告生成。\n集成12306 MCP（火车票实时查询）+ 高德地图（路径规划/POI/天气）+ Web搜索（航班/酒店价格）。\n支持**实时HTML报告生成**，所有预订链接真实可一键跳转。\n触发条件：\n(1) 用户提到\"出差\"、\"出行规划\"、\"旅行计划\"、\"行程安排\"\n(2) 用户提到\"帮我订酒店\"、\"机票\"、\"火车票\"、\"高铁\"\n(3) 用户提到\"规划行程\"、\"预算估算\"、\"目的地攻略\"\n(4) 用户提到\" itinerary\"、\"trip plan\"、\"travel\"\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:subconscious",
+  "slug": "subconscious",
+  "name": "subconscious",
+  "title": "有界自我改进代理",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Subconscious v1.5 — Bounded Self-Improving Agent"
+}

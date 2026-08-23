@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:contract-gas-optimizer",
+  "slug": "contract-gas-optimizer",
+  "name": "contract-gas-optimizer",
+  "title": "智能合约气体优化分析仪",
+  "description": "Analyze Ethereum smart contracts for gas efficiency and identify optimization opportunities",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Smart Contract Gas Optimization Analyzer",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:prd-implementation-ready",
+  "slug": "prd-implementation-ready",
+  "name": "prd-implementation-ready",
+  "title": "实施就绪",
+  "description": "Use when writing, reviewing, or filling gaps in PRDs, product requirements, BRDs, functional specs, or SaaS/admin workflows that must become implementation-ready. Especially useful for business flows, object states, page UX, data sources, permissions, exceptions, finance/payment/reconciliation/profit-sharing, formulas, and post-event writebacks.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Prd Implementation Ready",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jupyter-helper",
+  "slug": "jupyter-helper",
+  "name": "jupyter-helper",
+  "title": "助手",
+  "description": "Manage and optimize Jupyter notebooks. Use when converting notebooks, extracting code cells, running notebooks headlessly, exporting to PDF/HTML, or debuggin...",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Jupyter Helper",
+  "function_label": "File-Agent"
+}

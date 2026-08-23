@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:agent-defibrillator",
+  "slug": "agent-defibrillator",
+  "name": "agent-defibrillator",
+  "title": "代理除颤器",
+  "description": "Watchdog that monitors your AI agent gateway and restarts it when it crashes. Triggers on \"install defibrillator\", \"agent watchdog\", \"gateway monitor\", \"auto-restart agent\", or \"keep agent alive\". macOS launchd service with optional Discord notifications.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Agent Defibrillator"
+}

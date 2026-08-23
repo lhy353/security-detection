@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cargo-ai",
+  "slug": "cargo-ai",
+  "name": "cargo-ai",
+  "title": "职位",
+  "description": "Create and configure AI agents, attach knowledge for RAG, manage MCP servers, and handle agent memories using the Cargo CLI. Use when the user wants to create or update agents, configure agent releases, connect MCP tool servers, or manage agent memories. To upload knowledge files or build knowledge libraries, use the cargo-content skill. For sending messages to agents, use the cargo-orchestration skill instead.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cargo CLI — AI",
+  "function_label": "Automation"
+}

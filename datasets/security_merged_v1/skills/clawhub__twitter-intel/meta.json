@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:twitter-intel",
+  "slug": "twitter-intel",
+  "name": "twitter-intel",
+  "title": "通过 GraphQL 进行 Twitter 关键字搜索、监控和趋势分析",
+  "description": "Twitter keyword search, monitoring, and trend analysis via GraphQL",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Twitter Intel — Keyword Search & Trend Monitor",
+  "function_label": "Browser"
+}

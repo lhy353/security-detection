@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-clip-maker-ai",
+  "slug": "video-clip-maker-ai",
+  "name": "video-clip-maker-ai",
+  "title": "创建和导出短片",
+  "description": "create raw footage into edited video clips with this skill. Works with MP4, MOV, AVI, WebM files up to 500MB. TikTok creators use it for generating short clips from long recordings — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Clip Maker AI — Create and Export Short Clips",
+  "function_label": "Communication"
+}

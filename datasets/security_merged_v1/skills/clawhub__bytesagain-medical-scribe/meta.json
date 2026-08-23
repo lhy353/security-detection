@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bytesagain-medical-scribe",
+  "slug": "bytesagain-medical-scribe",
+  "name": "bytesagain-medical-scribe",
+  "title": "医疗抄写员",
+  "description": "Generate medical documents from clinical notes. Input: patient info, symptoms, diagnosis. Output: SOAP notes, discharge summaries, referral letters, prescription drafts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Medical Scribe",
+  "function_label": "Other"
+}

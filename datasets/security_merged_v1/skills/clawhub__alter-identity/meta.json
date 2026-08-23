@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alter-identity",
+  "slug": "alter-identity",
+  "name": "alter-identity",
+  "title": "更改身份服务器",
+  "description": "Human identity layer for AI agent commerce. 33-trait psychometric identity engine with consent-gated MCP tools. Agents pay x402 micropayments to query verified identity data; 75% of every fee goes directly to the data subject as Identity Income.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ALTER Identity Server",
+  "function_label": "Data-Agent"
+}

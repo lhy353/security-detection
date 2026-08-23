@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:trace-claude-code",
+  "slug": "trace-claude-code",
+  "name": "trace-claude-code",
+  "title": "追踪克劳德代码到智囊团",
+  "description": "Automatically trace Claude Code conversations to Braintrust for observability. Captures sessions, conversation turns, and tool calls as hierarchical traces.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Trace Claude Code to Braintrust",
+  "function_label": "Automation"
+}

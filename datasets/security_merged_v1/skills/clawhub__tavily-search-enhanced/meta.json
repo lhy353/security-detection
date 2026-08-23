@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tavily-search-enhanced",
+  "slug": "tavily-search-enhanced",
+  "name": "tavily-search",
+  "title": "泰维利搜索",
+  "description": "Web search and data retrieval via Tavily API. Use when you need to search the web, get news, find answers, or look up sources. Supports 5 modes: search (general), news (fresh headlines), qna (Q&A), images, and context. Returns structured results with title, URL, snippet, and optional AI answer summary.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tavily Search — Enhanced Edition",
+  "function_label": "Coding"
+}

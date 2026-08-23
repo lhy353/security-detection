@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:rstudio-runner",
+  "slug": "rstudio-runner",
+  "name": "BioinfoAI-Assistant",
+  "title": "助手 v4.0.0",
+  "description": "AI-powered bioinformatics analysis platform with intelligent auto-organization and comprehensive Chinese report generation. Auto-detects sequencing data, generates R scripts, saves all outputs to structured subfolders, and creates detailed analysis reports in Chinese.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "BioinfoAI-Assistant v4.0.0",
+  "function_label": "File-Agent"
+}

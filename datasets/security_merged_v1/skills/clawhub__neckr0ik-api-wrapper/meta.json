@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:neckr0ik-api-wrapper",
+  "slug": "neckr0ik-api-wrapper",
+  "name": "neckr0ik-api-wrapper",
+  "title": "包装生成器",
+  "description": "Convert any REST API into an OpenClaw skill automatically. Generates SKILL.md, scripts, and claw.json from OpenAPI spec or URL. Use when you want to quickly create a skill for any API.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "API Wrapper Generator",
+  "function_label": "Communication"
+}

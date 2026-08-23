@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:official-writing",
+  "slug": "official-writing",
+  "name": "official-writing",
+  "title": "公文写作技能",
+  "description": "党政机关公文写作技能 - 提供国家标准格式规范、各类公文模板、写作技巧",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

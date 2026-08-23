@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mml",
+  "slug": "mml",
+  "name": "mml",
+  "title": "元界标记语言）",
+  "description": "Build 3D scenes and interactive experiences using MML (Metaverse Markup Language) for the Otherside metaverse and other MML-compatible environments. Use when creating 3D objects, worlds, interactive elements, animations, models, characters, audio/video, labels, collision-based interactions, position tracking, chat integration, or any MML document. Triggers on: MML, metaverse markup, 3D scene building, Otherside world building, m-cube, m-model, m-character, m-group, m-frame, m-attr-anim.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MML (Metaverse Markup Language)",
+  "function_label": "File-Agent"
+}

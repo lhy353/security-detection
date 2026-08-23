@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:stripe-identity",
+  "slug": "stripe-identity",
+  "name": "stripe-identity",
+  "title": "条纹身份",
+  "description": "Stripe Identity integration. Manage data, records, and automate workflows. Use when the user wants to interact with Stripe Identity data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Stripe Identity",
+  "function_label": "Automation"
+}

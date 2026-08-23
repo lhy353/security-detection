@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:text-to-video-ai-japanese",
+  "slug": "text-to-video-ai-japanese",
+  "name": "text-to-video-ai-japanese",
+  "title": "从日语文本生成视频",
+  "description": "Turn a three-sentence Japanese product description into 1080p Japanese text videos just by typing what you need. Whether it's generating videos from Japanese text scripts or quick social content, drop your Japanese text prompts and describe the result you want. No timeline dragging, no export settings — 1-2 minutes from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Text to Video AI Japanese — Generate Videos from Japanese Text",
+  "function_label": "Communication"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wan-image-gen",
+  "slug": "wan-image-gen",
+  "name": "wan-image-gen",
+  "title": "基于阿里云百炼 Wan 图像生成模型的生图",
+  "description": "基于阿里云百炼 Wan 图像生成模型的生图 skill。支持文生图任务提交、轮询任务状态、下载生成图片到本地。\n当用户需要根据提示词生成图片、批量出图、指定尺寸或继续查询已有图片生成任务时，使用此 skill。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

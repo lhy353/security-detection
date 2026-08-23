@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:linkedin-auto-post-publish",
+  "slug": "linkedin-auto-post-publish",
+  "name": "linkedin-management",
+  "title": "领英管理技能",
+  "description": "Automates LinkedIn interactions like posting, editing, deleting, and reacting by utilizing browser-captured session cookies and network request structures.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "LinkedIn Management Skill",
+  "function_label": "Browser"
+}

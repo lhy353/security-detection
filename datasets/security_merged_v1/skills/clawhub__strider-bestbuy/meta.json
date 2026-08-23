@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:strider-bestbuy",
+  "slug": "strider-bestbuy",
+  "name": "strider-bestbuy",
+  "title": "百思买连接器",
+  "description": "Shop at Best Buy via Strider Labs MCP connector. Search electronics, check store inventory, place orders, and schedule Geek Squad services.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Strider Best Buy Connector",
+  "function_label": "Other"
+}

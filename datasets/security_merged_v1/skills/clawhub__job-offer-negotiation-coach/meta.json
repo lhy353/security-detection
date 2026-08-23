@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:job-offer-negotiation-coach",
+  "slug": "job-offer-negotiation-coach",
+  "name": "job-offer-negotiation-coach",
+  "title": "工作机会谈判教练",
+  "description": "Prepare a respectful, risk-aware negotiation plan for job offers, total compensation, recruiter replies, and walk-away decisions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Job Offer Negotiation Coach",
+  "function_label": "Communication"
+}

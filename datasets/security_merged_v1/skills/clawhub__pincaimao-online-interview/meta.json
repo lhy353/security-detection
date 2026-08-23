@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:pincaimao-online-interview",
+  "slug": "pincaimao-online-interview",
+  "name": "pincaimao-online-interview",
+  "title": "在线面试",
+  "description": "聘才猫 - 在线面试 Use when calling Pincaimao Online Interview API to conduct a multi-turn AI interview session. Supports text and video interview modes, custom question lists, and report callbacks. Requires PCM_ONLINE_INTERVIEW_KEY env var.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

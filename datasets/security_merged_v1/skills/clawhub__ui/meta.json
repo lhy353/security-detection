@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ui",
+  "slug": "ui",
+  "name": "UI",
+  "title": "设计清晰",
+  "description": "Design clear, consistent, and visually polished user interfaces.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Design clear",
+  "function_label": "Data-Agent"
+}

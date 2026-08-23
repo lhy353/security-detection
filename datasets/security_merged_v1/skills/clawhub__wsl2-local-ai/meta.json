@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:wsl2-local-ai",
+  "slug": "wsl2-local-ai",
+  "name": "wsl2-local-ai",
+  "title": "开发人员 LLM 堆栈",
+  "description": "WSL2 Local AI — run LLMs on Windows via WSL2 with NVIDIA GPU passthrough. WSL2 AI development with Ollama, CUDA, and Docker. WSL2 Ollama fleet routing for Windows developers. Build AI apps on WSL2 with full Linux performance and Windows convenience. WSL2本地AI开发。WSL2 IA local para desarrolladores Windows.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WSL2 Local AI — Windows Developer LLM Stack",
+  "function_label": "Automation"
+}

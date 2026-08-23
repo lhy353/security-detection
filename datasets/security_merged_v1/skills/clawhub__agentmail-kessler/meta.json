@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agentmail-kessler",
+  "slug": "agentmail-kessler",
+  "name": "agentmail",
+  "title": "代理邮件技能",
+  "description": "Programmatic email for AI agents via AgentMail API. Create inboxes, send/receive messages, manage threads, webhooks, pods, and custom domains. Use when you need agent email identity, email-based workflows, or real-time email processing.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AgentMail Skill",
+  "function_label": "Communication"
+}

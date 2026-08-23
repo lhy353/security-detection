@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:policy-lawyer",
+  "slug": "policy-lawyer",
+  "name": "policy-lawyer",
+  "title": "政策律师",
+  "description": "Reference the workspace policy playbook, answer \"What are the rules for tone, data, and collaboration?\" by searching the curated policy doc or listing its sections.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Policy Lawyer",
+  "function_label": "File-Agent"
+}

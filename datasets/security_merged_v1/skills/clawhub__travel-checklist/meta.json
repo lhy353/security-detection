@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:travel-checklist",
+  "slug": "travel-checklist",
+  "name": "travel-checklist",
+  "title": "旅行清单",
+  "description": "Use when the user asks in Chinese or English what to pack, what to bring, what to prepare before leaving, or wants a trip-specific packing list/pre-departure checklist. 适用于旅行要带什么、行李清单、出门检查清单、packing list、travel checklist、亲子旅行、自驾、国外旅行、国内旅游、主题乐园、露营、徒步、雪山、高原、老人儿童同行等清单类请求。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Travel Checklist",
+  "function_label": "Other"
+}

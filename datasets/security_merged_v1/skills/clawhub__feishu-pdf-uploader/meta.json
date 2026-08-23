@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:feishu-pdf-uploader",
+  "slug": "feishu-pdf-uploader",
+  "name": "feishu-pdf-uploader",
+  "title": "飞书PDF上传器",
+  "description": "飞书PDF文件上传器 - 将本地PDF文件上传到飞书云盘。\n使用飞书OpenAPI的upload_prepare → upload_part → upload_finish流程，\n支持大文件分片上传。\n\nUse when uploading PDF or any files to Feishu (Lark) cloud drive.\nHandles multipart/form-data upload without checksum parameter.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:software-craftsmanship-guide",
+  "slug": "software-craftsmanship-guide",
+  "name": "software-craftsmanship-guide",
+  "title": "软件工艺指南",
+  "description": "Professional software engineering standards and best practices for building high-quality TypeScript, JavaScript, React, and Node.js applications.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Software Craftsmanship Guide",
+  "function_label": "Coding"
+}

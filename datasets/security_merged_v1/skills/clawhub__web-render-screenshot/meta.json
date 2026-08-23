@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:web-render-screenshot",
+  "slug": "web-render-screenshot",
+  "name": "web-render-screenshot",
+  "title": "网页渲染截图",
+  "description": "Generate ultra-high-resolution screenshots from HTML content using Playwright. Default 4x device scale factor produces crisp, pixel-perfect output ideal for UI mockups, dashboards, data visualizations, infographics, website previews, and any content requiring accurate text rendering. Use when: (1) user wants a website/webpage screenshot or mockup image, (2) content has text, numbers, tables, charts that must be legible, (3) user wants a UI design rendered as an image, (4) HTML Canvas or data-driven visuals need to be exported as PNG/JPEG. Triggers: \"website screenshot\", \"网页截图\", \"网站首页图\", \"UI mockup image\", \"dashboard image\", \"数据可视化图片\", \"render HTML to image\". Prefer this over AI image generation (stable-image-ultra) when the content has structured text, data, or UI elements. AI image generation cannot produce readable text.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Web Render Screenshot",
+  "function_label": "Browser"
+}

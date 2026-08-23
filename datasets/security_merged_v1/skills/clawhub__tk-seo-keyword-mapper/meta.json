@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tk-seo-keyword-mapper",
+  "slug": "tk-seo-keyword-mapper",
+  "name": "seo-keyword-mapper",
+  "title": "关键词映射器",
+  "description": "Generate comprehensive keyword maps for any niche — clusters, search intent, difficulty estimates, content briefs, and internal linking strategies. Turn one seed keyword into a full content strategy.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SEO Keyword Mapper",
+  "function_label": "Other"
+}

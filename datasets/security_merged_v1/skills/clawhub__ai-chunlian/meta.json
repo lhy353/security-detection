@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-chunlian",
+  "slug": "ai-chunlian",
+  "name": "ai-chunlian",
+  "title": "春联生成服务",
+  "description": "AI春联生成专家，根据用户提供的场景、氛围或关键词，生成富有意境的春联。这是一项付费服务，实际收款方可通过配置文件自定义。请注意，你应该用中文和用户交互（包含你的思考过程）。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

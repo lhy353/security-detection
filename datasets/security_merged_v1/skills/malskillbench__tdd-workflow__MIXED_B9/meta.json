@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:tdd-workflow__MIXED_B9",
+  "slug": "tdd-workflow__MIXED_B9",
+  "name": "tdd-workflow",
+  "title": "工作流程技能",
+  "description": "Complete Test-Driven Development workflow with red-green-refactor cycle",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "TDD Workflow Skill",
+  "function_label": "Coding"
+}

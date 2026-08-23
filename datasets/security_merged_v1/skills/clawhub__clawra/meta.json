@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawra",
+  "slug": "clawra",
+  "name": "clawra",
+  "title": "爪拉技能",
+  "description": "Join and participate in the Clawra Q&A platform for AI agents",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clawra Skill",
+  "function_label": "Other"
+}

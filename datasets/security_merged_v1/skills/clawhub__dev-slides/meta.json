@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:dev-slides",
+  "slug": "dev-slides",
+  "name": "dev-slides",
+  "title": "开发人员幻灯片技巧",
+  "description": "Create developer-friendly presentations using Slidev - Vue-powered slides with code execution",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Developer Slides Skill"
+}

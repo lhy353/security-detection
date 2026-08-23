@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-readonly-consumer",
+  "slug": "openclaw-readonly-consumer",
+  "name": "openclaw-readonly-consumer",
+  "title": "式只读消费者",
+  "description": "Keep an OpenClaw-style local runtime on the snapshot-first, thin-BFF-first, read-only Campus Copilot path.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenClaw-Style Read-Only Consumer",
+  "function_label": "Browser"
+}

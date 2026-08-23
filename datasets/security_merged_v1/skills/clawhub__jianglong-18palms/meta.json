@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:jianglong-18palms",
+  "slug": "jianglong-18palms",
+  "name": "jianglong-18palms",
+  "title": "降龙十八掌",
+  "description": "降龙十八掌 Skill。当用户说出\"降龙第X式\"（如\"降龙第一式\"、\"亢龙有悔\"、\"见龙在田\"等金庸武侠降龙十八掌招式名称时），自动触发。 为用户绘制该招式的古风 SVG 简图，并以古朴文言风格介绍招式名称、出处、招式要义和使用场景。 触发词示例：降龙第一式、亢龙有悔、降龙十八掌第X掌、施展降龙十八掌、降龙掌法、见龙在田、鸿渐于陆等。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

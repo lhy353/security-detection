@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kintone-integration",
+  "slug": "kintone-integration",
+  "name": "kintone",
+  "title": "通通",
+  "description": "Kintone integration. Manage Apps, Users, Organizations, Groups, Views, Reports. Use when the user wants to interact with Kintone data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kintone",
+  "function_label": "Browser"
+}

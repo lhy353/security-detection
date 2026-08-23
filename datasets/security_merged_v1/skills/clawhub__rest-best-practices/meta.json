@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:rest-best-practices",
+  "slug": "rest-best-practices",
+  "name": "rest-best-practices",
+  "title": "最佳实践（深度工作流程）",
+  "description": "Deep REST workflow—resource modeling, HTTP methods and safety, status codes, errors, pagination, caching, versioning, and idempotency. Use when designing HTTP APIs or reviewing controllers and gateways.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "REST Best Practices (Deep Workflow)",
+  "function_label": "Other"
+}

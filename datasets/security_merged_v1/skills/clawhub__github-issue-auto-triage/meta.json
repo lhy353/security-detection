@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:github-issue-auto-triage",
+  "slug": "github-issue-auto-triage",
+  "name": "github-issue-auto-triage",
+  "title": "自动分类 GitHub Issue，AI 打标签、分配负责人、检测重复、回复 F…",
+  "description": "自动分类 GitHub Issue，AI 打标签、分配负责人、检测重复、回复 FAQ",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

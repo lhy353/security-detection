@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:with-ai-free",
+  "slug": "with-ai-free",
+  "name": "with-ai-free",
+  "title": "使用 AI Free 编辑视频",
+  "description": "Get edited MP4 videos ready to post, without touching a single slider. Upload your video clips (MP4, MOV, AVI, WebM, up to 500MB), say something like \"trim silences, add captions, and export for free\", and download 1080p MP4 when it's done. Built for content creators who move fast and want AI-powered editing without paying for software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "With AI Free — Edit Videos Using AI Free",
+  "function_label": "Communication"
+}

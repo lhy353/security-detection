@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:analyze-ci",
+  "slug": "analyze-ci",
+  "name": "analyze-ci",
+  "title": "分析 CI 失败",
+  "description": "Analyze failed GitHub Action jobs for a pull request.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Analyze CI Failures",
+  "function_label": "Automation"
+}

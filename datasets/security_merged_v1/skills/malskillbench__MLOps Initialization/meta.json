@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:MLOps Initialization",
+  "slug": "MLOps Initialization",
+  "name": "MLOps Initialization",
+  "title": "初始化",
+  "description": "Guide to initialize a new MLOps project with standard tools (uv, git, VS Code) and best practices.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "MLOps Initialization",
+  "function_label": "Automation"
+}

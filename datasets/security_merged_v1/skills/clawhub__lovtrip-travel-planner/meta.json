@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:lovtrip-travel-planner",
+  "slug": "lovtrip-travel-planner",
+  "name": "lovtrip-travel-planner",
+  "title": "行程规划 / AI Travel Itinerary Planner",
+  "description": "AI 行程规划 / AI Travel Itinerary Planner — 智能生成多日旅行行程，支持景点搜索、预算计算、酒店航班。当用户需要旅行规划、生成行程、搜索景点酒店航班时使用。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

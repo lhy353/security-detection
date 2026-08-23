@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pr-description",
+  "slug": "pr-description",
+  "name": "pr-description",
+  "title": "描述生成器技能",
+  "description": "Automatically generate a structured, high-quality Pull Request (PR) description based on the provided git diff or code changes. Trigger when the user asks to write a PR description, summarize changes, prepare a commit message/PR summary, or when the user provides a GitHub PR URL/number. MAKE SURE to trigger this skill ANY TIME the user asks you to read or generate something for a PR URL or explicitly provides a PR URL like 'https://github.com/xxx/xxx/pull/xxx' or 'https://github.com/xxx/xxx/pr/xxx' or 'https://github.com/xxx/xxx/pull/xxx.diff'.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PR Description Generator Skill",
+  "function_label": "Coding"
+}

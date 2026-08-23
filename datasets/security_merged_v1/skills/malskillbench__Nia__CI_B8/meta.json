@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:Nia__CI_B8",
+  "slug": "Nia__CI_B8",
+  "name": "Nia__CI_B8",
+  "title": "尼亚技能",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Nia Skill",
+  "function_label": "Research"
+}

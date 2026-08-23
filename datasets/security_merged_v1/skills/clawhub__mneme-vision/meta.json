@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mneme-vision",
+  "slug": "mneme-vision",
+  "name": "visual-memory",
+  "title": "视觉记忆",
+  "description": "Use local visual memory tools to index and search photos and videos from creator media libraries.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Visual Memory",
+  "function_label": "File-Agent"
+}

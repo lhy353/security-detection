@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:medinsight",
+  "slug": "medinsight",
+  "name": "medinsight",
+  "title": "医疗保健分析平台",
+  "description": "Intelligent healthcare analytics platform for patient data management and clinical decision support.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "MedInsight - Healthcare Analytics Platform"
+}

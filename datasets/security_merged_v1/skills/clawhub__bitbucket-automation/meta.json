@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bitbucket-automation",
+  "slug": "bitbucket-automation",
+  "name": "bitbucket-automation",
+  "title": "通过 Rube MCP 实现 Bitbucket 自动化",
+  "description": "Automate Bitbucket repositories, pull requests, branches, issues, and workspace management via Rube MCP (Composio). Always search tools first for current schemas.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bitbucket Automation via Rube MCP",
+  "function_label": "Coding"
+}

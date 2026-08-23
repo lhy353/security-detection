@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:organizze-skill",
+  "slug": "organizze-skill",
+  "name": "organizze",
+  "title": "组织 API（CLI 脚本）",
+  "description": "Runs Organizze personal finance API operations via Node.js CLI scripts: accounts, categories, transactions (filters, tag grouping), credit cards (invoices, payments), and transfers. Use when the user works with Organizze, budgets, expenses, income, categories, bank accounts, credit card bills, transfers, or asks to query or change their Organizze data through the terminal.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Organizze API (CLI scripts)",
+  "function_label": "Communication"
+}

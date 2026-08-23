@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aliyun-rds-supabase",
+  "slug": "aliyun-rds-supabase",
+  "name": "aliyun-rds-supabase",
+  "title": "阿里云RDS Supabase（RDS AI服务2025-05-07）",
+  "description": "Use when managing Alibaba Cloud RDS Supabase (RDS AI Service 2025-05-07) via OpenAPI, including creating, starting/stopping/restarting instances, resetting passwords, querying endpoints/auth/storage, configuring auth/RAG/SSL/IP whitelist, and listing instance details or conversations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Alibaba Cloud RDS Supabase (RDS AI Service 2025-05-07)",
+  "function_label": "Data-Agent"
+}

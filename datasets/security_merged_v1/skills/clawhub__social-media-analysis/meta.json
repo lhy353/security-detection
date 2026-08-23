@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:social-media-analysis",
+  "slug": "social-media-analysis",
+  "name": "social-media-analysis",
+  "title": "社交媒体舆情数据分析工具",
+  "description": "社交媒体舆情数据分析工具。从飞书多维表格读取 URL，下载媒体，分析内容，生成摘要。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

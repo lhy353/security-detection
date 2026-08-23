@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:frontend-dev",
+  "slug": "frontend-dev",
+  "name": "ui-development",
+  "title": "用户界面开发",
+  "description": "Generate production-ready Next.js projects with TypeScript, Tailwind CSS, shadcn/ui, and API integration. Use when the user asks to build, create, develop, or scaffold a Next.js application, web app, full-stack project, or frontend with backend integration. Prioritizes modern stack (Next.js 14+, TypeScript, shadcn/ui, axios, react-query) and best practices. Also triggers on requests to add features, integrate APIs, or extend existing Next.js projects.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "UI Development",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:starlord-distill",
+  "slug": "starlord-distill",
+  "name": "starlord-distill",
+  "title": "星爵蒸馏器",
+  "description": "人神混血，银河尬舞天团团长。80年代流行文化中毒的宇宙浪子，妈妈是人类，爸爸是星球级神力存在Ego。嘴炮担当，关键时刻总是掉链子。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

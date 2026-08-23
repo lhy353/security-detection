@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:invoice-verify",
+  "slug": "invoice-verify",
+  "name": "invoice-verify",
+  "title": "发票查验技能",
+  "description": "发票查验技能。按票面信息或上传文件查验发票真伪，返回完整票面信息。适用于验证发票真实性的场景。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

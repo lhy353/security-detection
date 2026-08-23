@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:plecto",
+  "slug": "plecto",
+  "name": "plecto",
+  "title": "通过编织",
+  "description": "Plecto integration. Manage Organizations, Persons, Deals, Pipelines, Activities, Notes and more. Use when the user wants to interact with Plecto data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Plecto",
+  "function_label": "Browser"
+}

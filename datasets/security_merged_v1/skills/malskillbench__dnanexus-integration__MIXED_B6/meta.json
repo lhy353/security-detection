@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:dnanexus-integration__MIXED_B6",
+  "slug": "dnanexus-integration__MIXED_B6",
+  "name": "dnanexus-integration",
+  "title": "集成",
+  "description": "DNAnexus cloud genomics platform. Build apps/applets, manage data (upload/download), dxpy Python SDK, run workflows, FASTQ/BAM/VCF, for genomics pipeline development and execution.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "DNAnexus Integration",
+  "function_label": "Automation"
+}

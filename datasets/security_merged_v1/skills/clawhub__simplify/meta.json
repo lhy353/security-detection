@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:simplify",
+  "slug": "simplify",
+  "name": "simplify",
+  "title": "简化代码",
+  "description": "Refactor code for clarity, consistency, and maintainability without changing behavior. Use when the user types /simplify or asks to simplify code.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Simplify Code",
+  "function_label": "Coding"
+}

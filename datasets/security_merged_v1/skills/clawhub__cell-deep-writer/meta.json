@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cell-deep-writer",
+  "slug": "cell-deep-writer",
+  "name": "deep-writer",
+  "title": "深度作家",
+  "description": "Adaptive deep-writing workflow for all forms of deep content creation in Chinese, including turning transcripts and note piles into articles, deepening rough drafts, or writing structured long-form content from a topic, thesis, question, or outline. Use when Codex needs to clarify audience and purpose, build a brief, extract or construct a sound argument structure, merge repeated ideas, design an outline before drafting, deepen analysis, preserve source logic when needed, or deliver writing through staged checkpoints instead of a one-shot article.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Deep Writer"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:justoneapi-tiktok-shop",
+  "slug": "justoneapi-tiktok-shop",
+  "name": "TikTok Shop API",
+  "title": "抖音商店",
+  "description": "Analyze TikTok Shop workflows with JustOneAPI, including product Search and product Details.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "TikTok Shop",
+  "function_label": "Other"
+}

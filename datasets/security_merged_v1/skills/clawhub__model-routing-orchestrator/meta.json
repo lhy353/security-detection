@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:model-routing-orchestrator",
+  "slug": "model-routing-orchestrator",
+  "name": "production-model-router",
+  "title": "生产型路由器",
+  "description": "Route each user request to the most cost-effective model or multi-model workflow based on task type, complexity, risk, latency, budget, tool needs, and verification requirements.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Production Model Router",
+  "function_label": "Coding"
+}

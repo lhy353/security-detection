@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wechat-article-processor",
+  "slug": "wechat-article-processor",
+  "name": "wechat-article-processor",
+  "title": "微信公众号文章处理工具",
+  "description": "微信公众号文章处理工具 - 自动抓取、结构化整理、保存到飞书文档。触发词：处理公众号文章、微信文章转飞书、公众号链接",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

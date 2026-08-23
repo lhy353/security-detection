@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:funding-options",
+  "slug": "funding-options",
+  "name": "funding-options",
+  "title": "资金选择",
+  "description": "Funding Options integration. Manage data, records, and automate workflows. Use when the user wants to interact with Funding Options data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Funding Options",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gov-grants",
+  "slug": "gov-grants",
+  "name": "gov-grants",
+  "title": "联邦拨款查找器",
+  "description": "Search Grants.gov for federal funding opportunities by agency, category, and eligibility. 4 tools.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Federal Grant Finder",
+  "function_label": "Other"
+}

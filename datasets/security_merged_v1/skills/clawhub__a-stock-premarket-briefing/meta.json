@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:a-stock-premarket-briefing",
+  "slug": "a-stock-premarket-briefing",
+  "name": "a-stock-premarket-briefing",
+  "title": "股盘前简报",
+  "description": "A 股盘前简报技能，交易日开盘前分析市场新闻、宏观事件，生成投资参考报告。整合 multi-search-engine 和 summarize，无需 API Key。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

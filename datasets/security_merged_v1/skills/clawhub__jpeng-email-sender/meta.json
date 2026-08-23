@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jpeng-email-sender",
+  "slug": "jpeng-email-sender",
+  "name": "jpeng-email-sender",
+  "title": "电子邮件发件人",
+  "description": "Email sending skill via SMTP or API providers. Supports attachments, HTML templates, and batch sending.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Email Sender",
+  "function_label": "Communication"
+}

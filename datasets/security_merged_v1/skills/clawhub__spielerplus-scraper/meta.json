@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:spielerplus-scraper",
+  "slug": "spielerplus-scraper",
+  "name": "spielerplus-scraper",
+  "title": "玩家加刮刀",
+  "description": "Scraper for SpielerPlus/TeamPlus team management platform. Extracts events, members, absences, finances, participation stats, and more.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Spielerplus Scraper",
+  "function_label": "Communication"
+}

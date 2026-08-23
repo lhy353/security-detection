@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:biogas",
+  "slug": "biogas",
+  "name": "biogas",
+  "title": "沼气技术参考",
+  "description": "Biogas technology reference — anaerobic digestion, methane yield, feedstock ratios, and upgrading. Use when designing biogas plants, optimizing digester performance, or evaluating feedstock options.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Biogas — Biogas Technology Reference",
+  "function_label": "Other"
+}

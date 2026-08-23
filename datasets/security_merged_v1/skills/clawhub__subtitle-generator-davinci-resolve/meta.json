@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:subtitle-generator-davinci-resolve",
+  "slug": "subtitle-generator-davinci-resolve",
+  "name": "subtitle-generator-davinci-resolve",
+  "title": "自动生成视频字幕",
+  "description": "Get captioned video files ready to post, without touching a single slider. Upload your video files (MP4, MOV, AVI, MKV, up to 500MB), say something like \"generate subtitles for my DaVinci Resolve video and export as MP4 with burned-in captions\", and download 1080p MP4 when it's done. Built for video editors who move fast and want auto-generated subtitles without DaVinci Resolve's manual captioning workflow.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Subtitle Generator for DaVinci Resolve — Auto-generate captions for videos",
+  "function_label": "Communication"
+}

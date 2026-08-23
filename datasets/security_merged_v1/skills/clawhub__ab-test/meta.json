@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ab-test",
+  "slug": "ab-test",
+  "name": "jpeng-ab-test",
+  "title": "测试经理",
+  "description": "Manage A/B tests",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "A/B Test Manager",
+  "function_label": "Other"
+}

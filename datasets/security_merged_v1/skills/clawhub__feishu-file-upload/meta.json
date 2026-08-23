@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:feishu-file-upload",
+  "slug": "feishu-file-upload",
+  "name": "feishu-file-upload",
+  "title": "上传本地文件并发送到飞书聊天室",
+  "description": "Upload and send local files to Feishu chats. Requires Feishu app credentials (app_id/app_secret) in ~/.openclaw/openclaw.json. Use when user asks to send/share/upload files (CSV, PDF, Excel, images, ZIP) to Feishu. Supports chat_id (groups), open_id/user_id (users), and email recipients.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Feishu File Upload",
+  "function_label": "Communication"
+}

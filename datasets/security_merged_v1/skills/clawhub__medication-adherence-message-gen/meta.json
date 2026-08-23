@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:medication-adherence-message-gen",
+  "slug": "medication-adherence-message-gen",
+  "name": "medication-adherence-message-gen",
+  "title": "技能：药物依从性消息生成",
+  "description": "Use medication adherence message gen for academic writing workflows that need structured execution, explicit assumptions, and clear output boundaries.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Skill: Medication Adherence Message Gen",
+  "function_label": "Communication"
+}

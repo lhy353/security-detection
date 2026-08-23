@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-skills-security-checker",
+  "slug": "openclaw-skills-security-checker",
+  "name": "security-skill-scanner",
+  "title": "安全技能扫描仪",
+  "description": "Security scanner for ClawdHub skills - detects suspicious patterns, manages whitelists, and monitors Moltbook for security threats.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Security Skill Scanner",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-regression-guard",
+  "slug": "agent-regression-guard",
+  "name": "agent-regression-check",
+  "title": "代理回归检查",
+  "description": "Evaluate whether an agent change introduced regressions by comparing matched before vs after case results. Use when reviewing prompt updates, model switches, tool integrations, retrieval changes, hotfixes, or release readiness. Also covers deterministic release gates, failure clustering, confidence scoring, and JSON-ready verdicts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Regression Check",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:brainforge-autoresearch",
+  "slug": "brainforge-autoresearch",
+  "name": "brainforge-autoresearch",
+  "title": "自动研究",
+  "description": "Use when user wants to optimize, improve, benchmark, or evaluate a skill's prompt. Triggers on \"optimize skill\", \"improve skill prompt\", \"benchmark skill\", \"eval skill\", \"run autoresearch\", \"tune prompt\", \"prompt optimization\", \"skill evaluation\", \"A/B test prompt\", \"find best prompt\", \"auto-improve skill\". Runs automated prompt experiments using the Karpathy autoresearch pattern.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Brainforge Autoresearch",
+  "function_label": "Coding"
+}

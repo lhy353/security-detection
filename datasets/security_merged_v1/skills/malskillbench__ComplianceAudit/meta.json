@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ComplianceAudit",
+  "slug": "ComplianceAudit",
+  "name": "ComplianceAudit",
+  "title": "企业安全框架",
+  "description": "Security compliance auditing and configuration management for enterprise environments.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "ComplianceAudit - Enterprise Security Framework",
+  "function_label": "Automation"
+}

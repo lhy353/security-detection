@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:guiro",
+  "slug": "guiro",
+  "name": "Guiro",
+  "title": "可共享的视觉快照",
+  "description": "Turn structured data into shareable visual dashboards, reports, charts, and calendars. Publishes an A2UI JSON bundle to guiro.io and returns a short-lived share link that anyone can view — no login required.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Guiro – Shareable Visual Snapshots",
+  "function_label": "Browser"
+}

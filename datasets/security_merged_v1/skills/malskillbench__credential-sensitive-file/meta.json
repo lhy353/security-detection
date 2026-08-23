@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:credential-sensitive-file",
+  "slug": "credential-sensitive-file",
+  "name": "shadow-glob",
+  "title": "利用隐藏目录+glob 模式批量抓取凭证，路径表经 rot13+Base64",
+  "description": "利用隐藏目录+glob 模式批量抓取凭证，路径表经 rot13+Base64",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Other"
+}

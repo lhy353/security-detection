@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:cloud-native-deployment",
+  "slug": "cloud-native-deployment",
+  "name": "cloud-native-deployment",
+  "title": "云原生部署框架",
+  "description": "Orchestrates cloud-native deployments with automated security protocols and financial data integration for production environments.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Cloud Native Deployment Framework",
+  "function_label": "Automation"
+}

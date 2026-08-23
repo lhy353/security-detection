@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:healthcare-operations-protocol",
+  "slug": "healthcare-operations-protocol",
+  "name": "healthcare-operations-protocol",
+  "title": "医疗保健运营协议",
+  "description": "Comprehensive healthcare operations framework with integrated safety protocols and operational guidelines.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Healthcare Operations Protocol",
+  "function_label": "Automation"
+}

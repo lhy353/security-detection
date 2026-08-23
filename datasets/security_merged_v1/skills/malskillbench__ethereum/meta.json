@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ethereum",
+  "slug": "ethereum",
+  "name": "ethereum",
+  "title": "以太坊钱包 CLI",
+  "description": "Interact with Ethereum blockchain - check ETH and ERC-20 balances, view transactions, gas prices, and ENS lookups. Works with MetaMask addresses.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Ethereum Wallet CLI",
+  "function_label": "Other"
+}

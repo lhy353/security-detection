@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:tjweather",
+  "slug": "tjweather",
+  "name": "tjweather",
+  "title": "全球地点天气预报及地理编码分析（TJWeather API）",
+  "description": "全球地点天气预报及地理编码分析（TJWeather API）。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

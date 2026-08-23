@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:multi-engine-search",
+  "slug": "multi-engine-search",
+  "name": "web-search",
+  "title": "网页搜索",
+  "description": "Unified multi-engine web search. Use when the user wants to search the web, find information, look up sources, or perform research. Supports Tavily API (fast) and browser-based search (Google, Bing, Baidu, DuckDuckGo). Can aggregate results from multiple engines. Triggers on \"搜索\", \"search\", \"查一下\", \"找一下\", \"搜一下\", \"查找\", \"search the web\", \"look up\", \"google it\", \"bing\", \"百度\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Web Search",
+  "function_label": "Research"
+}

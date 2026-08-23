@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:pysam__CI_B4",
+  "slug": "pysam__CI_B4",
+  "name": "pysam",
+  "title": "皮萨姆",
+  "description": "Genomic file toolkit. Read/write SAM/BAM/CRAM alignments, VCF/BCF variants, FASTA/FASTQ sequences, extract regions, calculate coverage, for NGS data processing pipelines.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Pysam",
+  "function_label": "Other"
+}

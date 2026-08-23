@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:symptoms",
+  "slug": "symptoms",
+  "name": "Symptoms",
+  "title": "日志/2024/02/11.md",
+  "description": "Build a private symptom tracker for logging health patterns and preparing for doctor visits.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "log/2024/02/11.md",
+  "function_label": "Other"
+}

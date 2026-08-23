@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:sherpa-onnx-tts",
+  "slug": "sherpa-onnx-tts",
+  "name": "sherpa-onnx-tts",
+  "title": "夏尔巴 Onnx Tts",
+  "description": "Local text-to-speech via sherpa-onnx (offline, no cloud)",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Sherpa Onnx Tts"
+}

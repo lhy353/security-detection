@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:poka-yoke",
+  "slug": "poka-yoke",
+  "name": "poka-yoke",
+  "title": "防错",
+  "description": "Mistake-proofing technique manager. Use when json poka yoke tasks, csv poka yoke tasks, checking poka yoke status.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Poka Yoke",
+  "function_label": "Other"
+}

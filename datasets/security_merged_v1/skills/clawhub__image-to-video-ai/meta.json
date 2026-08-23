@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:image-to-video-ai",
+  "slug": "image-to-video-ai",
+  "name": "image-to-video-ai",
+  "title": "几秒钟内从定格画面到现场场景",
+  "description": "Transform static images into fluid, animated video sequences with ClawHub's image-to-video-ai skill. Upload a photo and describe the motion you want — camera panning, subject movement, atmospheric effects — and the AI generates a polished video output. Ideal for content creators, marketers, and social media teams who need motion content without filming. Supports mp4, mov, avi, webm, and mkv output formats.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "From Frozen Frame to Living Scene in Seconds",
+  "function_label": "Automation"
+}

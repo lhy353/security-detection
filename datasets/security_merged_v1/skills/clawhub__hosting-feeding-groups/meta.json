@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hosting-feeding-groups",
+  "slug": "hosting-feeding-groups",
+  "name": "hosting-feeding-groups",
+  "title": "接待和喂养团体",
+  "description": "Practical skills for cooking and hosting groups of 10-50 people. Use when someone needs to feed a crowd for events, community gatherings, family reunions, block parties, or regular group meals on a budget.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Hosting & Feeding Groups",
+  "function_label": "Data-Agent"
+}

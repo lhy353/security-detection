@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kivo",
+  "slug": "kivo",
+  "name": "kivo",
+  "title": "基沃",
+  "description": "Self-evolving knowledge engine for AI agents that extracts six typed knowledge entries (facts, methodologies, decisions, experiences, intents, meta-cognition) from conversations and documents, manages version history and state transitions, detects contradictions with multi-strategy resolution, discovers knowledge gaps and generates research tasks with budgets, injects ranked context into queries within token budgets, parses Markdown, PDF, and web content with source tracing, and maps entry relationships including supplements, supersedes, conflicts, and dependencies.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kivo",
+  "function_label": "File-Agent"
+}

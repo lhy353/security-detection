@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:azure",
+  "slug": "azure",
+  "name": "Azure",
+  "title": "生产规则",
+  "description": "Deploy, monitor, and manage Azure services with battle-tested patterns.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Azure Production Rules",
+  "function_label": "Automation"
+}

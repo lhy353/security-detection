@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ah-websocket-engineer",
+  "slug": "ah-websocket-engineer",
+  "name": "websocket-engineer",
+  "title": "工程师",
+  "description": "Real-time communication specialist implementing scalable WebSocket architectures. Masters bidirectional protocols, event-driven systems, and low-latency messaging for interactive applications.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Websocket Engineer",
+  "function_label": "Coding"
+}

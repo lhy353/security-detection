@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:justoneapi-amazon-get-product-top-reviews",
+  "slug": "justoneapi-amazon-get-product-top-reviews",
+  "name": "Amazon Product Top Reviews API",
+  "title": "亚马逊产品热门评论",
+  "description": "Call GET /api/amazon/get-product-top-reviews/v1 for Amazon Product Top Reviews through JustOneAPI with asin.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Amazon Product Top Reviews",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:baidu-search-bak",
+  "slug": "baidu-search-bak",
+  "name": "baidu-search",
+  "title": "百度搜索",
+  "description": "Search the web using Baidu AI Search Engine (BDSE). Use for live information, documentation, or research topics.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Baidu Search",
+  "function_label": "Research"
+}

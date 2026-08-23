@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tutorial-video-editor",
+  "slug": "tutorial-video-editor",
+  "name": "tutorial-video-editor",
+  "title": "描述一下，完成",
+  "description": "Tutorial Video Editor — Edit How-To and Tutorial Videos with AI Zoom and Callouts. Twenty minutes of Photoshop walkthrough and you forgot to zoom in on the toolbar for half the steps. Re-recording is not happening. Instead, hand the screencast to the AI and point at the moments that need a closer look. It applies smooth Ken-Burns zooms to the areas you specify, circles clicked buttons with animated highlights, pins numbered step labels in the corner, and attaches a cursor spotlight that follows your mouse so viewers never lose track. Chop the intro ramble. Accelerate the repetitive middle section at double speed with a visible fast-forward badge. Bake in captions for silent desk watchers. Produce a full-length YouTube how-to and a sixty-second Shorts tip from identical source footage. Aimed at software educators narrating screen workflows, DIY creators filming step-by-step builds, cooking channels shooting overhead recipe walkthroughs, and tech reviewers who talk through their process live and clean it up afterward. Supports mp4, mov, avi, webm, mkv.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Video Editing — Describe It, Done",
+  "function_label": "Other"
+}

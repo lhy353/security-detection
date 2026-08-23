@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:tactic-rules",
+  "slug": "tactic-rules",
+  "name": "tactic-rules",
+  "title": "管道的规则和约定",
+  "description": "Reglas y convenciones para el pipeline de TACTIC",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Tactic Rules",
+  "function_label": "Data-Agent"
+}

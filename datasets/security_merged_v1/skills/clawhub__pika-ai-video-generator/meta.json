@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pika-ai-video-generator",
+  "slug": "pika-ai-video-generator",
+  "name": "pika-ai-video-generator",
+  "title": "根据提示生成 AI 视频",
+  "description": "Cloud-based pika-ai-video-generator tool that handles generating short AI videos from text or image prompts. Upload JPG, PNG, MP4, MOV files (up to 200MB), describe what you need, and get 1080p MP4 output in 30-90 seconds. Built for content creators and marketers who work with text prompts or images.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pika AI Video Generator — Generate AI Videos from Prompts",
+  "function_label": "Automation"
+}

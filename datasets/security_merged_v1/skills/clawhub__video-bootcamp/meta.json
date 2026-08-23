@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-bootcamp",
+  "slug": "video-bootcamp",
+  "name": "video-bootcamp",
+  "title": "编辑和导出培训视频",
+  "description": "Get polished training videos ready to post, without touching a single slider. Upload your raw video footage (MP4, MOV, AVI, WebM, up to 500MB), say something like \"cut dead air, add chapter titles, and export a clean training video\", and download 1080p MP4 when it's done. Built for course creators and online trainers who move fast and want to produce professional training videos without advanced editing skills.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Bootcamp — Edit and Export Training Videos",
+  "function_label": "Communication"
+}

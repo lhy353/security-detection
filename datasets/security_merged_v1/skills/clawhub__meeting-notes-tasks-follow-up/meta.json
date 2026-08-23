@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:meeting-notes-tasks-follow-up",
+  "slug": "meeting-notes-tasks-follow-up",
+  "name": "meeting-notes-tasks-follow-up",
+  "title": "会议记录 → 任务和后续行动",
+  "description": "Lightweight meeting-notes productivity workflow for turning transcripts or raw meeting notes into clean summaries, extracted key points, and simple action lists. Use when processing meeting transcripts, call notes, workshop notes, or internal sync notes into a clear recap and a basic task list for a free ClawHub edition.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Meeting Notes → Tasks & Follow-up",
+  "function_label": "Other"
+}

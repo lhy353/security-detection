@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:mcp-hello-world",
+  "slug": "mcp-hello-world",
+  "name": "mcp-hello-world",
+  "title": "最小可行 MCP 服务器示例",
+  "description": "最小可行 MCP 服务器示例 - 在 OpenClaw 中调用 MCP 工具（add 计算 + hello_world 问候）",
+  "detection_label": "benign",
+  "source": "clawhub"
+}

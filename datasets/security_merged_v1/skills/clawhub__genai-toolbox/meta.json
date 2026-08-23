@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:genai-toolbox",
+  "slug": "genai-toolbox",
+  "name": "genai-toolbox",
+  "title": "吉奈工具箱",
+  "description": "Reference tool for devtools — covers intro, quickstart, patterns and more. Quick lookup for Genai Toolbox concepts, best practices, and implementation patterns.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Genai Toolbox",
+  "function_label": "Coding"
+}

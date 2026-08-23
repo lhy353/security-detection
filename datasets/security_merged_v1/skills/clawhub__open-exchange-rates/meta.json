@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:open-exchange-rates",
+  "slug": "open-exchange-rates",
+  "name": "open-exchange-rates",
+  "title": "开放汇率",
+  "description": "Open Exchange Rates integration. Manage data, records, and automate workflows. Use when the user wants to interact with Open Exchange Rates data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Open Exchange Rates",
+  "function_label": "Automation"
+}

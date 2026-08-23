@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nano-banana-2-fal",
+  "slug": "nano-banana-2-fal",
+  "name": "nano-banana-pro",
+  "title": "图像）",
+  "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Nano Banana Pro (Gemini 3 Pro Image)",
+  "function_label": "Other"
+}

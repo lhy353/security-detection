@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jpeng-episodic-memory-debugger",
+  "slug": "jpeng-episodic-memory-debugger",
+  "name": "episodic-memory-debugger",
+  "title": "情景内存调试器",
+  "description": "Provides tools for debugging episodic memory systems including recall precision analysis, multi-modal encoding validation, indexing efficiency checks, and irrelevant recall detection for AI agents.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Episodic Memory Debugger",
+  "function_label": "Coding"
+}

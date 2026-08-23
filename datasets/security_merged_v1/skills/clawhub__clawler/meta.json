@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawler",
+  "slug": "clawler",
+  "name": "clawler",
+  "title": "爪子技能",
+  "description": "Use when you want current web information through the Clawler OpenClaw plugin.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clawler Skill",
+  "function_label": "Research"
+}

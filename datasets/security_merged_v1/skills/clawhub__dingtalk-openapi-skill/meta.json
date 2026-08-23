@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dingtalk-openapi-skill",
+  "slug": "dingtalk-openapi-skill",
+  "name": "dingtalk-openapi-skill",
+  "title": "钉钉消息技巧",
+  "description": "Operate DingTalk messaging APIs through UXC with a curated OpenAPI schema, app-token bearer auth, and robot/service-group guardrails.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "DingTalk Messaging Skill",
+  "function_label": "Communication"
+}

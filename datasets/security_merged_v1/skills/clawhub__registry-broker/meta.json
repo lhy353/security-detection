@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:registry-broker",
+  "slug": "registry-broker",
+  "name": "registry-broker",
+  "title": "注册经纪人",
+  "description": "Search 72,000+ AI agents across 14 registries, chat with any agent, register your own agent.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Registry Broker",
+  "function_label": "Communication"
+}

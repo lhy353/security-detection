@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:shortcut-integration",
+  "slug": "shortcut-integration",
+  "name": "shortcut",
+  "title": "捷径",
+  "description": "Shortcut integration. Manage data, records, and automate workflows. Use when the user wants to interact with Shortcut data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Shortcut",
+  "function_label": "Automation"
+}

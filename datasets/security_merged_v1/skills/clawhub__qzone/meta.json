@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:qzone",
+  "slug": "qzone",
+  "name": "QQ空间",
+  "title": "空间 AI 助手",
+  "description": "QQ空间运营助手，精通内容创作、相册管理、社交互动、数据分析",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

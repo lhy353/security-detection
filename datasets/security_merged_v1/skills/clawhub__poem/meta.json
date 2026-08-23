@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:poem",
+  "slug": "poem",
+  "name": "poem",
+  "title": "诗",
+  "description": "poem reference tool",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Poem",
+  "function_label": "Coding"
+}

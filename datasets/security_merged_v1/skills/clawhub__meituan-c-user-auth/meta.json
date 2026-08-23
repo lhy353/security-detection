@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:meituan-c-user-auth",
+  "slug": "meituan-c-user-auth",
+  "name": "meituan-c-user-auth",
+  "title": "美团C端用户认证工具",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

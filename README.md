@@ -2,13 +2,12 @@
 
 Agent Skill **安全检测合并数据集** `security_merged_v1`。
 
-GitHub 仓库仅发布 **CSV 元数据表**；完整 `SKILL.md` 正文需从各 skill 的 `local_path` 或本地门户缓存读取。
-
-## 数据集文件
+GitHub 仓库发布 **CSV 元数据 + `skills/` 正文**（`SKILL.md` + `meta.json`）。
 
 | 文件 | 说明 |
 |---|---|
-| `datasets/security_merged_v1/manifest.csv` | 主表（8520 条），**唯一随仓库发布的文件** |
+| `datasets/security_merged_v1/manifest.csv` | 主表（8520 条） |
+| `datasets/security_merged_v1/skills/<id>/` | 每条 skill 的 `SKILL.md` 与 `meta.json` |
 
 ## 规模与标签
 
@@ -50,7 +49,7 @@ gold = df[df["gold_status"] == "human_gold_v1"]
 
 ## 同步到 GitHub
 
-仓库只推送 `manifest.csv`（不含 `gold_security_v1`、不含 `skills/` 目录）。
+仓库推送 `manifest.csv` 与 `skills/` 目录。
 
 ```bash
 # .env 中配置 GITHUB_REPO、GITHUB_TOKEN
@@ -59,7 +58,7 @@ python scripts/sync_to_github.py
 
 ## 本地门户（可选）
 
-本机可运行 Web 门户浏览 / 筛选 / 上传；上传会追加到 `manifest.csv`，skill 正文写入本地 `datasets/security_merged_v1/skills/`（不推送到 GitHub）。
+本机可运行 Web 门户浏览 / 筛选 / 上传；上传会追加到 `manifest.csv`，正文写入 `datasets/security_merged_v1/skills/`。
 
 ```bash
 pip install -r requirements-web.txt

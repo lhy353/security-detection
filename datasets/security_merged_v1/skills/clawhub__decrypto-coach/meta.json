@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:decrypto-coach",
+  "slug": "decrypto-coach",
+  "name": "decrypto-coach",
+  "title": "截码战教练",
+  "description": "Strategic coach for the board game Decrypto (截码战). Use when users want help with: (1) Giving better clues as the encryptor / 给出更好的加密线索, (2) Intercepting opponent codes / 截获对手密码, (3) Understanding game strategy / 理解游戏策略, (4) Practicing clue-giving for specific keywords / 针对关键词练习线索, (5) Analyzing past rounds / 复盘分析. Triggers: decrypto, 截码战, board game clue strategy, decrypto practice, 桌游策略.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

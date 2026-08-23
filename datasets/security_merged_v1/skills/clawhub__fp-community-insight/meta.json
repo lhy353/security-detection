@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:fp-community-insight",
+  "slug": "fp-community-insight",
+  "name": "fp_community_insight",
+  "title": "社区热点痛点分析",
+  "description": "把 Agent-Reach 抓取的 Reddit（17个subreddit）和专业论坛热帖数据，聚类成本周 热门话题、高频用户痛点、FridayParts 内容机会、趋势信号四个模块。挖掘出的痛点 和选题可直接喂给 fp_youtube_script 做视频脚本、fp_blog_to_social 做文章。 自动标注合规风险（如 DPF delete）。是\"挖痛点→出内容\"流水线的源头。 Use when: 分析 Reddit/论坛热帖 / 挖掘用户痛点 / 内容选题分析。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

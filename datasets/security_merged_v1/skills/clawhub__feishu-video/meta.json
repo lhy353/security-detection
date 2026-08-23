@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:feishu-video",
+  "slug": "feishu-video",
+  "name": "Feishu Audio Message",
+  "title": "飞书语音留言技巧",
+  "description": "Send voice/audio messages to Feishu (Lark) users. Converts audio files to OPUS format and sends as voice message, not file attachment. create by Alex",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Feishu Audio Message Skill"
+}

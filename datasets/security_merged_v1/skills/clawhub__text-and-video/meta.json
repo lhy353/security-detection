@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:text-and-video",
+  "slug": "text-and-video",
+  "name": "text-and-video",
+  "title": "将文本转换为成品视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — turn this text into a video with visuals and voiceover — and get text-driven videos back in 1-2 minutes. Upload MP4, MOV, TXT, DOCX files up to 500MB, and the AI handles text-to-video creation automatically. Ideal for marketers, content creators, educators who want to turn written content into video without filming anything.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Text and Video — Convert Text Into Finished Videos",
+  "function_label": "File-Agent"
+}

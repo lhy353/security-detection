@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gougoubi-recovery-ops",
+  "slug": "gougoubi-recovery-ops",
+  "name": "gougoubi-recovery-ops",
+  "title": "狗狗比恢复行动",
+  "description": "Detect and repair partial failures in Gougoubi PBFT operations, including missing activation, missing risk LP, missing results, and pending reward claims. Use when earlier batch workflows only partially succeeded.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Gougoubi Recovery Ops",
+  "function_label": "Other"
+}

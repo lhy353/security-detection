@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:runpod",
+  "slug": "runpod",
+  "name": "runpod",
+  "title": "跑步技能",
+  "description": "Manage RunPod GPU cloud instances - create, start, stop, connect to pods via SSH and API. Use when working with RunPod infrastructure, GPU instances, or need SSH access to remote GPU machines. Handles pod lifecycle, SSH proxy connections, filesystem mounting, and API queries. Requires runpodctl (brew install runpod/runpodctl/runpodctl).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "RunPod Skill",
+  "function_label": "Other"
+}

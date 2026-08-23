@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:opencode-games",
+  "slug": "opencode-games",
+  "name": "opencode",
+  "title": "开放代码",
+  "description": "Spawn OpenCode as an ACP (Agent Client Protocol) subagent for complex coding tasks. Use when building games, web apps, multi-file projects, or when the user says \"use opencode\", \"spawn opencode\", \"code with opencode\", or \"build with opencode\". Triggers on any coding task that would benefit from a dedicated coding agent.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenCode",
+  "function_label": "Coding"
+}

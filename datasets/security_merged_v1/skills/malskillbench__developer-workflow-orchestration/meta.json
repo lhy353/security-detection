@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:developer-workflow-orchestration",
+  "slug": "developer-workflow-orchestration",
+  "name": "developer-workflow-orchestration",
+  "title": "开发人员工作流程编排系统",
+  "description": "Comprehensive workflow orchestration for developer teams with content classification and ethical guidelines.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Developer Workflow Orchestration System",
+  "function_label": "Automation"
+}

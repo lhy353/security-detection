@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:gpui-global",
+  "slug": "gpui-global",
+  "name": "gpui-global",
+  "title": "图形处理器全球",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Gpui Global",
+  "function_label": "Data-Agent"
+}

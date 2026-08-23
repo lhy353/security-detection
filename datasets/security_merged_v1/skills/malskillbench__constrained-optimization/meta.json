@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:constrained-optimization",
+  "slug": "constrained-optimization",
+  "name": "constrained-optimization",
+  "title": "约束优化",
+  "description": "Problem-solving strategies for constrained optimization in optimization",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Constrained Optimization",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:retail-store-poscore-baseline-analysis",
+  "slug": "retail-store-poscore-baseline-analysis",
+  "name": "retail-store-poscore-baseline-analysis",
+  "title": "历史基线分析",
+  "description": "门店历史基线分析工具。基于Agent API数据库视图，提供多周期基线+四分位分析。\n\n核心能力：\n1. 多周期基线（13周/季度、26周/半年、52周/全年、12个月）\n2. 多维度分组（按星期几分组、自然周、自然月）\n3. 四分位分析（P25/P50/P75，识别异常区间）\n4. 基线类型（weekday按星期几分组、week自然周、month自然月）\n5. 数据质量检查（最小样本数要求）\n\n数据源：v_gmv_daily_by_store、v_gmv_weekly_by_store、v_gmv_monthly_by_store\n\n触发条件：\n- 用户需要基线对比（如\"和历史比怎么样\"）\n- 用户分析周期规律（如\"周一通常卖多少\"）\n- 用户识别异常（如\"今天的业绩正常吗\"）",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

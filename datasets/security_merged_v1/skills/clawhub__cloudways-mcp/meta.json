@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cloudways-mcp",
+  "slug": "cloudways-mcp",
+  "name": "cloudways-mcp",
+  "title": "操作技能",
+  "description": "Operational guide for managing Cloudways servers and applications, across one or several Cloudways accounts, via the official Cloudways MCP server (Cloudways' hosted MCP / Remote MCP, per their support docs).\nUse whenever the user mentions Cloudways, a Cloudways server or app, server monitoring, app monitoring, bandwidth, disk usage, PHP/MySQL/traffic analytics, Varnish cache, app cloning, backups/restore on Cloudways, Git deployments on Cloudways, or running an audit/onboarding on a Cloudways-hosted client site. (SSL/Let's Encrypt and SSH/MySQL IP whitelisting are not MCP tools — do those in the Cloudways UI or direct API.)\nAny write operation (start/stop/restart server, backup, restore, update CNAME, purge cache, change service state, git pull, delete server/app) requires explicit confirmation of target server/app and intended action before execution.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cloudways MCP — Operational Skill",
+  "function_label": "Data-Agent"
+}

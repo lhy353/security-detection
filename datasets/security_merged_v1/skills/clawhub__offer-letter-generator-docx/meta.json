@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:offer-letter-generator-docx",
+  "slug": "offer-letter-generator-docx",
+  "name": "docx",
+  "title": "使用 python-docx 操作 Word 文档",
+  "description": "Word document manipulation with python-docx - handling split placeholders, headers/footers, nested tables",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Word Document Manipulation with python-docx",
+  "function_label": "File-Agent"
+}

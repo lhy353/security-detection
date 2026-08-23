@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:wechat-article-to-markdown-v2",
+  "slug": "wechat-article-to-markdown-v2",
+  "name": "wechat-article-to-markdown",
+  "title": "微信文章转Markdown",
+  "description": "This skill converts WeChat Official Account (微信公众号) article pages into high-quality, clean Markdown format. It should be used when the user provides a WeChat article URL (mp.weixin.qq.com) and wants to convert, extract, save, or archive the article content as Markdown. Trigger phrases include \"convert WeChat article\", \"微信文章转Markdown\", \"save this WeChat article\", \"extract article content\", \"抓取微信文章\", \"文章转MD\", or when a mp.weixin.qq.com URL is provided.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WeChat Article to Markdown",
+  "function_label": "Communication"
+}

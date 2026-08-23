@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:code-generation",
+  "slug": "code-generation",
+  "name": "code-generation",
+  "title": "技能：代码生成",
+  "description": "Generate production-ready code aligned to repo conventions and constraints.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SKILL: code-generation",
+  "function_label": "Coding"
+}

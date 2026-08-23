@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:apiflash",
+  "slug": "apiflash",
+  "name": "apiflash",
+  "title": "集成",
+  "description": "ApiFlash integration. Manage Organizations, Pipelines, Projects, Users, Filters. Use when the user wants to interact with ApiFlash data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Apiflash",
+  "function_label": "Browser"
+}

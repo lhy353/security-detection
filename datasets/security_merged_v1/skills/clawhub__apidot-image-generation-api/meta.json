@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:apidot-image-generation-api",
+  "slug": "apidot-image-generation-api",
+  "name": "apidot-image-generation-api",
+  "title": "图像生成 API",
+  "description": "Use APIDot for image generation API and image editing API workflows, including text-to-image API, image-to-image API, GPT Image 2 API, Nano Banana API, Nano Banana Pro API, Seedream API, Flux API, async task submission, polling, task status, and webhook integration based on APIDot docs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Apidot Image Generation Api",
+  "function_label": "Browser"
+}

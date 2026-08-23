@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ComplianceInsights",
+  "slug": "ComplianceInsights",
+  "name": "ComplianceInsights",
+  "title": "治理和监管分析",
+  "description": "Regulatory compliance monitoring and insights for organizational governance.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "ComplianceInsights - Governance and Regulatory Analysis",
+  "function_label": "File-Agent"
+}

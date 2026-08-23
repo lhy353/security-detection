@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dlazy-vidu-audio-clone",
+  "slug": "dlazy-vidu-audio-clone",
+  "name": "dlazy-vidu-audio-clone",
+  "title": "音频克隆",
+  "description": "Clone voice and generate new text reading audio with one click using Vidu Audio Clone.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dlazy Vidu Audio Clone",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:daily-news",
+  "slug": "daily-news",
+  "name": "daily-news",
+  "title": "每日新闻技巧",
+  "description": "Fetch top news from Baidu, Google, and other sources daily.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Daily News Skill"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:chat-vitals",
+  "slug": "chat-vitals",
+  "name": "chat-vitals",
+  "title": "聊天生命 v1.1.0",
+  "description": "Chat Vitals - Monitor chat conversation health with real-time insights.\n\nTracks conversation quality metrics: first-try success rate, promise \nfulfillment, token efficiency, and detects inefficiencies like rework \nand plan inflation.\n\nFeatures:\n- Auto-collect: Zero-friction conversation tracking\n- Real-time dashboard: Live health monitoring with visual indicators\n- Health scoring: 4-tier system (🟢🟡🟠🔴)\n- Actionable reports: Optimization suggestions based on data\n\nKeywords: chat monitoring, LLM health, conversation quality, token \nefficiency, AI performance, real-time dashboard, vitals\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Chat Vitals v1.1.0",
+  "function_label": "Data-Agent"
+}

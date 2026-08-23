@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-retrospective-skill",
+  "slug": "ai-retrospective-skill",
+  "name": "ai-retrospective",
+  "title": "人工智能协作回顾",
+  "description": "AI Collaboration Retrospective — a tool-agnostic post-session analysis framework. After each AI-assisted coding/development session, it systematically reviews the entire conversation across eight dimensions to identify improvement opportunities and generate a structured retrospective report. Core goal: make every AI session better than the last.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Collaboration Retrospective",
+  "function_label": "Coding"
+}

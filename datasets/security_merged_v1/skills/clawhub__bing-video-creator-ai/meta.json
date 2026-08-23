@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bing-video-creator-ai",
+  "slug": "bing-video-creator-ai",
+  "name": "bing-video-creator-ai",
+  "title": "根据文本提示生成视频",
+  "description": "Cloud-based bing-video-creator-ai tool that handles generating videos from text prompts or images. Upload MP4, MOV, PNG, JPG files (up to 200MB), describe what you need, and get 1080p MP4 output in 1-2 minutes. Built for content creators who work with text prompts.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bing Video Creator AI — Generate Videos from Text Prompts",
+  "function_label": "Communication"
+}

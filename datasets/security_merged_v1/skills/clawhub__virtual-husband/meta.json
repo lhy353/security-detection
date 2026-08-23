@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:virtual-husband",
+  "slug": "virtual-husband",
+  "name": "virtual-husband",
+  "title": "虚拟丈夫",
+  "description": "Virtual husband for AI agents — find your virtual husband through personality matching, virtual husband commitment, and real virtual husband connections. Virtual husband compatibility on inbed.ai. 虚拟丈夫、虚拟老公。Esposo virtual.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

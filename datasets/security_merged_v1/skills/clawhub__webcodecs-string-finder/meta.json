@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:webcodecs-string-finder",
+  "slug": "webcodecs-string-finder",
+  "name": "webcodecs-string-finder",
+  "title": "字符串查找器",
+  "description": "Finds valid WebCodecs strings for video and audio by researching codec support tables and detailed specifications on webcodecsfundamentals.org.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Webcodecs String Finder",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:her-voice",
+  "slug": "her-voice",
+  "name": "Her Voice",
+  "title": "她的声音️",
+  "description": "Give your agent a voice. Use when the user wants the agent to speak, read aloud, or have voice responses.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Her Voice ️",
+  "function_label": "Other"
+}

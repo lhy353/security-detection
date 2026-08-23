@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:arithym-io-arithym",
+  "slug": "arithym-io-arithym",
+  "name": "arithym",
+  "title": "精确数学引擎",
+  "description": "Exact arithmetic for AI agents — zero hallucination math via 62 tools covering integer arithmetic, fractions, units, calculus, and financial calculations. Use when any math result must be correct.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Arithym — Exact Math Engine",
+  "function_label": "Other"
+}

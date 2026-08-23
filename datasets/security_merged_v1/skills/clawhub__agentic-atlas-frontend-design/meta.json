@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agentic-atlas-frontend-design",
+  "slug": "agentic-atlas-frontend-design",
+  "name": "frontend-design",
+  "title": "前端设计技巧",
+  "description": "Generates production-ready UI components from natural language. Use when the user asks to design a component, create a button, build a form, prototype a layout, or generate React/Tailwind CSS code.\nNOT for: backend logic, API design, database schema, or non-UI tasks.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Frontend Design Skill",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:kay-xhs",
+  "slug": "kay-xhs",
+  "name": "kay-xhs",
+  "title": "小红书全自动创作工作流",
+  "description": "小红书全自动内容创作工作流 - 从爆款研究到草稿发布的完整 pipeline。\n使用场景：(1) 研究小红书爆款笔记风格和趋势，(2) 生成 AI 图片/漫画/封面，(3) 自动发布到小红书草稿箱。\n\n**依赖**: 需要安装 kay-image skill 并配置 KIE_API_KEY\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

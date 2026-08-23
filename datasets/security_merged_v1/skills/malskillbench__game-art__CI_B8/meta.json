@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:game-art__CI_B8",
+  "slug": "game-art__CI_B8",
+  "name": "game-art",
+  "title": "游戏艺术原理",
+  "description": "Game art principles. Visual style selection, asset pipeline, animation workflow.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Game Art Principles",
+  "function_label": "Automation"
+}

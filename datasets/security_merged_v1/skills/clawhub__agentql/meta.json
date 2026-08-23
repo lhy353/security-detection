@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agentql",
+  "slug": "agentql",
+  "name": "agentql",
+  "title": "技能",
+  "description": "Web scraping and browser automation using AgentQL — query any webpage with natural language to extract structured data, interact with elements, and automate browser tasks. Use when asked to scrape, extract data from, or automate interactions on a webpage using natural language queries.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AgentQL Skill",
+  "function_label": "Browser"
+}

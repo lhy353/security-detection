@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:self-improve",
+  "slug": "self-improve",
+  "name": "self-improve",
+  "title": "自我完善和卓越运营",
+  "description": "Update skill documentation and extend OpenCode capabilities based on learnings",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Self-Improvement and Operational Excellence",
+  "function_label": "Automation"
+}

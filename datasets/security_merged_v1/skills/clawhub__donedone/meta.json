@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:donedone",
+  "slug": "donedone",
+  "name": "donedone",
+  "title": "多内多内",
+  "description": "DoneDone integration. Manage Projects, Companies. Use when the user wants to interact with DoneDone data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Donedone",
+  "function_label": "Browser"
+}

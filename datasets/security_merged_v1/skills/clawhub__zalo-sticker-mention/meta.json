@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zalo-sticker-mention",
+  "slug": "zalo-sticker-mention",
+  "name": "zalo-sticker-mention",
+  "title": "贴纸提及",
+  "description": "Tự động tag người gửi trong group chat Zalo và gửi sticker theo từ khóa.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zalo Sticker Mention",
+  "function_label": "Other"
+}

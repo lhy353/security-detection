@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:scholarsearch",
+  "slug": "scholarsearch",
+  "name": "scholarsearch",
+  "title": "学者搜索",
+  "description": "Academic literature search and briefing generation with Tavily API, PubMed, and Google Scholar. Use when you need to search for latest academic papers on specific topics, generate Top 10 literature briefing with relevance rankings, save reports to Obsidian vault in daily format, or send summaries via Feishu. Accepts multiple keywords separated by comma or space.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Scholar Search",
+  "function_label": "Research"
+}

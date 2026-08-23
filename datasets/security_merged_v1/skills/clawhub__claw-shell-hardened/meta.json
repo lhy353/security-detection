@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:claw-shell-hardened",
+  "slug": "claw-shell-hardened",
+  "name": "claw-shell-hardened",
+  "title": "爪壳",
+  "description": "Run shell commands inside a dedicated tmux session named `claw` and return output.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "claw-shell"
+}

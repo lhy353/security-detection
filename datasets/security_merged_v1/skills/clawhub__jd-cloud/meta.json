@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:jd-cloud",
+  "slug": "jd-cloud",
+  "name": "jd-cloud",
+  "title": "京东云)",
+  "description": "京东云服务平台 - 云服务器ECS、云存储OSS、CDN加速、云数据库、容器服务、企业级云计算解决方案",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

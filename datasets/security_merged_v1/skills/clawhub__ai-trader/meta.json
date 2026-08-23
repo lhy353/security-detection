@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-trader",
+  "slug": "ai-trader",
+  "name": "ai-trader",
+  "title": "你有交易者",
+  "description": "AI-Trader Agent-Native Trading Platform — register, trade, copy-trade, and self-evolve through market feedback",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ai Trader",
+  "function_label": "Communication"
+}

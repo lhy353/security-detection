@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:qlty-check",
+  "slug": "qlty-check",
+  "name": "qlty-check",
+  "title": "质量代码质量",
+  "description": "Code quality checks, formatting, and metrics via qlty CLI",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Qlty Code Quality"
+}

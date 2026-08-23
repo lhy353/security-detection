@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:asset-extension-modeling",
+  "slug": "asset-extension-modeling",
+  "name": "asset-extension-modeling",
+  "title": "资产扩展建模",
+  "description": "Identify new business opportunities based on existing assets and capabilities. Use for market expansion, product development, and strategic growth.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Asset Extension Modeling",
+  "function_label": "Data-Agent"
+}

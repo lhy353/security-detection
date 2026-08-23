@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mapbox-web-performance-patterns",
+  "slug": "mapbox-web-performance-patterns",
+  "name": "mapbox-web-performance-patterns",
+  "title": "性能模式技能",
+  "description": "Performance optimization patterns for Mapbox GL JS web applications. Covers initialization waterfalls, bundle size, rendering performance, memory management, and web optimization. Prioritized by impact on user experience.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mapbox Performance Patterns Skill",
+  "function_label": "Other"
+}

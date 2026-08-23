@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-online-video-generator-ai",
+  "slug": "free-online-video-generator-ai",
+  "name": "free-online-video-generator-ai",
+  "title": "从文本或图像生成视频",
+  "description": "Turn a short product description and three product photos into 1080p AI-generated videos just by typing what you need. Whether it's generating videos from text prompts or images without filming anything or quick social content, drop your text or images and describe the result you want. No timeline dragging, no export settings — 1-2 minutes from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Online Video Generator AI — Generate Videos from Text or Images",
+  "function_label": "Automation"
+}

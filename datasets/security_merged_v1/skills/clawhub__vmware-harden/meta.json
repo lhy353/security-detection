@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vmware-harden",
+  "slug": "vmware-harden",
+  "name": "vmware-harden",
+  "title": "合规性和基准）",
+  "description": "Use this skill whenever the user needs to perform VMware compliance auditing, baseline checking, or drift detection on vSphere/ESXi/NSX environments. Directly handles: CIS / vSphere SCG / 等保 2.0 三级 / PCI-DSS / BSI IT-Grundschutz / EU NIS2 scans; custom YAML baselines; LLM-driven remediation suggestions; web dashboard. Always use this skill for \"scan compliance\", \"check baseline\", \"audit etcd\", \"check 等保\", \"drift detection\", \"compliance report\" when the context is explicitly VMware/vSphere/ESXi. Do NOT use for general vSphere monitoring (use vmware-monitor or vmware-aiops), network changes (use vmware-nsx), or executing remediations directly (this skill only suggests; execution goes through vmware-pilot).\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "VMware Harden (Compliance & Baseline)",
+  "function_label": "Automation"
+}

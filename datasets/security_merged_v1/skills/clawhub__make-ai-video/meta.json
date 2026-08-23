@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:make-ai-video",
+  "slug": "make-ai-video",
+  "name": "make-ai-video",
+  "title": "死亡食视频",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Make Ai Video",
+  "function_label": "Other"
+}

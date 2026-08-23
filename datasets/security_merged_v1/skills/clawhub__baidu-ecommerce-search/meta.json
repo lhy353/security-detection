@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:baidu-ecommerce-search",
+  "slug": "baidu-ecommerce-search",
+  "name": "baidu-ecommerce-search",
+  "title": "百度电商搜索",
+  "description": "Baidu ecommerce one-stop service, including product knowledge (product comparison / brand knowledge / category knowledge / product specifications / brand rankings / product rankings) and transaction execution (search / order placement / after-sales)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Baidu Ecommerce Search",
+  "function_label": "Other"
+}

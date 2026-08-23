@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ethyca",
+  "slug": "ethyca",
+  "name": "ethyca",
+  "title": "埃西卡",
+  "description": "Ethyca integration. Manage data, records, and automate workflows. Use when the user wants to interact with Ethyca data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ethyca",
+  "function_label": "Automation"
+}

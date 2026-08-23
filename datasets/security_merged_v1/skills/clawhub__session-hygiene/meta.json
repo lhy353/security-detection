@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:session-hygiene",
+  "slug": "session-hygiene",
+  "name": "session-hygiene",
+  "title": "会议卫生",
+  "description": "Prevent sessions.json bloat from accumulating isolated sessions (hooks, crons, subagents). Sets up a cron to archive stale sessions to daily JSONL files and keep sessions.json lean. Use when sessions.json grows large, the gateway becomes slow or unresponsive, or as preventive maintenance on any OpenClaw instance with hooks or crons. Related to openclaw/openclaw#15225.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Session Hygiene",
+  "function_label": "Communication"
+}

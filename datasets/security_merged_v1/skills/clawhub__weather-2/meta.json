@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:weather-2",
+  "slug": "weather-2",
+  "name": "weather",
+  "title": "天气",
+  "description": "Get current weather and forecasts (no API key required).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Weather",
+  "function_label": "Data-Agent"
+}

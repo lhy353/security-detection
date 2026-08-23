@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:zcx-data-analyzer",
+  "slug": "zcx-data-analyzer",
+  "name": "zcx-data-analyzer",
+  "title": "数据分析工具",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

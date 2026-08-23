@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:pdf-smart-tool-cn-v1-1",
+  "slug": "pdf-smart-tool-cn-v1-1",
+  "name": "pdf-smart-tool-cn",
+  "title": "智能处理工具 Pro v1.1 📄",
+  "description": "PDF智能处理工具 v1.1 | 新增：PDF编辑、电子签名、批量OCR、表单填写、文档对比。支持转换、OCR、合并拆分。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

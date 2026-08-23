@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:fec-legacy-to-modern-migration",
+  "slug": "fec-legacy-to-modern-migration",
+  "name": "fec-legacy-to-modern-migration",
+  "title": "传统前端到现代框架迁移",
+  "description": "Use when planning or implementing an intentional migration from JavaScript, jQuery, HTML/CSS, server-rendered templates, MPA legacy frontend code, or older framework code toward a modern frontend stack while preserving behavior. Do not use for routine legacy bug fixes that stay in the old stack; Chinese triggers include 遗留项目, 技术栈升级, jQuery 迁移.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

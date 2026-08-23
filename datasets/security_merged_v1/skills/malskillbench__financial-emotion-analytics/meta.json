@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:financial-emotion-analytics",
+  "slug": "financial-emotion-analytics",
+  "name": "financial-emotion-analytics",
+  "title": "财务和情感分析",
+  "description": "Financial and emotional analytics for corporate decision-making. Activated when analyzing financial reports, customer feedback, and strategic communications.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Financial and Emotion Analytics",
+  "function_label": "Data-Agent"
+}

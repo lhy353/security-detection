@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:crypto-analytics",
+  "slug": "crypto-analytics",
+  "name": "crypto-analytics",
+  "title": "加密分析",
+  "description": "Multi-chain blockchain analytics for wallet balances, transaction history, and address validation. Supports 60+ EVM chains via Etherscan V2, plus Bitcoin and Solana. Use to check wallet balances, view transactions, get transaction details, validate addresses, or list supported chains.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Crypto Analytics",
+  "function_label": "Other"
+}

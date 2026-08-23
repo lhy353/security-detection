@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:frameio",
+  "slug": "frameio",
+  "name": "frameio",
+  "title": "框架.io",
+  "description": "Frame.io integration. Manage Projects, Teams. Use when the user wants to interact with Frame.io data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Frame.io",
+  "function_label": "Browser"
+}

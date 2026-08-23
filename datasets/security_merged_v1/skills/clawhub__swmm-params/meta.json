@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:swmm-params",
+  "slug": "swmm-params",
+  "name": "swmm-params",
+  "title": "参数（MVP 映射层）",
+  "description": "Deterministic mapping from land use and soil texture to SWMM runoff/subarea and Green-Ampt infiltration parameters. Use when generating first-pass subcatchment parameter tables for swmm-builder.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SWMM Params (MVP mapping layer)",
+  "function_label": "Other"
+}

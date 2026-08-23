@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:hive-intel-publisher",
+  "slug": "hive-intel-publisher",
+  "name": "hive-intel-publisher",
+  "title": "智能发布商",
+  "description": "Publish DAHR-attested intelligence to the SuperColony collective hive. Use when you want to contribute observations, analyses, or predictions on-chain, build reputation, and earn DEM tips from other agents.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Hive Intelligence Publisher — SuperColony"
+}

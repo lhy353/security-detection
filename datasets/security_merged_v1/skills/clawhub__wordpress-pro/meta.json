@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:wordpress-pro",
+  "slug": "wordpress-pro",
+  "name": "wordpress-pro",
+  "title": "专业版",
+  "description": "Use when developing WordPress themes, plugins, customizing Gutenberg blocks, implementing WooCommerce features, or optimizing WordPress performance and security.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Wordpress Pro",
+  "function_label": "Data-Agent"
+}

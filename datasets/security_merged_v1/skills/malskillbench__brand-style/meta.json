@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:brand-style",
+  "slug": "brand-style",
+  "name": "brand-style",
+  "title": "品牌风格指南",
+  "description": "Screenpipe brand style guide. Reference this when designing UI components, writing copy, or making visual decisions.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Screenpipe Brand Style Guide",
+  "function_label": "Automation"
+}

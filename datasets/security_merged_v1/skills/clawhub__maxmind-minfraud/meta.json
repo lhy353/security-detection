@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:maxmind-minfraud",
+  "slug": "maxmind-minfraud",
+  "name": "maxmind-minfraud",
+  "title": "麦克斯敏德·明弗劳德",
+  "description": "MaxMind minFraud integration. Manage data, records, and automate workflows. Use when the user wants to interact with MaxMind minFraud data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Maxmind Minfraud",
+  "function_label": "Automation"
+}

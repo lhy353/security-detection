@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:stockvaluation-io",
+  "slug": "stockvaluation-io",
+  "name": "stockvaluation-io",
+  "title": "设置、运行、比较和调试 StockValuation.io，这是一个本地优先的 DCF 估值平台，包括 Docker 启",
+  "description": "Set up, run, compare, and debug StockValuation.io, a local-first DCF valuation platform, including Docker startup, ticker valuations, LLM provider changes, prompt dumping, and troubleshooting.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "StockValuation.io"
+}

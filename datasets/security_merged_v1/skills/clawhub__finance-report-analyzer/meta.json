@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:finance-report-analyzer",
+  "slug": "finance-report-analyzer",
+  "name": "finance-report-analyzer",
+  "title": "财务报告分析器",
+  "description": "Analyze financial data from uploaded Excel/PDF files and generate interactive reports with sparkline trend charts. Supports output to PDF, DOCX, Markdown, and HTML.\nUse when: (1) User uploads Excel/CSV/PDF with financial data, (2) User asks for financial analysis or company report, (3) User wants visual reports from financial statements, (4) User mentions stock ticker + financial analysis, (5) User shares a Feishu sheet/doc link with financial data.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Finance Report Analyzer",
+  "function_label": "Data-Agent"
+}

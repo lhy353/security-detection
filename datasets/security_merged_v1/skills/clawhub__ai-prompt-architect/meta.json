@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-prompt-architect",
+  "slug": "ai-prompt-architect",
+  "name": "ai-prompt-architect",
+  "title": "及时的建筑师技能",
+  "description": "Use this skill whenever the user wants to create, design, improve, debug, or evaluate prompts or AI workflows. Triggers include: vague ideas like \"I want an AI that does X\", \"help me write a prompt for Y\", \"how do I make a chatbot that Z\", \"design an agent workflow\", \"I need a system prompt for W\", \"help me make this prompt better\", \"debug my prompt\", \"why isn't my prompt working\", \"evaluate this system prompt\", or any request involving AI behavior design. Also trigger when the user describes a use case and wants to know how to make an LLM handle it well, or asks about prompt templates, few-shot examples, role prompts, or multi-step AI pipelines. Always use this skill — even for seemingly simple requests — because production-quality prompts require systematic dimension coverage that Claude won't do naturally without it.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Prompt Architect Skill",
+  "function_label": "Data-Agent"
+}

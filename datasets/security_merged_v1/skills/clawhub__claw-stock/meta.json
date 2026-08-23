@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:claw-stock",
+  "slug": "claw-stock",
+  "name": "claw-stock",
+  "title": "个股分析师",
+  "description": "个股分析师。当用户提到任何 A 股、港股、美股股票名称或代码，或说出\"分析一下\"、\"看看这只\"、\"打个分\"、\"值得买吗\"、\"怎么看\"等意图时，调用本 skill。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

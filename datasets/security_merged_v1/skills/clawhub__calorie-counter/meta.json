@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:calorie-counter",
+  "slug": "calorie-counter",
+  "name": "calorie-counter",
+  "title": "卡路里计数器",
+  "description": "Track daily calorie and protein intake, set goals, and log weight. Use when user mentions food they ate, wants to know remaining calories, or needs to track weight. Stores data in SQLite with automatic daily totals.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Calorie Counter",
+  "function_label": "Data-Agent"
+}

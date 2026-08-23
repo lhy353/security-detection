@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:theme-factory",
+  "slug": "theme-factory",
+  "name": "theme-factory",
+  "title": "主题工厂",
+  "description": "Curated collection of professional color and typography themes for styling artifacts — slides, docs, reports, landing pages. Use when applying visual themes to presentations, generating themed content, or creating custom brand palettes. Triggers on theme, color palette, font pairing, slide styling, presentation theme, brand colors.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Theme Factory",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:exploring-ancient-ruins",
+  "slug": "exploring-ancient-ruins",
+  "name": "exploring-ancient-ruins",
+  "title": "第九章:古代遗迹 (Exploring Ancient Ruins)",
+  "description": "古代遗迹 - Stella深入探索盖亚星球的古代文明遗迹,解开失落文明的秘密",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Other"
+}

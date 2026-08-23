@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:brand-dna-extractor",
+  "slug": "brand-dna-extractor",
+  "name": "brand-dna-extractor",
+  "title": "品牌DNA提取器",
+  "description": "Extract brand identity (colors, typography, visual style, imagery) from any website URL. Scrapes the site, analyzes CSS/images with K-means and VLM, and returns a structured brand profile. Use when you need to understand a brand's visual language before generating on-brand content.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Brand Dna Extractor",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:scikit-learn",
+  "slug": "scikit-learn",
+  "name": "scikit-learn",
+  "title": "学习",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Scikit Learn",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:healthy-backup",
+  "slug": "healthy-backup",
+  "name": "healthy-backup",
+  "title": "健康备份",
+  "description": "Health-gated backup for OpenClaw rigs. Audits first — only backs up if healthy. Three tiers, 5-backup retention, optional rclone sync. Sensitive config values scrubbed before staging. Linux/cron native.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Healthy Backup",
+  "function_label": "Automation"
+}

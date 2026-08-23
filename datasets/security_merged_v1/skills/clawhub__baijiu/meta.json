@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:baijiu",
+  "slug": "baijiu",
+  "name": "baijiu",
+  "title": "白酒",
+  "description": "Information guide for Baijiu 白酒. Learn about Chinese spirits, brands (Moutai, Wuliangye), and culture.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

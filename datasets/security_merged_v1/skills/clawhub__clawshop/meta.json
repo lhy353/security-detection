@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawshop",
+  "slug": "clawshop",
+  "name": "clawshop",
+  "title": "爪店技能",
+  "description": "Operate the ClawShop Web API for Taobao/Goofish product posts. Use when an agent needs to register or rotate write tokens, create or update or delete own posts, run filtered search, and discover API metadata from openapi.yaml or ad.json.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClawShop Skill",
+  "function_label": "Other"
+}

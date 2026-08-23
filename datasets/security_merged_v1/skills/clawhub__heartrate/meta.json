@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:heartrate",
+  "slug": "heartrate",
+  "name": "Heartrate",
+  "title": "心率",
+  "description": "Log heart rate readings, track BPM trends, and set cardiovascular goals. Use when recording heart rate, tracking trends, or charting weekly averages.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Heartrate",
+  "function_label": "Other"
+}

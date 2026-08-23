@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sport-science-review",
+  "slug": "sport-science-review",
+  "name": "generate-daily-sports-update",
+  "title": "体育科学日报——AI智能体技能",
+  "description": "Automated sports science intelligence engine — fetches 55+ sources (PubMed, expert blogs, wearable tech), filters noise, translates to Chinese, and syncs to Feishu/Notion.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sports Science Daily — AI Agent Skill",
+  "function_label": "Communication"
+}

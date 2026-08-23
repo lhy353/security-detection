@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:contract-risk-helper",
+  "slug": "contract-risk-helper",
+  "name": "contract-risk-helper",
+  "title": "合同风险助手 (Contract Risk Helper)",
+  "description": "Contract risk helper. Input Chinese or English contract text; identify common risky clauses, classify severity, and suggest negotiation or revision points. Boundary: preliminary risk spotting only, not a lawyer and not formal legal advice.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

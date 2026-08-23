@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:inner-life-core",
+  "slug": "inner-life-core",
+  "name": "inner-life-core",
+  "title": "内在生命核心",
+  "description": "Your agent forgets who you are between sessions. It gives the same responses every day. It doesn't grow. inner-life-core fixes that. Gives your OpenClaw agent emotions with half-life decay, a 9-step Brain Loop protocol, and structured state — the foundation for an inner life. Works standalone or with inner-life-* extension skills.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Inner Life Core",
+  "function_label": "Other"
+}

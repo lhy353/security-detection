@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:home-gym-safety-setup-check",
+  "slug": "home-gym-safety-setup-check",
+  "name": "home-gym-safety-setup-check",
+  "title": "家庭健身房安全设置检查",
+  "description": "Create a practical home gym safety setup checklist for small workout spaces, covering clearance, flooring, equipment condition, storage, shared-space rules, pre-workout scans, stop signals, and weekly inspection notes. Use when the user wants to reduce avoidable home-workout risks before training.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Home Gym Safety Setup Check",
+  "function_label": "Other"
+}

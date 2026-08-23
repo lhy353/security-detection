@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jackyshen-design-workshop-outline",
+  "slug": "jackyshen-design-workshop-outline",
+  "name": "jackyshen-design-workshop-outline",
+  "title": "车间大纲生成器",
+  "description": "Use when user asks to \"generate workshop outline\", \"create training agenda\", \"design course structure\", \"build workshop schedule\", or requests help planning training sessions. Applies MECE structure, TfBR design (4Cs), and VAK-inclusive learning.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Workshop Outline Generator",
+  "function_label": "Communication"
+}

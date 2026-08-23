@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pattern-finder",
+  "slug": "pattern-finder",
+  "name": "Pattern Finder",
+  "title": "模式查找器",
+  "description": "Discover what two sources agree on — find the signal in the noise.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pattern Finder",
+  "function_label": "Data-Agent"
+}

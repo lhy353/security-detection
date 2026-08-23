@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:frontend-art-direction-skill",
+  "slug": "frontend-art-direction-skill",
+  "name": "frontend-skill",
+  "title": "前端技能",
+  "description": "Design visually strong landing pages, websites, apps, and UI with premium art direction, hierarchy, restraint, imagery, and motion. Use when quality depends on composition and visual narrative rather than component count, including full-bleed hero pages, product surfaces, and motion-led interfaces.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Frontend Skill",
+  "function_label": "Other"
+}

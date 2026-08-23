@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-agent-onboarding",
+  "slug": "openclaw-agent-onboarding",
+  "name": "openclaw-agent-onboarding",
+  "title": "个人 AgentOS 初始化向导 / Bootstrapper",
+  "description": "OpenClaw 个人 AgentOS 初始化向导 / Bootstrapper。Use when a user wants to initialize, diagnose, upgrade, repair, or health-check a new or existing OpenClaw setup; install baseline skills; add web search and skill discovery; set up HOT/WARM/COLD memory; create an Obsidian-friendly Markdown knowledge base; configure Agent teams; establish self-evolution workflows; reduce context pollution; or bootstrap OpenClaw into a personal AgentOS. 触发词：OpenClaw 初始化、AgentOS 启动器、新用户引导、安装必要 skill、搭建三层记忆、个人知识库、Obsidian、Agent 团队、自进化、健康检查、一键修复、一键升级、上下文污染治理。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

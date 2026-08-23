@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-collaboration",
+  "slug": "openclaw-collaboration",
+  "name": "openclaw-collaboration",
+  "title": "协同工作",
+  "description": "Hermes 与本地 OpenClaw 协同工作方案 — 共享记忆、API互调、任务分工",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

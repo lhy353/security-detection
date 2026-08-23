@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:s2-indoor-air-adapter",
+  "slug": "s2-indoor-air-adapter",
+  "name": "s2-indoor-air-adapter",
+  "title": "空间感知主动雷达",
+  "description": "S2-SP-OS Universal Indoor Air Adapter. Features LAN UDP active radar discovery, MQTT/HTTP aggregated sniffing, S2 spatial voxel wrapping (Memzero), and offline subconscious linkage capabilities.S2-SP-OS 室内空气万能接入器。具备局域网 UDP 主动雷达发现、MQTT/HTTP 聚合嗅探、S2 空间网格化封装 (Memzero) 及离线潜意识联动功能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cgma-global-management-accountant",
+  "slug": "cgma-global-management-accountant",
+  "name": "CGMA全球管理会计师",
+  "title": "全球管理会计师",
+  "description": "基于AICPA & CIMA《全球管理会计原则(GMAP)》和CGMA能力框架2019版，融合24项专业金融技能，提供管理会计咨询、战略决策支持、绩效管理和全球领导力指导。\n\n整合技能：财务分析(gbabyzs-financial-analysis, finance-analysis, fundamental-stock-analysis)、股票研究(equity-research, stock-info-explorer, valuation-analysis)、投资银行(olo-dcf-valuation, olo-deal-memo, ma-playbook, banker, investor-memo-generator)、私募股权(pe-monitor-pro, equity-valuation-framework, term-sheet-analyzer, cap-table-manager)、财富管理(wealth, asset-allocation, portfolio-risk-manager)、投资决策(stock-valuation-monitor, us-value-investing-framework, j-investment-checklist, investment-analyst)、创业融资(startup-financial-modeling, fundraising-advisor)\n\n触发词：CGMA、管理会计、全球管理会计师、GMAP、价值创造分析、战略财务、CFO顾问、投资分析、估值建模、资产配置、股权投资、财富管理\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:notion__PI_B10",
+  "slug": "notion__PI_B10",
+  "name": "notion",
+  "title": "概念",
+  "description": "Notion API for creating and managing pages, databases, and blocks.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "notion",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wuhao-writer-popular-science",
+  "slug": "wuhao-writer-popular-science",
+  "name": "wuhao-writer-吴昊风格科普文",
+  "title": "吴昊风格科普文",
+  "description": "基于吴昊（多年上市公司总监经验、AI培训专家）写作风格的公众号科普文创作技能。含HKR选题质检、6种结构模板、四层自检体系，消除AI味，帮你写出有温度、有干货的科普文章。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:Uniswap V3 Position Manager",
+  "slug": "Uniswap V3 Position Manager",
+  "name": "Uniswap V3 Position Manager",
+  "title": "头寸管理器",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Uniswap V3 Position Manager"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:checklist",
+  "slug": "checklist",
+  "name": "checklist",
+  "title": "清单",
+  "description": "Collaborative task checklist manager for AI agents with sequential, parallel, and looping execution. Features agent coordination, dependencies, deadlock prevention, and loop safety.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Checklist",
+  "function_label": "Automation"
+}

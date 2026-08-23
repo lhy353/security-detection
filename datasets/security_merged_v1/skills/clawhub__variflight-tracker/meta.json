@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:variflight-tracker",
+  "slug": "variflight-tracker",
+  "name": "flight-tracker",
+  "title": "航班动态追踪",
+  "description": "基于飞常准数据，提供航班实时动态、延误分析、舒适度评分、机场天气查询，覆盖全球航班，零配置即用",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:shadow-ai-monitor",
+  "slug": "shadow-ai-monitor",
+  "name": "shadow-ai-monitor",
+  "title": "影子人工智能监视器",
+  "description": "Shadow AI Monitor - Enterprise-grade dashboard for tracking employee AI tool usage, data exposure risks, and PIPEDA compliance. Generates professional HTML dashboards with interactive drill-downs, compliance analysis, and PDF export. Perfect for CTOs and security teams monitoring ChatGPT, Claude, Gemini, Copilot, and other AI tools. Includes demo data generator for presentations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Shadow Ai Monitor",
+  "function_label": "Browser"
+}

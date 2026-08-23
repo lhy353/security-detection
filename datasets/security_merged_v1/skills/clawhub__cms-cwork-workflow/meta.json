@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:cms-cwork-workflow",
+  "slug": "cms-cwork-workflow",
+  "name": "cms-cwork-workflow",
+  "title": "提供【工作协同】全流程执行能力",
+  "description": "提供【工作协同】全流程执行能力。用户一旦表达“写汇报/发汇报/发周报/提交汇报/查看收件箱/查待办/任务协作/业务单元”等执行意图，必须进入本 Skill 的脚本调用流程；仅当用户明确是纯咨询（如问规则、问怎么做）时，才允许先文字说明并二次确认是否执行。本 Skill 通过依赖 `cms-auth-skills` 获取 `AppKey` 并完成鉴权后，才允许进入脚本调用链路。",
+  "detection_label": "benign",
+  "source": "clawhub"
+}

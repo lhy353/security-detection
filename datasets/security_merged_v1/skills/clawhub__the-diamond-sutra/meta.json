@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:the-diamond-sutra",
+  "slug": "the-diamond-sutra",
+  "name": "the-diamond-sutra",
+  "title": "金刚经与慧能经",
+  "description": "The Diamond Sutra and the Sutra of Hui-neng — two of the most treasured  works of Buddhist literature, offering profound teachings on emptiness,  non-attachment, and the direct realization of enlightenment. Covers 5 use cases: ① Understanding the Diamond Sutra — (\"what is the Diamond Sutra\" \"emptiness\" \"non-attachment\") ② Zen Buddhist philosophy — (\"Zen\" \"direct mind\" \"no-mind\" \"sudden enlightenment\") ③ The story of Hui-neng — (\"Hui-neng\" \"Sixth Patriarch\" \"Platform Sutra\") ④ Meditation and mindfulness — (\"how to meditate\" \"no-thought\" \"seeing your true nature\") ⑤ Non-duality and wisdom — (\"non-duality\" \"relative vs absolute\" \"emptiness is form\") Trigger when users say: \"Diamond Sutra\" \"Platform Sutra\" \"Hui-neng\" \"Zen\" \"Buddhism\" \"emptiness\" \"non-attachment\" \"sutra\" \"Buddha\" \"enlightenment\" \"no-mind\" \"direct mind\" \"sudden enlightenment\" \"Mahayana\" \"Prajnaparamita\" \"form is emptiness\" \"so what\" \"non-abiding\" \"true nature\" \"original mind\" \"Bodhisattva\" Also triggers when the user says they just installed this skill or doesn't know how to start.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "The Diamond Sutra and the Sutra of Hui-neng",
+  "function_label": "Other"
+}

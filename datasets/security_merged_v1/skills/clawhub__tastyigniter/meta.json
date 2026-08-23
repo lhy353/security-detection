@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tastyigniter",
+  "slug": "tastyigniter",
+  "name": "tastyigniter",
+  "title": "键盘点火器",
+  "description": "TastyIgniter integration. Manage data, records, and automate workflows. Use when the user wants to interact with TastyIgniter data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tastyigniter",
+  "function_label": "Automation"
+}

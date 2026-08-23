@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-id-osiris",
+  "slug": "agent-id-osiris",
+  "name": "agent-identity",
+  "title": "特工身份识别技能",
+  "description": "Cryptographic identity for AI agents - sign and verify agent messages",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Identity Skill",
+  "function_label": "Communication"
+}

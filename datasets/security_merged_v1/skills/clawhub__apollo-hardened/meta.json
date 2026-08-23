@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:apollo-hardened",
+  "slug": "apollo-hardened",
+  "name": "apollo-hardened",
+  "title": "阿波罗大作战",
+  "description": "Interact with Apollo.io REST API (people/org enrichment, search, lists).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Apollo.io",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:international-moot-research",
+  "slug": "international-moot-research",
+  "name": "国际模拟法庭检索思路与技巧",
+  "title": "国际模拟法庭检索思路与技巧",
+  "description": "国际模拟法庭检索实操指南，包括国际法专业数据库汇总、检索思路和技巧、以及人工智能时代的变与不变。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

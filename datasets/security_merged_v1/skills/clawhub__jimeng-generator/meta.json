@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:jimeng-generator",
+  "slug": "jimeng-generator",
+  "name": "jimeng-generator",
+  "title": "即梦 4.0 图片生成器",
+  "description": "即梦 4.0 图片生成器，通过文本描述生成高质量图片，支持多图编辑与智能比例。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

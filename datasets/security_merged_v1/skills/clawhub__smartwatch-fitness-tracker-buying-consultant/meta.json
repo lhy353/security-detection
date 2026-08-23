@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:smartwatch-fitness-tracker-buying-consultant",
+  "slug": "smartwatch-fitness-tracker-buying-consultant",
+  "name": "smartwatch-fitness-tracker-buying-consultant",
+  "title": "智能手表健身追踪器购买顾问",
+  "description": "Guide users buying a smartwatch or fitness tracker through platform, health sensors, battery life, durability, and activity questions to get the exact specs they need — brand-neutral.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Smartwatch Fitness Tracker Buying Consultant",
+  "function_label": "Automation"
+}

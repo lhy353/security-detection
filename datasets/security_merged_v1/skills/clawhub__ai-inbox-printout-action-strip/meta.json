@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-inbox-printout-action-strip",
+  "slug": "ai-inbox-printout-action-strip",
+  "name": "ai-inbox-printout-action-strip",
+  "title": "收件箱打印输出动作条",
+  "description": "Create a one-page printable action strip for printed email, AI notes, and desk inbox pages using short labels, physical placement cues, and done boxes without exposing sensitive details.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ai Inbox Printout Action Strip",
+  "function_label": "Data-Agent"
+}

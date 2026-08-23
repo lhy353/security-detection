@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:justserpapi-google-shorts-search",
+  "slug": "justserpapi-google-shorts-search",
+  "name": "Google SERP Shorts Search API",
+  "title": "搜索",
+  "description": "Call GET /api/v1/google/shorts/search for Google SERP Shorts Search through Just Serp API with query.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Google SERP Shorts Search",
+  "function_label": "Research"
+}

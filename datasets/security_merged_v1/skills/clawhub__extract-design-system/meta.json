@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:extract-design-system",
+  "slug": "extract-design-system",
+  "name": "extract-design-system",
+  "title": "提取设计系统",
+  "description": "Extract design primitives from a public website and generate starter token files for your project.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Extract Design System",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:brand-protection-walmart",
+  "slug": "brand-protection-walmart",
+  "name": "brand-protection-walmart",
+  "title": "品牌保护——沃尔玛️",
+  "description": "Walmart brand protection toolkit. Detect unauthorized sellers, counterfeits, and MAP violations. Includes Walmart Brand Portal reporting, WFS seller monitoring, and complaint templates. No API key required.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Brand Protection — Walmart ️",
+  "function_label": "Data-Agent"
+}

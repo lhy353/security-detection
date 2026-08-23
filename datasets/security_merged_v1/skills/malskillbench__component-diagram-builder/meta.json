@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:component-diagram-builder",
+  "slug": "component-diagram-builder",
+  "name": "component-diagram-builder",
+  "title": "组件图生成器",
+  "description": "Component Diagram Builder - Auto-activating skill for Technical Documentation.\nTriggers on: component diagram builder, component diagrams\nPart of the Technical Documentation skill category.\n",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Component Diagram Builder",
+  "function_label": "Other"
+}

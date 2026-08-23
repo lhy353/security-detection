@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:netalertx-devcontainer-configs",
+  "slug": "netalertx-devcontainer-configs",
+  "name": "netalertx-devcontainer-configs",
+  "title": "开发容器配置生成",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Devcontainer Config Generation",
+  "function_label": "Automation"
+}

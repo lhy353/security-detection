@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:global-market-briefing",
+  "slug": "global-market-briefing",
+  "name": "global-market-briefing",
+  "title": "全球财经早报 Global Market Briefing",
+  "description": "每日财经早报：A股行情 + RSS全球新闻聚合，自动生成Markdown简报",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

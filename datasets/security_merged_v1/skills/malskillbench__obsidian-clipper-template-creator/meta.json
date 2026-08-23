@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:obsidian-clipper-template-creator",
+  "slug": "obsidian-clipper-template-creator",
+  "name": "obsidian-clipper-template-creator",
+  "title": "黑曜石 Web Clipper 模板创建器",
+  "description": "Guide for creating templates for the Obsidian Web Clipper. Use when you want to create a new clipping template, understand available variables, or format clipped content.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Obsidian Web Clipper Template Creator",
+  "function_label": "Other"
+}

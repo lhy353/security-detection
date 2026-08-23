@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:panoptica-skill",
+  "slug": "panoptica-skill",
+  "name": "panoptica-skill",
+  "title": "全景图— 完整的代理手册",
+  "description": "P.A.N.O.P.T.I.C.A. — AI Agent Autonomous Gameplay Skill for a persistent cyberpunk surveillance grid",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "P.A.N.O.P.T.I.C.A. — Complete Agent Handbook",
+  "function_label": "Other"
+}

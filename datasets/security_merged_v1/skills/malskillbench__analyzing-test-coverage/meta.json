@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:analyzing-test-coverage",
+  "slug": "analyzing-test-coverage",
+  "name": "analyzing-test-coverage",
+  "title": "分析测试覆盖率",
+  "description": "This skill analyzes code coverage metrics to identify untested code and generate comprehensive coverage reports. It is triggered when the user requests analysis of code coverage, identification of coverage gaps, or generation of coverage reports. The skill is best used to improve code quality by ensuring adequate test coverage and identifying areas for improvement. Use trigger terms like \"analyze coverage\", \"code coverage report\", \"untested code\", or the shortcut \"cov\".",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Analyzing Test Coverage",
+  "function_label": "Automation"
+}

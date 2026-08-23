@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:windsurf-cascade",
+  "slug": "windsurf-cascade",
+  "name": "windsurf-cascade",
+  "title": "特工技能",
+  "description": "A comprehensive skill for using the Windsurf IDE and its Cascade AI agent for various software engineering tasks (updated for 2026 features, includes Skills, Workflows, Memories, MCP, and multi-agent sessions).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Windsurf Cascade Agent Skill",
+  "function_label": "Research"
+}

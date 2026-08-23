@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:feature-recovery",
+  "slug": "feature-recovery",
+  "name": "feature-recovery",
+  "title": "恢复剂",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Recovery Agent",
+  "function_label": "Coding"
+}

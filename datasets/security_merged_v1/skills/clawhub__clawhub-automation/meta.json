@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:clawhub-automation",
+  "slug": "clawhub-automation",
+  "name": "clawhub-automation",
+  "title": "零代码跨生态自动化",
+  "description": "ClawHub零代码跨生态自动化Skill | No-code cross-platform automation for ClawHub with WeChat, DingTalk, Feishu, WPS integration",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:human-writing-voice",
+  "slug": "human-writing-voice",
+  "name": "human-writing",
+  "title": "人类写作",
+  "description": "Draft or review writing to avoid structural AI tells and preserve a rough human voice.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Human Writing",
+  "function_label": "Other"
+}

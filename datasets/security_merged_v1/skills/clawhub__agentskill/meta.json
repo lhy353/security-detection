@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agentskill",
+  "slug": "agentskill",
+  "name": "agentskill",
+  "title": "代理技能",
+  "description": "Let any agent produce code indistinguishable from the existing codebase.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SKILL.md — agentskill",
+  "function_label": "Coding"
+}

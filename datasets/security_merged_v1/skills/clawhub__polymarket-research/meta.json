@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:polymarket-research",
+  "slug": "polymarket-research",
+  "name": "polymarket-research",
+  "title": "综合市场研究",
+  "description": "Research any Polymarket topic — get market data, probabilities, volumes, and top holders in one snapshot. Read-only, no trading.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Polymarket Research",
+  "function_label": "Data-Agent"
+}

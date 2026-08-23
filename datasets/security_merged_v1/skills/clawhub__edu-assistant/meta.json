@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:edu-assistant",
+  "slug": "edu-assistant",
+  "name": "Edu Assistant",
+  "title": "教育助手，覆盖K12到终身学习全阶段",
+  "description": "AI教育助手，覆盖K12到终身学习全阶段。提供课程规划、学习路径推荐、知识点梳理、考试备考策略、论文写作辅导、在线资源整合。让每个学习者都拥有私人AI导师。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

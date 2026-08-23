@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-editing-software-free",
+  "slug": "video-editing-software-free",
+  "name": "video-editing-software-free",
+  "title": "编辑和导出精美视频",
+  "description": "Get edited MP4 clips ready to post, without touching a single slider. Upload your raw video clips (MP4, MOV, AVI, WebM, up to 500MB), say something like \"trim the pauses, add transitions, and export a clean final cut\", and download 1080p MP4 when it's done. Built for students, freelancers, and casual creators who move fast and want quick professional edits without paying for Premiere or Final Cut.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Editing Software Free — Edit and Export Polished Videos",
+  "function_label": "Communication"
+}

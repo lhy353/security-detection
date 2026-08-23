@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cognimemo-memory",
+  "slug": "cognimemo-memory",
+  "name": "cognimemo-memory",
+  "title": "通用人工智能内存",
+  "description": "Universal AI memory infrastructure that stores, understands, and learns from past interactions. Works across ChatGPT, Claude, Gemini, DeepSeek, and any AI model. Provides cross-app persistent memory via simple API. Use when setting up long-term memory for agents, enabling context persistence across sessions, or when users want their AI to remember preferences, decisions, and history. Triggers on \"cognimemo\", \"persistent memory\", \"cross-app memory\", \"ai memory\", \"remember across sessions\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CogniMemo - Universal AI Memory",
+  "function_label": "Data-Agent"
+}

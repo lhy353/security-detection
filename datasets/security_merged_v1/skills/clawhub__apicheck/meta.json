@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:apicheck",
+  "slug": "apicheck",
+  "name": "apicheck",
+  "title": "测试助手",
+  "description": "API请求构造、curl命令生成、Mock数据、API文档、HTTP状态码速查、Headers说明。API request builder, curl generator, mock data, API documentation, HTTP status codes, headers reference. Use when you need apicheck capabilities. Triggers on: apicheck.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:figma-2",
+  "slug": "figma-2",
+  "name": "figma",
+  "title": "集成",
+  "description": "Figma 集成。浏览团队项目与文件，读取设计结构、页面、节点，导出图片，管理评论，查看版本历史，检查组件/组件集/样式，获取设计变量（Token）。通过 MorphixAI 代理安全访问 Figma API。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

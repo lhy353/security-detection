@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:salesloft",
+  "slug": "salesloft",
+  "name": "salesloft",
+  "title": "销售阁楼",
+  "description": "Salesloft integration. Manage sales data, records, and workflows. Use when the user wants to interact with Salesloft data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Salesloft",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:marp-slides",
+  "slug": "marp-slides",
+  "name": "marp-slides",
+  "title": "幻灯片放映/幻灯片生成器",
+  "description": "Turn docs, notes, data, logs, screenshots, and code summaries into polished Marp slide decks.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Marp Slide Show/Deck Generator",
+  "function_label": "File-Agent"
+}

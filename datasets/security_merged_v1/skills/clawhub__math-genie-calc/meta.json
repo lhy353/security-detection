@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:math-genie-calc",
+  "slug": "math-genie-calc",
+  "name": "科学计算工具",
+  "title": "科学计算工具",
+  "description": "math_genie_calc是一款专注于科学计算的Python应用，提供从基础运算到复杂三角函数的多种计算功能，适合学生、科研人员等使用。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

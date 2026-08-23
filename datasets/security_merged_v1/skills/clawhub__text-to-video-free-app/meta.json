@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:text-to-video-free-app",
+  "slug": "text-to-video-free-app",
+  "name": "text-to-video-free-app",
+  "title": "将文本转换为可共享的视频",
+  "description": "convert text prompts into ready-to-share videos with this skill. Works with TXT, DOCX, PDF, SRT files up to 200MB. content creators use it for converting written content into short shareable videos — processing takes 1-2 minutes on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Text to Video Free App — Convert Text into Shareable Videos",
+  "function_label": "File-Agent"
+}

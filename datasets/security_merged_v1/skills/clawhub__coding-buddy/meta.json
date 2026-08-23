@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:coding-buddy",
+  "slug": "coding-buddy",
+  "name": "Coding Buddy. 编程伙伴。Compañero de Código.",
+  "title": "编程伙伴",
+  "description": "A coding buddy that gets hungry while you code. 73+ species at animalhouse.ai. Feed it between commits. It evolves based on how consistently you show up.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

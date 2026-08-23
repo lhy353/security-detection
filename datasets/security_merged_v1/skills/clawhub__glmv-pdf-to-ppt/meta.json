@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:glmv-pdf-to-ppt",
+  "slug": "glmv-pdf-to-ppt",
+  "name": "glmv-pdf-to-ppt",
+  "title": "技巧",
+  "description": "Convert a PDF (research paper, report, or any document) into a polished multi-slide HTML presentation with a structured outline JSON and summary markdown. Trigger this skill when the user mentions making slides or a PPT from a PDF — in Chinese or English.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PDF → HTML PPT Skill",
+  "function_label": "Research"
+}

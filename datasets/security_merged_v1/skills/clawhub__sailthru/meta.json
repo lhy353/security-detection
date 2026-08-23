@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sailthru",
+  "slug": "sailthru",
+  "name": "sailthru",
+  "title": "赛尔特鲁",
+  "description": "Sailthru integration. Manage data, records, and automate workflows. Use when the user wants to interact with Sailthru data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sailthru",
+  "function_label": "Automation"
+}

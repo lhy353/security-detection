@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:scarcest-not-money-video-gen",
+  "slug": "scarcest-not-money-video-gen",
+  "name": "scarcest-not-money-video-gen",
+  "title": "最稀缺的东西不是钱（戏弄选项→揭示）",
+  "description": "Create vertical scarcity-mystery shorts: not money, option teases, final reveal, timed English captions (WeryAI). Use for guess-the-answer hooks or motivational mystery series. Use when the user asks what is scarcer than money. SEO: scarcest resource video; scarcity reveal video.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Scarcest thing isn’t money (tease options → reveal)",
+  "function_label": "File-Agent"
+}

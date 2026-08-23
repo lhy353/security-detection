@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wos-literature-toolkit",
+  "slug": "wos-literature-toolkit",
+  "name": "wos-literature-toolkit",
+  "title": "文献一站式工具：Web of Science 检索爬取 + PDF 批量…",
+  "description": "WOS 文献一站式工具：Web of Science 检索爬取 + PDF 批量下载，全部在同一个 Web 界面完成。\n基于 Selenium 爬取 WOS 文献列表，导出 Excel 后自动调用多渠道 PDF 下载器（Sci-Hub/CORE/S2 OA/OpenAlex/Unpaywall/Publisher）。\nThis skill should be used when the user wants to search and download academic papers from WOS, or mentions \"WOS\", \"Web of Science\", \"文献检索下载\", \"论文下载\", \"WOS爬虫\".\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

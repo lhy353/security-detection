@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:n8n-workflow-automation-local-backup",
+  "slug": "n8n-workflow-automation-local-backup",
+  "name": "n8n-workflow-automation",
+  "title": "工作流程自动化，具有重试、日志记录和审查队列",
+  "description": "Designs and outputs n8n workflow JSON with robust triggers, idempotency, error handling, logging, retries, and human-in-the-loop review queues. Use when you need an auditable automation that won’t silently fail.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "n8n workflow automation with retries, logging, and review queues",
+  "function_label": "Communication"
+}

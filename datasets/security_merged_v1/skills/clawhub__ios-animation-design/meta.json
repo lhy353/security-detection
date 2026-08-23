@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ios-animation-design",
+  "slug": "ios-animation-design",
+  "name": "ios-animation-design",
+  "title": "动画设计",
+  "description": "Design and plan iOS animations with structured specs covering transitions, micro-interactions, gesture-driven motion, and loading states. Use when the user asks to plan, design, or spec out animations for an iOS app — including screen transitions, navigation animations, interactive gestures, onboarding flows, or any motion design work. Also use when the user wants animation recommendations or wants to decide between animation approaches before writing code.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ios Animation Design",
+  "function_label": "Automation"
+}

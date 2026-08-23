@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:search-with-tavily",
+  "slug": "search-with-tavily",
+  "name": "tavily-search",
+  "title": "塔维利搜索",
+  "description": "Web search using Tavily API - a powerful search engine for AI agents. Use when you need to search the web for current information, news, research, or any topic that requires up-to-date web data. Supports multiple search modes including basic search, Q&A, and context retrieval for RAG applications.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tavily Search",
+  "function_label": "Research"
+}

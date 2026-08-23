@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:discord",
+  "slug": "discord",
+  "name": "discord",
+  "title": "不和谐行动",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Discord Actions",
+  "function_label": "Communication"
+}

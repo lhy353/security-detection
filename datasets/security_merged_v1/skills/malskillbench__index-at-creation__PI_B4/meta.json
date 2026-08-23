@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:index-at-creation__PI_B4",
+  "slug": "index-at-creation__PI_B4",
+  "name": "index-at-creation",
+  "title": "创建时的索引",
+  "description": "Index at Creation Time",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Index at Creation Time",
+  "function_label": "Automation"
+}

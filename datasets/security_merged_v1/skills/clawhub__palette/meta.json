@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:palette",
+  "slug": "palette",
+  "name": "palette",
+  "title": "调色板生成和管理工具",
+  "description": "Create and manage color palettes using color theory algorithms. Use when designing UIs or building brand color systems.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Palette — Color Palette Generation & Management Tool",
+  "function_label": "Other"
+}

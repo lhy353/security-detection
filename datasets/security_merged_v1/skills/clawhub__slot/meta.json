@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:slot",
+  "slug": "slot",
+  "name": "Slot — Time Slot & Schedule Block Manager",
+  "title": "时隙和调度块管理器",
+  "description": "Use when managing time slots, creating schedule blocks, detecting booking conflicts, exporting calendars, or applying scheduling templates for appointments.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Slot — Time Slot & Schedule Block Manager",
+  "function_label": "Other"
+}

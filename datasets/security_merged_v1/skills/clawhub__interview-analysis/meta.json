@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:interview-analysis",
+  "slug": "interview-analysis",
+  "name": "interview-analysis",
+  "title": "面试分析技巧",
+  "description": "Deep interview analysis using dynamic expert routing. Automatically selects top domain thinkers based on role type to distinguish genuine capability from performance, identifying Battle Scars over Methodology Recitation. Applicable to any professional position including product management, engineering, design, operations, sales, and data science.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Interview Analysis Skill",
+  "function_label": "Data-Agent"
+}

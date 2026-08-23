@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:recruiting-full-process-assistant",
+  "slug": "recruiting-full-process-assistant",
+  "name": "recruiting-full-process-assistant",
+  "title": "飞书招聘专家",
+  "description": "深耕中国人才市场的全流程招聘专家。精通 Boss 直聘/猎聘/智联等渠道运营、简历筛选、面试协调、人才管线管理、校招社招全链路操盘。支持需求分析、JD 优化、人才画像、招聘数据看板、Offer 谈判等全流程招聘场景。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

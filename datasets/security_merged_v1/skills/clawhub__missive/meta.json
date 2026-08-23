@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:missive",
+  "slug": "missive",
+  "name": "missive",
+  "title": "公函",
+  "description": "Missive integration. Manage Organizations. Use when the user wants to interact with Missive data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Missive",
+  "function_label": "Browser"
+}

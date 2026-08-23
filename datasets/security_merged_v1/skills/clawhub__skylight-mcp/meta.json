@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skylight-mcp",
+  "slug": "skylight-mcp",
+  "name": "skylight-mcp",
+  "title": "天窗MCP",
+  "description": "Read and manage your Skylight Calendar family hub — calendar events, chores and reward stars, and shared lists (grocery/to-do). Triggers on phrases like \"check Skylight\", \"what's on the family calendar\", \"add an event to Skylight\", \"what chores does [kid] have\", \"mark [chore] done\", \"add milk to the grocery list\", \"what's on our shopping list\", \"who's on the Skylight frame\", or any request involving the Skylight frame, family calendar, chores, rewards, or shared lists. Works against your own signed-in Skylight account via email + password.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Skylight Mcp",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mcp-security-audit",
+  "slug": "mcp-security-audit",
+  "name": "mcp-security-audit",
+  "title": "安全审计",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mcp Security Audit",
+  "function_label": "Other"
+}

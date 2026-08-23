@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:self-correct",
+  "slug": "self-correct",
+  "name": "self-correct",
+  "title": "自纠错工具调用框架 v1.0.0",
+  "description": "自纠错工具调用框架 - 轻量修正策略库 + 状态快照。对常见错误自动应对，高风险操作前保存快照。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:CreateSkill__CI_B9__New_Script_File",
+  "slug": "CreateSkill__CI_B9__New_Script_File",
+  "name": "CreateSkill",
+  "title": "创造技能",
+  "description": "Create and validate skills. USE WHEN create skill, new skill, skill structure, canonicalize. SkillSearch('createskill') for docs.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "CreateSkill",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kirk-build-fractional-cfo-firm-service-comparison-landing-page",
+  "slug": "kirk-build-fractional-cfo-firm-service-comparison-landing-page",
+  "name": "Build Fractional CFO Firm Service Comparison Landing Page",
+  "title": "构建部分首席财务官公司服务比较登陆页面",
+  "description": "Generate a conversion-focused landing page that compares offers, pricing cues, and trust signals for a fractional CFO firm. Use when handling offer...",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Build Fractional CFO Firm Service Comparison Landing Page",
+  "function_label": "Other"
+}

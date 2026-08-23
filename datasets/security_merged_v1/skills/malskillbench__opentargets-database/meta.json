@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:opentargets-database",
+  "slug": "opentargets-database",
+  "name": "opentargets-database",
+  "title": "打开目标数据库",
+  "description": "Query Open Targets Platform for target-disease associations, drug target discovery, tractability/safety data, genetics/omics evidence, known drugs, for therapeutic target identification.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Open Targets Database",
+  "function_label": "Data-Agent"
+}

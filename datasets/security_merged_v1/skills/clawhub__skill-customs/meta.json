@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:skill-customs",
+  "slug": "skill-customs",
+  "name": "yunlv-customs-scout",
+  "title": "海关数据智能获客：竞品客户挖掘与贸易情报",
+  "description": "Use when user needs to find import/export trade data, competitor customers, or market intelligence from customs data. Use when searching for active buyers of specific products in target markets. Use when performing competitor client mining via trade records. Use when user mentions \"海关数据\", \"进出口数据\", \"采购商\", \"竞争对手客户\", \"挖客户\", \"贸易数据\", \"Import Intel\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

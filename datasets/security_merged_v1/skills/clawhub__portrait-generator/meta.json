@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:portrait-generator",
+  "slug": "portrait-generator",
+  "name": "portrait-generator",
+  "title": "肖像生成器",
+  "description": "Generate hyper-detailed AI portraits via ComfyDeploy Morfeo Portrait workflow.\nControl every facial feature: eyes, nose, lips, jawline, skin, hair, expression.\n\n✅ USE WHEN:\n- Need a specific face with controlled features (age, ethnicity, expression, skin)\n- Generating model references for Morpheus campaigns\n- Creating diverse character portraits for content\n- User describes a specific person or character type\n\n❌ DON'T USE WHEN:\n- Need a full-body shot → use morpheus-fashion-design\n- Need a person WITH a product → use morpheus-fashion-design\n- Need image variations → use multishot-ugc\n\nINPUT: Natural language description → mapped to structured facial parameters\nOUTPUT: High-resolution portrait PNG\n\nDEPLOYMENT ID: 0b82e690-9a08-4d1f-85f8-28849d16caa4",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Portrait Generator — ComfyDeploy Skill",
+  "function_label": "Automation"
+}

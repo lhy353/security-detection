@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:session-branch",
+  "slug": "session-branch",
+  "name": "session-branch",
+  "title": "会议分会",
+  "description": "Branch a coding session into a new conversation with full context handoff — generate structured handoff doc, startup prompts, and guide the new session to pick up exactly where you left off.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Session Branch",
+  "function_label": "Communication"
+}

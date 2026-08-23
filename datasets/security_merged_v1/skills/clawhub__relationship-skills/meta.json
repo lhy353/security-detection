@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:relationship-skills",
+  "slug": "relationship-skills",
+  "name": "relationship-skills",
+  "title": "人际关系技巧",
+  "description": "Improve relationships with communication tools, conflict resolution, and connection ideas",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Relationship Skills",
+  "function_label": "Other"
+}

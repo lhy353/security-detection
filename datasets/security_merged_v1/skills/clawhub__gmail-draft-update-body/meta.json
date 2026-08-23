@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gmail-draft-update-body",
+  "slug": "gmail-draft-update-body",
+  "name": "Gmail Draft Update Body",
+  "title": "草稿更新正文",
+  "description": "Atomic node skill to update the body text of an existing Gmail draft.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Gmail Draft Update Body",
+  "function_label": "Other"
+}

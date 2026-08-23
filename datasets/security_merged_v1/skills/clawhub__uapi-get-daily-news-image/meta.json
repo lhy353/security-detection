@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:uapi-get-daily-news-image",
+  "slug": "uapi-get-daily-news-image",
+  "name": "uapi-get-daily-news-image",
+  "title": "每日新闻图 接口",
+  "description": "使用 UAPI 的“每日新闻图”单接口 skill，处理 每日新闻图、新闻海报、每日内容 等请求。 Use when the user wants get daily news image, daily news-image, news-image, daily news image, daily digest, news poster, or when you need to call GET /daily/news-image directly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

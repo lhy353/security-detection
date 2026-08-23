@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cpp-code-style",
+  "slug": "cpp-code-style",
+  "name": "C++/CPP Code Style",
+  "title": "代码都用这个coding style, code style, 代…",
+  "description": "C++/CPP代码都用这个coding style, code style, 代码风格，写代码之前阅读下面规则",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

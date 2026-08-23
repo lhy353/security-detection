@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bp-reporting-templates",
+  "slug": "bp-reporting-templates",
+  "name": "bp-reporting-templates",
+  "title": "报告模板",
+  "description": "Generate BP monthly/quarterly/half-year/year report filling templates from BP data (API first, file fallback) with strict reviewer checks for code anchors, numeric traceability, and alert rules.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bp Reporting Templates",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:beijing-pollen-monitor",
+  "slug": "beijing-pollen-monitor",
+  "name": "beijing-pollen-monitor",
+  "title": "适合直接展示给用户或推送通知",
+  "description": "查询北京花粉实时监测和预报数据，生成包含区级浓度、站点趋势、总量预报与分类预报的结果。北京 16 个固定站点，每区一个，用区名指定。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

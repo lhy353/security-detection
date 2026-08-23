@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ohos-react-native-performance",
+  "slug": "ohos-react-native-performance",
+  "name": "ohos-react-native-performance",
+  "title": "性能静态检查技巧",
+  "description": "OpenHarmony React Native performance static checks and optimization. Based on ohos_react_native performance doc. Use when writing or reviewing React Native for OpenHarmony code, bundle-harmony, lifecycle, or TurboModule. Applies to RNAbility, Hermes bytecode, React render optimization.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenHarmony React Native Performance Static Check Skills",
+  "function_label": "Coding"
+}

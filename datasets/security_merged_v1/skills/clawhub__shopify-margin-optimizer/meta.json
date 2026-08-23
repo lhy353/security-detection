@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:shopify-margin-optimizer",
+  "slug": "shopify-margin-optimizer",
+  "name": "shopify-margin-optimizer",
+  "title": "利润率和盈利能力优化器",
+  "description": "Optimize profit margins for Shopify stores by analyzing COGS, operating costs, and revenue levers to improve profitability. Triggers: margin optimizer, profit margins, improve profitability, cost reduction shopify, gross margin improvement",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Shopify Margin & Profitability Optimizer",
+  "function_label": "Other"
+}

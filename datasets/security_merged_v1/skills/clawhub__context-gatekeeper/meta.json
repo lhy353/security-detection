@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:context-gatekeeper",
+  "slug": "context-gatekeeper",
+  "name": "context-gatekeeper",
+  "title": "上下文看门人",
+  "description": "Keeps the conversation token-friendly by summarizing recent exchanges, surfacing pending actions, and delivering a compact briefing for each turn before calling the model. Trigger this skill whenever you need to prune a bloated thread or keep the next prompt lean.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Context Gatekeeper",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clangd-lsp",
+  "slug": "clangd-lsp",
+  "name": "clangd-lsp",
+  "title": "铿锵Lsp",
+  "description": "C/C++ language server (clangd) providing code intelligence, diagnostics, and formatting for .c, .h, .cpp, .cc, .cxx, .hpp, .hxx files. Use when working with C or C++ code that needs autocomplete, go-to-definition, find references, error detection, or refactoring support.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clangd Lsp",
+  "function_label": "Coding"
+}

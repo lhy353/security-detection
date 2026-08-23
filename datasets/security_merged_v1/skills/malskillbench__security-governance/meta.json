@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:security-governance",
+  "slug": "security-governance",
+  "name": "security-governance",
+  "title": "安全治理框架",
+  "description": "Manage security policies, compliance audits, and risk assessments for enterprise systems",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Security Governance Framework",
+  "function_label": "Data-Agent"
+}

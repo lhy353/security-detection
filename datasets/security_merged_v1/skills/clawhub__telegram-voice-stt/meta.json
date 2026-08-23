@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:telegram-voice-stt",
+  "slug": "telegram-voice-stt",
+  "name": "telegram-voice-stt",
+  "title": "语音 → 文本",
+  "description": "Transcribe Telegram voice notes to text before the assistant replies. Use when the user sends a voice message on Telegram (@AadiAssistantbot), or mentions voice note, speech to text, STT, audio to text, or whisper on Telegram. OpenClaw auto-transcribes inbound .ogg voice files; treat the transcript as the user's question and answer it directly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Telegram Voice → Text (STT)",
+  "function_label": "Communication"
+}

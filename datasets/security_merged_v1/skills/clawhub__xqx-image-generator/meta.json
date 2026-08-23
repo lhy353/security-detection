@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:xqx-image-generator",
+  "slug": "xqx-image-generator",
+  "name": "xqx-image-generator",
+  "title": "文生图",
+  "description": "使用火山引擎Ark进行文生图，支持生成头像、封面、海报、配图等，适用于用户请求包含‘生成图片’、‘AI绘图’等关键词的场景",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

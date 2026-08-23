@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ecommerce-return-intelligence",
+  "slug": "ecommerce-return-intelligence",
+  "name": "ecommerce-return-intelligence",
+  "title": "电商退货洞察器",
+  "description": "分析退货原因并区分产品问题、预期错配、物流问题和描述问题。；use for ecommerce, returns, analysis workflows；do not use for 伪造订单数据, 替代客服系统.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

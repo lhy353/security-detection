@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:multiline-description",
+  "slug": "multiline-description",
+  "name": "multiline-description",
+  "title": "多行描述技巧",
+  "description": "This is a multiline description.\nIt spans multiple lines.\nAnd should be normalized.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Multiline Description Skill",
+  "function_label": "Automation"
+}

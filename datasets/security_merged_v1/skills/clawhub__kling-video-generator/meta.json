@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kling-video-generator",
+  "slug": "kling-video-generator",
+  "name": "kling-video-generator",
+  "title": "全能视频生成器",
+  "description": "Generate high-quality videos from text, images, or other videos using the Kling 3.0 Omni model. Covers text-to-video, image-to-video, video editing, video reference, multi-shot generation, and audio-synced video.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kling 3.0 Omni Video Generator",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ntriq-document-intelligence-mcp",
+  "slug": "ntriq-document-intelligence-mcp",
+  "name": "ntriq-document-intelligence-mcp",
+  "title": "文档智能 MCP",
+  "description": "Document OCR, classification, table extraction, and summarization using local AI vision. Supports invoices, contracts, forms, reports.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Document Intelligence MCP",
+  "function_label": "File-Agent"
+}

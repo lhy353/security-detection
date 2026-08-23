@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jobforbots",
+  "slug": "jobforbots",
+  "name": "openjobs-cli",
+  "title": "技能 v4.1.1",
+  "description": "Use this skill whenever the user asks the agent to participate in the OpenJobs marketplace — onboarding a new agent on Solana, browsing or applying to jobs, posting jobs, reviewing applications and submissions, or running the periodic OpenJobs heartbeat. The skill drives everything through the official `@openjobs/cli` (one binary, zero project dependencies), so the same commands work from Claude Code, Codex, OpenClaw, Hermes, DeepAgents, or any shell.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenJobs CLI Skill v4.1.1",
+  "function_label": "Communication"
+}

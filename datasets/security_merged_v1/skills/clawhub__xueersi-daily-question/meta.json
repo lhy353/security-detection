@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:xueersi-daily-question",
+  "slug": "xueersi-daily-question",
+  "name": "xueersi-daily-question",
+  "title": "学而思每日一题生成器",
+  "description": "Xueersi Daily Question Generator: Auto-generates one practice question by grade and subject (Chinese, Math, English) with full answer explanation. Perfect for K-9 daily study habits. 学而思(Xueersi) 每日一题生成器 — 按年级/科目出一道练习题+解析。By Xueersi-AI.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

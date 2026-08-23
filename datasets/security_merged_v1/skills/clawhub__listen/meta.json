@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:listen",
+  "slug": "listen",
+  "name": "Listen",
+  "title": "听",
+  "description": "Improve transcription accuracy over time. Learn corrections, configure STT.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Listen"
+}

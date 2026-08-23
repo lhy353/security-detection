@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kinthai-self-improving-user",
+  "slug": "kinthai-self-improving-user",
+  "name": "kinthai-self-improving-user",
+  "title": "自我提升用户",
+  "description": "User-level self-improvement: captures corrections, preferences, and errors per user_id. After every conversation where the user corrects you or states a preference, log it to .learnings/{user_id}/. Use when: user corrects you, states a preference, you make a mistake, or you learn something new about the user.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kinthai Self Improving User",
+  "function_label": "Data-Agent"
+}

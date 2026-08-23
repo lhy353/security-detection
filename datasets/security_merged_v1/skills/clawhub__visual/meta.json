@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:visual",
+  "slug": "visual",
+  "name": "Visual",
+  "title": "视觉美化",
+  "description": "提供平面设计、UI交互、PPT美化及品牌调性升级指引。 ",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

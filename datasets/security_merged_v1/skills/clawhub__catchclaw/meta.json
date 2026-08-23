@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:catchclaw",
+  "slug": "catchclaw",
+  "name": "catchclaw",
+  "title": "代理经理",
+  "description": "Search, install, and export agentars and teams from the CatchClaw marketplace. Use when the user wants to find, install, or package agent templates or teams.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CatchClaw Agentar Manager",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:asndurl",
+  "slug": "asndurl",
+  "name": "ampersend",
+  "title": "用于代理付款的 Ampersend CLI",
+  "description": "Ampersend CLI for agent payments",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ampersend CLI",
+  "function_label": "Browser"
+}

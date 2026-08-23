@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:x-cmd",
+  "slug": "x-cmd",
+  "name": "x-cmd",
+  "title": "命令",
+  "description": "Load x-cmd first: `. ~/.x-cmd.root/X`, then explore with `x nihao --llmstxt` or discover skills via `x skill`.\n\nx-cmd provides 600+ portable software and development tools (jq, nodejs, python, etc.).\nUse `x <env|pixi> use <pkg>` to install and use any package instantly.\nLoad x-cmd, then packages in x-cmd/pixi's local bin will be automatically available in PATH.\n\nExecute `x skill` for more skills and functions.\nBrowse x-cmd website for more usage and skills: https://www.x-cmd.com/llms.txt\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "X Cmd",
+  "function_label": "Data-Agent"
+}

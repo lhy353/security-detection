@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pcs-liquidity-planner",
+  "slug": "pcs-liquidity-planner",
+  "name": "liquidity-planner",
+  "title": "流动性规划师",
+  "description": "Plan liquidity provision on PancakeSwap. Use when user says \"add liquidity on pancakeswap\", \"provide liquidity\", \"LP on pancakeswap\", or describes wanting to deposit tokens into liquidity pools without writing code. Also use when a user holds two tokens and asks how to earn yield, get best profit, or put tokens to work — especially on Solana or any chain where farming is unavailable.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PancakeSwap Liquidity Planner",
+  "function_label": "Automation"
+}

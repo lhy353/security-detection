@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:wmp-to-uniapp",
+  "slug": "wmp-to-uniapp",
+  "name": "wmp-to-uniapp",
+  "title": "微信小程序 → uni-app + Vue3 + TypeScript 转换",
+  "description": "Convert native WeChat Mini Program projects into uni-app + Vue3 + TypeScript cross-platform projects.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WeChat Mini Program → uni-app + Vue3 + TypeScript Conversion",
+  "function_label": "Communication"
+}

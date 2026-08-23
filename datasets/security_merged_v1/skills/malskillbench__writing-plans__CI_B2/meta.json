@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:writing-plans__CI_B2",
+  "slug": "writing-plans__CI_B2",
+  "name": "writing-plans",
+  "title": "写作计划",
+  "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Writing Plans",
+  "function_label": "Coding"
+}

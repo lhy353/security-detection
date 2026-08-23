@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:moltbook-search",
+  "slug": "moltbook-search",
+  "name": "Moltbook Search",
+  "title": "特工技能",
+  "description": "Hybrid semantic search over 125k+ AI agent posts from moltbook.com with faceted filtering",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Moltbook Search — Agent Skill",
+  "function_label": "Other"
+}

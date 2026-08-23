@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:baoyu-compress-image__CI_B9",
+  "slug": "baoyu-compress-image__CI_B9",
+  "name": "baoyu-compress-image",
+  "title": "图像压缩器",
+  "description": "Compresses images to WebP (default) or PNG with automatic tool selection. Use when user asks to \"compress image\", \"optimize image\", \"convert to webp\", or reduce image file size.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Image Compressor",
+  "function_label": "Other"
+}

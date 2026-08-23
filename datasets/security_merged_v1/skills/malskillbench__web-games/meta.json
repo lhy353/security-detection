@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:web-games",
+  "slug": "web-games",
+  "name": "web-games",
+  "title": "网页浏览器游戏开发",
+  "description": "Web browser game development principles. Framework selection, WebGPU, optimization, PWA.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Web Browser Game Development",
+  "function_label": "Automation"
+}

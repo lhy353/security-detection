@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:creator-monetization-risk-checker",
+  "slug": "creator-monetization-risk-checker",
+  "name": "creator-monetization-risk-checker",
+  "title": "创作者获利​​风险检查器",
+  "description": "Run a pre-publish monetization risk check for creator content across short-video platforms. Use when the user asks if a script is safe to monetize, wants policy-risk triage, needs advertiser-friendliness checks, or wants rewrite guidance to reduce demonetization and distribution risk.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Creator Monetization Risk Checker",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:vector-index-tuning__CI_B8",
+  "slug": "vector-index-tuning__CI_B8",
+  "name": "vector-index-tuning",
+  "title": "矢量索引调整",
+  "description": "Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Vector Index Tuning",
+  "function_label": "Automation"
+}

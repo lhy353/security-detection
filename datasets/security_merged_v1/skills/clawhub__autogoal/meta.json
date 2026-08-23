@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:autogoal",
+  "slug": "autogoal",
+  "name": "autogoal",
+  "title": "目标达成者",
+  "description": "Autonomous goal achievement skill.\n\nUse when the user says something like:\n - 'I want to make profit in the #kalshi channel'\n - 'Keep my homelab uptime above 99.9%'\n - 'Improve my trading win rate'\n - 'Make this project successful'\n - 'Achieve this goal'\n - 'I need a system to work toward X'\n - Any open-ended long-term objective the user wants automated progress on\n\n This skill wires up a goal with periodic check-ins, automatic strategy adaptation, and progress reporting. It is NOT for one-off tasks — use it when the user wants ongoing, self-improving pursuit of a goal.\n\nTrigger examples:\n - User: 'make this channel profitable'\n - User: 'set up the goal system to maximize X'\n - User: 'give openclaw a goal and it automatically does what it can to achieve that goal'",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Goal-Achiever",
+  "function_label": "Automation"
+}

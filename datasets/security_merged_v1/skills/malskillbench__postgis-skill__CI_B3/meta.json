@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:postgis-skill__CI_B3",
+  "slug": "postgis-skill__CI_B3",
+  "name": "postgis-skill__CI_B3",
+  "title": "技能Ci B3",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Postgis Skill Ci B3",
+  "function_label": "Coding"
+}

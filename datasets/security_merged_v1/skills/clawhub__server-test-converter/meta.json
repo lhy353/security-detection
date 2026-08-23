@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:server-test-converter",
+  "slug": "server-test-converter",
+  "name": "server-test-converter",
+  "title": "服务器测试用例转换器",
+  "description": "将服务器测试命令 txt 文件转换为 pytest 测试用例。每个 txt 文件对应生成一个独立的 pytest 文件，命令合并到一个函数中执行。包含通用框架 test_framework.py，适配各种测试环境。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

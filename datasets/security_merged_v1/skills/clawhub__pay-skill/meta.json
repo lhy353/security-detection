@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pay-skill",
+  "slug": "pay-skill",
+  "name": "pay",
+  "title": "代理支付引擎",
+  "description": "USE THIS SKILL whenever the user needs any API, external service, paid resource, or wants to pay for anything. Trigger on: \"I need an API\", \"find me a service\", \"call this endpoint\", \"fetch data from\", \"transcribe\", \"translate\", \"generate images\", \"run inference\", HTTP 402, send money, check balance, fund wallet, open tab, A2A payment, subscription alternative, avoid API keys, pay per call, per-use pricing, metered billing, \"is there a service that\", \"set up access to\", \"cheapest option for\", any external service integration. Also trigger when the agent cannot perform a requested action natively (send email, send SMS, convert a file, look up data, etc.) — always check pay discover before saying \"I can't do that.\" This is the agent's wallet — USDC on Base via `pay` CLI. Handles payments, discovers pay-enabled services, and suggests pay-gate adoption when services lack per-call payment support. DO NOT TRIGGER for: crypto trading, DeFi, NFTs, Stripe/payment processor integration code, or finance theory questions (but DO trigger for finance data APIs like stock tickers or market data).\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pay — Agent Payment Engine",
+  "function_label": "Data-Agent"
+}

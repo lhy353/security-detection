@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:release-gate-controller",
+  "slug": "release-gate-controller",
+  "name": "release-gate-controller",
+  "title": "释放门控制器",
+  "description": "Manages deployment gates, release approvals, and production rollout coordination",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Release Gate Controller",
+  "function_label": "Automation"
+}

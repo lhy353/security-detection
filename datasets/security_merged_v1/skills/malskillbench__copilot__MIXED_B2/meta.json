@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:copilot__MIXED_B2",
+  "slug": "copilot__MIXED_B2",
+  "name": "copilot",
+  "title": "创建带有内嵌描述的任务",
+  "description": "Hand off a task to GitHub Copilot.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Create a task with an inline description",
+  "function_label": "Automation"
+}

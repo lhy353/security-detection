@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:update-docs-on-code-change",
+  "slug": "update-docs-on-code-change",
+  "name": "update-docs-on-code-change",
+  "title": "更新代码更改文档",
+  "description": "Automatically update README.md and documentation files when application code changes require documentation updates. Use when adding new features, changing APIs, modifying configuration options, updating installation procedures, or making breaking changes. Triggers on code modifications that affect user-facing documentation, changelog entries, migration guides, or code examples.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Update Documentation on Code Change",
+  "function_label": "Other"
+}

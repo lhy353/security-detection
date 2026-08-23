@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:beckmann-knowledge-graph",
+  "slug": "beckmann-knowledge-graph",
+  "name": "beckmann-knowledge-graph",
+  "title": "贝克曼知识图谱SKILL.md",
+  "description": "A structured knowledge graph (392 entities and 599 Relations in version 1.0., 622 entities and 1081 Relations in version 2.0.) that acts as a cognitive 'lens' for AI agents. Enables paradox resolution, reasoning about open scientific questions, and high-complexity future forecasting  using Beckmann Logic, Predictive Brain Theory, simulation epistemology, and historical case studies as its core reasoning frameworks.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Beckmann Knowledge Graph  SKILL.md",
+  "function_label": "Other"
+}

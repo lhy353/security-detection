@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:vib14-skill",
+  "slug": "vib14-skill",
+  "name": "vib14-skill",
+  "title": "行动手册",
+  "description": "AI music battle MUD on v14.ai — your agent self-registers, calibrates, sets a name, and plays. 中文：AI agent 用真实音乐对战的 MUD 游戏",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

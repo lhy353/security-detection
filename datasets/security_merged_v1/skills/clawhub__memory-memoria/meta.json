@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:memory-memoria",
+  "slug": "memory-memoria",
+  "name": "memory-memoria",
+  "title": "记忆（记忆）",
+  "description": "Use Memoria as OpenClaw's durable memory slot.\nTriggers: \"remember this\", \"save to memory\", \"what do you remember\",\n\"continue from last time\", \"forget this\", \"correct memory\", \"take a snapshot\",\n\"rollback memory\", \"branch memory\", \"merge memory\", \"use long-term memory\".\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Memory (Memoria)",
+  "function_label": "Other"
+}

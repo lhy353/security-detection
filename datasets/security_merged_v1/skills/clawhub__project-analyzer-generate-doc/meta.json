@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:project-analyzer-generate-doc",
+  "slug": "project-analyzer-generate-doc",
+  "name": "project-analyzer-generate-doc",
+  "title": "工程智能文档生成器",
+  "description": "Java Maven multi-module project documentation generator. Supports MyBatis SQL mapping, Maven dependency analysis, generates L3(file-level) to L2(module-level) to L1(project-level) hierarchical docs. Features task monitoring, auto-retry, checkpoint resume, and health checks.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

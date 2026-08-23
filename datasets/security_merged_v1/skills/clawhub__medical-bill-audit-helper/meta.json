@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:medical-bill-audit-helper",
+  "slug": "medical-bill-audit-helper",
+  "name": "Medical Bill Audit Helper",
+  "title": "医疗帐单审核助手",
+  "description": "Turn confusing medical bills and EOBs into a clear audit — organize line items, identify questions to verify, and prepare calm, effective call scripts. No medical, insurance, or legal advice.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Medical Bill Audit Helper",
+  "function_label": "Other"
+}

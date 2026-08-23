@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:openclaw-backup-wrxw0",
+  "slug": "openclaw-backup-wrxw0",
+  "name": "openclaw-backup",
+  "title": "备份技能",
+  "description": "Enhanced backup and restore for openclaw configuration, skills, commands, and settings. Sync across devices, version control with git, automate backups, and migrate to new machines with advanced compression.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "OpenClaw Backup Skill",
+  "function_label": "Other"
+}

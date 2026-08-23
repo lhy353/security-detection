@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:desktop-notifier",
+  "slug": "desktop-notifier",
+  "name": "desktop-notifier",
+  "title": "桌面通知程序",
+  "description": "Send local desktop notifications from Node.js on the current machine. Use when the user wants a native popup, local reminder, or notification test instead of a chat reply. Optimized and verified for Windows; other platforms may work depending on node-notifier support.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Desktop Notifier",
+  "function_label": "Other"
+}

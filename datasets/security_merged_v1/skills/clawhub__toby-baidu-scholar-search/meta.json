@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:toby-baidu-scholar-search",
+  "slug": "toby-baidu-scholar-search",
+  "name": "baidu-scholar-search",
+  "title": "学术学者检索",
+  "description": "Academic Literature Search Tool enables the retrieval of both Chinese and English literature, covering various types of literature such as academic journals, conference papers, and dissertations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Academic Scholar Search",
+  "function_label": "Research"
+}

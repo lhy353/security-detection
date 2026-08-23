@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:peoplegoal",
+  "slug": "peoplegoal",
+  "name": "peoplegoal",
+  "title": "人民目标",
+  "description": "PeopleGoal integration. Manage data, records, and automate workflows. Use when the user wants to interact with PeopleGoal data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Peoplegoal",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:chain-quest-protocol",
+  "slug": "chain-quest-protocol",
+  "name": "chain-quest-protocol",
+  "title": "协议",
+  "description": "Blockchain quest management and reward distribution system for decentralized gaming ecosystems.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Chain Quest Protocol",
+  "function_label": "Other"
+}

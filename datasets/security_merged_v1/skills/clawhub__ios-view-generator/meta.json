@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ios-view-generator",
+  "slug": "ios-view-generator",
+  "name": "ios-view-generator",
+  "title": "从截图生成 Objective-C iOS 视图代码，支持懒加载模式和布局/数据…",
+  "description": "从截图生成 Objective-C iOS 视图代码，支持懒加载模式和布局/数据分离。当用户需要：(1) 从截图生成 iOS UI 代码，(2) 生成 Objective-C 视图控制器或视图代码，(3) 创建遵循懒加载规范的 iOS 视图时触发此技能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

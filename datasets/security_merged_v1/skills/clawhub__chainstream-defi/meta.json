@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:chainstream-defi",
+  "slug": "chainstream-defi",
+  "name": "chainstream-defi",
+  "title": "财务执行] 通过 CLI 和 MCP 工具执行不可逆的链上 DeFi 操作",
+  "description": "[FINANCIAL EXECUTION] Execute irreversible on-chain DeFi operations via CLI and MCP tools. Use when user wants to swap tokens, create tokens on launchpad, sign transactions, broadcast signed transactions, or execute trading strategies. Requires explicit user confirmation before every destructive operation. All transactions are real and irreversible. Keywords: swap, DEX, launchpad, transaction, trade, sign, broadcast, PumpFun, Jupiter, Uniswap, USDC, SOL, execute.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Chainstream Defi"
+}

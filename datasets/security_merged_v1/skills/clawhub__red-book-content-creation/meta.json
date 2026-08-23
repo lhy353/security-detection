@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:red-book-content-creation",
+  "slug": "red-book-content-creation",
+  "name": "xiaohongshu-content",
+  "title": "小红书内容生成技能",
+  "description": "将文章、技术文档等内容转换为适合小红书发布的 HTML 格式，生成封面图和内容截图，配好标题和正文摘要。 用户提供原始内容（Markdown 或纯文本）后，AI 生成适配小红书风格的多图 HTML 页面，并调用截图工具生成可直接发布的图片。 适用于：技术博客分享、知识干货、產品介绍、营销内容等。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

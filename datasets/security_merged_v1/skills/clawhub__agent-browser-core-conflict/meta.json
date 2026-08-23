@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-browser-core-conflict",
+  "slug": "agent-browser-core-conflict",
+  "name": "agent-browser-core",
+  "title": "代理浏览器技能（核心）",
+  "description": "OpenClaw skill for the agent-browser CLI (Rust-based with Node.js fallback) enabling AI-friendly web automation with snapshots, refs, and structured commands.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Browser Skill (Core)",
+  "function_label": "Browser"
+}

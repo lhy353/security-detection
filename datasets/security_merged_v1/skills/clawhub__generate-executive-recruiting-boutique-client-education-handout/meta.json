@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:generate-executive-recruiting-boutique-client-education-handout",
+  "slug": "generate-executive-recruiting-boutique-client-education-handout",
+  "name": "Generate Executive Recruiting Boutique Client Education Handout",
+  "title": "生成高管招聘精品店客户教育讲义",
+  "description": "Create a polished explainer handout with visuals, FAQs, and clear next steps for a executive recruiting firm. Use when handling client education work...",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Generate Executive Recruiting Boutique Client Education Handout",
+  "function_label": "Other"
+}

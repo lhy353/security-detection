@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:solve-problem",
+  "slug": "solve-problem",
+  "name": "solve-problem",
+  "title": "解决问题",
+  "description": "Search knowledge base and research solutions",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Solve Problem",
+  "function_label": "Other"
+}

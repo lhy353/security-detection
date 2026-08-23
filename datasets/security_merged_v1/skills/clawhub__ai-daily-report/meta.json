@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-daily-report",
+  "slug": "ai-daily-report",
+  "name": "ai-daily-report",
+  "title": "每日报告",
+  "description": "每日自动生成 AI 资讯日报并发送。使用场景：用户说 “生成 AI 日报” 或者系统通过定时任务触发。关键词包括：AI日报、AI资讯、开源AI项目、每日报告。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}
