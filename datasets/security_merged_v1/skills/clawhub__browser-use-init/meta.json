@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:browser-use-init",
-  "slug": "browser-use-init",
-  "name": "browser-use-init",
-  "title": "初始化并启动 Chrome DevTools Protocol 模式，支…",
-  "description": "初始化并启动 Chrome DevTools Protocol（CDP）模式，支持用 Playwright 和 browser-use Agent 远程控制真实 Chrome 浏览器。解决 Chrome 145+ App-Bound Encryption 限制，自动复制 Profile 到非默认路径以启用 CDP。适合自动化网页操作、数据提取、Form 填表、爬虫等场景。",
-  "detection_label": "benign_but_dangerous",
-  "source": "clawhub"
-}

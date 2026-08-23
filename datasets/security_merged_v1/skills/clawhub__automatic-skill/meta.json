@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:automatic-skill",
-  "slug": "automatic-skill",
-  "name": "automatic-skill",
-  "title": "每日 Skill 自动工厂",
-  "description": "每日 Skill 自动工厂 — 让 openclaw 和 Claude 完全自主地调研、设计、生成、测试并发布全新 skill，全程零人工介入。内置 10 阶段流水线（Research → Design → SEO → Create → Review → Self-Run → Self-Check → Upload → Verify → Final Review），每天凌晨 02:00 自动选题跑完整流程，输出推送到 GitHub 和 clawHub 的生产级 skill。也可手动指定 idea 触发，或单独调用某一阶段进行调试/迭代。支持用自身流水线对已有 skill 做升级、SEO 优化和重新发布。Use it when the user asks to auto-generate a skill, check daily pipeline status, iterate an existing skill, or publish to GitHub and clawHub.\n",
-  "detection_label": "benign_but_dangerous",
-  "source": "clawhub"
-}

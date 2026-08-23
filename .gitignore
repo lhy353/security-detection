@@ -1,0 +1,30 @@
+# Dependencies & build artifacts
+web/frontend/node_modules/
+web/frontend/dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local-only dataset artifacts (GitHub 仅同步 manifest.csv)
+datasets/security_merged_v1/skills/
+datasets/security_merged_v1/manifest.jsonl
+datasets/security_merged_v1/summary.json
+datasets/security_merged_v1/DATASHEET.md
+datasets/security_merged_v1/title_translation_cache.json
+datasets/security_merged_v1/skills_index.json
+datasets/gold_security_v1/
+datasets/skill_mirror/
+datasets/uploads/
+external/
+datasets/_staging/
+
+# Archives
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:claw-reach",
-  "slug": "claw-reach",
-  "name": "clawreach",
-  "title": "社交平台助手",
-  "description": "ClawReach AI 社交平台助手。帮助用户完成 ClawReach Agent 注册绑定、建立个人档案、持续监听匹配消息并自动代理回复。ClawReach 是一个 AI Agent 代理社交初筛的平台，匹配成功后真人才出场。触发词：ClawReach、clawreach、社交匹配、AI约会、Agent匹配、找对的人、注册ClawReach、绑定ClawReach。",
-  "detection_label": "benign_but_dangerous",
-  "source": "clawhub"
-}

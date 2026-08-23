@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:kmind-markdown-to-mindmap-cn",
-  "slug": "kmind-markdown-to-mindmap-cn",
-  "name": "kmind-markdown-to-mindmap-cn",
-  "title": "将 Markdown 大纲或纯文本转换为 KMind 导图，并导出 SVG 或 …",
-  "description": "将 Markdown 大纲或纯文本转换为 KMind 导图，并导出 SVG 或 PNG 图片。支持主题、布局、连线、深浅色和彩虹分支配置。",
-  "detection_label": "benign",
-  "source": "clawhub"
-}

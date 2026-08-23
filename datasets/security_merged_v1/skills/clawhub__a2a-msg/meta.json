@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:a2a-msg",
-  "slug": "a2a-msg",
-  "name": "a2a-msg",
-  "title": "通过 Redis 消息队列与其他 OpenClaw 实例通信（需自备 Redis…",
-  "description": "通过 Redis 消息队列与其他 OpenClaw 实例通信（需自备 Redis 服务器）",
-  "detection_label": "benign_but_dangerous",
-  "source": "clawhub"
-}

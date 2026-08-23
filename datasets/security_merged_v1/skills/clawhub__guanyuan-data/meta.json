@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:guanyuan-data",
-  "slug": "guanyuan-data",
-  "name": "guanyuan-data",
-  "title": "观远数据 API",
-  "description": "观远数据API工具 - 支持多种认证方式、Token自动管理、卡片数据获取和CSV导出",
-  "detection_label": "benign_but_dangerous",
-  "source": "clawhub"
-}

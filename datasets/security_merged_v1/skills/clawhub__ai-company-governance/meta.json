@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:ai-company-governance",
-  "slug": "ai-company-governance",
-  "name": "ai-company-governance",
-  "title": "统一治理技能包 v3.1",
-  "description": "AI Company 统一治理技能包 — 将 21 个 ai-company 系列技能融合为单一标准化、模块化、通用化的治理框架。 包含 C-Suite Agent 体系（CEO/CFO/CMO/CHO/CPO/CLO/CTO/CQO/CISO/CRO/COO）、 Hub-and-Spoke 架构、Orchestrator-Workers 协作、Guardrail 护栏、CI/CD for Prompt、 KPI 指标库、审计日志、冲突解决、Agent 注册、知识库、标准化/模块化/通用化工程流程。 预留外部调用接口，符合 ClawHub Schema v1.0 与安全审查规范。 触发词：AI公司、C-Suite、Agent协作、AI治理、MLOps、战略决策、预算审批、 风险管理、合规审查、质量管控、品牌危机、人力资源、安全审计、标准化、模块化、通用化。\n",
-  "detection_label": "benign_but_dangerous",
-  "source": "clawhub"
-}

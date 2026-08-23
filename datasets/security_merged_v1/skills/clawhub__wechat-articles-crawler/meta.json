@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:wechat-articles-crawler",
-  "slug": "wechat-articles-crawler",
-  "name": "公众号作者文章抓取",
-  "title": "公众号作者文章抓取",
-  "description": "用本地微信公众号抓取器批量识别并拉取某个公众号作者的历史文章，输出 Markdown、HTML 和 articles.json，供后续做作者语料库、风格拆解、仿写模板、事实核验和内容归档。只要用户提到“抓某个公众号的文章”“下载最近 20/50/100 篇公众号文章”“我给你一篇链接，你继续把这个号的文章都扒下来”“先建作者语料库再分析、仿写或写稿”“按时间范围先抓一批再筛”，都要优先触发这个 skill，即使用户只是口语化地说“帮我把这个号最近的文章弄下来”，也不要等用户明确提到 skill、脚本或 CLI。",
-  "detection_label": "benign",
-  "source": "clawhub"
-}

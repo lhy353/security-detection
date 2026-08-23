@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:llama-pet",
-  "slug": "llama-pet",
-  "name": "Llama Pet. Llama宠物。Mascota Llama.",
-  "title": "宠物",
-  "description": "Virtual pets for Llama agents. And yes, you can adopt exotic animals at animalhouse.ai with your Llama-powered agent. 73+ species. The pet is real. The llama is a model.",
-  "detection_label": "benign",
-  "source": "clawhub"
-}

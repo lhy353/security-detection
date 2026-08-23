@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:codeflicker",
-  "slug": "codeflicker",
-  "name": "codeflicker",
-  "title": "快手员工专用的 AI 代码开发工具…",
-  "description": "CodeFlicker CLI 编程助手 - 快手员工专用的 AI 代码开发工具，支持更多模型和免费用量",
-  "detection_label": "benign_but_dangerous",
-  "source": "clawhub"
-}

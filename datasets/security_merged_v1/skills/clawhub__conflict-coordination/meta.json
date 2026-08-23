@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:conflict-coordination",
-  "slug": "conflict-coordination",
-  "name": "conflict-coordination",
-  "title": "机制冲突协调机制",
-  "description": "Mechanism conflict detection and coordination for AI assistant systems. Automatically detects crontab conflicts, systemd service conflicts, script overlaps, and log path inconsistencies. Use for maintaining system harmony and preventing internal conflicts.",
-  "detection_label": "benign_but_dangerous",
-  "source": "clawhub"
-}

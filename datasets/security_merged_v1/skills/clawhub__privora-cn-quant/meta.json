@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:privora-cn-quant",
-  "slug": "privora-cn-quant",
-  "name": "Privora · 数据驱动投资工作流平台 for AI Agents",
-  "title": "股/黄金/基金/财报事件 量化数据后端 for AI Agents (多资产数据管家 · 字段级…",
-  "description": "Privora · 多资产金融数据后端 for AI Agents — A股/基金/黄金/财报事件 统一 API + Python 策略回测 + 模拟交易 + 7×24 云端告警（港股整理中）。Bearer Token 即接入。Hermes / Claude / GPT / OpenClaw 全兼容。",
-  "detection_label": "benign_but_dangerous",
-  "source": "clawhub"
-}

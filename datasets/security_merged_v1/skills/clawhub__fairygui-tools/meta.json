@@ -1,9 +1,0 @@
-{
-  "id": "clawhub:fairygui-tools",
-  "slug": "fairygui-tools",
-  "name": "fairygui-tools",
-  "title": "设计师 & 工程专家",
-  "description": "解析 FairyGUI 工程、根据 UI 效果图生成示意图与白模 XML，并输出可直接导入 FairyGUI 编辑器的闭环包结构。适用于工程解析、图转原型、XML 结构讨论、自然语言生成界面原型等场景。",
-  "detection_label": "benign",
-  "source": "clawhub"
-}
