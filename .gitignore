@@ -9,8 +9,7 @@ venv/
 .env.*
 !.env.example
 
-# Local-only dataset artifacts (GitHub 仅同步 manifest.csv)
-datasets/security_merged_v1/skills/
+# Local-only dataset artifacts
 datasets/security_merged_v1/manifest.jsonl
 datasets/security_merged_v1/summary.json
 datasets/security_merged_v1/DATASHEET.md
