@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:structuring-git-workflow",
+  "slug": "structuring-git-workflow",
+  "name": "structuring-git-workflow",
+  "title": "构建 Git 工作流程",
+  "description": "Use when working in a git repository and about to start new work, complete a module, commit, push, merge, or rebase. Use before any destructive git operation. Use when you need to decide what branch to work on or how to structure commits.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Structuring Git Workflow",
+  "function_label": "Coding"
+}

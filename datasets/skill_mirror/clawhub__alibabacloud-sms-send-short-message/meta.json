@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:alibabacloud-sms-send-short-message",
+  "slug": "alibabacloud-sms-send-short-message",
+  "name": "alibabacloud-sms-send-short-message",
+  "title": "通过阿里云短信服务向指定手机号码发送短信",
+  "description": "Send short messages (SMS) to specified phone numbers via Alibaba Cloud Short Message Service. Supports verification codes, notification messages, and marketing messages. Use this Skill whenever the user wants to send SMS verification codes, system notifications, order reminders, or marketing campaigns. Supports single send (SendSms, up to 1000 phone numbers sharing the same signature and template parameters) and batch send (SendBatchSms, up to 100 phone numbers, each with its own signature and template parameters). The signature and template approval status can be verified before sending to maximize delivery success rate.\n",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "macOS"
+}

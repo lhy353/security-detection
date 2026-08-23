@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clinico-geral",
+  "slug": "clinico-geral",
+  "name": "clinico-geral",
+  "title": "身份",
+  "description": "Use esta skill para perguntas sobre saúde humana, sintomas, doenças, medicamentos, exames, prevenção, primeiros socorros e emergências médicas. Inclui dor, febre, infecção, pressão, diabetes, gravidez, saúde mental e qualquer dúvida médica.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "IDENTIDADE",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jim-hk-bus-eta",
+  "slug": "jim-hk-bus-eta",
+  "name": "hk-bus-eta",
+  "title": "香港巴士预计到达时间 / 港铁预计到达时间",
+  "description": "Query Hong Kong bus ETA/stop data and MTR heavy rail ETA from natural-language transport questions using official KMB/LWB, Citybus, and MTR open-data endpoints. Use when the user asks in Cantonese, Chinese, or English things like「74X 幾多分鐘後喺九龍灣有車」「A41 去機場而家幾時到青衣站」「城巴 20 喺啟德幾耐到」「火炭站去金鐘方向幾點有車」「金鐘去北角下一班港島線幾時」or any message that combines a bus route with a stop/place, or an MTR station with a destination/direction/ETA intent.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "HK Bus ETA / MTR ETA",
+  "function_label": "Other"
+}

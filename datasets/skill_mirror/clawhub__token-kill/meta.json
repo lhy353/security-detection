@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:token-kill",
+  "slug": "token-kill",
+  "name": "token-kill",
+  "title": "令牌优化器",
+  "description": "Reduce OpenClaw token consumption by 95%+ using three optimization techniques (slash commands, script-first principle, and model tiering)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Token Kill - OpenClaw Token Optimizer",
+  "function_label": "Communication"
+}

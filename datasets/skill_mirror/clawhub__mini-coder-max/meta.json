@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mini-coder-max",
+  "slug": "mini-coder-max",
+  "name": "mini-coder-max",
+  "title": "迷你编码器最大",
+  "description": "Autonomous coding agent that systematically plans, implements, reviews, and delivers high-quality code. Handles tasks of any complexity by following a structured workflow: planning → implementation → quality assurance → delivery. Trigger keywords: code, build, implement, create, develop, fix, refactor, architect.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mini Coder Max",
+  "function_label": "Coding"
+}

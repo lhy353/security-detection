@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:eternal-meeting-extractor",
+  "slug": "eternal-meeting-extractor",
+  "name": "eternal-meeting-extractor",
+  "title": "会议提取器",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Meeting Extractor",
+  "function_label": "Other"
+}

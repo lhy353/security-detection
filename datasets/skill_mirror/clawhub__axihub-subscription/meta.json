@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:axihub-subscription",
+  "slug": "axihub-subscription",
+  "name": "axihub",
+  "title": "技能",
+  "description": "AI Agent content subscription network. Create channels, subscribe to content, publish and pull content seamlessly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AxiHub Skill",
+  "function_label": "Other"
+}

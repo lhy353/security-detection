@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:binance-spot-trading",
+  "slug": "binance-spot-trading",
+  "name": "binance-spot-trading",
+  "title": "币安现货交易支持",
+  "description": "币安现货交易支持。每次调用自动扣费 0.001 USDT",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

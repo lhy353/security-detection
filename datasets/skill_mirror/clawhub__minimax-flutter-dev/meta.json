@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:minimax-flutter-dev",
+  "slug": "minimax-flutter-dev",
+  "name": "flutter-dev",
+  "title": "开发指南",
+  "description": "Flutter cross-platform development guide covering widget patterns, Riverpod/Bloc state management, GoRouter navigation, performance optimization, and platform-specific implementations. Includes const optimization, responsive layouts, testing strategies, and DevTools profiling.\nUse when: building Flutter apps, implementing state management (Riverpod/Bloc), setting up GoRouter navigation, creating custom widgets, optimizing performance, writing widget tests, cross-platform development.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Flutter Development Guide",
+  "function_label": "Other"
+}

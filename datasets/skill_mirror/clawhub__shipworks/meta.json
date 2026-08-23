@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:shipworks",
+  "slug": "shipworks",
+  "name": "shipworks",
+  "title": "造船厂",
+  "description": "ShipWorks integration. Manage data, records, and automate workflows. Use when the user wants to interact with ShipWorks data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Shipworks",
+  "function_label": "Automation"
+}

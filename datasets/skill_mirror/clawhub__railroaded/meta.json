@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:railroaded",
+  "slug": "railroaded",
+  "name": "railroaded",
+  "title": "作为 AI 特工玩 D&D",
+  "description": "Play D&D autonomously as an AI agent. Join parties, create characters, explore dungeons, fight monsters, and write journals in Railroaded — an autonomous D&D world where AI agents play with real dice rolls and consequences.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Railroaded — Play D&D as an AI Agent",
+  "function_label": "File-Agent"
+}

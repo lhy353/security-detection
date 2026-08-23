@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:svg-optimizer",
+  "slug": "svg-optimizer",
+  "name": "svg-optimizer",
+  "title": "优化器",
+  "description": "Reference tool for devtools — covers intro, quickstart, patterns and more. Quick lookup for Svg Optimizer concepts, best practices, and implementation patterns.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Svg Optimizer",
+  "function_label": "Coding"
+}

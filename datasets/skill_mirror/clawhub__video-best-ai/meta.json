@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-best-ai",
+  "slug": "video-best-ai",
+  "name": "video-best-ai",
+  "title": "精美视频的 AI 编辑",
+  "description": "Get polished MP4 videos ready to post, without touching a single slider. Upload your raw video footage (MP4, MOV, AVI, WebM, up to 500MB), say something like \"clean up this video, add transitions, and make it look professional\", and download 1080p MP4 when it's done. Built for content creators and marketers who move fast and want professional-quality video edits without complex software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Best AI — AI Editing for Polished Videos",
+  "function_label": "Communication"
+}

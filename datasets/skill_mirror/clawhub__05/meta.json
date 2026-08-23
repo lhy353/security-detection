@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:05",
+  "slug": "05",
+  "name": "content-summary",
+  "title": "总结复盘技能",
+  "description": "智能内容总结和项目复盘工具",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

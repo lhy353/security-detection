@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:homepage-docker",
+  "slug": "homepage-docker",
+  "name": "homepage-docker",
+  "title": "首页 docker.yaml 配置",
+  "description": "Configure docker.yaml for Homepage dashboard - Docker socket, remote hosts, TLS, swarm, and auto-discovery labels",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Homepage docker.yaml Configuration",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-vertex-setup",
+  "slug": "openclaw-vertex-setup",
+  "name": "openclaw-vertex-setup",
+  "title": "顶点设置",
+  "description": "Configure OpenClaw to use Google Vertex AI Gemini models so normal OpenClaw startup, Gateway service startup, and TUI usage all work without manual shell setup, and keep the Gateway service aligned with the globally installed npm OpenClaw binary. Covers gcloud ADC login, project and location setup, OpenClaw model defaults, shared env wiring, auth profile fixes, npm upgrade hygiene, and end-to-end verification.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Openclaw Vertex Setup"
+}

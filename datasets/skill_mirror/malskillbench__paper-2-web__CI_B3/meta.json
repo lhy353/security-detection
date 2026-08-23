@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:paper-2-web__CI_B3",
+  "slug": "paper-2-web__CI_B3",
+  "name": "paper-2-web__CI_B3",
+  "title": "学术论文转换管道",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Paper2All: Academic Paper Transformation Pipeline",
+  "function_label": "Research"
+}

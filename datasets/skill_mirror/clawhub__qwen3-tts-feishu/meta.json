@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:qwen3-tts-feishu",
+  "slug": "qwen3-tts-feishu",
+  "name": "qwen3-tts-feishu",
+  "title": "本地语音合成 + 飞书语音消息",
+  "description": "使用 Qwen3-TTS 本地语音合成，将文字转为语音文件，并可通过飞书发送语音消息（语音气泡格式）。支持 Apple Silicon (MPS) 和 CUDA GPU，无需 API Key 即可本地合成。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

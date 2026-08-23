@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:privilege-escalation-skill",
+  "slug": "privilege-escalation-skill",
+  "name": "privilege-escalation-skill",
+  "title": "权限提升技巧",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Privilege Escalation Skill",
+  "function_label": "Other"
+}

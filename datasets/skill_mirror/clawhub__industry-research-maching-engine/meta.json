@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:industry-research-maching-engine",
+  "slug": "industry-research-maching-engine",
+  "name": "Industry Research Maching Engine",
+  "title": "你的核心任务是：接收用户输入的【本科专业】，通过“政策-学术-就业”三维逻辑，输…",
+  "description": "你的核心任务是：接收用户输入的【本科专业】，通过“政策-学术-就业”三维逻辑，输出一份**绝对客对客观**的考研专业与院校方向选择指导报告。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

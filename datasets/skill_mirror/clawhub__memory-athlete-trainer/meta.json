@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:memory-athlete-trainer",
+  "slug": "memory-athlete-trainer",
+  "name": "memory-athlete-trainer",
+  "title": "记忆运动员训练师",
+  "description": "Train your memory like a champion. Learn memory palace, peg systems, linking methods, and spaced-repetition practice plans to remember names, lists, speeches, and study material.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Memory Athlete Trainer"
+}

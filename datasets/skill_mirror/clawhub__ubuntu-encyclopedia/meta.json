@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ubuntu-encyclopedia",
+  "slug": "ubuntu-encyclopedia",
+  "name": "ubuntu-encyclopedia",
+  "title": "百科全书",
+  "description": "Ubuntu documentation-first workflow for Ubuntu-specific questions, maintenance, updates, upgrades, package management, system administration, service troubleshooting, networking, storage, logs, release behavior, and diagnostics. Use when the request materially depends on Ubuntu or Ubuntu-specific tooling/behavior such as Ubuntu release behavior, `apt`/`apt-get`/`dpkg`/`snap`, `systemd`/`systemctl`/`journalctl`, Netplan, NetworkManager, package repair, repository/key issues, service failures, boot issues, mounts/`fstab`, permissions, users/groups, or non-trivial Ubuntu maintenance/troubleshooting. Do not use for generic shell, git, Python, Docker, or Linux questions unless Ubuntu-specific semantics matter.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ubuntu Encyclopedia",
+  "function_label": "Automation"
+}

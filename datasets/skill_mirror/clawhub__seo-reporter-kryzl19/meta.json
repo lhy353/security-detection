@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:seo-reporter-kryzl19",
+  "slug": "seo-reporter-kryzl19",
+  "name": "seo-reporter",
+  "title": "记者",
+  "description": "Audit a URL for SEO factors and generate an actionable markdown report. Use when asked to analyze, check, or audit a webpage's SEO performance. Covers title, meta description, heading structure, canonical tags, robots.txt, and sitemap.xml. Outputs a scored, readable markdown report with specific recommendations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SEO Reporter",
+  "function_label": "Other"
+}

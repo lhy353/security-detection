@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-skill-distill",
+  "slug": "openclaw-skill-distill",
+  "name": "skill-distill",
+  "title": "技能提炼",
+  "description": "Strip any local project into a clean, publishable agent skill. Scan for hardcoded paths and secrets, scaffold standard structure, validate before publish. Use when you need to distill, extract, generalize, package, or publish a skill from an existing project or codebase.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "skill-distill",
+  "function_label": "Coding"
+}

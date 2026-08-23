@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mumo",
+  "slug": "mumo",
+  "name": "mumo",
+  "title": "面包屑",
+  "description": "Runs structured multi-model deliberations across frontier AI panels (Claude, GPT, Gemini, Grok, Qwen, GLM, Kimi) via mumo's MCP server. Use when independent perspectives are needed on architecture/product decisions, design and plan review before implementation, pre-launch pressure tests, tradeoffs with multiple defensible framings, or explicit user requests for a mumo panel. Especially valuable for pre-implementation review of anything touching auth, security, tokens, payments, data exposure, or migrations. Requires a mumo platform API key (mmo_live_*) registered with `openclaw mcp set mumo`.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mumo",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:apidot-meshy-6-3d-api",
+  "slug": "apidot-meshy-6-3d-api",
+  "name": "apidot-meshy-6-3d-api",
+  "title": "使用 APIDot 进行 Meshy 6 3D API 工作流程，包括 Meshy 6 API、文本转 3D API、图",
+  "description": "Use APIDot for Meshy 6 3D API workflows, including Meshy 6 API, text-to-3D API, image-to-3D API, multi-image-to-3D API, 3D asset generation, async task submission, task_id handling, polling, task status, and webhook integration based on APIDot docs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Apidot Meshy 6 3D Api",
+  "function_label": "Browser"
+}

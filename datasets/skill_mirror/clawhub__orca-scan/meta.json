@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:orca-scan",
+  "slug": "orca-scan",
+  "name": "orca-scan",
+  "title": "虎鲸扫描",
+  "description": "Orca Scan integration. Manage data, records, and automate workflows. Use when the user wants to interact with Orca Scan data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Orca Scan",
+  "function_label": "Automation"
+}

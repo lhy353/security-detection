@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-slides",
+  "slug": "ai-slides",
+  "name": "ai-slides",
+  "title": "幻灯片技巧",
+  "description": "Generate complete presentations with AI - from outline to polished slides",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Slides Skill",
+  "function_label": "Automation"
+}

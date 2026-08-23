@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:freshhippo",
+  "slug": "freshhippo",
+  "name": "freshhippo",
+  "title": "盒马",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

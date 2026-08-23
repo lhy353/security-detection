@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ikea",
+  "slug": "ikea",
+  "name": "ikea",
+  "title": "宜家——信息助理",
+  "description": "Information assistant for IKEA. Search products, news, financials, and official resources for IKEA.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "IKEA — Information Assistant",
+  "function_label": "Research"
+}

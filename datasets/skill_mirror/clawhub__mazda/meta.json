@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mazda",
+  "slug": "mazda",
+  "name": "mazda",
+  "title": "马自达",
+  "description": "Information assistant for Mazda 马自达. Search models, specs, pricing, reviews, and dealership info.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

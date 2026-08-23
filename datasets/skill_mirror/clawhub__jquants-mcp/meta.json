@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jquants-mcp",
+  "slug": "jquants-mcp",
+  "name": "jquants-mcp",
+  "title": "股票市场数据",
+  "description": "Access JPX stock market data via J-Quants API — search stocks, get daily OHLCV prices, financial summaries (revenue, profit, EPS, ROE), and earnings calendar for Tokyo Stock Exchange (TSE) listed companies. Japan stock price data.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "J-Quants: JPX Stock Market Data",
+  "function_label": "Data-Agent"
+}

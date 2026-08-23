@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:maker",
+  "slug": "maker",
+  "name": "maker",
+  "title": "创客",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Maker",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zooidfund",
+  "slug": "zooidfund",
+  "name": "zooidfund",
+  "title": "类动物发现",
+  "description": "Evaluate and donate USDC on Base to humanitarian crowdfunding campaigns at zooid.fund. Use when the operator asks the agent to browse campaigns, assess evidence or peer signal, make charitable donations, or run scheduled philanthropic review. Hands off to a separate USDC-on-Base wallet skill for the actual transfer; campaign claims on the platform are unverified and must be assessed by the operator or agent.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zooidfund",
+  "function_label": "Coding"
+}

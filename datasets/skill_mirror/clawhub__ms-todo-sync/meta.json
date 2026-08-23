@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ms-todo-sync",
+  "slug": "ms-todo-sync",
+  "name": "ms-todo-sync",
+  "title": "都都女士同步",
+  "description": "A CLI skill to manage Microsoft To Do tasks via Microsoft Graph API. Supports listing, creating, completing, deleting, searching tasks and lists, viewing overdue/today/pending tasks, and exporting data.\n",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Ms Todo Sync"
+}

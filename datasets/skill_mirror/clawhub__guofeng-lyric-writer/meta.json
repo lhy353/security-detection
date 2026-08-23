@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:guofeng-lyric-writer",
+  "slug": "guofeng-lyric-writer",
+  "name": "guofeng-lyric-writer",
+  "title": "国峰 作词人",
+  "description": "Create traditional Chinese-style (Guofeng) lyrics with classical imagery, vocabulary substitution, rhyme schemes, and poetic techniques. Use when creating Guofeng lyrics, writing Chinese-style songs, adapting classical poetry into lyrics, or learning Guofeng lyric composition. Triggers include requests like writing Guofeng lyrics, creating traditional Chinese songs, or composing classical-style verses.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Guofeng Lyric Writer",
+  "function_label": "Other"
+}

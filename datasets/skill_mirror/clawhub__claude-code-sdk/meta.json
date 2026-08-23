@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:claude-code-sdk",
+  "slug": "claude-code-sdk",
+  "name": "claude-code-sdk",
+  "title": "强大的AI Coding Agent，可满足任何软件设计、开发、测试、优化、重构…",
+  "description": "强大的AI Coding Agent，可满足任何软件设计、开发、测试、优化、重构等任务。在处理任何代码编程相关问题时，都优先使用该技能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

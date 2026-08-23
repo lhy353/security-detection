@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:google-docs-update-document",
+  "slug": "google-docs-update-document",
+  "name": "Google Docs Update Document",
+  "title": "文档更新文档",
+  "description": "Atomic node skill to update a Google Doc using the gog CLI.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Google Docs Update Document",
+  "function_label": "File-Agent"
+}

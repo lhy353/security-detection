@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:m78armor-security-check",
+  "slug": "m78armor-security-check",
+  "name": "m78armor-security-check",
+  "title": "安全配置检查",
+  "description": "Read-only local OpenClaw security configuration check and hardening assessment. 本地只读 OpenClaw 安全配置检查与加固评估。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "m78armor : openclaw security configuration check",
+  "function_label": "Other"
+}

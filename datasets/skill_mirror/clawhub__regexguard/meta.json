@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:regexguard",
+  "slug": "regexguard",
+  "name": "RegexGuard",
+  "title": "正则表达式安全性和正确性分析器",
+  "description": "Regex safety & correctness analyzer -- detects catastrophic backtracking, portability errors, correctness bugs, maintainability issues, anchoring problems, and pattern injection risks",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "RegexGuard -- Regex Safety & Correctness Analyzer",
+  "function_label": "Browser"
+}

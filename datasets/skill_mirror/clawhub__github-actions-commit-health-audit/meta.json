@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:github-actions-commit-health-audit",
+  "slug": "github-actions-commit-health-audit",
+  "name": "github-actions-commit-health-audit",
+  "title": "提交健康审计",
+  "description": "Audit GitHub Actions reliability by commit SHA to surface risky commits causing repeated workflow failures across branches.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Github Actions Commit Health Audit",
+  "function_label": "Other"
+}

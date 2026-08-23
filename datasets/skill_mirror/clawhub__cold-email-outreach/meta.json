@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cold-email-outreach",
+  "slug": "cold-email-outreach",
+  "name": "cold-email-outreach",
+  "title": "自动勘探和滴灌管道",
+  "description": "Automated cold email outreach pipeline using Resend API. Builds prospect lists from government databases or web scraping, enriches with contact info, sends personalized cold emails with drip follow-ups, and tracks responses. Use when setting up cold email campaigns, building lead lists, automating email outreach, prospecting businesses, sending drip sequences, or managing email deliverability.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cold Email Outreach — Automated Prospecting & Drip Pipeline",
+  "function_label": "Research"
+}

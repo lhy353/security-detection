@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:veeam-aiops",
+  "slug": "veeam-aiops",
+  "name": "veeam-aiops",
+  "title": "预览版）",
+  "description": "Use this skill whenever the user needs to operate Veeam Backup & Replication — list/inspect backup jobs, start/stop jobs, enable/disable jobs, list restore points and start a VM restore, list backup repositories and stored backups, and poll async sessions for job/restore progress. Always use this skill for \"list veeam jobs\", \"run veeam backup\", \"start veeam job\", \"veeam restore\", \"veeam repository\", \"veeam backup status\", or \"veeam session\" when the context is explicitly Veeam / Veeam Backup & Replication / VBR. Do NOT use when the target is not Veeam Backup & Replication (other backup products, hypervisor lifecycle, or cloud providers are out of scope). Preview — common Veeam B&R operations with a built-in governance harness (audit, policy, token budget, undo, risk-tiers).\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Veeam AIops (preview)",
+  "function_label": "Data-Agent"
+}

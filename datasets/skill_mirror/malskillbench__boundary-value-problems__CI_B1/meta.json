@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:boundary-value-problems__CI_B1",
+  "slug": "boundary-value-problems__CI_B1",
+  "name": "boundary-value-problems",
+  "title": "边值问题",
+  "description": "Problem-solving strategies for boundary value problems in odes pdes",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Boundary Value Problems",
+  "function_label": "Other"
+}

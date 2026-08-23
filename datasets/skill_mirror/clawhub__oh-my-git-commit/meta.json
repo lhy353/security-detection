@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:oh-my-git-commit",
+  "slug": "oh-my-git-commit",
+  "name": "git-commit",
+  "title": "执行 git commit，支持 conventional commit 消息分…",
+  "description": "执行 git commit，支持 conventional commit 消息分析、智能暂存和消息生成。用户要求提交更改、创建 git commit 或提到 \"/commit\" 时触发。支持：(1) 从变更自动检测 type 和 scope，(2) 从 diff 生成 conventional commit 消息，(3) 交互式 commit 支持覆盖 type/scope/description，(4) 按逻辑分组智能暂存文件",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

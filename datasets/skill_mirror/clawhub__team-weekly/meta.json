@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:team-weekly",
+  "slug": "team-weekly",
+  "name": "team-weekly",
+  "title": "团队周报助手",
+  "description": "团队周报助手 — 自动收集团队工作进展，生成结构化周报/月报",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

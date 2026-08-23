@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:meeting-risk-radar",
+  "slug": "meeting-risk-radar",
+  "name": "meeting-risk-radar",
+  "title": "会议风险雷达",
+  "description": "会前识别高风险议题、模糊责任、缺失材料和可能失控的讨论点。；use for meeting-risk, preflight, facilitation workflows；do not use for 分析私密录音, 替代正式风险审查.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:document-esign",
+  "slug": "document-esign",
+  "name": "document-esign",
+  "title": "文件电子签名",
+  "description": "Guide users through how to prepare, route, and complete e-signature workflows for business documents with clear signing steps and practical checks.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Document E-Sign",
+  "function_label": "Other"
+}

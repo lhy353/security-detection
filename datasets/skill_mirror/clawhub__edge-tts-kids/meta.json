@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:edge-tts-kids",
+  "slug": "edge-tts-kids",
+  "name": "edge-tts-kids",
+  "title": "中文定制版",
+  "description": "Edge TTS 中文定制版 - 包含儿童配音预设。生成后自动发送到对话，无需翻文件。\n触发词：配音、TTS、文生音、语音、配音生成、儿童配音",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

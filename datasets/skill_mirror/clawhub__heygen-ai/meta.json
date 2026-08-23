@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:heygen-ai",
+  "slug": "heygen-ai",
+  "name": "heygen-ai",
+  "title": "创建 AI 头像演示者视频",
+  "description": "marketers generate text or images into AI avatar videos using this skill. Accepts MP4, MOV, JPG, PNG up to 500MB, renders on cloud GPUs at 1080p, and returns MP4 files in 1-2 minutes. Designed for creating spokesperson videos without filming.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "HeyGen AI — Create AI Avatar Presenter Videos",
+  "function_label": "Communication"
+}

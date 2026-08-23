@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:test-slug-check-dev",
+  "slug": "test-slug-check-dev",
+  "name": "test-slug-check",
+  "title": "测试 ClawHub slug 命名规范和发布流程",
+  "description": "测试 ClawHub slug 命名规范和发布流程",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

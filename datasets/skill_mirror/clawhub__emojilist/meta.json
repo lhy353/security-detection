@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:emojilist",
+  "slug": "emojilist",
+  "name": "EmojiList",
+  "title": "表情符号列表",
+  "description": "Search emojis by name or category and copy them for instant use. Use when finding emojis, browsing categories, copying codes.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Emojilist",
+  "function_label": "Data-Agent"
+}

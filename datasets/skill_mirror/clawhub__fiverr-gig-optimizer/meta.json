@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:fiverr-gig-optimizer",
+  "slug": "fiverr-gig-optimizer",
+  "name": "fiverr-gig-optimizer",
+  "title": "演出优化器",
+  "description": "Coach Fiverr sellers (and Etsy/Creative Market gig-style platforms) on gig titles, descriptions, packaging, pricing, gig images/video, search ranking (Fiverr SEO), level progression, and reviewer-conversion. Diagnoses why a gig isn't getting impressions, why impressions aren't converting to orders, why repeat-buyer rate is low. Adapts advice for new sellers (level 0) vs Top Rated and Pro sellers. Use when asked to write or improve a Fiverr gig, raise impressions, raise conversion rate, structure pricing tiers, design gig images, write a gig video script, hit Level 1/2/Top Rated, or migrate clients off-platform. Triggers on \"fiverr gig\", \"fiverr seo\", \"fiverr ranking\", \"gig impressions\", \"level up fiverr\", \"top rated\", \"fiverr pricing\", \"gig packaging\", \"creative market gig\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Fiverr Gig Optimizer",
+  "function_label": "Data-Agent"
+}

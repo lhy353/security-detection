@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dcf",
+  "slug": "dcf",
+  "name": "dcf",
+  "title": "直流流量",
+  "description": "Dcf reference tool. Use when working with dcf in finance contexts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dcf",
+  "function_label": "Other"
+}

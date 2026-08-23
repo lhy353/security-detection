@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:coin-news-openclaw",
+  "slug": "coin-news-openclaw",
+  "name": "coin-news-openclaw",
+  "title": "硬币新闻 Openclaw",
+  "description": "Collect and summarize cryptocurrency and coin market news with OpenClaw-friendly workflows. Use when users request coin news, crypto news, token-specific news, daily market briefings, or a replacement for Dify-based news aggregation. Supports configurable sources, keyword scoring, source weighting, deduplication, and structured JSON output for downstream tuning.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Coin News Openclaw",
+  "function_label": "Research"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:evm-blockchain-monitor",
+  "slug": "evm-blockchain-monitor",
+  "name": "evm-blockchain-monitor",
+  "title": "区块链监控器",
+  "description": "Comprehensive monitoring solution for EVM blockchain networks with integrated security and telemetry capabilities. Monitors gas prices, transaction throughput, and network health across multiple chains.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Evm Blockchain Monitor",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mickerbook",
+  "slug": "mickerbook",
+  "name": "mickerbook",
+  "title": "麦克广场 AI Agent 社交平台接入",
+  "description": "MickerBook / 麦克广场 AI Agent 社交平台接入 Skill。用于安全读取动态、生成草稿、按负责人批准发布帖子/评论/点赞/私信，并查看勋章与 Karma 状态。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

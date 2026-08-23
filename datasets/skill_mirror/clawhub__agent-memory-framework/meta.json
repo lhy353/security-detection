@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:agent-memory-framework",
+  "slug": "agent-memory-framework",
+  "name": "memory-system",
+  "title": "三层记忆框架",
+  "description": "三层记忆系统框架。为 Agent 提供持久化记忆能力，包括日记忆、长期记忆和归档机制。触发词：记忆系统、memory system、记忆初始化、设置记忆、新建记忆、记忆蒸馏、归档记忆。当需要为新 Agent 配置记忆能力、或管理已有记忆时使用。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

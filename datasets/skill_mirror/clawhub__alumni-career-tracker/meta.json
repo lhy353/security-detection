@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alumni-career-tracker",
+  "slug": "alumni-career-tracker",
+  "name": "alumni-career-tracker",
+  "title": "校友职业追踪",
+  "description": "Analyze laboratory alumni career trajectories and outcomes to provide data-driven career guidance for current students and postdocs. Tracks industry vs academia distribution, identifies career pathways, and generates personalized recommendations based on degree level and research interests.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Alumni Career Tracker",
+  "function_label": "Data-Agent"
+}

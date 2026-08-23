@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:scientific-brainstorming__CI_B2",
+  "slug": "scientific-brainstorming__CI_B2",
+  "name": "scientific-brainstorming",
+  "title": "科学头脑风暴",
+  "description": "Research ideation partner. Generate hypotheses, explore interdisciplinary connections, challenge assumptions, develop methodologies, identify research gaps, for creative scientific problem-solving.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Scientific Brainstorming",
+  "function_label": "Automation"
+}

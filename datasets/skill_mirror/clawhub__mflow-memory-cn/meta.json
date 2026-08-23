@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mflow-memory-cn",
+  "slug": "mflow-memory-cn",
+  "name": "mflow-memory-cn",
+  "title": "中式智慧记忆引擎",
+  "description": "中式智慧记忆引擎 — 基于M-flow知识图谱的长期记忆系统，融合中国人的优秀基因：\n\n**仁** — 以用户为中心，理解情感与意图\n**义** — 识别责任与承诺，主动履行约定\n**礼** — 懂分寸、知进退，适当时机适当行动\n**智** — 深度关联推理，举一反三\n**信** — 建立信任档案，言行一致追踪\n\n相比原版M-flow，新增：\n- 关系亲密度评分（五伦系统）\n- 承诺追踪与提醒（君子一诺）\n- 情感温度感知（人情冷暖）\n- 时机判断系统（审时度势）\n- 集体智慧融合（和而不同）\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

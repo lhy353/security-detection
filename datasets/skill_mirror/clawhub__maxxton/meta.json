@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:maxxton",
+  "slug": "maxxton",
+  "name": "maxxton",
+  "title": "麦克斯顿",
+  "description": "Maxxton integration. Manage data, records, and automate workflows. Use when the user wants to interact with Maxxton data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Maxxton",
+  "function_label": "Automation"
+}

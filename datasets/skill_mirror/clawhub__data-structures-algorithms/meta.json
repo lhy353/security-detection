@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:data-structures-algorithms",
+  "slug": "data-structures-algorithms",
+  "name": "data-structures-algorithms",
+  "title": "数据结构与算法",
+  "description": "Use when solving algorithmic problems, optimizing code, or choosing the right data structure for performance.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Data Structures & Algorithms",
+  "function_label": "Coding"
+}

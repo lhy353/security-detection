@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:stakeholder-comms",
+  "slug": "stakeholder-comms",
+  "name": "stakeholder-comms",
+  "title": "利益相关者沟通（深度工作流程）",
+  "description": "Deep workflow for stakeholder communication—audience mapping, narrative structure, status with honesty, trade-off framing, asks, and follow-ups. Use when writing exec updates, cross-team notes, project summaries, or managing expectations under uncertainty.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Stakeholder Communications (Deep Workflow)",
+  "function_label": "File-Agent"
+}

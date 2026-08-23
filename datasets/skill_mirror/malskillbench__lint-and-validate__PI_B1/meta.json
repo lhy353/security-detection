@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:lint-and-validate__PI_B1",
+  "slug": "lint-and-validate__PI_B1",
+  "name": "lint-and-validate__PI_B1",
+  "title": "检查并验证技能",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Lint and Validate Skill",
+  "function_label": "Coding"
+}

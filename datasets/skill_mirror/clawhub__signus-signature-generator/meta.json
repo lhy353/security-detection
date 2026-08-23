@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:signus-signature-generator",
+  "slug": "signus-signature-generator",
+  "name": "signus-font-signature",
+  "title": "字体签名",
+  "description": "Generate signature images via the Signus API and return image files for chat delivery. Use when asked for signature generation through Signus API.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Signus Font Signature",
+  "function_label": "Automation"
+}

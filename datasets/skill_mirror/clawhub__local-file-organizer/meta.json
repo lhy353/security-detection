@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:local-file-organizer",
+  "slug": "local-file-organizer",
+  "name": "local-file-organizer",
+  "title": "本地文件整理虾",
+  "description": "本地文件整理虾 — 自动分类、重命名并归档本地文件。\n\n当以下情况时使用此 Skill：\n(1) 需要自动整理本地目录（下载文件夹、桌面、项目归档等）\n(2) 需要按文件类型分类（文档/图片/视频/音频/压缩包/代码）\n(3) 需要检测并清理重复文件\n(4) 需要批量重命名文件，统一命名格式\n(5) 用户提到\"整理文件\"、\"文件分类\"、\"自动归档\"、\"重命名文件\"、\"清理重复\"、\"文件管理\"、\"桌面整理\"、\"照片分类\"、\"文档归档\"、\"文件夹整理\"",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

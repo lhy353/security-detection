@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pro-ledger",
+  "slug": "pro-ledger",
+  "name": "pro-ledger",
+  "title": "专业账本",
+  "description": "Pro Ledger integration. Manage Accounts, Contacts, Invoices, Reports. Use when the user wants to interact with Pro Ledger data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pro Ledger",
+  "function_label": "Browser"
+}

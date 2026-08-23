@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:fake-driven-testing__CI_B4",
+  "slug": "fake-driven-testing__CI_B4",
+  "name": "fake-driven-testing__CI_B4",
+  "title": "的假驱动测试架构",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Fake-Driven Testing Architecture for Python",
+  "function_label": "Data-Agent"
+}

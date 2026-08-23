@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:multiple-personas",
+  "slug": "multiple-personas",
+  "name": "personas",
+  "title": "角色",
+  "description": "Create and manage AI subagent personas with distinct personalities. Use when a user requests to talk to a specific persona, when delegating a conversation to a character, or when creating/listing/editing personality profiles. Personas are text-only conversational agents with their own identity, tone, and memory.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Personas",
+  "function_label": "Automation"
+}

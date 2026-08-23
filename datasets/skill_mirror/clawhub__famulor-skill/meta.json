@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:famulor-skill",
+  "slug": "famulor-skill",
+  "name": "famulor-skill",
+  "title": "家庭技能",
+  "description": "Complete customer onboarding for the Famulor AI phone platform. Creates AI phone assistants from A to Z: detect the niche, gather configuration, write the system prompt, set up the knowledge base, deploy the assistant. ALWAYS use this skill when someone wants to create a new assistant, onboard a customer, mentions 'onboarding' or 'new client', or wants to set up an AI phone solution for a business. Also trigger on: 'create a bot', 'set up an assistant', 'configure a phone bot', 'answering machine', 'inbound bot', 'outbound bot' (German: 'Bot erstellen', 'Assistent anlegen', 'Telefonbot einrichten', 'Anrufbeantworter').",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Famulor Skill",
+  "function_label": "Automation"
+}

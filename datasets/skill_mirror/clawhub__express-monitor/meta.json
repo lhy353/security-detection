@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:express-monitor",
+  "slug": "express-monitor",
+  "name": "express-monitor",
+  "title": "快递监控Skill",
+  "description": "快递监控Skill - 查询快递物流、绑定手机号自动获取快递、同步到飞书",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

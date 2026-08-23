@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:arabic-english-explainer-skill",
+  "slug": "arabic-english-explainer-skill",
+  "name": "Arabic English Explainer Skill",
+  "title": "阿拉伯语英语讲解员技能",
+  "description": "Help create Arabic-first and bilingual explanations, app text, lessons, worksheets, and education content with clear language-level controls.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Arabic English Explainer Skill",
+  "function_label": "Other"
+}

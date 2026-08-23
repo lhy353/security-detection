@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:opencode-discord-thread",
+  "slug": "opencode-discord-thread",
+  "name": "opencode-discord-thread",
+  "title": "打开代码不和谐线程",
+  "description": "Use this skill when OpenClaw should hand a coding task to OpenCode, keep the OpenCode run model-compatible with Z.AI Coding Plan / GLM plans, and mirror execution progress into a Discord thread for live review.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Opencode Discord Thread",
+  "function_label": "Communication"
+}

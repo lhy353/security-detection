@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:stained-glass-art-generator",
+  "slug": "stained-glass-art-generator",
+  "name": "stained-glass-art-generator",
+  "title": "彩色玻璃艺术生成器",
+  "description": "Generate stunning stained glass style art and illustrations. Create luminous jewel-toned stained glass portraits, animals, landscapes, and decorative panels — perfect for wall art, print-on-demand, posters, church window designs, and mosaic-inspired artwork via the Neta AI image generation API (free trial at neta.art/open).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Stained Glass Art Generator",
+  "function_label": "Other"
+}

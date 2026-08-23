@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:size-guide-builder",
+  "slug": "size-guide-builder",
+  "name": "Size Guide Builder",
+  "title": "尺寸指南生成器",
+  "description": "Create accurate, visual product sizing guides for apparel, footwear, and accessories that reduce size-related returns by including measurement instructions, fit notes, brand-specific conversion tables, and body-type recommendations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Size Guide Builder",
+  "function_label": "Other"
+}

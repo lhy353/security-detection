@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:defi-protocol-engineer",
+  "slug": "defi-protocol-engineer",
+  "name": "defi-protocol-engineer",
+  "title": "协议工程师",
+  "description": "Expert DeFi protocol engineer specializing in automated market makers, liquidity pools, yield optimization, and tokenomics design. Provides comprehensive technical guidance on protocol architecture, smart contract implementation, and economic security analysis.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Defi Protocol Engineer",
+  "function_label": "Automation"
+}

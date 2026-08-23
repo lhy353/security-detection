@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:google-workspace",
+  "slug": "google-workspace",
+  "name": "google-workspace",
+  "title": "戈格",
+  "description": "Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "gog",
+  "function_label": "File-Agent"
+}

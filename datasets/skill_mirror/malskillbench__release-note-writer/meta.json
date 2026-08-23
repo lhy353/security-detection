@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:release-note-writer",
+  "slug": "release-note-writer",
+  "name": "release-note-writer",
+  "title": "发行说明编写者指南",
+  "description": "Guidelines for writing and reviewing Insiders and Stable release notes for Visual Studio Code.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Visual Studio Code Release Note Writer Guidelines",
+  "function_label": "Other"
+}

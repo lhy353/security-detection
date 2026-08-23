@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-unit-of-work-implementer",
+  "slug": "bookforge-unit-of-work-implementer",
+  "name": "unit-of-work-implementer",
+  "title": "工作单元实施者",
+  "description": "Implement Unit of Work (UoW) — the object that tracks new, dirty, clean, and removed entities\nduring a business operation and commits all database changes together in the correct order.\nUse when asked: \"how do I implement Unit of Work?\", \"how does Hibernate Session work under the\nhood?\", \"how do I avoid N+1 writes?\", \"how should I structure DbContext scoping?\",\n\"SQLAlchemy session management best practices\", \"EntityManager lifecycle\", \"ORM session\nmanagement\", \"how to track entity changes in a Data Mapper layer?\", \"first-level cache\",\n\"identity map implementation\", \"object change tracking\", \"persistence coordination\",\n\"commit ordering with foreign keys\", \"how does EF Core SaveChanges work?\", \"dirty tracking\",\n\"how to batch database writes?\", \"UoW pattern implementation\", \"Hibernate Session vs\nEntityManager\", \"SQLAlchemy Session scope\", \"DbContext per-request\", \"entity state tracking\".\nApplies when a Data Mapper pattern is in place (or being introduced) and the team needs\ndisciplined change tracking, ordered commits, and first-level caching across a business\noperation. Integrates with Identity Map for cache and identity consistency. Integrates with\nOptimistic Offline Lock via version-conditioned UPDATE. Prerequisite: Data Mapper must be the\nchosen data-source pattern; UoW does not apply cleanly to Active Record (AR handles\nper-object persistence without a coordinator). If the data-source pattern has not been\nchosen, invoke `data-source-pattern-selector` first.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Unit of Work Implementer",
+  "function_label": "Data-Agent"
+}

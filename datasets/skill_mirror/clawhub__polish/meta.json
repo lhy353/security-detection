@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:polish",
+  "slug": "polish",
+  "name": "Polish",
+  "title": "抛光",
+  "description": "Write Polish that sounds human. Not formal, not robotic, not AI-generated.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Polish",
+  "function_label": "Other"
+}

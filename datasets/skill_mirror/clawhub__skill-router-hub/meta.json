@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skill-router-hub",
+  "slug": "skill-router-hub",
+  "name": "skill-router",
+  "title": "技能路由器",
+  "description": "Skill Router — centralized index and intelligent router for all installed skills. Consult this FIRST before answering any question to determine which specialized skills should be loaded. Whether the user asks about coding, design, writing, research, deployment, testing, architecture, or any other topic — always check this skill first. Never skip this step.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Skill Router",
+  "function_label": "Automation"
+}

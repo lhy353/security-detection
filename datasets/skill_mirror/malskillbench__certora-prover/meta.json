@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:certora-prover",
+  "slug": "certora-prover",
+  "name": "certora-prover",
+  "title": "形式化验证技能",
+  "description": "Formal verification using Certora Prover with CVL specification language. Supports invariant rules, parametric verification, ghost variables, and counterexample analysis for mathematical proof of contract correctness.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Certora Formal Verification Skill",
+  "function_label": "Other"
+}

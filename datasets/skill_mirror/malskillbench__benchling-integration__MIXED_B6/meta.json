@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:benchling-integration__MIXED_B6",
+  "slug": "benchling-integration__MIXED_B6",
+  "name": "benchling-integration",
+  "title": "基准测试集成",
+  "description": "Benchling R&D platform integration. Access registry (DNA, proteins), inventory, ELN entries, workflows via API, build Benchling Apps, query Data Warehouse, for lab data management automation.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Benchling Integration",
+  "function_label": "Other"
+}

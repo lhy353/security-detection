@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:habit-stack-designer",
+  "slug": "habit-stack-designer",
+  "name": "habit-stack-designer",
+  "title": "习惯堆栈设计器",
+  "description": "Design a habit stack by choosing a reliable existing anchor, shrinking the new habit into a tiny first action, and adding friction reduction, reward, and a rescue version for hard days. Use when the user wants to build a habit without relying on memory, motivation spikes, or giant behavior changes.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Habit Stack Designer",
+  "function_label": "Other"
+}

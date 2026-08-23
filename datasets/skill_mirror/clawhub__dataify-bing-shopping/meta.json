@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dataify-bing-shopping",
+  "slug": "dataify-bing-shopping",
+  "name": "dataify-bing-shopping",
+  "title": "必应购物",
+  "description": "Use when a user search Bing Shopping, find product or shopping results",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bing Shopping",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-orchestrator-molter-102",
+  "slug": "agent-orchestrator-molter-102",
+  "name": "agent-orchestrator",
+  "title": "代理协调者",
+  "description": "Multi-agent orchestration with 5 proven patterns - Work Crew, Supervisor, Pipeline, Council, and Auto-Routing",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "agent-orchestrator",
+  "function_label": "Automation"
+}

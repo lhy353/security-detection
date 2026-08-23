@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:mobile-games",
+  "slug": "mobile-games",
+  "name": "mobile-games",
+  "title": "手机游戏开发",
+  "description": "Mobile game development principles. Touch input, battery, performance, app stores.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Mobile Game Development",
+  "function_label": "Data-Agent"
+}

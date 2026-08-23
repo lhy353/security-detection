@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:patent-claim-mapper",
+  "slug": "patent-claim-mapper",
+  "name": "patent-claim-mapper",
+  "title": "专利权利要求映射器",
+  "description": "Use when mapping patent claims to products, analyzing patent infringement, or preparing freedom-to-operate analyses. Compares patent claims against product features for biotech and pharmaceutical IP assessment.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Patent Claim Mapper",
+  "function_label": "Other"
+}

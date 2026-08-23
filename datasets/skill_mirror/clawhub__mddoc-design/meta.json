@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mddoc-design",
+  "slug": "mddoc-design",
+  "name": "design-md",
+  "title": "根节点标题",
+  "description": "在 Markdown 文档里插入脑图或架构图。用户说\"画个脑图\"、\"画架构图\"、\"插入图表\"、\"mind map\"、\"diagram\"时触发。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

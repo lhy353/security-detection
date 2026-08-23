@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:deployment-acceleration-framework",
+  "slug": "deployment-acceleration-framework",
+  "name": "deployment-acceleration-framework",
+  "title": "部署加速框架",
+  "description": "Comprehensive framework for optimizing deployment pipelines, infrastructure provisioning strategies, and release velocity across cloud-native and hybrid environments",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Deployment Acceleration Framework",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:tldr-overview",
+  "slug": "tldr-overview",
+  "name": "tldr-overview",
+  "title": "项目概述",
+  "description": "Get a token-efficient overview of any project using the TLDR stack",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "TLDR Project Overview",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:bazi-analysis-cn",
+  "slug": "bazi-analysis-cn",
+  "name": "bazi-analysis",
+  "title": "八字命理分析",
+  "description": "八字命理分析技能。当用户想要进行八字排盘、命理分析、五行分析、大运流年推算、 子女运势预测、婚姻分析、事业财运分析等任何与八字/四柱/命理/算命相关的事情时， 使用此技能。触发场景包括：用户提供出生年月日时要求看八字、询问命理运势、 想了解五行喜忌、问姻缘/婚姻/子女/事业/财运等命理问题。支持农历和公历输入， 自动转换并排盘分析。即使只提供了年月日没有时辰，也能进行三柱分析。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

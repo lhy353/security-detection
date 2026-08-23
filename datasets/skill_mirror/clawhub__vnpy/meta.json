@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:vnpy",
+  "slug": "vnpy",
+  "name": "vnpy",
+  "title": "开源量化交易框架）",
+  "description": "vn.py 开源量化交易框架 - 支持CTA、价差、期权策略，20+券商接口，覆盖国内外市场。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

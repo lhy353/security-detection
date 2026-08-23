@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:eng-hw-grader",
+  "slug": "eng-hw-grader",
+  "name": "eng-hw-grader",
+  "title": "英语作业评分员（3-6 年级）",
+  "description": "Grade English written homework for elementary students (grades 3-6). Use when correcting or evaluating English written assignments such as spelling, fill-in-the-blank, sentence writing, short paragraphs, or grammar exercises for young learners. Triggers on phrases like \"grade homework\", \"correct English assignment\", \"check my kid's English work\", \"批改英语作业\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "English Homework Grader (Grades 3-6)",
+  "function_label": "File-Agent"
+}

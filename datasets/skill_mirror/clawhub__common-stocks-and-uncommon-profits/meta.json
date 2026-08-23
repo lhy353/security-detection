@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:common-stocks-and-uncommon-profits",
+  "slug": "common-stocks-and-uncommon-profits",
+  "name": "common-stocks-and-uncommon-profits",
+  "title": "普通股和不寻常的利润",
+  "description": "Philip A. Fisher's Common Stocks and Uncommon Profits — a systematic toolkit for identifying and investing in exceptional growth companies through the Scuttlebutt research method and the 15-Point framework. Covers 6 use cases: ① Screening for superior growth companies — (\"15 points\" \"growth stock checklist\" \"what makes a great company\" \"Fisher's criteria\") ② Conducting Scuttlebutt research — (\"how to research a stock\" \"talking to competitors and customers\" \"Main Street vs Wall Street\" \"scuttlebutt method\") ③ Timing entry and exit — (\"when to buy growth stocks\" \"when to sell\" \"buy on temporary difficulties\") ④ Avoiding common investor mistakes — (\"five don'ts\" \"diversification mistakes\" \"dividend trap\" \"don't follow the crowd\") ⑤ Evaluating conservative investments — (\"four dimensions\" \"safe growth stocks\" \"low-cost production\" \"durable competitive advantage\") ⑥ Understanding the growth vs value spectrum — (\"scuttlebutt for value stocks\" \"Fisher and Buffett\" \"growth investing philosophy\") Trigger when users say: \"scuttlebutt\" \"Fisher's 15 points\" \"common stocks uncommon profits\" \"growth stock investing\" \"Philip Fisher\" \"how to research a company\" \"when to sell a stock\" \"dividends are overrated\" \"Main Street research\" \"conservative growth investing\" or mention: Philip Fisher / scuttlebutt method / growth stocks / competitive advantage / fifteen points / long-term investing / Warren Buffett's influences. Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Common Stocks And Uncommon Profits",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:trip-plan",
+  "slug": "trip-plan",
+  "name": "trip-plan",
+  "title": "旅行计划",
+  "description": "Generate day-wise travel itineraries with timings, food spots, activities, and transport. Handles \"plan my trip\", \"make an itinerary\", revisions like \"swap days\" or \"make it cheaper\", and adjusts plans when user has existing flights or trains.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Trip Plan",
+  "function_label": "Research"
+}

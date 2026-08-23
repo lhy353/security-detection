@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:xiaohongshu-writer",
+  "slug": "xiaohongshu-writer",
+  "name": "xiaohongshu-writer",
+  "title": "小红书爆款文案写作助手",
+  "description": "Use this skill when you need to write viral Xiaohongshu (小红书) posts, product notes, travel diaries, lifestyle content, or any copy optimized for the RED platform. Generates hook titles, structured body copy, emoji decoration, and hashtag sets that match platform algorithms.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

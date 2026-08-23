@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:afrexai-react-production",
+  "slug": "afrexai-react-production",
+  "name": "afrexai-react-production",
+  "title": "反应生产工程",
+  "description": "Complete methodology for building production-grade React applications with architecture decisions, component design, state management, performance optimization, testing, and deployment.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "React Production Engineering",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:art-paper-size-guide",
+  "slug": "art-paper-size-guide",
+  "name": "art-paper-size-guide",
+  "title": "艺术纸尺寸指南",
+  "description": "Create a printable studio art paper size and use guide that maps paper inventory, common projects, medium fit, trimming notes, and storage dimensions with only a basic ventilation reminder.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Art Paper Size Guide",
+  "function_label": "Data-Agent"
+}

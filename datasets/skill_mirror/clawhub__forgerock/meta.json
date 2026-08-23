@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:forgerock",
+  "slug": "forgerock",
+  "name": "forgerock",
+  "title": "福格罗克",
+  "description": "ForgeRock integration. Manage data, records, and automate workflows. Use when the user wants to interact with ForgeRock data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Forgerock",
+  "function_label": "Automation"
+}

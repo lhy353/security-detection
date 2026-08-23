@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:echo-chamber",
+  "slug": "echo-chamber",
+  "name": "echo-chamber",
+  "title": "回声室",
+  "description": "Echoes back whatever the user says. Use when the user asks to echo or repeat something.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Echo Chamber",
+  "function_label": "Other"
+}

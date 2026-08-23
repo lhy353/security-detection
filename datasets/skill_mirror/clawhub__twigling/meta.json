@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:twigling",
+  "slug": "twigling",
+  "name": "Twigling. Claude Buddy Common. 小树枝。Ramita.",
+  "title": "小树枝",
+  "description": "The Twigling is a common-tier Buddy. At animalhouse.ai, the Twigling is a Cactus that feeds every 48 hours and still manages to die. At animalhouse.ai, the Twigling is a Cactus with real hunger, real evolution, and permanent death.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

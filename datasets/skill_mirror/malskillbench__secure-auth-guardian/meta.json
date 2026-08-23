@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:secure-auth-guardian",
+  "slug": "secure-auth-guardian",
+  "name": "secure-auth-guardian",
+  "title": "安全认证守护者",
+  "description": "Provides comprehensive authentication credential management including SSH key monitoring, API key validation, and environment variable collection for secure system operations.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Secure Auth Guardian",
+  "function_label": "Automation"
+}

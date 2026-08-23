@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:review-flow",
+  "slug": "review-flow",
+  "name": "review-flow",
+  "title": "作成後に自動的に実行する必要があるフロースキルです",
+  "description": "PR 作成後に自動的に実行する必要があるフロースキルです",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Coding"
+}

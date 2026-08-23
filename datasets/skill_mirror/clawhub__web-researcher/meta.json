@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:web-researcher",
+  "slug": "web-researcher",
+  "name": "web-researcher",
+  "title": "网络研究员技能",
+  "description": "Use this skill for deep research, fact-checking, or finding the latest technical news.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Web Researcher Skill",
+  "function_label": "Other"
+}

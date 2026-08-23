@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lazada-integration",
+  "slug": "lazada-integration",
+  "name": "lazada",
+  "title": "系带",
+  "description": "Lazada integration. Manage Products, Orders, Sellers, Users, Vouchers, Wallets and more. Use when the user wants to interact with Lazada data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lazada",
+  "function_label": "Browser"
+}

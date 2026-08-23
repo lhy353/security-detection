@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawstore",
+  "slug": "clawstore",
+  "name": "clawstore",
+  "title": "最新版本",
+  "description": "Search, install, and publish OpenClaw agent packages from the Clawstore registry. Use when the user wants to find agents, install them, or publish their own.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Latest version",
+  "function_label": "Coding"
+}

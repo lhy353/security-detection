@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:voyager-travel-assistant",
+  "slug": "voyager-travel-assistant",
+  "name": "avatar-travel-assistant",
+  "title": "阿凡达智能出行助手",
+  "description": "Avatar Intelligent Travel Assistant - A one-stop travel service platform that integrates flight search, hotel recommendations, and itinerary planning, automatically dispatching sub-skills through an intelligent router.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Avatar Intelligent Travel Assistant",
+  "function_label": "Automation"
+}

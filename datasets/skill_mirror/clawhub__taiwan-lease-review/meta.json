@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:taiwan-lease-review",
+  "slug": "taiwan-lease-review",
+  "name": "lease-review",
+  "title": "租赁审查",
+  "description": "Professional lease contract review for Taiwan rental agreements.  Supports residential, commercial/storefront, and parking space leases. Analyzes clauses for illegality, unfairness, and risk per Taiwan's Lease Protection Act (租賃專法) and standardized contract rules. Use when: (1) Reviewing a rental agreement before signing, (2) Checking if specific clauses are legal/enforceable, (3) Comparing tenant vs landlord rights, (4) Rewriting risky clauses to fair versions.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lease Review",
+  "function_label": "Communication"
+}

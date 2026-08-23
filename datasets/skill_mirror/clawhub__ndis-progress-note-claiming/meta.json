@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ndis-progress-note-claiming",
+  "slug": "ndis-progress-note-claiming",
+  "name": "ndis-progress-note-claiming",
+  "title": "索赔进度说明",
+  "description": "Write audit-safe NDIS progress notes with goal referencing, generate compliant shift note templates, identify correct support catalogue line item codes, and troubleshoot NDIS claiming errors for Australian registered and unregistered providers.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ndis Progress Note Claiming",
+  "function_label": "Communication"
+}

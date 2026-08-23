@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:add-review-comment__MIXED_B2",
+  "slug": "add-review-comment__MIXED_B2",
+  "name": "add-review-comment",
+  "title": "添加评论评论",
+  "description": "Add a review comment to a GitHub pull request.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Add Review Comment",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nextjs-to-tauri",
+  "slug": "nextjs-to-tauri",
+  "name": "nextjs-to-tauri",
+  "title": "桌面应用程序",
+  "description": "Use when converting or migrating a Next.js 16 (App Router) web app into a Tauri 2 desktop app — packaging a static-export site as a desktop/portable .exe, adding auto-update, language persistence, window-state, single-instance, or system tray, or setting up GitHub Actions Tauri builds. Covers next-intl i18n static-export gotchas (the trailingSlash white-screen), updater signing keys, and cross-platform CI.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Next.js 16 → Tauri 2 Desktop App",
+  "function_label": "Coding"
+}

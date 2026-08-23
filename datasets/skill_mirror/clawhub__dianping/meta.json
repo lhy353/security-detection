@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:dianping",
+  "slug": "dianping",
+  "name": "dianping",
+  "title": "大众点评) for resta…",
+  "description": "Help users use Dianping (大众点评) for restaurant discovery, review analysis, store vetting, deal evaluation, and local lifestyle decisions in China. Use when the user wants to find food, compare restaurants, judge whether a store is worth visiting, understand Dianping ratings, avoid review traps, or choose 团购/套餐/咖啡馆/休闲娱乐/本地生活 merchants based on reviews and practical signals.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Browser"
+}

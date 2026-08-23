@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sheetdb",
+  "slug": "sheetdb",
+  "name": "sheetdb",
+  "title": "表数据库",
+  "description": "SheetDB integration. Manage data, records, and automate workflows. Use when the user wants to interact with SheetDB data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sheetdb",
+  "function_label": "Data-Agent"
+}

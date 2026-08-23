@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cctv-news-fetcher",
+  "slug": "cctv-news-fetcher",
+  "name": "cctv-news-fetcher",
+  "title": "央视新闻抓取器",
+  "description": "Fetch and parse news highlights from CCTV News Broadcast (Xinwen Lianbo) for a given date.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cctv News Fetcher",
+  "function_label": "Other"
+}

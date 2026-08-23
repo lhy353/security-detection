@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:the-richest-man-in-babylon",
+  "slug": "the-richest-man-in-babylon",
+  "name": "the-richest-man-in-babylon",
+  "title": "乔治·S·克拉森 (George S",
+  "description": "George S. Clason's The Richest Man in Babylon — an executable toolkit for building wealth through timeless principles of saving, investing, and financial discipline.\nCovers 5 use cases: ① Start Saving — the 7 Cures for a Lean Purse (\"How do I start saving?\" \"I earn enough but can't save a dime\") ② Invest Wisely — the 5 Laws of Gold (\"How do I make my money grow?\" \"Where should I invest?\") ③ Get Out of Debt — budget and plan (\"I'm drowning in debt\" \"How do I pay off what I owe?\") ④ Earn More — increase your ability and income (\"How do I make more money?\" \"How to become more valuable\") ⑤ Protect Wealth — guard what you've built (\"How do I protect my savings?\" \"How to avoid bad investments\")\nTrigger when users say: \"How do I start saving money\" \"How do I get out of debt\" \"How do I build wealth from nothing\" \"How do I invest my money safely\" \"I earn enough but can't save\" \"How do I make my money work for me\" \"How do I become financially disciplined\" \"How do I budget better\" or mention: George Clason / richest man in babylon / arkad / 7 cures / 5 laws of gold / pay yourself first / babylonian wisdom / financial discipline. Also triggers on install.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "The Richest Man in Babylon · RMIB",
+  "function_label": "Other"
+}

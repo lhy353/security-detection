@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:md-to-pdf-cjk",
+  "slug": "md-to-pdf-cjk",
+  "name": "md-to-pdf-cjk",
+  "title": "转 PDF（中日韩支持）",
+  "description": "Convert Markdown files to professional PDF documents with full CJK (Chinese/Japanese/Korean) support. Uses reportlab for reliable rendering without external dependencies like wkhtmltopdf or LaTeX.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Markdown to PDF (CJK Support)",
+  "function_label": "Browser"
+}

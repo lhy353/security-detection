@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:amazon-inventory-management",
+  "slug": "amazon-inventory-management",
+  "name": "amazon-inventory-management",
+  "title": "亚马逊库存管理",
+  "description": "FBA inventory planning — restock timing, safety stock, IPI score optimization, stranded inventory recovery",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Amazon Inventory Management",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:stripe-best-practices",
+  "slug": "stripe-best-practices",
+  "name": "stripe-best-practices",
+  "title": "最佳实践",
+  "description": "Best practices for building Stripe integrations. Use when implementing payment processing, checkout flows, subscriptions, webhooks, Connect platforms, or any Stripe API integration.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Stripe Best Practices",
+  "function_label": "File-Agent"
+}

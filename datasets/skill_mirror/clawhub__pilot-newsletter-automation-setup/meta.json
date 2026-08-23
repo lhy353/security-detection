@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pilot-newsletter-automation-setup",
+  "slug": "pilot-newsletter-automation-setup",
+  "name": "pilot-newsletter-automation-setup",
+  "title": "时事通讯自动化设置",
+  "description": "Deploy an automated newsletter pipeline with 3 agents.\nUse this skill when: 1. User wants to set up a newsletter or email automation pipeline 2. User is configuring an agent as part of a newsletter production workflow 3. User asks about content curation, newsletter writing, or email dispatch across agents\nDo NOT use this skill when: - User wants to send a single announcement (use pilot-announce instead) - User wants to stream data once (use pilot-stream-data instead)\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Newsletter Automation Setup",
+  "function_label": "Automation"
+}

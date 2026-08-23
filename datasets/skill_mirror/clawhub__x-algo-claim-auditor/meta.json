@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:x-algo-claim-auditor",
+  "slug": "x-algo-claim-auditor",
+  "name": "x-algo-claim-auditor",
+  "title": "索赔审核员",
+  "description": "Review public claims about xai-org/x-algorithm, the X For You algorithm, Phoenix, Grox, Home Mixer, engagement weights, filters, ads blending, or viral algorithm narratives. Use when a user needs a cautious source-backed verdict without private account analysis, reach prediction, account operation, or script execution.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "X Algo Claim Auditor",
+  "function_label": "Other"
+}

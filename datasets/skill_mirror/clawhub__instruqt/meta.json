@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:instruqt",
+  "slug": "instruqt",
+  "name": "instruqt",
+  "title": "仪器",
+  "description": "Instruqt integration. Manage data, records, and automate workflows. Use when the user wants to interact with Instruqt data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Instruqt",
+  "function_label": "Automation"
+}

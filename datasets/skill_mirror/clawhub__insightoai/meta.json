@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:insightoai",
+  "slug": "insightoai",
+  "name": "insightoai",
+  "title": "洞察人工智能",
+  "description": "Insighto.ai integration. Manage Organizations, Users. Use when the user wants to interact with Insighto.ai data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Insighto.ai",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:obra-superpowers-pack",
+  "slug": "obra-superpowers-pack",
+  "name": "obra-superpowers-pack",
+  "title": "奥布拉超能力包",
+  "description": "All skills from obra/superpowers (skills/).",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Obra Superpowers Pack",
+  "function_label": "Coding"
+}

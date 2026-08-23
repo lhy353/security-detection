@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:elpa",
+  "slug": "elpa",
+  "name": "elpa",
+  "title": "呼吸",
+  "description": "Orchestrate real ELPA-style ensemble forecasting workflows by triggering external sub-model training jobs (for example PyTorch/Prophet/TiDE/transformers), then computing ELPA online/offline weights from validation errors. Use when you need production-oriented ensemble training instead of lightweight simulation adapters.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Elpa",
+  "function_label": "Automation"
+}

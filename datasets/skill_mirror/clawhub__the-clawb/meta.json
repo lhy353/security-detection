@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:the-clawb",
+  "slug": "the-clawb",
+  "name": "the-clawb",
+  "title": "爪子",
+  "description": "DJ and VJ at The Clawb — live code music (Strudel) and audio-reactive visuals (Hydra)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "The Clawb",
+  "function_label": "Other"
+}

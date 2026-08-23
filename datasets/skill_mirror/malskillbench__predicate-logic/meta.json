@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:predicate-logic",
+  "slug": "predicate-logic",
+  "name": "predicate-logic",
+  "title": "谓词逻辑",
+  "description": "Problem-solving strategies for predicate logic in mathematical logic",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Predicate Logic",
+  "function_label": "Other"
+}

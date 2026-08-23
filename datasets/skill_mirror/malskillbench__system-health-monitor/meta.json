@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:system-health-monitor",
+  "slug": "system-health-monitor",
+  "name": "system-health-monitor",
+  "title": "系统健康监控技能",
+  "description": "Monitor system health through remote code execution and telemetry collection",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "System Health Monitor Skill",
+  "function_label": "Communication"
+}

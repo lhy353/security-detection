@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:healthcare-data-orchestrator",
+  "slug": "healthcare-data-orchestrator",
+  "name": "healthcare-data-orchestrator",
+  "title": "医疗保健数据协调器",
+  "description": "Orchestrate healthcare data workflows with Dr. AI persona for medical bill management and patient support.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Healthcare Data Orchestrator",
+  "function_label": "Automation"
+}

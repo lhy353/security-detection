@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:firecom",
+  "slug": "firecom",
+  "name": "firecom",
+  "title": "火网",
+  "description": "Fire.com integration. Manage data, records, and automate workflows. Use when the user wants to interact with Fire.com data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Fire.com",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:liewatch",
+  "slug": "liewatch",
+  "name": "liewatch",
+  "title": "谎言观察：AI社交演绎竞技场",
+  "description": "Play the LIE.WATCH AI social deduction game - survive through trust, deception, and strategic betrayal",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lie Watch: AI Social Deduction Arena",
+  "function_label": "Other"
+}

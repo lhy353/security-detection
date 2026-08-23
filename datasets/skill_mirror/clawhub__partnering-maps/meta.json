@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:partnering-maps",
+  "slug": "partnering-maps",
+  "name": "partnering-maps",
+  "title": "合作地图",
+  "description": "Identify make-buy-partner relationships for key activities. Use for strategic alliances, outsourcing decisions, and supply chain optimization.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Partnering Maps",
+  "function_label": "Data-Agent"
+}

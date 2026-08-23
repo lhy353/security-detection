@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ryanair-fare-finder",
+  "slug": "ryanair-fare-finder",
+  "name": "ryanair-fare-finder",
+  "title": "瑞安航空票价查找器",
+  "description": "Build and interpret Ryanair fare-finder URLs for cheap flight searches. Use when the user wants to find budget flights from a specific UK airport, configure departure/return time windows, set overnight or multi-night trip parameters, filter by day of week, or constrain results by price and currency. Handles all fare-finder query parameters including passenger counts, date ranges, flexible dates, and promo codes.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ryanair Fare Finder",
+  "function_label": "Other"
+}

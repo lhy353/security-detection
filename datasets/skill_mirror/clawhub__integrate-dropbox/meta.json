@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:integrate-dropbox",
+  "slug": "integrate-dropbox",
+  "name": "dropbox",
+  "title": "集成",
+  "description": "Dropbox integration. Manage Accounts. Use when the user wants to interact with Dropbox data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dropbox",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:quantum-workflow-orchestrator",
+  "slug": "quantum-workflow-orchestrator",
+  "name": "quantum-workflow-orchestrator",
+  "title": "量子工作流程协调器",
+  "description": "Advanced orchestration framework for managing complex workflow transitions with identity preservation and energy optimization",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Quantum Workflow Orchestrator",
+  "function_label": "Automation"
+}

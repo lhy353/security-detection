@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:work-productivity-nano-banana-workflow-helper-130446",
+  "slug": "work-productivity-nano-banana-workflow-helper-130446",
+  "name": "work-productivity-nano-banana-workflow-helper",
+  "title": "图像工作流程助手",
+  "description": "Build practical AI image generation and editing workflows inspired by Nano Banana Pro demand. Use when a user needs prompt sets, reference-image planning, iteration rules, output QA, cost controls, or deployment hardening for image generation workflows.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Nano Banana Image Workflow Helper",
+  "function_label": "Coding"
+}

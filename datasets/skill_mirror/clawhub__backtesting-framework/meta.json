@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:backtesting-framework",
+  "slug": "backtesting-framework",
+  "name": "backtesting-framework",
+  "title": "策略回测框架",
+  "description": "Strategy backtesting framework for futures and stocks. Supports moving average crossovers, RSI mean reversion, Bollinger Bands breakout, and custom strategies. Generates performance reports with Sharpe, max drawdown, win rate.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

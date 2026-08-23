@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:website-monitor",
+  "slug": "website-monitor",
+  "name": "website-monitor",
+  "title": "网站监控",
+  "description": "Lightweight website uptime monitor. Check if URLs are up, measure response times, detect content changes via hashing, and verify expected content. Zero dependencies.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Website Monitor",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:zotero-sholar",
+  "slug": "zotero-sholar",
+  "name": "zotero-scholar",
+  "title": "将论文和摘要保存到 Zotero 文库",
+  "description": "将论文和摘要保存到 Zotero 文库。需配置 ZOTERO_CREDENTIALS 环境变量。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

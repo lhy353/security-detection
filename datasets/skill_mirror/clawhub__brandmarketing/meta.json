@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:brandmarketing",
+  "slug": "brandmarketing",
+  "name": "Brand Marketing - 品牌热点营销助手",
+  "title": "品牌热点营销助手",
+  "description": "AI 智能品牌营销工具：输入品牌名称，自动采集全网数据、分析当日热点、生成一篇小红书图文内容，支持一键自动发布",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub"
+}

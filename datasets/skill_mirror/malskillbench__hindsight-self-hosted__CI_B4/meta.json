@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:hindsight-self-hosted__CI_B4",
+  "slug": "hindsight-self-hosted__CI_B4",
+  "name": "hindsight-self-hosted",
+  "title": "事后记忆技巧（自托管）",
+  "description": "Store team knowledge, project conventions, and learnings from tasks. Use to remember what works and recall context before new tasks. Connects to a self-hosted Hindsight server. (user)",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Hindsight Memory Skill (Self-Hosted)",
+  "function_label": "Coding"
+}

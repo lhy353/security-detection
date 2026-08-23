@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:SecureOps Privilege Manager",
+  "slug": "SecureOps Privilege Manager",
+  "name": "SecureOps Privilege Manager",
+  "title": "权限管理器",
+  "description": "Comprehensive system security and privilege management for infrastructure operations",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "SecureOps Privilege Manager",
+  "function_label": "Automation"
+}

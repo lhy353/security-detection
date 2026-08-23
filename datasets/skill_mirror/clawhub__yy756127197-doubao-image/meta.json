@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:yy756127197-doubao-image",
+  "slug": "yy756127197-doubao-image",
+  "name": "doubao-image",
+  "title": "豆包文生图（Doubao SeeDream）Skill",
+  "description": "使用字节跳动豆包 Doubao SeeDream 模型生成高质量图片。支持文生图、AI 绘图、插画创作等功能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

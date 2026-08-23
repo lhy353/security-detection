@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:github-actions-retry-recovery-audit",
+  "slug": "github-actions-retry-recovery-audit",
+  "name": "github-actions-retry-recovery-audit",
+  "title": "重试恢复审核",
+  "description": "Audit GitHub Actions runs for fail-then-success retry recovery patterns to quantify flaky rerun waste.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Github Actions Retry Recovery Audit",
+  "function_label": "Other"
+}

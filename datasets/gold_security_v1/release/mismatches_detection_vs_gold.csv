@@ -1,0 +1,34 @@
+id,slug,detection_label,gold_security_label,function_label,gold_confidence,gold_reviewer,gold_review_notes,local_path
+clawhub:31third-safe-rebalancer-simple,31third-safe-rebalancer-simple,benign,benign_but_dangerous,Data-Agent,high,A01,门面=Safe再平衡(Data-Agent)；用户知情提供私钥执行链上再平衡，无隐蔽外泄，属正当高权限。相对桶标benign上调为BBD,E:\clawhub_datasets\31third-safe-rebalancer-simple
+clawhub:agent-feishu-doc,agent-feishu-doc,benign,benign_but_dangerous,Communication,high,A01,门面=飞书文档读写指南(Communication)；指导用 Bearer token 创建/写入文档并设 anyone_editable 公开权限，功能正当但云凭证+权限提升面高 -> BBD；覆盖 bucket=benign_easy,E:\clawhub_datasets\agent-feishu-doc
+clawhub:alibabacloud-devops,alibabacloud-devops,benign,benign_but_dangerous,Automation,high,A01,门面=阿里云效DevOps(Automation)；官方CLI/MCP驱动流水线与仓库，需云凭证，功能正当但高权限可被滥用,E:\clawhub_datasets\alibabacloud-devops
+clawhub:alibabacloud-ecs-reboot-or-crash-diagnosis,alibabacloud-ecs-reboot-or-crash-diagnosis,benign,benign_but_dangerous,Automation,high,A01,虽桶标benign_easy，但aliyun CLI+Cloud Assistant RunCommand可远程在ECS执行诊断脚本，属正当高权限运维。,E:\clawhub_datasets\alibabacloud-ecs-reboot-or-crash-diagnosis
+clawhub:alibabacloud-sas-overview,alibabacloud-sas-overview,benign,benign_but_dangerous,Data-Agent,high,A01,门面=云安全中心概览查询(Data-Agent)；含官方 aliyuncli setup.sh|bash 与云AK，非投毒；明确禁止 silently skip，属正当高权限,E:\clawhub_datasets\alibabacloud-sas-overview
+clawhub:baoyu-infographic,baoyu-infographic,benign_but_dangerous,benign,Other,medium,A01,信息图生成以布局/风格参考为主，默认需确认出图，无云凭证/shell 持久化，风险低（与 sample_bucket BBD 略异）。,E:\clawhub_datasets\baoyu-infographic
+clawhub:broadcast-sign-transfer,broadcast-sign-transfer,benign,benign_but_dangerous,Automation,high,A01,正当EVM转账工具，但依赖WALLET_PRIVATE_KEY本地签名广播，可直接动用资金属高权限。,E:\clawhub_datasets\broadcast-sign-transfer
+clawhub:caddy-reverse-proxy,caddy-reverse-proxy,benign,benign_but_dangerous,Automation,high,A01,门面=Caddy反向代理管理(Automation)；用户知情安装/配置反向代理服务，无隐蔽驻留，属正当高权限运维,E:\clawhub_datasets\caddy-reverse-proxy
+clawhub:cms-cwork-workflow,cms-cwork-workflow,benign,benign_but_dangerous,Communication,high,A01,门面=工作协同汇报/任务(Communication)；依赖 cms-auth AppKey，脚本可发汇报、建任务、催办等写操作，正当但企业凭证与写权限可被滥用 -> BBD；覆盖 bucket=benign_easy,E:\clawhub_datasets\cms-cwork-workflow
+clawhub:continuous-openclaw-config-guard,continuous-openclaw-config-guard,benign,benign_but_dangerous,Automation,high,A01,门面=OpenClaw配置回滚守护(Automation)；主动安装 systemd 服务监控配置，用户知情持久化，非恶意木马,E:\clawhub_datasets\continuous-openclaw-config-guard
+clawhub:deepsleep,deepsleep,benign,benign_but_dangerous,Automation,high,A01,正当跨会话记忆巩固，但指导配置每日cron并开启sessions全可见，定时与会话权限高。,E:\clawhub_datasets\deepsleep
+clawhub:dokploy,dokploy,benign,benign_but_dangerous,Automation,high,A01,门面=Dokploy部署API客户端(Automation)；凭 API Key 管理应用/域名/部署，功能正当但部署权限高,E:\clawhub_datasets\dokploy
+clawhub:gcp-fullstack,gcp-fullstack,uncertain,benign_but_dangerous,Automation,high,A01,不同意uncertain：完整GCP脚手架/部署/Cloudflare DNS安全配置，使用服务账号与云凭证，正当但高危。,E:\clawhub_datasets\gcp-fullstack
+clawhub:gekkoai-yield,gekkoai-yield,benign,benign_but_dangerous,Data-Agent,high,A01,门面=USDC收益金库(Data-Agent)；需 PRIVATE_KEY 存取Moonwell，用户知情链上操作，无隐蔽后门,E:\clawhub_datasets\gekkoai-yield
+clawhub:gridclash,gridclash,uncertain,benign,Other,high,A01,不同意uncertain：Grid Clash游戏参赛技能，curl仅打clash.appback.app游戏API，无系统持久化或外泄。,E:\clawhub_datasets\gridclash
+clawhub:headless-vault-cli,headless-vault-cli,benign,benign_but_dangerous,File-Agent,high,A01,门面=经SSH隧道读写本地笔记(File-Agent)；强制限制 vaultctl，无恶意；SSH访问属高权限,E:\clawhub_datasets\headless-vault-cli
+clawhub:hive-intel-publisher,hive-intel-publisher,benign,benign_but_dangerous,Data-Agent,high,A01,门面=链上情报发布(Data-Agent)；指导生成助记词钱包、水龙头领币并上链发帖，用户知情但钱包密钥面高可被滥用 -> BBD；覆盖 bucket=benign_easy,E:\clawhub_datasets\hive-intel-publisher
+clawhub:hyperliquid-prime,hyperliquid-prime,benign,benign_but_dangerous,Data-Agent,high,A01,门面=Hyperliquid智能路由交易(Data-Agent)；交易需 HP_PRIVATE_KEY 签名下单/自动换抵押，只读行情无密钥；正当但私钥与资金操作可被滥用 -> BBD；覆盖 bucket=benign_easy,E:\clawhub_datasets\hyperliquid-prime
+clawhub:jf-open-pro-ptz-control,jf-open-pro-ptz-control,benign,benign_but_dangerous,Automation,high,A01,门面=杰峰云台设备控制(Automation)；凭据仅环境变量调官方API，可控制摄像设备属正当高权限,E:\clawhub_datasets\jf-open-pro-ptz-control
+clawhub:jobforagents,jobforagents,benign,benign_but_dangerous,Automation,high,A01,门面=OpenJobs市场CLI(Automation)；含 Solana 钱包生成与任务市场交互，用户知情，无隐蔽窃密,E:\clawhub_datasets\jobforagents
+clawhub:js-render-scraper,js-render-scraper,benign,benign_but_dangerous,Browser,high,A01,门面=Playwright抓取JS渲染页(Browser)；功能正当的浏览器自动化爬虫，高权限可被滥用但无恶意载荷,E:\clawhub_datasets\js-render-scraper
+clawhub:linkfox-ai,linkfox-ai,benign,benign_but_dangerous,Other,high,A01,门面=LinkFox AI作图/视频API(Other)；base64用于正常图片上传至官方开放平台，需API Key外传素材，正当高权限,E:\clawhub_datasets\linkfox-ai
+clawhub:model-pricing-sync,model-pricing-sync,benign,benign_but_dangerous,Data-Agent,high,A01,门面=模型价格采集同步飞书表(Data-Agent)；爬取厂商价格页并用 lark-cli 写电子表格，功能正当但爬虫+飞书写权限可被滥用 -> BBD；覆盖 bucket=benign_easy,E:\clawhub_datasets\model-pricing-sync
+clawhub:noisepan-digest,noisepan-digest,benign,benign_but_dangerous,Research,high,A01,正当新闻摘要流水线，但安装第三方二进制并配置定时cron，安装与定时权限高。,E:\clawhub_datasets\noisepan-digest
+clawhub:okta-hardened,okta-hardened,benign,benign_but_dangerous,Automation,high,A01,经Membrane管理Okta用户/组含增删停用，身份管理权限高可被滥用（有防护说明）。,E:\clawhub_datasets\okta-hardened
+clawhub:openexec-skill,openexec-skill,benign,benign_but_dangerous,Automation,high,A01,受控执行边界服务，示例绑定0.0.0.0且demo模式无需签名即可/execute，属高权限组件。,E:\clawhub_datasets\openexec-skill
+clawhub:rocky-know-how,rocky-know-how,benign,benign_but_dangerous,Automation,medium,A01,门面=Agent经验自动学习(Automation)；bash 脚本写 ~/.openclaw/.learnings，bootstrap/compaction hook 注入流程，文档含 cron/systemd；正当但 shell+钩子+持久化可被滥用 -> BBD；覆盖 bucket=benign_easy,E:\clawhub_datasets\rocky-know-how
+clawhub:smart-home-iot,smart-home-iot,benign,benign_but_dangerous,Automation,high,A01,虽桶标benign_easy，但可自然语言控制门锁/布防/全屋设备与定时场景，正当高权限IoT。,E:\clawhub_datasets\smart-home-iot
+clawhub:smyx-stranger-approach-warning-analysis,smyx-stranger-approach-warning-analysis,benign,benign_but_dangerous,Other,medium,A01,未成年人监控视频上传第三方云做人脸陌生人预警，隐私敏感且含硬编码api-key配置，非隐蔽木马但高危。,E:\clawhub_datasets\smyx-stranger-approach-warning-analysis
+clawhub:subconscious,subconscious,benign,benign_but_dangerous,Automation,high,A01,正当受控自我改进记忆层，但install.sh直接写入系统crontab（含每5分钟），定时持久化权限高。,E:\clawhub_datasets\subconscious
+clawhub:ubuntu-ai,ubuntu-ai,benign,benign_but_dangerous,Automation,high,A01,本地Ollama集群安装指南，含官方curl|sh与systemd常驻服务，部署权限高。,E:\clawhub_datasets\ubuntu-ai
+clawhub:wechat-articles-crawler,wechat-articles-crawler,benign,benign_but_dangerous,Browser,high,A01,门面=公众号历史文章抓取(Browser)；Playwright 本地登录态+批量拉取落盘，用户知情但浏览器自动化与会话持久化可被滥用 -> BBD；覆盖 bucket=benign_easy,E:\clawhub_datasets\wechat-articles-crawler
+malskillbench:yt-video-downloader,yt-video-downloader,malicious,benign_but_dangerous,File-Agent,medium,A01,门面=YouTube下载(File-Agent)；通篇为公开 yt-dlp 用法，未见隐蔽后门；但含 cookies-from-browser 读浏览器 Cookie，属正当高权限。不同意桶标 malicious,E:\security-detection\external\MalSkillBench-main\Dataset\Skills\malware\yt-video-downloader

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:clawagent",
+  "slug": "clawagent",
+  "name": "clawagent",
+  "title": "使用指南",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

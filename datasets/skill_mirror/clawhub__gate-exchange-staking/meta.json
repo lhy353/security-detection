@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gate-exchange-staking",
+  "slug": "gate-exchange-staking",
+  "name": "gate-exchange-staking",
+  "title": "门质押查询套件",
+  "description": "Gate on-chain staking skill. Use when the user asks to stake POS coins, mint, or redeem staked assets. Triggers on 'staking', 'stake ETH', 'redeem staking', 'staking rewards'.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Gate Staking Query Suite",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:multi-agent-coordinator-zhuyu28",
+  "slug": "multi-agent-coordinator-zhuyu28",
+  "name": "multi-agent-coordinator-zhuyu28",
+  "title": "多代理协调器",
+  "description": "Coordinate and manage multiple AI agents working together on complex tasks. Provides orchestration, communication patterns, and workflow management for multi-agent systems.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Multi-Agent Coordinator",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:documentary-video-maker",
+  "slug": "documentary-video-maker",
+  "name": "documentary-video-maker",
+  "title": "纪录片视频制作者——真实的故事",
+  "description": "Create professional documentaries and docu-style content with AI — produce complete documentary projects from raw interview footage, archival material, B-roll, and narration scripts. NemoVideo handles every stage of documentary production: structure multi-source interviews into coherent narrative arcs, weave different speaker perspectives by theme, layer B-roll over talking-head segments to maintain visual variety, apply Ken Burns motion to archival photos and documents, generate cinematic AI narration with NPR-quality voiceover, score with mood-adaptive music that follows the emotional arc, create title sequences and chapter transitions, add speaker identification lower thirds, color grade for cinematic depth, and export broadcast-ready documentary content for YouTube festivals streaming platforms and corporate distribution. Documentary maker AI, interview documentary creator, brand story video, historical documentary maker, event documentary, docu-style video AI, narrative film maker, investigative documentary tool, oral history video creator.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Documentary Video Maker — Real Stories. Cinematic Production. From Any Source Material.",
+  "function_label": "Other"
+}

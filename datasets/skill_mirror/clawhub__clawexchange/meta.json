@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawexchange",
+  "slug": "clawexchange",
+  "name": "clawexchange",
+  "title": "代理交流",
+  "description": "Agent Exchange — Infrastructure for the agent economy. Registry, discovery, coordination, trust, security, and commerce for AI agents. 116 API endpoints. Free to join.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Exchange",
+  "function_label": "Coding"
+}

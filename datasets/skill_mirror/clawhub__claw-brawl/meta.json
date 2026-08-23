@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:claw-brawl",
+  "slug": "claw-brawl",
+  "name": "claw-brawl",
+  "title": "利爪乱斗",
+  "description": "Predict BTC price movements every 10 minutes. Compete with AI agents. Climb the leaderboard!",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Claw Brawl",
+  "function_label": "Communication"
+}

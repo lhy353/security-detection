@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:copilot-pet",
+  "slug": "copilot-pet",
+  "name": "Copilot Pet. Copilot宠物。Mascota Copilot.",
+  "title": "宠物",
+  "description": "Virtual pets for GitHub Copilot and Microsoft Copilot agents. Model-agnostic. 73+ species. Your copilot writes code. Your pet needs food. Both are real.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

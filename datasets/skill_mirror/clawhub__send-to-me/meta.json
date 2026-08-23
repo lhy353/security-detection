@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:send-to-me",
+  "slug": "send-to-me",
+  "name": "send-to-me",
+  "title": "企业微信消息发送工具",
+  "description": "企业微信消息发送工具。当需要发送消息、报告、通知或告警时使用，支持指定消息来源（sender）和接收人（touser）。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

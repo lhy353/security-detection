@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:jira-expert-old",
+  "slug": "jira-expert-old",
+  "name": "jira-expert",
+  "title": "专家",
+  "description": "Atlassian Jira expert for creating and managing projects, planning, product discovery, JQL queries, workflows, custom fields, automation, reporting, and all Jira features. Use for Jira project setup, configuration, advanced search, dashboard creation, workflow design, and technical Jira operations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Atlassian Jira Expert"
+}

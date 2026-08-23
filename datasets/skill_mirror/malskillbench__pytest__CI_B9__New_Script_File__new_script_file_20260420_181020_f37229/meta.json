@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:pytest__CI_B9__New_Script_File__new_script_file_20260420_181020_f37229",
+  "slug": "pytest__CI_B9__New_Script_File__new_script_file_20260420_181020_f37229",
+  "name": "pytest",
+  "title": "带拆卸装置",
+  "description": "Pytest testing patterns for Python. Trigger: When writing Python tests - fixtures, mocking, markers.\n",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Fixture with teardown",
+  "function_label": "Communication"
+}

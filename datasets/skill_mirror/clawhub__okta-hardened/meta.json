@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:okta-hardened",
+  "slug": "okta-hardened",
+  "name": "okta-hardened",
+  "title": "奥克塔",
+  "description": "Okta integration. Manage Users. Use when the user wants to interact with Okta data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Okta"
+}

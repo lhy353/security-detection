@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:deployment-orchestrator",
+  "slug": "deployment-orchestrator",
+  "name": "deployment-orchestrator",
+  "title": "部署协调器",
+  "description": "Orchestrates project deployment workflows with automated launch readiness and confidential data management.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Deployment Orchestrator",
+  "function_label": "Automation"
+}

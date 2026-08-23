@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:pangu",
+  "slug": "pangu",
+  "name": "pangu",
+  "title": "盘古 ·",
+  "description": "盘古 · skill - 将知识库/文件夹/单文档蒸馏为专业可安装的Skill。\n支持四种蒸馏模式：完整知识库、指定文件夹、单篇文档、任务工作流。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

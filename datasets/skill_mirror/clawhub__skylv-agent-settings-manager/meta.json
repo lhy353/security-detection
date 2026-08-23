@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skylv-agent-settings-manager",
+  "slug": "skylv-agent-settings-manager",
+  "name": "agent-settings-manager",
+  "title": "配置管理",
+  "description": "Configuration management for AI agents. Manage, validate, version, and sync configs across environments. Triggers: config management, configuration, env variables, config validation, config sync.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Config Management",
+  "function_label": "Other"
+}

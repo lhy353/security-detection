@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:echoic-memory",
+  "slug": "echoic-memory",
+  "name": "create-echo",
+  "title": "铭记离开的人",
+  "description": "Distill a beloved person who has left your life into an AI Skill. Import chat history, photos, videos, voice memos, and social media to preserve their personality, expressions, and memories. | 将离开生命的挚爱之人蒸馏成 AI Skill，导入聊天记录、照片、视频、语音和社交媒体，保存他们的个性、表达和记忆。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:audio-video-to",
+  "slug": "audio-video-to",
+  "name": "audio-video-to",
+  "title": "合并音频和视频文件",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — merge this audio and video into a single MP4 file — and get merged video files back in 20-40 seconds. Upload MP4, MOV, AVI, MP3 files up to 500MB, and the AI handles AI format conversion automatically. Ideal for content creators who want to merge audio and video tracks quickly without editing software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Audio Video To — Merge Audio and Video Files",
+  "function_label": "Communication"
+}

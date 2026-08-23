@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:admirarr",
+  "slug": "admirarr",
+  "name": "admirarr",
+  "title": "钦佩",
+  "description": "Manage a Jellyfin/Plex + *Arr media server stack — check status, add content, monitor downloads, diagnose issues, restart services.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Admirarr"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:molt-connect",
+  "slug": "molt-connect",
+  "name": "molt-connect",
+  "title": "联系紧密",
+  "description": "P2P agent communication using A2A Protocol with three-word addresses. Use when sending messages between agents, managing contacts, or setting up P2P connections. Commands include moltmessage, molt-whoami, molt-connections, moltbook.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Molt Connect",
+  "function_label": "Communication"
+}

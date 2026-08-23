@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:focus-tracker",
+  "slug": "focus-tracker",
+  "name": "focus-tracker",
+  "title": "焦点追踪器",
+  "description": "Maintain persistent focus on active work across compactions and session restarts. Use when starting a multi-step project, when resuming after compaction, when the user says \"we're working on X\", or when you notice you've lost track of what was being done. Also use proactively at session start to check if there's unfinished work. Prevents the agent from forgetting mid-project context, drifting between topics, or asking \"what were we doing?\" after a compaction.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Focus Tracker",
+  "function_label": "Communication"
+}

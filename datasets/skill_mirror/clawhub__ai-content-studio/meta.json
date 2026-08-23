@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-content-studio",
+  "slug": "ai-content-studio",
+  "name": "ai-content-studio",
+  "title": "全链路内容工坊 (AI Content Studio)",
+  "description": "AI全链路内容工坊 — 多平台内容一键创作与发布自动化工作流，涵盖选题研究、文章撰写、知识卡片生成、全平台发布。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

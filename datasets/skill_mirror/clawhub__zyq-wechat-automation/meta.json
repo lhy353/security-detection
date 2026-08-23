@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:zyq-wechat-automation",
+  "slug": "zyq-wechat-automation",
+  "name": "wechat-automation",
+  "title": "微信RPA自动化技能",
+  "description": "微信RPA自动化技能。基于pywechat3（pip install pywechat127）实现Windows PC微信自动化操作，包括发消息、批量群发、读取聊天记录、获取通讯录、自动回复、朋友圈管理等。当用户需要操作微信（发消息、查记录、自动回复等）时激活。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:the-go-giver-influencer",
+  "slug": "the-go-giver-influencer",
+  "name": "the-go-giver-influencer",
+  "title": "影响者",
+  "description": "Bob Burg and John David Mann's The Go-Giver Influencer — an executable toolkit that applies the Go-Giver principles to influence, negotiation, and persuasion: building genuine influence by focusing on adding value, finding the \"third way\" beyond win-lose, and leading through service.\nCovers 5 use cases: ① Influence Through Service — gain influence by giving value first (\"How to influence without manipulation\" \"How to get people to listen\") ② The Third Way — find solutions beyond win-lose (\"How to negotiate win-win\" \"How to resolve conflicts creatively\") ③ Empathetic Persuasion — persuade by understanding, not pressure (\"How to persuade without being pushy\" \"How to get people to agree\") ④ Building Trust — create genuine relationships that lead to influence (\"How to build trust quickly\" \"How to be more influential\") ⑤ Leading with Generosity — lead by giving, not taking (\"How to lead through generosity\" \"Servant leadership in practice\")\nTrigger when users say: \"Go-Giver\" \"Bob Burg\" \"Influence\" \"Persuasion\" \"Negotiation\" \"How to be more influential\" \"How to get people to agree\" \"Influence without authority\" \"Servant leadership\" \"Win-win negotiation\" \"How to persuade ethically\" or mention: Bob Burg / John David Mann / The Go-Giver Influencer / Go-Giver / influence / persuasion / negotiation / third way / empathy / generosity / servant leadership / adding value / relationships / trust building.\nRelated skills: how-to-win-friends (building relationships), the-servant (servant leadership), nonviolent-communication (empathetic communication), everyone-communicates-few-connect (connection).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "The Go Giver Influencer",
+  "function_label": "Other"
+}

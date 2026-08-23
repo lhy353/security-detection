@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:yummy-gen-image",
+  "slug": "yummy-gen-image",
+  "name": "yummy-gen-image",
+  "title": "生成图像",
+  "description": "Use when the user wants to generate or edit raster images with Gemini through yummycli, including prompt-only generation, single-image editing, and multi-image reference editing.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Generate Image",
+  "function_label": "Other"
+}

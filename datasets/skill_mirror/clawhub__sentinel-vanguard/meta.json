@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sentinel-vanguard",
+  "slug": "sentinel-vanguard",
+  "name": "sentinel-vanguard",
+  "title": "技能安全审核员",
+  "description": "AI Agent skill security auditor. Use this skill whenever the user wants to audit, review, vet, or assess the safety and security of any AI skill, Claude skill, ClawHub skill, or AI agent tool. Triggers on phrases like \"check this skill for safety\", \"audit this AI tool\", \"is this skill safe to use\", \"scan for prompt injection\", \"review skill security\", \"check for malicious packages\", \"vetting a skill\", or any request to evaluate trustworthiness of agent-facing code. Also triggers when users paste skill content, code snippets, SKILL.md files, or ask about supply chain risks in AI tooling.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sentinel Vanguard — AI Skill Security Auditor",
+  "function_label": "Data-Agent"
+}

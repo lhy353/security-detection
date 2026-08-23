@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:rocky-know-how",
+  "slug": "rocky-know-how",
+  "name": "rocky-know-how",
+  "title": "洛基专有技术 v3.4.8",
+  "description": "Learning knowledge skill v3.4.8 — vector search with bge-large-zh-v1.5, auto-fallback to keyword search, preprocessing for numbers/English/spell-correction. Tested & verified: deepseek-v4, glm-5.1, minimax-m2.7.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "rocky-know-how v3.4.8"
+}

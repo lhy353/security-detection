@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:wildapricot",
+  "slug": "wildapricot",
+  "name": "wildapricot",
+  "title": "野杏",
+  "description": "WildApricot integration. Manage data, records, and automate workflows. Use when the user wants to interact with WildApricot data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Wildapricot",
+  "function_label": "Automation"
+}

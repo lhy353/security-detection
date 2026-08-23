@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:livestream-sales",
+  "slug": "livestream-sales",
+  "name": "livestream-sales",
+  "title": "直播销售脚本",
+  "description": "Livestream sales script expert. Writes lively, engaging, and persuasive livestream sales scripts based on product information, highlighting key value points and sparking purchase desire.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Livestream Sales Script",
+  "function_label": "Other"
+}

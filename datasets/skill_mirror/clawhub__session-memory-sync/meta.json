@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:session-memory-sync",
+  "slug": "session-memory-sync",
+  "name": "session-sync",
+  "title": "跨 Session 记忆同步",
+  "description": "Cross-session memory sync protocol. Ensures memory consistency across Feishu, webchat, and any other channels.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aoi-triple-memory-lite",
+  "slug": "aoi-triple-memory-lite",
+  "name": "aoi-triple-memory-lite",
+  "title": "三重内存（精简版）",
+  "description": "AOI Triple Memory (Lite) — file search + decision notes templates (no plugins).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AOI Triple Memory (Lite)",
+  "function_label": "Other"
+}

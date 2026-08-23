@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:release-preflight",
+  "slug": "release-preflight",
+  "name": "release-preflight",
+  "title": "发布预检",
+  "description": "Pre-release safety and scope checker for skills, repos, and export bundles. Use before publishing or sharing a skill folder, repository, or release bundle when you need to detect private artifacts, overscoped publish surfaces, local identity leakage, missing release basics, and export-safety risks before something becomes public.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Release Preflight",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ultrapilot",
+  "slug": "ultrapilot",
+  "name": "ultrapilot",
+  "title": "超级飞行员技能",
+  "description": "Parallel autopilot with file ownership partitioning",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Ultrapilot Skill",
+  "function_label": "Coding"
+}

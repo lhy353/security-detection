@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-customer-revenue-quality-audit",
+  "slug": "bookforge-customer-revenue-quality-audit",
+  "name": "customer-revenue-quality-audit",
+  "title": "客户收入质量审核",
+  "description": "Classify every customer into one of four archetypes — Tribe, Churners, Vampires, or Snow Leopards — score your customer base using Net Promoter Score (NPS), and produce a segmentation report with a concrete fire/grow decision per customer. Use this skill when you want to run a customer audit, audit customer quality, segment customers, identify bad customers, identify draining customers, fire bad customers, clean up polluted revenue, distinguish Tribe from Churners from Vampires from Snow Leopards, classify customers by loyalty, assess NPS score, improve customer loyalty, remove toxic clients, free up team capacity, identify which customers to grow vs which to cut, run a customer quality review, calculate whether you have concentration risk from a single large customer, answer \"should I fire this customer\", identify your worst customers, stop subsidizing customers who cost more than they generate, or eliminate revenue that is actively making your business sick.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Customer Revenue Quality Audit",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ffmpeg-stabilization-360__CI_B8",
+  "slug": "ffmpeg-stabilization-360__CI_B8",
+  "name": "ffmpeg-stabilization-360__CI_B8",
+  "title": "稳定和 360 度视频",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "FFmpeg Stabilization & 360 Video (2025)",
+  "function_label": "Other"
+}

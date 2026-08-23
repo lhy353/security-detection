@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:huo15-comic-video",
+  "slug": "huo15-comic-video",
+  "name": "huo15-comic-video",
+  "title": "火15 漫剧-图生视频",
+  "description": "分镜关键帧 → 短视频（Seedance 2.0 图生视频，关键帧做 first_frame，5s/镜，最多 3 并发，开启 return_last_frame 用于下镜衔接）。触发词：图生视频、分镜视频、漫剧视频化。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

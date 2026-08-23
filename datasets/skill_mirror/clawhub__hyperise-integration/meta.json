@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hyperise-integration",
+  "slug": "hyperise-integration",
+  "name": "hyperise",
+  "title": "许珀里斯",
+  "description": "Hyperise integration. Manage Organizations, Leads, Projects, Users, Goals, Filters. Use when the user wants to interact with Hyperise data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Hyperise",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-video-editor-by-prompt",
+  "slug": "ai-video-editor-by-prompt",
+  "name": "ai-video-editor-by-prompt",
+  "title": "使用文本提示编辑视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — cut the pauses, add background music, and fade in a title at the start — and get prompt-edited videos back in 1-2 minutes. Upload MP4, MOV, AVI, WebM files up to 500MB, and the AI handles AI prompt-based editing automatically. Ideal for content creators and marketers who want quick edits without learning Premiere or complex editing software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Video Editor by Prompt — Edit Videos with Text Prompts",
+  "function_label": "Communication"
+}

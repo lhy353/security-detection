@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:google-workspace-integration",
+  "slug": "google-workspace-integration",
+  "name": "google-workspace",
+  "title": "谷歌工作区",
+  "description": "Google Workspace integration. Manage Users, Groups, Calendars, Drives, Mailboxs, Contacts. Use when the user wants to interact with Google Workspace data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Google Workspace",
+  "function_label": "Browser"
+}

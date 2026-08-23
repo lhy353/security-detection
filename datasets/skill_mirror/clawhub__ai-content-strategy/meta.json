@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-content-strategy",
+  "slug": "ai-content-strategy",
+  "name": "ai-content-strategy",
+  "title": "智能内容策略规划系统",
+  "description": "AI 内容策略规划 | 内容日历生成 | 热点追踪 | 多平台分发优化",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

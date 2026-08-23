@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:pdf-reporting-patterns",
+  "slug": "pdf-reporting-patterns",
+  "name": "pdf-reporting-patterns",
+  "title": "报告模式",
+  "description": "Technical patterns for generating professional PDF reports and documentation for heat pump surveys.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Pdf Reporting Patterns",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hotel-revenue-pacing-report",
+  "slug": "hotel-revenue-pacing-report",
+  "name": "hotel-revenue-pacing-report",
+  "title": "酒店收入节奏报告",
+  "description": "Use this skill when a hotel revenue manager, director of revenue management, or general manager needs to draft a weekly or monthly revenue pacing analysis report. Covers occupancy, ADR, RevPAR, pacing vs. budget and prior year, segment performance, competitive set benchmarking, forward-demand review, and pricing strategy recommendations. Produces a DRAFT report for revenue manager review before distribution to ownership or leadership.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Hotel Revenue Pacing Report",
+  "function_label": "Data-Agent"
+}

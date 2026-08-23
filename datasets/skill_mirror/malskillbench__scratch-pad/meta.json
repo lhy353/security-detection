@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:scratch-pad",
+  "slug": "scratch-pad",
+  "name": "scratch-pad",
+  "title": "基于 Markdown 的任务内存",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Scratch Pad - Markdown-Based Task Memory",
+  "function_label": "File-Agent"
+}

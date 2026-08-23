@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:relate-coach",
+  "slug": "relate-coach",
+  "name": "Relate Coach",
+  "title": "相关教练",
+  "description": "Relate Coach helps users improve everyday communication, set healthier boundaries, de-escalate conflict, and maintain better relationships through practical self-help frameworks such as nonviolent communication, active listening, and respectful assertiveness. Use when the user wants interpersonal skill support, not therapy, diagnosis, matchmaking, or someone to act on their behalf.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Relate Coach",
+  "function_label": "Other"
+}

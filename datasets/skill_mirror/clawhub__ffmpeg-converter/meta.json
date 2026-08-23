@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ffmpeg-converter",
+  "slug": "ffmpeg-converter",
+  "name": "ffmpeg-converter",
+  "title": "无需触摸终端即可转换任何媒体文件",
+  "description": "Tired of manually wrestling with ffmpeg command-line syntax just to convert a video or compress an audio file? The ffmpeg-converter skill takes the complexity out of media conversion by letting you describe what you want in plain English. Whether you need to transcode MP4 to WebM, extract audio from video, resize resolution, adjust bitrate, or batch convert entire folders, ffmpeg-converter handles it without requiring you to memorize a single flag. Built for video editors, developers, and content creators who move fast.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Convert Any Media File Without Touching the Terminal",
+  "function_label": "Automation"
+}

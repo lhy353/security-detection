@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:audio",
+  "slug": "audio",
+  "name": "Audio",
+  "title": "声音的",
+  "description": "Process, enhance, and convert audio files with noise removal, normalization, format conversion, transcription, and podcast workflows.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Audio",
+  "function_label": "Communication"
+}

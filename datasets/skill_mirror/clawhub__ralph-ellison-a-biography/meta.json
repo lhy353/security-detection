@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ralph-ellison-a-biography",
+  "slug": "ralph-ellison-a-biography",
+  "name": "ralph-ellison-a-biography",
+  "title": "拉尔夫·埃里森传记",
+  "description": "Ralph Ellison: A Biography by Arnold Rampersad — an executable toolkit that maps the tragic life and towering achievement of the author of Invisible Man onto the arc of African-American cultural history, revealing how a poor, fatherless boy from Oklahoma City forged a masterpiece from the blues, jazz, literature, and radical politics.\nCovers 5 use cases: ① Author Context — understand Ellison's life when studying Invisible Man (\"Who was the man behind the novel?\") ② Creative Process Study — trace how Ellison wrote, revised, and published (\"How did Invisible Man get written?\") ③ Literary History Analysis — contextualize Ellison within African-American letters (\"What was his relationship with Richard Wright?\") ④ Cultural Theory — apply Ellison's ideas about invisibility, the blues, and American identity (\"Explain Ellison's theory of invisibility\") ⑤ Biography as Method — how Rampersad constructed this definitive biography (\"What makes this biography definitive?\")\nTrigger when users say: \"Ralph Ellison biography\" \"Invisible Man background\" \"Ellison and Wright\" \"Who was Ralph Ellison\" \"Ellison's life story\" \"How Invisible Man was written\" \"Ellison vs Wright\" \"Ellison jazz and blues\" \"Arnold Rampersad biography\" \"Ellison Oklahoma\" \"Ellison Tuskegee\" or mention: Ralph Ellison / Invisible Man / Arnold Rampersad / Shadow and Act / Juneteenth / invisibility metaphor / Richard Wright / Langston Hughes / blues as cultural theory / Kenneth Burke / the missing middle / black American literature / National Book Award. Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ralph Ellison A Biography",
+  "function_label": "Other"
+}

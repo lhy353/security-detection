@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:seedance2-video-gen",
+  "slug": "seedance2-video-gen",
+  "name": "seedance2-video-gen",
+  "title": "视频生成技能",
+  "description": "Seedance 2.0 AI 视频生成技能。根据用户描述（文字/图片/视频/音频）， 自动生成 Seedance 2.0 API 调用参数，支持文生视频、图生视频、参考视频三种模式。 支持 @素材名 语法控制角色、镜头、动作、声音。 触发词：生成视频、制作视频、AI视频、图生视频、文生视频、视频生成\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

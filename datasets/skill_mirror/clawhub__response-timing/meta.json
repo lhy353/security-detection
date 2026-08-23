@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:response-timing",
+  "slug": "response-timing",
+  "name": "response-timing",
+  "title": "回应时机技能",
+  "description": "回应时机技能。用于判断何时应该回应，何时应该保持沉默。当需要确定用户是否在跟当前 agent 对话、是否应该回应时使用。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

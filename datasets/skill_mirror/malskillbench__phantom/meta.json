@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:phantom",
+  "slug": "phantom",
+  "name": "phantom",
+  "title": "幻影钱包",
+  "description": "Work with Phantom browser extension - add custom networks, import tokens, check connected dApps, troubleshoot issues, and manage Solana/Ethereum/Polygon accounts.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Phantom Wallet",
+  "function_label": "Other"
+}

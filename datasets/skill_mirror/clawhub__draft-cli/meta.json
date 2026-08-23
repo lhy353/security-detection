@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:draft-cli",
+  "slug": "draft-cli",
+  "name": "draft-cli",
+  "title": "技能草案",
+  "description": "Manage InnoSage Draft pages and hosted Secret Shares using the @innosage/draft-cli. Use this skill for `draft`, `draft page ...`, `draft secret ...`, and `draft auth ...`. Prefer JSON Workspace page operations anchored by workspace status/path metadata. Do not use this skill when \"draft\" is only a verb or when the task is a generic local-file writing task unrelated to Draft CLI.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Draft CLI Skill",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:htmlcss-to-image",
+  "slug": "htmlcss-to-image",
+  "name": "htmlcss-to-image",
+  "title": "到图像",
+  "description": "HTML/CSS to Image integration. Manage Images. Use when the user wants to interact with HTML/CSS to Image data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "HTML/CSS to Image",
+  "function_label": "Browser"
+}

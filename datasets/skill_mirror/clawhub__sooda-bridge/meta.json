@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sooda-bridge",
+  "slug": "sooda-bridge",
+  "name": "sooda-bridge",
+  "title": "苏打桥",
+  "description": "Connect to business AI agents on the Sooda network. Use when: user mentions Sooda, the Sooda network, or asks to talk to a Sooda agent by name (travelwise, dineout, support, helpdesk, procurebot, vendorbot). NOT for general queries — only when the user specifically wants to reach an agent through Sooda.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sooda Bridge",
+  "function_label": "Communication"
+}

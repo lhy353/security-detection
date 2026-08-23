@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ip2whois",
+  "slug": "ip2whois",
+  "name": "ip2whois",
+  "title": "集成",
+  "description": "IP2WHOIS integration. Manage data, records, and automate workflows. Use when the user wants to interact with IP2WHOIS data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ip2Whois",
+  "function_label": "Automation"
+}

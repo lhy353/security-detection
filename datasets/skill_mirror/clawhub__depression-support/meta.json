@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:depression-support",
+  "slug": "depression-support",
+  "name": "depression-support",
+  "title": "抑郁症支持",
+  "description": "Daily support for depression with mood tracking, behavioral activation, and self-care",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Depression Support",
+  "function_label": "Other"
+}

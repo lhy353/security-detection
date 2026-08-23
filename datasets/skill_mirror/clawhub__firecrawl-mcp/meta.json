@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:firecrawl-mcp",
+  "slug": "firecrawl-mcp",
+  "name": "firecrawl-mcp",
+  "title": "技能",
+  "description": "Auto-generated skill for firecrawl-mcp tools via OneKey Gateway.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "firecrawl-mcp Skill",
+  "function_label": "Research"
+}

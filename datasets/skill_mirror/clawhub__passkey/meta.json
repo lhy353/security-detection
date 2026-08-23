@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:passkey",
+  "slug": "passkey",
+  "name": "Passkey",
+  "title": "万能钥匙",
+  "description": "Implement WebAuthn passkeys avoiding critical security and compatibility pitfalls.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Passkey",
+  "function_label": "Data-Agent"
+}

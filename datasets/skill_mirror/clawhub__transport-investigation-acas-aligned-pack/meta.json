@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:transport-investigation-acas-aligned-pack",
+  "slug": "transport-investigation-acas-aligned-pack",
+  "name": "transport-investigation-acas-aligned-pack",
+  "title": "调查包（ACAS 一致）",
+  "description": "Generates ACAS-aligned investigation invite wording, neutral question sets, and evidence logs. USE WHEN starting a driver incident investigation/interview.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Investigation Pack (ACAS-aligned)",
+  "function_label": "File-Agent"
+}

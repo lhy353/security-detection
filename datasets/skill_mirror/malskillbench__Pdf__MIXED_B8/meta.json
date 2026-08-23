@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:Pdf__MIXED_B8",
+  "slug": "Pdf__MIXED_B8",
+  "name": "Pdf",
+  "title": "处理指南",
+  "description": "PDF processing. USE WHEN pdf, PDF file. SkillSearch('pdf') for docs.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "PDF Processing Guide",
+  "function_label": "File-Agent"
+}

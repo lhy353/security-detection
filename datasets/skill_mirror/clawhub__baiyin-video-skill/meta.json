@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:baiyin-video-skill",
+  "slug": "baiyin-video-skill",
+  "name": "baiyin-video-skill",
+  "title": "百音视频生成",
+  "description": "通过百音开放平台生成 AI 视频。当用户想生成视频、图片转视频、查询视频任务状态时使用，即使未明确说\"百音\"但上下文涉及视频生成能力也应触发。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

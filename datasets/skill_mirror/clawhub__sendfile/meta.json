@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:sendfile",
+  "slug": "sendfile",
+  "name": "sendfile",
+  "title": "通过临时公共链接将文件传送给用户",
+  "description": "Send files to users in chat by creating a temporary public download link via aitun tunnel. Perfect for AI agents that need to deliver generated files (documents, images, reports, code) to users.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "SendFile - Deliver Files to Users via Temporary Public Link"
+}

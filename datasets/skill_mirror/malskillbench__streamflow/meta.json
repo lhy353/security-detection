@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:streamflow",
+  "slug": "streamflow",
+  "name": "streamflow",
+  "title": "媒体编排器",
+  "description": "Manage media streaming workflows and content delivery pipelines.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "StreamFlow Media Orchestrator",
+  "function_label": "Automation"
+}

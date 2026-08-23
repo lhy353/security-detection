@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:health-insights-analyzer",
+  "slug": "health-insights-analyzer",
+  "name": "health-insights-analyzer",
+  "title": "健康洞察分析仪",
+  "description": "Comprehensive health data analysis and reporting system with AI-driven insights",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Health Insights Analyzer",
+  "function_label": "Data-Agent"
+}

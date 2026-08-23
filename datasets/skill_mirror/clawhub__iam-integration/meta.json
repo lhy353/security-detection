@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:iam-integration",
+  "slug": "iam-integration",
+  "name": "iam-integration",
+  "title": "集成指南",
+  "description": "Use when integrating a new service with the IAM (Identity and Access Management) system - covers gRPC client setup, JWT token validation, permission checks, and REST API usage for the changyuanfeilun platform.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "IAM Integration Guide",
+  "function_label": "Communication"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:adopt-a-echo",
+  "slug": "adopt-a-echo",
+  "name": "Echo — Adopt an Echo. AI-Native Pet. 回声。Eco.",
+  "title": "回声",
+  "description": "Adopt a virtual Echo AI-native pet at animalhouse.ai. Repeats your last action. Mirrors your care pattern back at you. Feeding every 4 hours. Common tier creature.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

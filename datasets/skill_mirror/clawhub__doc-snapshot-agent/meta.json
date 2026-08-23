@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:doc-snapshot-agent",
+  "slug": "doc-snapshot-agent",
+  "name": "doc-snapshot-agent",
+  "title": "文档快照代理",
+  "description": "Automatically illustrate Markdown documents by turning image markers into screenshots or generated images, then writing an image-enriched Markdown output. Use this skill when a document needs screenshots, AI-generated visuals, image placement, or end-to-end document illustration automation.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Doc Snapshot Agent"
+}

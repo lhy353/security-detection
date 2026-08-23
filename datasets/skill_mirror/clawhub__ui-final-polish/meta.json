@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ui-final-polish",
+  "slug": "ui-final-polish",
+  "name": "ui-final-polish",
+  "title": "最终润色",
+  "description": "Final visual polish for an existing UI without redesigning it. Use after structure is clear, when asked to improve spacing, alignment, text hierarchy, readability, shadows, highlights, effects, action placement, or overall production feel. For screen structure, layer naming, code handoff, preview scenes, or animation planning, use pencil-ui-structure first.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ui Final Polish",
+  "function_label": "Data-Agent"
+}

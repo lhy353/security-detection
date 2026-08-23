@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-screen-recorder",
+  "slug": "video-screen-recorder",
+  "name": "video-screen-recorder",
+  "title": "录制您的屏幕，轻松分享您的故事",
+  "description": "Tired of juggling clunky software just to record your screen and share it? The video-screen-recorder skill lets you capture screen activity, trim recordings, add annotations, and export clean video files without the usual setup headache. Whether you're creating tutorials, bug reports, or product demos, this skill handles mp4, mov, avi, webm, and mkv formats. Built for developers, educators, and remote teams who need polished recordings fast.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Record Your Screen, Share Your Story Effortlessly",
+  "function_label": "Other"
+}

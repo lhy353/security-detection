@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:technical-seo-checker-2",
+  "slug": "technical-seo-checker-2",
+  "name": "technical-seo-checker",
+  "title": "技术 SEO 检查器",
+  "description": "Use when the user asks to \"technical SEO audit\", \"check page speed\", \"crawl issues\", \"Core Web Vitals\", \"site indexing problems\", \"my site is slow\", \"Google cannot crawl my site\", \"mobile issues\", or \"indexing problems\". Performs technical SEO audits covering site speed, crawlability, indexability, mobile-friendliness, security, and structured data. Identifies technical issues preventing optimal search performance. For content and heading element issues, see on-page-seo-auditor. For link architecture, see internal-linking-optimizer.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Technical SEO Checker",
+  "function_label": "Automation"
+}

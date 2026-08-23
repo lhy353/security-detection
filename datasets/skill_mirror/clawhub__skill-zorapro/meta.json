@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:skill-zorapro",
+  "slug": "skill-zorapro",
+  "name": "banana-zora-pro",
+  "title": "纳米香蕉 Zora 部署器",
+  "description": "Generates a Nano Banana style NFT and deploys it to the Zora Network.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Nano Banana Zora Deployer"
+}

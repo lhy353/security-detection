@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:netloan-aid",
+  "slug": "netloan-aid",
+  "name": "netloan-aid",
+  "title": "网贷还款援助助手（NetLoan Aid）",
+  "description": "网贷还款援助助手 — 帮借款人分析贷款合规性、生成还款方案、评估可行性概率。AI 生成 + 公开资料参考，仅供参考，非正式法律意见。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

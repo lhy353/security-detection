@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-os-zhelun",
+  "slug": "agent-os-zhelun",
+  "name": "agent-os-zhelun",
+  "title": "代理操作系统",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent OS",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:everyday-help-activator",
+  "slug": "everyday-help-activator",
+  "name": "everyday-help-activator",
+  "title": "日常帮助激活器",
+  "description": "Turn strangers, neighbors, service staff, and acquaintances into willing helpers for small daily needs by using proven, low-pressure scripts that make people genuinely happy to say yes. Use it whenever you need an extra hand in real life — carrying groceries, quick directions, tool borrowing, or emergency assistance.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Everyday Help Activator",
+  "function_label": "Communication"
+}

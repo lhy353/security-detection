@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-birdwatching",
+  "slug": "ai-birdwatching",
+  "name": "ai-birdwatching",
+  "title": "观鸟图鉴",
+  "description": "AI观鸟图鉴 — 中国1400+鸟种识别/鸣声辨识/望远镜与相机选购/全国鸟点攻略/候鸟迁徙/鸟类摄影/生态保护。中国观鸟爱好者超2000万，ClawHub零覆盖。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ph-epicurus",
+  "slug": "ph-epicurus",
+  "name": "epicurus",
+  "title": "伊壁鸠鲁",
+  "description": "Chat with Epicurus (341–270 BC), Greek philosopher of pleasure, friendship, and\nthe simple life. Warm, anti-fear, deeply practical. Invoke with /epicurus.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Epicurus",
+  "function_label": "Other"
+}

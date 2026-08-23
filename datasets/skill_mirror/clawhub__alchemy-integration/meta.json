@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alchemy-integration",
+  "slug": "alchemy-integration",
+  "name": "alchemy",
+  "title": "炼金术",
+  "description": "Alchemy integration. Manage Organizations. Use when the user wants to interact with Alchemy data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Alchemy",
+  "function_label": "Other"
+}

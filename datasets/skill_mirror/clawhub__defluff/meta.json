@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:defluff",
+  "slug": "defluff",
+  "name": "defluff",
+  "title": "去绒毛",
+  "description": "Reverse the AI in corporate email. Guess the prompt the sender probably gave an LLM, classify the email, and extract the actual intent. Handles single messages, threads, and batches, with noise/scam detection including invoice fraud / BEC and phishing red flags.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Defluff",
+  "function_label": "Communication"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:douyin-comment-auto-reply",
+  "slug": "douyin-comment-auto-reply",
+  "name": "douyin-comment-auto-reply",
+  "title": "抖音评论自动回复",
+  "description": "Douyin comment operations workflow for your own account videos. Use when the user wants to collect, classify, draft, review, or semi-automate replies to comments under their own Douyin videos. Supports comment intent analysis, bilingual or Chinese-first reply drafting, objection handling, lead filtering, escalation rules, and reply SOP design. Also use when the user wants to build or improve a reusable Douyin comment reply process instead of answering comments one by one.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

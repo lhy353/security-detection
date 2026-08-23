@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:game-dev-time-estimator",
+  "slug": "game-dev-time-estimator",
+  "name": "game-dev-time-estimator",
+  "title": "游戏开发时间估算器",
+  "description": "Help a beginner or early-stage game team estimate the likely development time for a game concept based on scope, target milestone, current team, skill coverage, work model, and production constraints. Use when someone asks how long a game might take, whether their current team can hit a target date, what timeline range they should expect for a prototype, vertical slice, release, or live F2P project, or how missing roles and part-time availability change development time. Ask for missing information when concept, team, scope, or staffing assumptions are unclear, then provide a rough timeline range, main schedule drivers, hidden time sinks, and ways to shorten the path.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Game Dev Time Estimator",
+  "function_label": "Automation"
+}

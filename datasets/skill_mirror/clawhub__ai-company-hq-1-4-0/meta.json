@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-company-hq-1-4-0",
+  "slug": "ai-company-hq-1-4-0",
+  "name": "AI Company HQ",
+  "title": "总控 Skill v1.6",
+  "description": "AI公司总部总控技能包。跨Agent协同、战略调度、IMA知识库同步中枢、五步任务编排工作流、危机管理、Agent招募机制。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:pptx__CI_B7",
+  "slug": "pptx__CI_B7",
+  "name": "pptx__CI_B7",
+  "title": "技巧",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "PPTX Skill",
+  "function_label": "File-Agent"
+}

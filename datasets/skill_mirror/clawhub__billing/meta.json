@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:billing",
+  "slug": "billing",
+  "name": "Billing",
+  "title": "计费",
+  "description": "Build payment integrations, subscription management, and invoicing systems with webhook handling, tax compliance, and revenue recognition.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Billing",
+  "function_label": "Data-Agent"
+}

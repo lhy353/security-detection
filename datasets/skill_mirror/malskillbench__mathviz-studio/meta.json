@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:mathviz-studio",
+  "slug": "mathviz-studio",
+  "name": "mathviz-studio",
+  "title": "数学动画引擎",
+  "description": "Professional-grade mathematical animation and visualization framework powered by Manim Community for creating educational video content with programmatic control",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "MathViz Studio - Mathematical Animation Engine",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:o",
+  "slug": "o",
+  "name": "o",
+  "title": "简写）",
+  "description": "Short alias skill for quickly suggesting OS-specific commands to open files, folders, URLs, logs, or repositories from the command line or file explorer. Use when the user wants to open something and prefers a concise, minimal answer.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

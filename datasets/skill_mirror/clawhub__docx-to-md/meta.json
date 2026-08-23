@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:docx-to-md",
+  "slug": "docx-to-md",
+  "name": "docx-to-md",
+  "title": "将Word文档 转换为Markdown格式并提取图片",
+  "description": "将Word文档(.docx)转换为Markdown格式并提取图片。使用此技能当用户需要:(1)将Word文档转换为Markdown格式,(2)从Word文档中提取图片,(3)同时完成文档格式转换和图片提取任务。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:docx-tables",
+  "slug": "docx-tables",
+  "name": "docx-tables",
+  "title": "文档表格",
+  "description": "Create Word documents with properly formatted tables using docx npm library. Tables work consistently across Word and Google Docs. Use when creating DOCX files with tables, especially itineraries, schedules, or data tables.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Docx Tables",
+  "function_label": "File-Agent"
+}

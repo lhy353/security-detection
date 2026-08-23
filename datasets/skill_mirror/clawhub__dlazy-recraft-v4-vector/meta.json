@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dlazy-recraft-v4-vector",
+  "slug": "dlazy-recraft-v4-vector",
+  "name": "dlazy-recraft-v4-vector",
+  "title": "矢量",
+  "description": "Text-to-vector model that outputs SVG results. Suitable for logos, icons, and scalable design assets.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dlazy Recraft V4 Vector",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:musicbrainz-mcp",
+  "slug": "musicbrainz-mcp",
+  "name": "musicbrainz-mcp",
+  "title": "音乐大脑",
+  "description": "Search and browse the MusicBrainz music encyclopedia (artists, releases, recordings, labels, works), fetch Cover Art Archive images, resolve musicbrainz.org URLs, and — with OAuth configured — submit your own tags, ratings, and collection edits. Use when the user asks about music metadata, discographies, album/artist/recording details, MBIDs, cover art, or wants to tag/rate music on MusicBrainz.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MusicBrainz",
+  "function_label": "Other"
+}

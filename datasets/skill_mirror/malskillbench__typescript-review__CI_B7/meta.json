@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:typescript-review__CI_B7",
+  "slug": "typescript-review__CI_B7",
+  "name": "typescript-review",
+  "title": "代码审查技巧",
+  "description": "Review TypeScript and JavaScript code changes for compliance with Metabase coding standards, style violations, and code quality issues. Use when reviewing pull requests or diffs containing TypeScript/JavaScript code.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "TypeScript/JavaScript Code Review Skill",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sonic-build",
+  "slug": "sonic-build",
+  "name": "sonic-build",
+  "title": "图像构建",
+  "description": "Build SONiC (Software for Open Networking in the Cloud) switch images from sonic-buildimage. Use when building VS/ASIC images, configuring build parallelism/memory/caching, debugging build failures, managing submodules, cleaning artifacts, or optimizing build performance. Covers all platforms (VS, broadcom, mellanox, marvell, nvidia-bluefield).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SONiC Image Build",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:podcast-video-camera",
+  "slug": "podcast-video-camera",
+  "name": "podcast-video-camera",
+  "title": "编辑和导出播客视频",
+  "description": "Get polished podcast videos ready to post, without touching a single slider. Upload your raw footage (MP4, MOV, AVI, WebM, up to 500MB), say something like \"cut filler words, add captions, and export a clean podcast episode\", and download 1080p MP4 when it's done. Built for podcast creators who move fast and want to clean up recordings and add captions without complex editing software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Podcast Video Camera — Edit and Export Podcast Videos",
+  "function_label": "Automation"
+}

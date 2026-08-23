@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:unofficial-urban-dictionary-api",
+  "slug": "unofficial-urban-dictionary-api",
+  "name": "unofficial-urban-dictionary-api",
+  "title": "非官方城市词典 Api",
+  "description": "Query the Unofficial Urban Dictionary API for slang definitions. Use when asked to define slang/phrases, fetch random Urban Dictionary entries, browse by letter/new, or get entries by author/date. Supports endpoints /api/search, /api/random, /api/browse, /api/author, and /api/date.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Unofficial Urban Dictionary Api",
+  "function_label": "Other"
+}

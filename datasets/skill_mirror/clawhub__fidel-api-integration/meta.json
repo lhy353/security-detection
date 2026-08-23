@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:fidel-api-integration",
+  "slug": "fidel-api-integration",
+  "name": "fidel-api",
+  "title": "富达API",
+  "description": "Fidel API integration. Manage Persons, Organizations, Deals, Leads, Projects, Activities and more. Use when the user wants to interact with Fidel API data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Fidel API",
+  "function_label": "Browser"
+}

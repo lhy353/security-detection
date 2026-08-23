@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:podcast-to-substack",
+  "slug": "podcast-to-substack",
+  "name": "podcast-to-substack",
+  "title": "播客子堆栈 + LinkedIn",
+  "description": "Publish podcast episodes from RSS + Notion to Substack with reliable Apple Podcasts embedding and image extraction, then generate LinkedIn-ready companion posts. Use when asked to run or improve podcast-to-substack workflows, fix Notion image fetch failures, prevent Substack embed-as-text issues, or cross-post episode summaries to LinkedIn.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Podcast Substack + LinkedIn"
+}

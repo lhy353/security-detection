@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:tailwind-patterns",
+  "slug": "tailwind-patterns",
+  "name": "tailwind-patterns",
+  "title": "模式（v4",
+  "description": "Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Tailwind CSS Patterns (v4 - 2025)",
+  "function_label": "Other"
+}

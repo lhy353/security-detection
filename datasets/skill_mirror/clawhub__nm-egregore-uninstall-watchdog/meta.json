@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nm-egregore-uninstall-watchdog",
+  "slug": "nm-egregore-uninstall-watchdog",
+  "name": "uninstall-watchdog",
+  "title": "卸载看门狗",
+  "description": "Removes the egregore watchdog daemon and its associated files",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Uninstall Watchdog",
+  "function_label": "Automation"
+}

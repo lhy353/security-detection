@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ralph-operations",
+  "slug": "ralph-operations",
+  "name": "ralph-operations",
+  "title": "拉尔夫行动",
+  "description": "Use when managing Ralph orchestration loops, analyzing diagnostic data, debugging hat selection, investigating backpressure, or performing post-mortem analysis",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ralph Operations",
+  "function_label": "Coding"
+}

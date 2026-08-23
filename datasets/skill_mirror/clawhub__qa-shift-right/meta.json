@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:qa-shift-right",
+  "slug": "qa-shift-right",
+  "name": "qa-shift-right",
+  "title": "测试右移实践",
+  "description": "测试右移实践，将测试延伸到生产环境。当需要实施测试右移时激活。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

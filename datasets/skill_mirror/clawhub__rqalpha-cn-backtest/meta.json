@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:rqalpha-cn-backtest",
+  "slug": "rqalpha-cn-backtest",
+  "name": "rqalpha-cn-backtest",
+  "title": "股回测",
+  "description": "基于20日价格动量在沪深300、沪深500与国债之间自动轮转配置，通过RQAlpha框架执行完整回测并评估组合绩效。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

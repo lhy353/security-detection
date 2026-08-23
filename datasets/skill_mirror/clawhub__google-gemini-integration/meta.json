@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:google-gemini-integration",
+  "slug": "google-gemini-integration",
+  "name": "google-gemini",
+  "title": "谷歌双子座",
+  "description": "Google Gemini integration. Manage Users, Conversations. Use when the user wants to interact with Google Gemini data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Google Gemini",
+  "function_label": "Browser"
+}

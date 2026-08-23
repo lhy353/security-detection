@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:call-scorecard-builder",
+  "slug": "call-scorecard-builder",
+  "name": "call-scorecard-builder",
+  "title": "通话评分卡构建器",
+  "description": "为销售、客服或访谈通话生成评分维度、观察点与培训反馈模板。；use for scorecard, calls, sales workflows；do not use for 把单次录音当最终定论, 替代正式人力评估.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

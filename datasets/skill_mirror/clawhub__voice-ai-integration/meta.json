@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:voice-ai-integration",
+  "slug": "voice-ai-integration",
+  "name": "voice-ai-integration",
+  "title": "集成声网产品：ConvoAI语音助手、RTC音视频、\nRTM 消息传递、云录制和令牌生成",
+  "description": "Integrate Shengwang products: ConvoAI voice agents, RTC audio/video,\nRTM messaging, Cloud Recording, and token generation. Use when the user\nmentions Shengwang, 声网, ConvoAI, RTC, RTM, voice agent, AI agent,\nvideo call, live streaming, recording, token, or any Shengwang product task.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Shengwang Integration",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:school-homework-folder-lane-labels",
+  "slug": "school-homework-folder-lane-labels",
+  "name": "school-homework-folder-lane-labels",
+  "title": "学校作业文件夹巷标签",
+  "description": "Create printable school homework folder lane labels, a desk or backpack lane map, nightly reset checklist, morning launch strip, and caregiver handoff notes.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "School Homework Folder Lane Labels",
+  "function_label": "Other"
+}

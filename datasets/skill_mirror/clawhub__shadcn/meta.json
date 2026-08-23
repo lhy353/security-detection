@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:shadcn",
+  "slug": "shadcn",
+  "name": "shadcn-ui",
+  "title": "组件模式",
+  "description": "Build accessible, customizable UIs with shadcn/ui, Radix UI, and Tailwind CSS. Use when setting up shadcn/ui, installing components, building forms with React Hook Form + Zod, customizing themes, or implementing component patterns.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "shadcn/ui Component Patterns",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skill-kannaka-constellation",
+  "slug": "skill-kannaka-constellation",
+  "name": "skill-kannaka-constellation",
+  "title": "卡纳卡星座状态",
+  "description": "Kannaka Constellation status monitoring — all apps, services, swarm health, and connectivity. Use when: AUTOMATICALLY ACTIVATE when user asks about:. \"constellation status\", \"constellation health\". \"swarm status\", \"what's connected\", \"all services\"",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kannaka Constellation Status",
+  "function_label": "Data-Agent"
+}

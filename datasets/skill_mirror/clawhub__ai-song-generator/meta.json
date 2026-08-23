@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-song-generator",
+  "slug": "ai-song-generator",
+  "name": "ai-song-generator",
+  "title": "从文本生成歌曲",
+  "description": "Cloud-based ai-song-generator tool that handles creating original songs from text or lyrics. Upload MP4, MOV, MP3, WAV files (up to 200MB), describe what you need, and get 1080p MP4 output in 1-2 minutes. Built for content creators, musicians, marketers who work with text or lyrics.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Song Generator — Generate Songs from Text",
+  "function_label": "Communication"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:x-network",
+  "slug": "x-network",
+  "name": "x-network",
+  "title": "网络管理工具",
+  "description": "This skill provides comprehensive network administration and diagnostic tools through x-cmd CLI, including network scanning with Nmap, ARP table management, DNS configuration, routing table analysis, and enhanced ping utilities. This skill should be used when users need to perform network diagnostics, troubleshoot connectivity issues, analyze network topology, or monitor network performance from command line interfaces.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "x-cmd Network Administration Tools"
+}

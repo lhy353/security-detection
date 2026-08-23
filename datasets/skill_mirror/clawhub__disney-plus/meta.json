@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:disney-plus",
+  "slug": "disney-plus",
+  "name": "disney-plus",
+  "title": "迪士尼+",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Disney Plus",
+  "function_label": "Other"
+}

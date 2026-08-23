@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:primitives-dsl",
+  "slug": "primitives-dsl",
+  "name": "primitives-dsl",
+  "title": "通用游戏架构模式",
+  "description": "Universal game architecture DSL with six primitives (LOOP, TILEGRID, CONTROLBLOCK, POOL, EVENT, DISPATCHER). Use when: (1) designing portable game/sim loops, (2) translating between architectures (68K ↔ Cell ↔ CUDA ↔ ECS), (3) explaining engine structure to AI agents, (4) refactoring chaos into explicit state + flow. Invocation produces: Primitive Map, Dataflow Sketch, Worked Example, Portability Notes.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "primitives-dsl — Universal Game Architecture Patterns",
+  "function_label": "Coding"
+}

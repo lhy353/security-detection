@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:experience-wadi-sensor-death",
+  "slug": "experience-wadi-sensor-death",
+  "name": "experience-wadi-sensor-death",
+  "title": "阿曼干河山洪暴发生存",
+  "description": "Feel the pulse‑pounding urgency of surviving a sudden flash flood in Oman's stark desert canyons. Navigate collapsing stone channels as sensors fail, using sound and instinct to reach high ground and find water. 14 steps, HIGH intensity, 1‑2 weeks. 沙漠闪洪生存紧迫感. urgencia supervivencia.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Oman Wadi Flash Flood Survival",
+  "function_label": "Other"
+}

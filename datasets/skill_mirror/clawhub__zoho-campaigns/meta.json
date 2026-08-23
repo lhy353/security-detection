@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zoho-campaigns",
+  "slug": "zoho-campaigns",
+  "name": "zoho-campaigns",
+  "title": "营销活动",
+  "description": "Zoho Campaigns integration. Manage data, records, and automate workflows. Use when the user wants to interact with Zoho Campaigns data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zoho Campaigns",
+  "function_label": "Automation"
+}

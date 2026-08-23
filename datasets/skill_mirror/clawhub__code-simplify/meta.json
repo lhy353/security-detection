@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:code-simplify",
+  "slug": "code-simplify",
+  "name": "code_simplifier",
+  "title": "代码简化",
+  "description": "Use when changed code should be reviewed for reuse, code quality, and efficiency, then cleaned up before finalizing.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Code Simplifier",
+  "function_label": "Other"
+}

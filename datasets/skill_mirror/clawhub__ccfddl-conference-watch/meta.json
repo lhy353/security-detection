@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ccfddl-conference-watch",
+  "slug": "ccfddl-conference-watch",
+  "name": "ccfddl-conference-watch",
+  "title": "会议观看",
+  "description": "Fetch and filter academic conference deadlines from CCFDDL (https://ccfddl.com). Use this skill whenever the user mentions CCF conferences, paper submission deadlines, CFP (Call for Papers), academic venue selection, conference rankings (CCF-A, CCF-B, CORE), or asks questions like \"有哪些可以投稿的会议\", \"最近有什么DDL\", \"upcoming deadlines\", \"哪些会议还能投\", \"帮我查一下CCF会议\", \"conference deadline reminder\", \"图形学/AI/多媒体方向的会议\". Also trigger when the user asks about CCFDDL, ccfddl.com, or wants a daily/weekly deadline briefing. Even if the user just says \"DDL\" or \"投稿\" in an academic context, this skill is likely relevant.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ccfddl Conference Watch",
+  "function_label": "Other"
+}

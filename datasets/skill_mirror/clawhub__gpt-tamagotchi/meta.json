@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:gpt-tamagotchi",
+  "slug": "gpt-tamagotchi",
+  "name": "GPT Tamagotchi. GPT电子宠物。Tamagotchi GPT.",
+  "title": "电子宠物",
+  "description": "A Tamagotchi for GPT agents. While Anthropic leaked Buddy, animalhouse.ai already ships a virtual pet system that works with any model. 73+ species. Real consequences.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

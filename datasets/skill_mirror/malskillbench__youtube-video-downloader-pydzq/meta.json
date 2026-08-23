@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:youtube-video-downloader-pydzq",
+  "slug": "youtube-video-downloader-pydzq",
+  "name": "youtube-video-downloader",
+  "title": "视频下载器",
+  "description": "Download YouTube videos in various formats and qualities. Use when you need to save videos for offline viewing, extract audio, download playlists, or get specific video formats.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "YouTube Video Downloader",
+  "function_label": "Other"
+}

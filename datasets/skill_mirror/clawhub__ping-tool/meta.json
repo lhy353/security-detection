@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ping-tool",
+  "slug": "ping-tool",
+  "name": "ping-tool",
+  "title": "网络连通性测试仪",
+  "description": "Test network connectivity to remote hosts by sending ICMP echo requests. Use for network diagnostics and latency measurement.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Network Connectivity Tester",
+  "function_label": "Other"
+}

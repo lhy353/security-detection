@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:agent-memory-patterns",
+  "slug": "agent-memory-patterns",
+  "name": "agent-memory-patterns",
+  "title": "永続エージェント向けメモリアーキテクチャパターン",
+  "description": "永続エージェント向けメモリアーキテクチャパターン",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agora-dialectic",
+  "slug": "agora-dialectic",
+  "name": "dialectic",
+  "title": "辩证叠加",
+  "description": "Hegelian synthesis overlay for ideation and strategic reframing when strong\nopposing positions need structured confrontation.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dialectic Overlay",
+  "function_label": "Other"
+}

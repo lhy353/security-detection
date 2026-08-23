@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:acedatacloud-acedatacloud-api",
+  "slug": "acedatacloud-acedatacloud-api",
+  "name": "acedatacloud-api",
+  "title": "使用指南",
+  "description": "Guide for using AceDataCloud APIs. Use when authenticating, making API calls, managing credentials, understanding billing, or integrating AceDataCloud services into applications. Covers setup, authentication, request patterns, error handling, and SDK integration.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AceDataCloud API Usage Guide",
+  "function_label": "Other"
+}

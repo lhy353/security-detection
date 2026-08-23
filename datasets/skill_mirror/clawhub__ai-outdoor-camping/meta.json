@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-outdoor-camping",
+  "slug": "ai-outdoor-camping",
+  "name": "ai-outdoor-camping",
+  "title": "户外露营指南",
+  "description": "AI户外露营指南 — 帐篷/天幕/睡袋/炉具选购、营地选择、野炊菜单、徒步路线、野外生存、星空露营、亲子露营。覆盖轻奢露营/徒步露营/自驾露营/BC露营。全球户外市场超6000亿美元，ClawHub零覆盖。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

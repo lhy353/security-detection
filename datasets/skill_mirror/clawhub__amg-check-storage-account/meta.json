@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:amg-check-storage-account",
+  "slug": "amg-check-storage-account",
+  "name": "amg-check-storage-account",
+  "title": "存储帐户运行状况检查",
+  "description": "Run only when the user explicitly asks for a fleet-wide Azure Storage Account health check — pulse check for availability, latency, transactions, and error rates across all accounts, then deep-dives into the top 7 most interesting accounts with metrics (E2E latency, server latency, capacity, ingress/egress) and resource logs. Tracks known issues across sessions via persistent report. On first run, auto-discovers datasource UID and prompts for subscription ID.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Azure Storage Account Health Check",
+  "function_label": "Data-Agent"
+}

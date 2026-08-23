@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:portfolio-matrix",
+  "slug": "portfolio-matrix",
+  "name": "portfolio-matrix",
+  "title": "投资组合矩阵",
+  "description": "Evaluate strategic options by NPV vs ease of implementation. Use for project prioritization, resource allocation, and strategic decision making.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Portfolio Matrix"
+}

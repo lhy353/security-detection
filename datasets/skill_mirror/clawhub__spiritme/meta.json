@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:spiritme",
+  "slug": "spiritme",
+  "name": "spiritme",
+  "title": "精神",
+  "description": "SpiritMe integration. Manage data, records, and automate workflows. Use when the user wants to interact with SpiritMe data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Spiritme",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:penfield",
+  "slug": "penfield",
+  "name": "penfield",
+  "title": "彭菲尔德记忆",
+  "description": "Persistent memory for OpenClaw agents. Store decisions, preferences, and context that survive across sessions. Build knowledge graphs that compound over time. Hybrid search (BM25 + vector + graph) recalls what matters when you need it.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Penfield Memory",
+  "function_label": "Other"
+}

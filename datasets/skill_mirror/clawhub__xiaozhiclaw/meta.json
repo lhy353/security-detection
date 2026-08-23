@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:xiaozhiclaw",
+  "slug": "xiaozhiclaw",
+  "name": "xiaozhiclaw",
+  "title": "的小智 AI 设备 集成",
+  "description": "XiaoZhi AI Device (ESP32) integration for OpenClaw. Enables real-time voice interaction with your AI assistant through XiaoZhi hardware. Supports WebSocket bridge, Volcengine Doubao STT/TTS, and Opus audio streaming.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "XiaoZhiClaw - XiaoZhi AI Device Integration",
+  "function_label": "Communication"
+}

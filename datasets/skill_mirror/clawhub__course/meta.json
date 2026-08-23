@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:course",
+  "slug": "course",
+  "name": "Course",
+  "title": "课程",
+  "description": "Create, launch, and manage online or in-person courses with curriculum design, content production, marketing automation, and student engagement.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Course",
+  "function_label": "Communication"
+}

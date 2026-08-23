@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:smarter-task-planner",
+  "slug": "smarter-task-planner",
+  "name": "smarter-task-planner",
+  "title": "更好的任务规划 (Smarter Task Planner)",
+  "description": "【Smarter Task Planner】自动创建时间戳任务文件夹，支持步骤规划、检查点保存、中断恢复与进度追踪，确保任务可追溯、可恢复。适用于分析、调研、信息提取、文档生成等需要结构化步骤的任务场景。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

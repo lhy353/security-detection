@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:afrexai-change-management-plan",
+  "slug": "afrexai-change-management-plan",
+  "name": "change-management-plan",
+  "title": "变革管理计划生成器",
+  "description": "Generate a structured change management plan for AI adoption, digital transformation, or major technology rollouts. Covers stakeholder analysis, communication strategy, training plans, resistance mitigation, and success metrics. Use when deploying AI agents, migrating systems, or introducing new tools across an organization. Built by AfrexAI.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Change Management Plan Generator",
+  "function_label": "Communication"
+}

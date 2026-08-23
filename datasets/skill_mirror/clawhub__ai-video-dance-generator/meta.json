@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-video-dance-generator",
+  "slug": "ai-video-dance-generator",
+  "name": "ai-video-dance-generator",
+  "title": "将照片动画化为舞蹈视频",
+  "description": "generate images or video into animated dance videos with this skill. Works with JPG, PNG, MP4, MOV files up to 200MB. TikTok creators use it for animating photos or characters to dance to music — processing takes 1-2 minutes on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Video Dance Generator — Animate Photos Into Dance Videos",
+  "function_label": "Communication"
+}

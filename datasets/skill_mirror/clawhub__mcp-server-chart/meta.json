@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mcp-server-chart",
+  "slug": "mcp-server-chart",
+  "name": "mcp-server-chart",
+  "title": "技能",
+  "description": "Auto-generated skill for mcp-server-chart tools via OneKey Gateway.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "mcp-server-chart Skill",
+  "function_label": "File-Agent"
+}

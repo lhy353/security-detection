@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:shuaishou-mcp-client",
+  "slug": "shuaishou-mcp-client",
+  "name": "htyd-mcp-client-streamable",
+  "title": "客户端（可流式 HTTP）- 生产",
+  "description": "Builds and uses an MCP client (Streamable HTTP transport) to connect to the htyd MCP server and invoke all available tools (including login). Use when connecting to a Streamable HTTP MCP endpoint like https://dz.shuaishou.com/mcp. This is the production version.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "HTYD MCP Client (Streamable HTTP) - Production",
+  "function_label": "Other"
+}

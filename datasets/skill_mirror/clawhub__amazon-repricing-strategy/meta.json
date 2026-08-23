@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:amazon-repricing-strategy",
+  "slug": "amazon-repricing-strategy",
+  "name": "amazon-repricing-strategy",
+  "title": "亚马逊重新定价策略️",
+  "description": "Amazon repricing strategy and Buy Box optimization. Competitive pricing analysis, dynamic pricing rules, margin protection strategies, repricing tool selection, and automated pricing workflows. Use when the user asks about Amazon repricing, pricing strategy, Buy Box optimization, competitive pricing, or dynamic pricing.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Amazon Repricing Strategy ️",
+  "function_label": "Automation"
+}

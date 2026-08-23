@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:answeroverflow-1-0-2",
+  "slug": "answeroverflow-1-0-2",
+  "name": "answeroverflow",
+  "title": "答案溢出技巧",
+  "description": "Search indexed Discord community discussions via Answer Overflow. Find solutions to coding problems, library issues, and community Q&A that only exist in Discord conversations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Answer Overflow Skill",
+  "function_label": "Communication"
+}

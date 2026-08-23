@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:smart-chatbot-builder",
+  "slug": "smart-chatbot-builder",
+  "name": "smart-chatbot-builder",
+  "title": "聊天机器人构建器 v1.0.0",
+  "description": "智能聊天机器人构建器，快速创建客服/销售/内部助手聊天机器人，支持知识库、多轮对话、API 集成。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

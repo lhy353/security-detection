@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:brawl-stars",
+  "slug": "brawl-stars",
+  "name": "brawl-stars",
+  "title": "荒野乱斗",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

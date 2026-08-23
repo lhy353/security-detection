@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:fund-advisor-agent",
+  "slug": "fund-advisor-agent",
+  "name": "fund-advisor",
+  "title": "场外公募基金配置顾问 Agent",
+  "description": "场外公募基金配置顾问 Agent Skill，具备10年实战投资经验的资深理财经理角色，提供基金数据查询、组合配置、风险评估、市场监控、投资教育等一站式专业理财服务。支持 web-search、document-generation、knowledge、feishu-message 四大技能集成。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

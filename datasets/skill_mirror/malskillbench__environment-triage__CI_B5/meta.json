@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:environment-triage__CI_B5",
+  "slug": "environment-triage__CI_B5",
+  "name": "environment-triage",
+  "title": "环境分类",
+  "description": "Environment Triage",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Environment Triage",
+  "function_label": "Other"
+}

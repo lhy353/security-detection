@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:x-content-calendar",
+  "slug": "x-content-calendar",
+  "name": "x-content-calendar",
+  "title": "内容日历",
+  "description": "Plan X content calendars for growth. Use when creating a 7-day or 30-day schedule across utility, opinion, proof-of-work, conversation, and personal posts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "X Content Calendar",
+  "function_label": "Data-Agent"
+}

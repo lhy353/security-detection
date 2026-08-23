@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:remotion-best-practices",
+  "slug": "remotion-best-practices",
+  "name": "remotion-best-practices",
+  "title": "远程最佳实践",
+  "description": "Best practices for Remotion - Video creation in React",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Remotion Best Practices",
+  "function_label": "Automation"
+}

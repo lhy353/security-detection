@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skills-ai-assistant",
+  "slug": "skills-ai-assistant",
+  "name": "conversation-summary",
+  "title": "对话摘要",
+  "description": "Generate summaries for conversation content with incremental update support.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Conversation Summary - Agent Instructions",
+  "function_label": "Communication"
+}

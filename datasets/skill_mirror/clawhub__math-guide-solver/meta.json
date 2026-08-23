@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:math-guide-solver",
+  "slug": "math-guide-solver",
+  "name": "math-solver",
+  "title": "数学解题技巧",
+  "description": "Complete mathematical problem solving workflow with OCR, LaTeX formula extraction, PNG rendering, and guided solutions.\n\nUse this skill when users want to:\n- Upload math problem images and automatically extract formulas as clean LaTeX\n- Convert LaTeX formulas to beautifully rendered PNG images with customizable themes\n- Get guided step-by-step problem-solving hints (Socratic method)\n- View detailed solutions with mathematical reasoning\n\nHandles single images, batches of images, and markdown files with embedded LaTeX. Supports multiple visual styles and provides both exploratory and detailed explanation modes.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Math Solver Skill",
+  "function_label": "File-Agent"
+}

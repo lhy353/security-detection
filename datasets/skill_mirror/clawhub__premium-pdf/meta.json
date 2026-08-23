@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:premium-pdf",
+  "slug": "premium-pdf",
+  "name": "premium-pdf",
+  "title": "高级企业 PDF 生成器",
+  "description": "Generate premium enterprise-style PDFs from markdown content, with automatic de-AI text humanization (removes em dashes, AI filler phrases, overly formal language) and a professional Navy + Gold design system.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Premium Enterprise PDF Generator",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zip-archive-api",
+  "slug": "zip-archive-api",
+  "name": "zip-archive-api",
+  "title": "存档 API",
+  "description": "Zip Archive API integration. Manage data, records, and automate workflows. Use when the user wants to interact with Zip Archive API data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zip Archive Api",
+  "function_label": "Automation"
+}

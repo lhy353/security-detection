@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:linkedin-outreach",
+  "slug": "linkedin-outreach",
+  "name": "linkedin-outreach",
+  "title": "外展自动化",
+  "description": "🚀 LinkedIn automation with Free (10/month) & Pro ($29/mo unlimited) tiers. Automate connections, follow-ups & lead gen.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "LinkedIn Outreach Automation",
+  "function_label": "Browser"
+}

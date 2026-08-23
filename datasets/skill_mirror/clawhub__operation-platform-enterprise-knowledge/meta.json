@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:operation-platform-enterprise-knowledge",
+  "slug": "operation-platform-enterprise-knowledge",
+  "name": "domain-test-skill",
+  "title": "固定流程（按顺序执行，任一步失败立刻返回错误）",
+  "description": "域名测试\n",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub"
+}

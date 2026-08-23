@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:runapi-claude",
+  "slug": "runapi-claude",
+  "name": "claude",
+  "title": "克劳德谈 RunAPI",
+  "description": "Call the Claude API (claude-opus, claude-sonnet, claude-haiku) through RunAPI using the official Anthropic SDK or any Anthropic-compatible client. Use when the user asks for Claude / Anthropic chat, streaming messages, multimodal vision input, tool use, extended thinking, or token counting, or when they want to point an existing Anthropic SDK setup at RunAPI as the base URL.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Claude on RunAPI",
+  "function_label": "File-Agent"
+}

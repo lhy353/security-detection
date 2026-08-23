@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vertical-font-conversion",
+  "slug": "vertical-font-conversion",
+  "name": "vertical-font-conversion",
+  "title": "垂直字体转换",
+  "description": "Local-only skill for converting horizontal Chinese fonts into high-quality vertical-reading TTF fonts with a preview-first workflow, grouped glyph rules, and local audit/test artifacts. Use when the user asks to make a 竖版字体 / 竖排 TTF, fix vertical punctuation, quotes, ellipsis, Latin, or digits, generate test images, or explicitly asks for Vertical Font Conversion.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Vertical Font Conversion",
+  "function_label": "Browser"
+}

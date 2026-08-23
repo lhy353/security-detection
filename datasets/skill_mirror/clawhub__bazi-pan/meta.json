@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:bazi-pan",
+  "slug": "bazi-pan",
+  "name": "bazi-pan",
+  "title": "核心概念",
+  "description": "八字排盘，根据出生年月日时排八字、大运、流年，分析五行强弱与命理特点",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

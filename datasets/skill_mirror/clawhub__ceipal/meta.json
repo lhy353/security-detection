@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ceipal",
+  "slug": "ceipal",
+  "name": "ceipal",
+  "title": "塞帕尔",
+  "description": "Ceipal integration. Manage data, records, and automate workflows. Use when the user wants to interact with Ceipal data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ceipal",
+  "function_label": "Automation"
+}

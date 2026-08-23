@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tapauth",
+  "slug": "tapauth",
+  "name": "tapauth",
+  "title": "TapAuth",
+  "description": "OAuth token provider for OpenClaw agents — Google Calendar, Gmail, GitHub, Slack, Linear, Notion, Vercel, Sentry, Asana, Discord, or Apify — plus user-entered passwords/API keys through the manual `secret` provider. Integrates with OpenClaw's exec secrets provider so values are resolved at startup and held in memory — no shell commands or inline credentials needed at runtime. Configure once in openclaw.json, reference tokens/secrets via SecretRef.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "TapAuth — OAuth Tokens and Manual Secrets via OpenClaw Secrets Manager",
+  "function_label": "Communication"
+}

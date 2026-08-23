@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:yummy-shared",
+  "slug": "yummy-shared",
+  "name": "yummy-shared",
+  "title": "共享规则",
+  "description": "Use when operating yummycli for the first time, checking Gemini credential status, handling yummycli JSON command output, or applying shared CLI safety rules before image generation or editing.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "yummycli Shared Rules",
+  "function_label": "Other"
+}

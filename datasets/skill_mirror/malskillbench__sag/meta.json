@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:sag",
+  "slug": "sag",
+  "name": "sag",
+  "title": "下垂",
+  "description": "ElevenLabs text-to-speech with mac-style say UX.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Sag",
+  "function_label": "Other"
+}

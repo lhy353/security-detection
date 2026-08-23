@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:icloud-findmy",
+  "slug": "icloud-findmy",
+  "name": "icloud-findmy",
+  "title": "查找我的",
+  "description": "Query Find My locations and battery status for family devices via iCloud.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "iCloud Find My",
+  "function_label": "Communication"
+}

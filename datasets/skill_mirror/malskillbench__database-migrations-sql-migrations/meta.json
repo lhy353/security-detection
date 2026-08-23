@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:database-migrations-sql-migrations",
+  "slug": "database-migrations-sql-migrations",
+  "name": "database-migrations-sql-migrations",
+  "title": "数据库迁移策略与实施",
+  "description": "SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, SQL Server",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "SQL Database Migration Strategy and Implementation",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:seedance-lip-sync-generator",
+  "slug": "seedance-lip-sync-generator",
+  "name": "seedance-lip-sync-generator",
+  "title": "唇音同步发生器的工作原理",
+  "description": "Need to matching mouth movements to a dubbed or replaced audio track? This seedance-lip-sync-generator skill handles AI lip sync generation on a remote backend — just upload your video and audio and describe what you want. You'll get 1080p MP4 output in about 30-60 seconds. Built for content creators, dubbing editors, social media marketers who need realistic lip sync without manual frame-by-frame animation.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "How Seedance Lip Sync Generator Works Here",
+  "function_label": "Communication"
+}

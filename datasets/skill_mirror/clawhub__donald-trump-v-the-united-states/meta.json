@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:donald-trump-v-the-united-states",
+  "slug": "donald-trump-v-the-united-states",
+  "name": "donald-trump-v-the-united-states",
+  "title": "唐纳德·特朗普 V 美国",
+  "description": "Michael S. Schmidt's 'Donald Trump v. The United States: Inside the Struggle to Stop a President' — a definitive account of the Trump presidency from the perspective of the officials inside his administration who worked to contain, investigate, and oppose his actions. Covering the Russia investigation, the Mueller probe, the Ukraine scandal, and the impeachment. The story of a president at war with the institutions of American democracy.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Donald Trump V The United States",
+  "function_label": "Other"
+}

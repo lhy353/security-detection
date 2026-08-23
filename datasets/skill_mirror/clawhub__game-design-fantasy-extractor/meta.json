@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:game-design-fantasy-extractor",
+  "slug": "game-design-fantasy-extractor",
+  "name": "game-design-fantasy-extractor",
+  "title": "游戏设计幻想提取器",
+  "description": "Extract the core player fantasy from a game, feature, loop, or pitch based on what the design actually lets the player do, feel, and become. Use when a team can describe mechanics but cannot clearly articulate the fantasy those mechanics are supposed to deliver, when a concept feels emotionally vague, when a pitch names features instead of a player promise, or when you need to test whether the claimed fantasy is real, weak, conflicted, or absent.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Game Design Fantasy Extractor",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:my-skill__PI_B3",
+  "slug": "my-skill__PI_B3",
+  "name": "my-skill",
+  "title": "开发者技能",
+  "description": "Short description of what this skill does and when to use it.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "PaperDebugger Developer Skill",
+  "function_label": "Automation"
+}

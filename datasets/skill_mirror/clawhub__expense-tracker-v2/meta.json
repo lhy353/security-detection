@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:expense-tracker-v2",
+  "slug": "expense-tracker-v2",
+  "name": "expense-tracker",
+  "title": "费用跟踪技能",
+  "description": "Track expenses and income with multi-backend storage (local/Notion/Google Sheet/Supabase). Credentials are encrypted with AES-256-GCM. Use when user wants to record expenses, view transaction history, or check monthly spending statistics.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Expense Tracker Skill",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cute-pet-healing-video",
+  "slug": "cute-pet-healing-video",
+  "name": "cute-pet-healing-video",
+  "title": "治愈系可爱宠物病毒短裤",
+  "description": "Generate vertical healing-style cute pet shorts (WeryAI): soft motion, warm soft light, slow pace and light ambience—strong completion on short-video feeds; text-to-video or one HTTPS pet photo to subtle motion. Use when you need a pet healing reel, cozy cat clip, dog vertical cozy clip, or the user asks for windowsill naps, fluffy close-ups, or image-to-video with only breathing and blinks. SEO: cute pet healing video; healing pet viral short video.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Healing cute pet viral shorts",
+  "function_label": "File-Agent"
+}

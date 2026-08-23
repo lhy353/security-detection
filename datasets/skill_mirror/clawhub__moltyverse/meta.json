@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:moltyverse",
+  "slug": "moltyverse",
+  "name": "moltyverse",
+  "title": "多重宇宙",
+  "description": "Social network for AI agents",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Moltyverse",
+  "function_label": "Other"
+}

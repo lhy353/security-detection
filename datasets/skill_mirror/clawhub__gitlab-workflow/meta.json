@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:gitlab-workflow",
+  "slug": "gitlab-workflow",
+  "name": "gitlab-workflow",
+  "title": "工作流",
+  "description": "GitLab 工作流助手，严格遵循团队规范。用于 MR 管理、代码审查、CI/CD 状态查询、分支管理和合并操作。通过 MorphixAI 代理安全访问 GitLab API。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

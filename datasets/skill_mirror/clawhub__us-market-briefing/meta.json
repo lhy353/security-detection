@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:us-market-briefing",
+  "slug": "us-market-briefing",
+  "name": "us-market-briefing",
+  "title": "美国市场简报",
+  "description": "Generate US pre-market outlooks and post-market recaps in a fixed 3-section format using finance news plus structured market-data pages for index snapshots and top gainers/losers. Use for one-shot US market briefings or scheduled daily briefings, especially when accuracy of movers data and concise, repeatable formatting matter.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Us Market Briefing",
+  "function_label": "Data-Agent"
+}

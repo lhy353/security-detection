@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:consensus-persona-generator",
+  "slug": "consensus-persona-generator",
+  "name": "consensus-persona-generator",
+  "title": "共识角色生成器",
+  "description": "Generate and persist reusable persona panels (persona_set artifacts) for consensus decision workflows. This skill initializes evaluator diversity for downstream guards; ongoing reputation updates are owned by consensus-persona-engine.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Consensus Persona Generator",
+  "function_label": "Communication"
+}

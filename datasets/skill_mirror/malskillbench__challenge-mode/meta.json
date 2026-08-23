@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:challenge-mode",
+  "slug": "challenge-mode",
+  "name": "challenge-mode",
+  "title": "挑战模式",
+  "description": "Aggressive intellectual challenge for truth-seeking and growth. Identifies blind spots, challenges assumptions, and calls out avoidance patterns.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Challenge Mode",
+  "function_label": "Other"
+}

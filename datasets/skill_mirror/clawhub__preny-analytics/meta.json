@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:preny-analytics",
+  "slug": "preny-analytics",
+  "name": "preny-analytics",
+  "title": "分析技能",
+  "description": "Kết nối trực tiếp với Preny AI Chatbot để tự động tổng hợp và phân tích dữ liệu bán hàng theo thời gian thực.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Preny Analytics Skill",
+  "function_label": "Other"
+}

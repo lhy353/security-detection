@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:api-diff",
+  "slug": "api-diff",
+  "name": "api-diff",
+  "title": "变更日志生成器",
+  "description": "Compare two OpenAPI 3.x or Swagger 2.0 specs and generate a changelog of breaking and non-breaking changes. Detect removed endpoints, new required parameters, type changes, schema modifications, enum changes, security changes, server URL changes, and deprecations. Use when asked to diff APIs, compare API versions, detect breaking changes, generate API changelogs, or review API spec changes. Triggers on \"API diff\", \"API changelog\", \"breaking changes\", \"OpenAPI compare\", \"spec diff\", \"API version compare\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "API Diff — Changelog Generator",
+  "function_label": "Automation"
+}

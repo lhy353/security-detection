@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mjzj-sp",
+  "slug": "mjzj-sp",
+  "name": "mjzj-sp",
+  "title": "卖家之家服务商（查询）",
+  "description": "卖家之家(跨境电商)服务商搜索",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

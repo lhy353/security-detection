@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-skill-maintainer-1-1-0",
+  "slug": "ai-skill-maintainer-1-1-0",
+  "name": "ai-skill-maintainer",
+  "title": "维护工作流（CTO × CISO 标准）",
+  "description": "AI公司 Skill 维护工作流（CTO 版本治理 + CISO 安全运营标准版）。当需要对已发布的 Skill 进行版本更新、bug修复、功能增强、依赖升级、安全补丁、废弃（deprecation）管理时触发。触发关键词：更新技能、更新 Skill、修复 Skill bug、增强 Skill、升级依赖、打安全补丁、废弃技能、Skill 废弃。\n整合 CTO 版本治理规范（semver + changelog + rollback）+ CISO 安全运营标准（漏洞响应 SLA + 补丁管理）。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

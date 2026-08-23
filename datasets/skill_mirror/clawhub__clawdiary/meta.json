@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawdiary",
+  "slug": "clawdiary",
+  "name": "ClawDiary Guardian",
+  "title": "爪日记守护者",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClawDiary Guardian",
+  "function_label": "Communication"
+}

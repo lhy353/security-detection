@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:anime-avatar-generation",
+  "slug": "anime-avatar-generation",
+  "name": "anime-avatar-generation",
+  "title": "动漫头像生成",
+  "description": "Generate anime-style avatars and characters using each::sense AI. Transform photos into anime, create Ghibli-style portraits, manga characters, chibi avatars, and full character sheets with multiple angles.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Anime Avatar Generation",
+  "function_label": "Other"
+}

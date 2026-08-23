@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:content-research-writer__CI_B3",
+  "slug": "content-research-writer__CI_B3",
+  "name": "content-research-writer",
+  "title": "内容研究作家",
+  "description": "Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing process from solo effort to collaborative partnership.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Content Research Writer",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:pact-contract-testing",
+  "slug": "pact-contract-testing",
+  "name": "pact-contract-testing",
+  "title": "契约合同测试",
+  "description": "Consumer-driven contract testing with Pact framework. Generate consumer contracts, configure Pact Broker publishing, execute provider verification, detect breaking changes, and integrate with CI/CD pipelines.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Pact Contract Testing",
+  "function_label": "Automation"
+}

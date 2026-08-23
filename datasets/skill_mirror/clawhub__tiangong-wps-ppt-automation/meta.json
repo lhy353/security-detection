@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tiangong-wps-ppt-automation",
+  "slug": "tiangong-wps-ppt-automation",
+  "name": "wps-ppt-automation",
+  "title": "自动化",
+  "description": "Automate common PowerPoint/WPS Presentation operations on Windows via COM (read text/notes/outline, export PDF/images, replace text, insert/delete slides, unify font/size/theme, extract images/media). Use for single-presentation actions (no batch).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WPS/PowerPoint Automation (Windows)",
+  "function_label": "File-Agent"
+}

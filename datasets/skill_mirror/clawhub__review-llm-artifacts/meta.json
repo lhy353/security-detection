@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:review-llm-artifacts",
+  "slug": "review-llm-artifacts",
+  "name": "review-llm-artifacts",
+  "title": "法学硕士文物审查",
+  "description": "Detects common LLM coding agent artifacts across four categories (tests, dead code, abstraction, style) over the project or changed files — using parallel subagents when the agent supports them, otherwise four sequential passes. Scans files changed since main by default; use --all for full-project scan. Triggers on LLM cruft cleanup, agent-generated code review, dead code sweeps, test-quality passes, or when the user asks to scan the whole repo.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "LLM Artifacts Review",
+  "function_label": "Coding"
+}

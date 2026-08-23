@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:text-to-video-app",
+  "slug": "text-to-video-app",
+  "name": "text-to-video-app",
+  "title": "将文本转换为可共享的视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — turn this blog intro into a 30-second video with voiceover and visuals — and get AI-generated videos back in 1-2 minutes. Upload TXT, DOCX, PDF, SRT files up to 200MB, and the AI handles AI video creation automatically. Ideal for content creators who want to produce videos quickly without filming or editing experience.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Text to Video App — Convert Text into Shareable Videos",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:k8s-orchestrator-expert",
+  "slug": "k8s-orchestrator-expert",
+  "name": "k8s-orchestrator-expert",
+  "title": "编排专家",
+  "description": "Kubernetes orchestration specialist for production-grade cluster optimization, security hardening, and advanced deployment patterns. Focuses on multi-tenant environments, resource management, and compliance-ready configurations.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Kubernetes Orchestration Expert",
+  "function_label": "Automation"
+}

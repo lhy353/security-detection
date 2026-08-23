@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zoho-invoice",
+  "slug": "zoho-invoice",
+  "name": "zoho-invoice",
+  "title": "发票",
+  "description": "Zoho Invoice integration. Manage data, records, and automate workflows. Use when the user wants to interact with Zoho Invoice data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zoho Invoice",
+  "function_label": "Automation"
+}

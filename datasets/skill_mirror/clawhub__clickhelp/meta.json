@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clickhelp",
+  "slug": "clickhelp",
+  "name": "clickhelp",
+  "title": "点击帮助",
+  "description": "ClickHelp integration. Manage data, records, and automate workflows. Use when the user wants to interact with ClickHelp data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clickhelp",
+  "function_label": "Automation"
+}

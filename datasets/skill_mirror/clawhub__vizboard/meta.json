@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vizboard",
+  "slug": "vizboard",
+  "name": "vizboard",
+  "title": "可视板",
+  "description": "Generate beautiful, self-contained HTML dashboards and visual pages — architecture diagrams, flowcharts, KPI dashboards, data tables, diff reviews, plan reviews, and project recaps. Use when the user asks for a diagram, architecture overview, diff review, plan review, project recap, comparison table, or any visual explanation of technical concepts. Also use proactively when you are about to render a complex ASCII table (4+ rows or 3+ columns) — present it as a styled HTML page instead.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Vizboard",
+  "function_label": "Communication"
+}

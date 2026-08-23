@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cron-health-check",
+  "slug": "cron-health-check",
+  "name": "cron-health-check",
+  "title": "健康检查 |开爪技能",
+  "description": "Monitors OpenClaw cron job health, identifies failures, timeouts, and delivery issues.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cron Health Check | OpenClaw Skill",
+  "function_label": "Automation"
+}

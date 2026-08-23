@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lexoffice-integration",
+  "slug": "lexoffice-integration",
+  "name": "lexoffice",
+  "title": "雷克斯办公室",
+  "description": "Lexoffice integration. Manage Organizations, Leads, Pipelines, Users, Goals, Filters. Use when the user wants to interact with Lexoffice data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lexoffice",
+  "function_label": "Communication"
+}

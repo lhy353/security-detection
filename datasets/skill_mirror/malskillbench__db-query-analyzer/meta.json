@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:db-query-analyzer",
+  "slug": "db-query-analyzer",
+  "name": "db-query-analyzer",
+  "title": "数据库查询分析技能",
+  "description": "Analyze database query performance with execution plans and index recommendations",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Database Query Analyzer Skill",
+  "function_label": "Data-Agent"
+}

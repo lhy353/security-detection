@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pitch-amplifier",
+  "slug": "pitch-amplifier",
+  "name": "pitch-amplifier",
+  "title": "音调放大器",
+  "description": "Turn a vague reporting clue, observation, or topic hunch into a deeper news pitch by extracting entities, retrieving 1-2 hop context from a city knowledge graph, and generating an editor-style planning memo. Use when the user says things like “这个选题怎么做深”, “帮我放大这个线索”, “这个观察能不能做成深度报道”, or needs angles, contradictions, interview targets, and structural context behind a local topic.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pitch Amplifier",
+  "function_label": "Other"
+}

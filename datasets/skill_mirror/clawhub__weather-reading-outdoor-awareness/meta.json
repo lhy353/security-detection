@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:weather-reading-outdoor-awareness",
+  "slug": "weather-reading-outdoor-awareness",
+  "name": "weather-reading-outdoor-awareness",
+  "title": "天气预报和户外意识",
+  "description": "Practical weather observation and environmental awareness skills. Use when someone works outdoors, needs to make weather-dependent decisions without phone access, or wants to develop environmental situational awareness.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Weather Reading & Outdoor Awareness",
+  "function_label": "Data-Agent"
+}

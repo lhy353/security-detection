@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:upwork-freelancer-ops",
+  "slug": "upwork-freelancer-ops",
+  "name": "upwork-freelancer-ops",
+  "title": "自由职业者运营",
+  "description": "Income and pipeline management for Upwork freelancers. Proposal drafting, job scanning, client follow-up sequences, contract tracking, invoice reminders, and earnings forecasting. Built for freelancers who want to grow their Upwork income without spending all day on the platform.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Upwork Freelancer Operations",
+  "function_label": "Automation"
+}

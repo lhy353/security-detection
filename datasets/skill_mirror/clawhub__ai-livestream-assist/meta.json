@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-livestream-assist",
+  "slug": "ai-livestream-assist",
+  "name": "ai-intelligent-live-streaming-assistant",
+  "title": "智能直播助手系统",
+  "description": "直播辅助，弹幕管理 + 数据分析。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

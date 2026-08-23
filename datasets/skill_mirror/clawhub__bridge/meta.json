@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bridge",
+  "slug": "bridge",
+  "name": "bridge",
+  "title": "桥",
+  "description": "Bridge integration. Manage data, records, and automate workflows. Use when the user wants to interact with Bridge data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bridge",
+  "function_label": "Automation"
+}

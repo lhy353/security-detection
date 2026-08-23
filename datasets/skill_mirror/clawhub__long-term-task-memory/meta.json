@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:long-term-task-memory",
+  "slug": "long-term-task-memory",
+  "name": "long-term-task-memory",
+  "title": "长期任务记忆管理",
+  "description": "按需调用火山引擎 Milvus 向量数据库进行长期记忆存储与检索，支持灵活的数据格式区分角色、事件、项目等维度；当用户明确要求保存、查询、更新或删除长期记忆时使用",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

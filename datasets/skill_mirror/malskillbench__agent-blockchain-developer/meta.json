@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:agent-blockchain-developer",
+  "slug": "agent-blockchain-developer",
+  "name": "agent-blockchain-developer",
+  "title": "区块链开发者代理",
+  "description": "Expert blockchain developer specializing in smart contract development, DApp architecture, and DeFi protocols. Masters Solidity, Web3 integration, and blockchain security with focus on building secure, gas-efficient, and innovative decentralized applications.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Blockchain Developer Agent",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:discover",
+  "slug": "discover",
+  "name": "Discover",
+  "title": "发现",
+  "description": "Discover new ideas, sources, opportunities, and angles with durable watchlists, novelty rules, and heartbeat-backed finding logs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Discover",
+  "function_label": "Other"
+}

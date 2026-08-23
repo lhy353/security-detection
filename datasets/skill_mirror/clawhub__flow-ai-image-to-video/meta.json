@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:flow-ai-image-to-video",
+  "slug": "flow-ai-image-to-video",
+  "name": "flow-ai-image-to-video",
+  "title": "将图像转换为视频剪辑",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — animate this image into a 5-second video clip with smooth motion — and get animated video clips back in 20-40 seconds. Upload JPG, PNG, WEBP, HEIC files up to 50MB, and the AI handles AI video creation automatically. Ideal for social media creators who want to bring still images to life without manual animation skills.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Flow AI Image to Video — Convert Images Into Video Clips",
+  "function_label": "Communication"
+}

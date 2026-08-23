@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:seoul-subway",
+  "slug": "seoul-subway",
+  "name": "seoul-subway",
+  "title": "首尔地铁技能",
+  "description": "Seoul Subway assistant for real-time arrivals, route planning, and service alerts (Korean/English)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Seoul Subway Skill",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ispc-lit-tests",
+  "slug": "ispc-lit-tests",
+  "name": "ispc-lit-tests",
+  "title": "点燃测试",
+  "description": "Best practices for creating ISPC lit tests. Use when writing regression tests, verifying code generation, or checking compiler diagnostics.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Ispc Lit Tests",
+  "function_label": "Other"
+}

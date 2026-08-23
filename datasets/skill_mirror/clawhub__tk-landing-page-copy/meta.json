@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tk-landing-page-copy",
+  "slug": "tk-landing-page-copy",
+  "name": "landing-page-copy",
+  "title": "登陆页面副本生成器",
+  "description": "Generate high-converting landing page copy — headlines, subheads, feature sections, social proof blocks, CTAs, FAQs, and objection handlers. Supports SaaS, e-commerce, services, and lead gen pages.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Landing Page Copy Generator",
+  "function_label": "Communication"
+}

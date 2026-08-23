@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:filesystem-access",
+  "slug": "filesystem-access",
+  "name": "filesystem-access",
+  "title": "安全的本地文件读/写/列表能力，默认只在 OpenClaw workspace …",
+  "description": "安全的本地文件读/写/列表能力，默认只在 OpenClaw workspace 目录内工作。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

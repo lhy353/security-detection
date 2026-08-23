@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-skill-cron-scheduler",
+  "slug": "openclaw-skill-cron-scheduler",
+  "name": "cron-scheduler",
+  "title": "调度技巧",
+  "description": "Manage cron jobs on macOS/Linux - list, add, remove, backup, and schedule recurring tasks",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cron Scheduler Skill",
+  "function_label": "Automation"
+}

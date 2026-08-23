@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-trimmer-in-between",
+  "slug": "video-trimmer-in-between",
+  "name": "video-trimmer-in-between",
+  "title": "剪切和重新加入视频部分",
+  "description": "Get trimmed joined clips ready to post, without touching a single slider. Upload your video clips (MP4, MOV, AVI, WebM, up to 500MB), say something like \"remove the section between 0:45 and 1:20 and join the remaining parts smoothly\", and download 1080p MP4 when it's done. Built for content creators who move fast and want to remove a specific middle portion of a video without affecting the beginning or end.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Trimmer In Between — Cut and Rejoin Video Sections",
+  "function_label": "Communication"
+}

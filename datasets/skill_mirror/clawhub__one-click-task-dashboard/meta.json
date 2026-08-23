@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:one-click-task-dashboard",
+  "slug": "one-click-task-dashboard",
+  "name": "one-click-task-dashboard",
+  "title": "一键生成并常驻刷新任务数据大屏（index.html + data.json +…",
+  "description": "一键生成并常驻刷新任务数据大屏（index.html + data.json + 本地服务）。适合 OpenClaw + launchctl 自动化任务可视化与巡检。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

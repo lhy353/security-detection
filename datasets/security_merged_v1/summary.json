@@ -1,0 +1,58 @@
+{
+  "name": "security_merged_v1",
+  "n": 8520,
+  "detection_label_counts": {
+    "benign": 5000,
+    "benign_but_dangerous": 150,
+    "uncertain": 2,
+    "malicious": 3368
+  },
+  "by_source": {
+    "clawhub": 5152,
+    "malskillbench": 3368
+  },
+  "by_cohort": {
+    "clawguard-benign-sample": 4480,
+    "llm-deep-malicious-672": 672,
+    "malware": 3368
+  },
+  "target_benign": 5000,
+  "benign_ok": true,
+  "malskillbench": {
+    "count": 3368,
+    "dropped_no_skillmd": 551
+  },
+  "notes": [
+    "Dropped 551 MalSkillBench rows without readable SKILL.md after failed zip recovery"
+  ],
+  "updated_at": "2026-08-06T03:28:28.126Z",
+  "gold_backfill": {
+    "source": "datasets/gold_security_v1/to_annotate.csv",
+    "matched": 352,
+    "missing_in_manifest": [],
+    "gold_status_counts": {
+      "pending_reannotation": 4900,
+      "human_gold_v1": 352,
+      "benchmark_label": 3268
+    },
+    "gold_security_counts": {
+      "benign_but_dangerous": 180,
+      "benign": 73,
+      "malicious": 99
+    },
+    "function_counts": {
+      "Data-Agent": 48,
+      "File-Agent": 38,
+      "Communication": 24,
+      "Research": 26,
+      "Automation": 97,
+      "Browser": 11,
+      "Other": 60,
+      "Coding": 48
+    },
+    "agree_with_detection": 319,
+    "disagree_with_detection": 33,
+    "agree_rate": 0.9063,
+    "updated_at": "2026-08-06T03:28:28.125Z"
+  }
+}

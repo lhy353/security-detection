@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:stock-images",
+  "slug": "stock-images",
+  "name": "Stock Images",
+  "title": "尺寸随机照片",
+  "description": "Source free stock photos and placeholder images with direct URLs for Unsplash, Pexels, Pixabay, and Lorem Picsum.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lorem Picsum - random photo at size",
+  "function_label": "Browser"
+}

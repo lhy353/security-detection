@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skill-dep-fixer",
+  "slug": "skill-dep-fixer",
+  "name": "skill-dep-fixer",
+  "title": "技能固定者 技能",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "skill-dep-fixer Skill",
+  "function_label": "Communication"
+}

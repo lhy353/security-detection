@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:fred-navigator",
+  "slug": "fred-navigator",
+  "name": "fred-navigator",
+  "title": "弗雷德·导航员",
+  "description": "Navigate FRED categories and series using fredapi, supporting natural-language queries with intent recognition and double validation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Fred Navigator",
+  "function_label": "Other"
+}

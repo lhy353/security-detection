@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:diff",
+  "slug": "diff",
+  "name": "diff",
+  "title": "差异",
+  "description": "diff reference tool",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Diff",
+  "function_label": "Coding"
+}

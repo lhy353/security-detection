@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:taptap-godot-integration",
+  "slug": "taptap-godot-integration",
+  "name": "taptap-godot-integration",
+  "title": "安卓集成技巧",
+  "description": "Integrate TapSDK v4 into Godot 4 Android games: login, anti-addiction, cloud save, leaderboard, friends. Invoke when adding TapTap features to a Godot Android project.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "TapTap SDK v4 Godot 4 Android Integration Skill",
+  "function_label": "Other"
+}

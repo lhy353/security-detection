@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-image-to-video-keyframe",
+  "slug": "ai-image-to-video-keyframe",
+  "name": "ai-image-to-video-keyframe",
+  "title": "将图像转换为关键帧视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — animate these images as keyframes into a smooth video sequence — and get animated keyframe video back in 30-90 seconds. Upload JPG, PNG, WEBP, HEIC files up to 200MB, and the AI handles AI keyframe video generation automatically. Ideal for content creators, animators, marketers who want to create smooth video transitions between images without manual animation.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Image to Video Keyframe — Convert Images into Keyframe Videos",
+  "function_label": "Communication"
+}

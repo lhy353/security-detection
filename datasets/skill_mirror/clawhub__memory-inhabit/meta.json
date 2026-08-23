@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:memory-inhabit",
+  "slug": "memory-inhabit",
+  "name": "memory-inhabit",
+  "title": "入心 Memory-Inhabit",
+  "description": "加载 SoulPod 包，以角色身份对话。支持复刻模式和伴侣模式。SoulPod 通常由 Memory-Trace 生成。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:security-audit-orchestrator",
+  "slug": "security-audit-orchestrator",
+  "name": "security-audit-orchestrator",
+  "title": "安全审计协调器",
+  "description": "Orchestrates comprehensive security analysis of web applications through source code examination and penetration testing.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Security Audit Orchestrator",
+  "function_label": "Coding"
+}

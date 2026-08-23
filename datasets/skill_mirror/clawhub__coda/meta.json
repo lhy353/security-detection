@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:coda",
+  "slug": "coda",
+  "name": "coda",
+  "title": "技能",
+  "description": "General-purpose Coda document manager via REST API v1. Supports listing/creating/updating/deleting docs, managing tables/rows/pages, triggering automations, and exploring doc structure. Requires CODA_API_TOKEN environment variable. Delete operations require explicit confirmation; publishing and permission changes require explicit user intent.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Coda API Skill",
+  "function_label": "Browser"
+}

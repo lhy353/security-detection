@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:yinxiang-notes",
+  "slug": "yinxiang-notes",
+  "name": "yinxiang-notes",
+  "title": "印象笔记集成",
+  "description": "印象笔记（中国版）集成 skill。使用 Developer Token 在印象笔记中创建、整理和搜索笔记。支持笔记本列表、创建笔记、更新笔记内容/标签、移动笔记到废纸篓、查看/清空废纸篓、搜索内容、增量同步到 Obsidian vault。适用于使用 app.yinxiang.com 的用户。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

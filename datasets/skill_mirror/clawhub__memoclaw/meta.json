@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:memoclaw",
+  "slug": "memoclaw",
+  "name": "memoclaw",
+  "title": "记忆爪技能",
+  "description": "Memory-as-a-Service for AI agents. Store and recall memories with semantic\nvector search. 100 free calls per wallet, then x402 micropayments.\nYour wallet address is your identity.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MemoClaw Skill",
+  "function_label": "Other"
+}

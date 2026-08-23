@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:uipath",
+  "slug": "uipath",
+  "name": "uipath",
+  "title": "乌帕斯",
+  "description": "UiPath integration. Manage data, records, and automate workflows. Use when the user wants to interact with UiPath data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Uipath",
+  "function_label": "Automation"
+}

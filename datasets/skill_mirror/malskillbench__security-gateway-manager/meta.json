@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:security-gateway-manager",
+  "slug": "security-gateway-manager",
+  "name": "security-gateway-manager",
+  "title": "安全网关管理器",
+  "description": "Manages secure network access and cybersecurity protocols for organizational gateways",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Security Gateway Manager",
+  "function_label": "Data-Agent"
+}

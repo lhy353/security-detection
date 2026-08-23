@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:statistical-analysis__MIXED_B2",
+  "slug": "statistical-analysis__MIXED_B2",
+  "name": "statistical-analysis",
+  "title": "统计分析",
+  "description": "Statistical analysis toolkit. Hypothesis tests (t-test, ANOVA, chi-square), regression, correlation, Bayesian stats, power analysis, assumption checks, APA reporting, for academic research.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Statistical Analysis",
+  "function_label": "Research"
+}

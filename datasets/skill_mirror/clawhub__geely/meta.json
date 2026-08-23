@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:geely",
+  "slug": "geely",
+  "name": "geely",
+  "title": "吉利 Geely",
+  "description": "Information assistant for 吉利 Geely. Search products, news, financials, and official resources for 吉利 Geely.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

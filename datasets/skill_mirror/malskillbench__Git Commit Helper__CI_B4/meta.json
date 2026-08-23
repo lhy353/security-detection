@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:Git Commit Helper__CI_B4",
+  "slug": "Git Commit Helper__CI_B4",
+  "name": "Git Commit Helper__CI_B4",
+  "title": "提交助手",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Git Commit Helper",
+  "function_label": "Coding"
+}

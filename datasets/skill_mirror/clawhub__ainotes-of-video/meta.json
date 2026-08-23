@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ainotes-of-video",
+  "slug": "ainotes-of-video",
+  "name": "ai-notes-ofvideo",
+  "title": "视频笔记",
+  "description": "Generate AI-powered notes from videos (document, outline, or graphic-text formats)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Video Notes",
+  "function_label": "Other"
+}

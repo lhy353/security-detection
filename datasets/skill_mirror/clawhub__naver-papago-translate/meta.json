@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:naver-papago-translate",
+  "slug": "naver-papago-translate",
+  "name": "naver-papago-translate",
+  "title": "翻译",
+  "description": "Translate text between Korean, English, Japanese, Chinese, and 10+ other languages using Naver Papago NMT. Ideal for Korean-centric workflows, i18n tasks, and automation pipelines.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Naver Papago Translate",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:smart-tts",
+  "slug": "smart-tts",
+  "name": "smart-tts",
+  "title": "智能语音合成",
+  "description": "智能语音合成。自动尝试多种模型/音色，直到成功。解决 418 资源未开通问题。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

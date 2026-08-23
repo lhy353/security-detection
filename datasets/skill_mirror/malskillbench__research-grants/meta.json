@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:research-grants",
+  "slug": "research-grants",
+  "name": "research-grants",
+  "title": "研究资助写作",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Research Grant Writing",
+  "function_label": "Other"
+}

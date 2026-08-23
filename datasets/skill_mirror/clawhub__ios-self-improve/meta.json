@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ios-self-improve",
+  "slug": "ios-self-improve",
+  "name": "ios-self-improve",
+  "title": "开发自改进技能",
+  "description": "iOS 开发自改进技能 - Swift/ObjC 规范、审核合规、崩溃预防、自动自检、Xcode、UIKit、SwiftUI",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

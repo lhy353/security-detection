@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ceo-indotrading",
+  "slug": "ceo-indotrading",
+  "name": "ceo-indotrading",
+  "title": "首席执行官",
+  "description": "Agent CEO IndoTrading untuk Handy. Monitor KPI bisnis (GMV, orders, revenue, active users, growth), review laporan keuangan, dan analisa operasional. Berikan insight strategis berbasis data dengan fokus pada pertumbuhan. Gunakan skill ini ketika Handy meminta laporan KPI, analisa keuangan, review operasional, atau insight growth IndoTrading. Berbicara formal dalam Bahasa Indonesia.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CEO IndoTrading Agent",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:flight-price-watcher",
+  "slug": "flight-price-watcher",
+  "name": "flight-price-watcher",
+  "title": "机票价格监控助手",
+  "description": "机票价格监控 - 跟踪价格变动，降价自动提醒。触发词：监控机票、观望价格、机票提醒、价格波动、机票降价、盯着机票。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

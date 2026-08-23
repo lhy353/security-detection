@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:itch-asset-pack-launcher",
+  "slug": "itch-asset-pack-launcher",
+  "name": "itch-asset-pack-launcher",
+  "title": "痒痒资产包启动器",
+  "description": "Create high-converting itch.io asset pack pages for game assets, including titles, descriptions, tags, pricing notes, screenshots plan, cover prompts, page colors, launch checklist, and safe license wording.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Itch Asset Pack Launcher",
+  "function_label": "Other"
+}

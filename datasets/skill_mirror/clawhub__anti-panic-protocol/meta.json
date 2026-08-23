@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:anti-panic-protocol",
+  "slug": "anti-panic-protocol",
+  "name": "anti-panic-protocol",
+  "title": "防恐慌协议",
+  "description": "Handle tool failures under pressure with bounded retries, clean user communication, and safe escalation. Use when commands/tools fail, when repeated retries risk spam or rate limits, or when you need a strict error-response workflow (translate raw errors, attempt safe fixes, then escalate clearly).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Anti-Panic Protocol",
+  "function_label": "Other"
+}

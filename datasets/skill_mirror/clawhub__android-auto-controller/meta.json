@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:android-auto-controller",
+  "slug": "android-auto-controller",
+  "name": "android-auto-controller",
+  "title": "安卓视觉自动化控制)",
+  "description": "控制 Android 手机的终极工具。具备视觉状态感知、自动关闭干扰弹窗、模拟人手操作的能力。内置严格的反幻觉校验机制和防绕过限制，以真实的屏幕视觉反馈为唯一判断标准。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

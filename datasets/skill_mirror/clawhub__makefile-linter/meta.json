@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:makefile-linter",
+  "slug": "makefile-linter",
+  "name": "makefile-linter",
+  "title": "短绒检查",
+  "description": "Lint Makefiles for common issues — tabs, .PHONY, unused vars, portability, and best practices.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Makefile Linter",
+  "function_label": "Coding"
+}

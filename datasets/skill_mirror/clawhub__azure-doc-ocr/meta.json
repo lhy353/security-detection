@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:azure-doc-ocr",
+  "slug": "azure-doc-ocr",
+  "name": "azure-doc-ocr",
+  "title": "文档智能 OCR",
+  "description": "Extract text and structured data from documents using Azure Document Intelligence (formerly Form Recognizer).\nSupports OCR for PDFs, images, scanned documents, handwritten text, CJK languages, tables, forms, invoices,\nreceipts, ID documents, business cards, and tax forms. Uses the REST API v4.0 (2024-11-30) with prebuilt\nmodels for various document types.\n\nTriggers: OCR, text extraction, Azure Document Intelligence, PDF OCR, image OCR, scanned documents,\nhandwriting recognition, CJK text extraction, table extraction, invoice processing, receipt scanning,\nID document recognition, document parsing, form extraction, Azure Form Recognizer",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Azure Document Intelligence OCR",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:test-management",
+  "slug": "test-management",
+  "name": "test-management",
+  "title": "在tests目录中搜索测试方法",
+  "description": "Quarantines or disables flaky/problematic tests using the QuarantineTools utility",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Search for the test method in tests directory",
+  "function_label": "Automation"
+}

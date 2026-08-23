@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:fletcher-cyber-security-engineer",
+  "slug": "fletcher-cyber-security-engineer",
+  "name": "cyber-security-engineer",
+  "title": "网络安全工程师",
+  "description": "Security engineering workflow for OpenClaw privilege governance and hardening. Use for least-privilege execution, approval-first privileged actions, idle timeout controls, port + egress monitoring, and ISO 27001/NIST-aligned compliance reporting with mitigations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cyber Security Engineer",
+  "function_label": "Research"
+}

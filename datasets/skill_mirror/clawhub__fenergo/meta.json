@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:fenergo",
+  "slug": "fenergo",
+  "name": "fenergo",
+  "title": "费内戈",
+  "description": "Fenergo integration. Manage data, records, and automate workflows. Use when the user wants to interact with Fenergo data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Fenergo",
+  "function_label": "Automation"
+}

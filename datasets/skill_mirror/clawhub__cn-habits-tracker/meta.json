@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cn-habits-tracker",
+  "slug": "cn-habits-tracker",
+  "name": "cn-habits-tracker",
+  "title": "中文习惯打卡",
+  "description": "中文习惯打卡追踪器。每日打卡、连续天数、习惯统计。\n本地存储，无账户，隐私安全。\n当用户说\"打卡\"、\"习惯\"、\"连续多少天\"、\"今天完成了吗\"时触发。\nKeywords: 打卡, 习惯, 追踪, streak, habit, 日签, 坚持.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

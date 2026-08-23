@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:her-agent-dashboard",
+  "slug": "her-agent-dashboard",
+  "name": "her-agent-dashboard",
+  "title": "发展进度看板",
+  "description": "Her-Agent发展进度看板 - 实时显示自我意识、情感、知识图谱、学习进度、进化状态。打开web dashboard查看详细数据。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

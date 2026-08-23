@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:report2article",
+  "slug": "report2article",
+  "name": "report2article",
+  "title": "研究报告编排器",
+  "description": "把报告编排成读者向文章：只重组排序起标题，不增删改内容。解决标题夸张、子标题冗长、逻辑弱，支持超长报告信息不丢",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

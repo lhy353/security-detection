@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:mcp-workflow",
+  "slug": "mcp-workflow",
+  "name": "mcp-workflow",
+  "title": "测试的 MCP 工作流程",
+  "description": "FastMCP + DSIM workflow for UVM test execution. Use when compiling tests, running simulations, executing regression suites, or troubleshooting MCP integration.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "MCP Workflow for DSIM UVM Testing",
+  "function_label": "Other"
+}

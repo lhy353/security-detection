@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lemonade-server-manager",
+  "slug": "lemonade-server-manager",
+  "name": "lemonade-server-manager",
+  "title": "柠檬水服务器管理",
+  "description": "Manage Lemonade Servers natively. Use when checking system info, health status, listing available models, pulling or loading new models, completing LLM chats, or generating stable-diffusion images on a local or remote AI NPU/GPU cluster.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lemonade Server Management",
+  "function_label": "Communication"
+}

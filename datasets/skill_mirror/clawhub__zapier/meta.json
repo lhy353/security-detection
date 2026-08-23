@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zapier",
+  "slug": "zapier",
+  "name": "Zapier",
+  "title": "扎皮尔",
+  "description": "Complete Zapier automation with Zaps, Tables, Interfaces, webhooks, REST Hooks API, and 6000+ app integrations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zapier",
+  "function_label": "Data-Agent"
+}

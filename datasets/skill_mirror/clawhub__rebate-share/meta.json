@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:rebate-share",
+  "slug": "rebate-share",
+  "name": "返利推广赚手",
+  "title": "返利推广赚手",
+  "description": "返利链接推广与佣金管理工具，帮助淘客和推广者生成高转化分享内容，追踪推广佣金收益。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

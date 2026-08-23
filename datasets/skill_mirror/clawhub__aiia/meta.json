@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aiia",
+  "slug": "aiia",
+  "name": "aiia",
+  "title": "已记入",
+  "description": "Aiia integration. Manage data, records, and automate workflows. Use when the user wants to interact with Aiia data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Aiia",
+  "function_label": "Automation"
+}

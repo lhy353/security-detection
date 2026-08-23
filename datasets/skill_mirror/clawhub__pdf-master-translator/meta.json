@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pdf-master-translator",
+  "slug": "pdf-master-translator",
+  "name": "pdf-master-translator",
+  "title": "大师翻译器（V10架构）",
+  "description": "A highly robust, multi-agent pipeline for translating and reconstructing complex, image-heavy, or scanned PDF documents (especially engineering, scientific, or military specs). Use this skill when dealing with PDFs that contain complex layouts, dense tables, mathematical formulas (LaTeX), or when previous translation attempts resulted in broken layouts, missing figures, \"hallucinated\" translations, or corrupted text. It uses a \"mask-and-fill\" approach, holographic context injection, and SVG math rendering to ensure zero information loss and strict visual fidelity.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PDF Master Translator (V10 Architecture)",
+  "function_label": "File-Agent"
+}

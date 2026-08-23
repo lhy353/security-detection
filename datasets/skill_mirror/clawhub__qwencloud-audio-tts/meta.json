@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:qwencloud-audio-tts",
+  "slug": "qwencloud-audio-tts",
+  "name": "qwencloud-audio-tts",
+  "title": "音频 TTS（文本转语音）",
+  "description": "[QwenCloud] Synthesize speech from text with Qwen TTS models. TRIGGER when: user wants to convert text to speech, create voiceovers, generate audio narration, read text aloud, build TTS applications, mentions speech synthesis/voice generation/audio output from text, or explicitly invokes this skill by name (e.g. use qwencloud-audio-tts). DO NOT TRIGGER when: user wants speech recognition/ASR, text generation without audio, non-Qwen audio tasks.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Qwen Audio TTS (Text-to-Speech)",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:magnetic",
+  "slug": "magnetic",
+  "name": "magnetic",
+  "title": "磁的",
+  "description": "Magnetic integration. Manage Organizations. Use when the user wants to interact with Magnetic data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Magnetic",
+  "function_label": "Browser"
+}

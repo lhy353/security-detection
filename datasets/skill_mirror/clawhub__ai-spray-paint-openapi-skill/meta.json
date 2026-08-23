@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-spray-paint-openapi-skill",
+  "slug": "ai-spray-paint-openapi-skill",
+  "name": "ai-spray-paint-openapi-skill",
+  "title": "技能",
+  "description": "AI spray paint stencil maker — convert a photo into a black-and-white spray paint stencil",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WeShop OpenAPI Skill — ai-spray-paint",
+  "function_label": "Other"
+}

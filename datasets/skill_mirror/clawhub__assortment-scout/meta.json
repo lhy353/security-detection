@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:assortment-scout",
+  "slug": "assortment-scout",
+  "name": "assortment-scout",
+  "title": "品种侦察兵",
+  "description": "Audit an ecommerce catalog, spot SKU sprawl, price and attribute coverage gaps, hero dependence, long-tail bloat, and duplicate-risk clusters, then turn rough catalog notes or CSV exports into keep-add-expand-merge-retire recommendations and a 30-day merchandising brief. Use when merchandisers, category managers, marketplace sellers, or consultants need assortment planning support without live ERP, PIM, or marketplace APIs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Assortment Scout",
+  "function_label": "Data-Agent"
+}

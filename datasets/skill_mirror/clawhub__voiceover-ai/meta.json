@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:voiceover-ai",
+  "slug": "voiceover-ai",
+  "name": "voiceover-ai",
+  "title": "为视频添加 AI 语音",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — add a natural-sounding English voiceover that matches the on-screen action — and get voiced-over videos back in 30-60 seconds. Upload MP4, MOV, AVI, WebM files up to 500MB, and the AI handles AI voiceover generation automatically. Ideal for content creators, marketers, educators who want professional narration without recording their own voice.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Voiceover AI — Add AI Voice to Videos",
+  "function_label": "Automation"
+}

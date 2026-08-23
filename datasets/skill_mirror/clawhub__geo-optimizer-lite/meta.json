@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:geo-optimizer-lite",
+  "slug": "geo-optimizer-lite",
+  "name": "GEO Optimizer Lite",
+  "title": "优化器精简版",
+  "description": "Free version — audit your content for AI search citability with the GEO Scorecard. Covers 4 of 8 dimensions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "GEO Optimizer Lite",
+  "function_label": "Other"
+}

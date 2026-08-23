@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cnpj-lookup",
+  "slug": "cnpj-lookup",
+  "name": "cnpj-lookup",
+  "title": "查询",
+  "description": "Consulta CNPJ via APIs públicas brasileiras (BrasilAPI, CNPJ.ws, OpenCNPJ) com fallback automático, cache e rate limit. Ativar quando o usuário pedir consulta, pesquisa ou detalhes de CNPJ, razão social, situação cadastral, CNAE, QSA ou endereço de empresa.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cnpj Lookup",
+  "function_label": "Communication"
+}

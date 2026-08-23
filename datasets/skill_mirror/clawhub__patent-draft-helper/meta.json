@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:patent-draft-helper",
+  "slug": "patent-draft-helper",
+  "name": "patent-draft-helper",
+  "title": "专利文案撰写助手 v1.3",
+  "description": "专利文案撰写助手 | 辅助撰写电机/机械领域专利申请书、技术交底书、权利要求书，保护创新成果",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

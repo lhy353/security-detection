@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ui-ux-pro-max-skill",
+  "slug": "ui-ux-pro-max-skill",
+  "name": "ui-ux-pro-max-skill",
+  "title": "技能",
+  "description": "AI design intelligence skill for building professional UI/UX across multiple platforms with 161 reasoning rules, 67 styles, and automated design system generation",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ui Ux Pro Max Skill",
+  "function_label": "Other"
+}

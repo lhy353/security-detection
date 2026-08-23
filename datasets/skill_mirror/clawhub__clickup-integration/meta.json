@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clickup-integration",
+  "slug": "clickup-integration",
+  "name": "clickup",
+  "title": "点击",
+  "description": "Clickup integration. Manage project management and ticketing data, records, and workflows. Use when the user wants to interact with Clickup data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clickup",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:Skill Builder",
+  "slug": "Skill Builder",
+  "name": "Skill Builder",
+  "title": "技能培养者",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Skill Builder",
+  "function_label": "Data-Agent"
+}

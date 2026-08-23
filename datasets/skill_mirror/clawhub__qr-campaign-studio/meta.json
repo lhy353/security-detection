@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:qr-campaign-studio",
+  "slug": "qr-campaign-studio",
+  "name": "qr-campaign-studio",
+  "title": "活动工作室",
+  "description": "Generate marketing QR codes with batch output, UTM tracking links, logo embedding, and poster composition. Use when users ask 生成二维码/批量二维码/渠道追踪码/带logo二维码. Supports text, URL, WiFi, and vCard payloads. Not for payment gateway settlement logic. ｜二维码增长工作室：适合营销码批量生成与追踪；不处理支付结算逻辑。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Qr Campaign Studio",
+  "function_label": "Other"
+}

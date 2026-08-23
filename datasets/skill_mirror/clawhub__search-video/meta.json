@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:search-video",
+  "slug": "search-video",
+  "name": "search-video",
+  "title": "搜索视频",
+  "description": "Video search tool: queries Pixabay video API for stock clips, returning URLs and metadata for footage sourcing.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Search Video",
+  "function_label": "Other"
+}

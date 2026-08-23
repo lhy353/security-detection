@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:comodo",
+  "slug": "comodo",
+  "name": "comodo",
+  "title": "舒服的",
+  "description": "Comodo integration. Manage data, records, and automate workflows. Use when the user wants to interact with Comodo data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Comodo",
+  "function_label": "Automation"
+}

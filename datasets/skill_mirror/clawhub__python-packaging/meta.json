@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:python-packaging",
+  "slug": "python-packaging",
+  "name": "python-packaging",
+  "title": "打包（深度工作流程）",
+  "description": "Deep Python packaging workflow—pyproject metadata, dependencies and optional extras, build backends, wheels, versioning, publishing, and CI release hygiene. Use when building libraries or shipping CLI tools to PyPI or private indexes.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Python Packaging (Deep Workflow)",
+  "function_label": "Automation"
+}

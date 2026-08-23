@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:botmaker",
+  "slug": "botmaker",
+  "name": "botmaker",
+  "title": "机器人制造者",
+  "description": "Botmaker integration. Manage Organizations. Use when the user wants to interact with Botmaker data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Botmaker",
+  "function_label": "Browser"
+}

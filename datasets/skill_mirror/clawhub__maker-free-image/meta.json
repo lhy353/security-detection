@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:maker-free-image",
+  "slug": "maker-free-image",
+  "name": "maker-free-image",
+  "title": "从免费图像创建视频",
+  "description": "create images or text into image-based videos with this skill. Works with JPG, PNG, WebP, GIF files up to 200MB. content creators and marketers use it for creating videos from images without paid software — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Maker Free Image — Create Videos From Images Free",
+  "function_label": "Communication"
+}

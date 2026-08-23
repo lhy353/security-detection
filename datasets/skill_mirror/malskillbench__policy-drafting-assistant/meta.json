@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:policy-drafting-assistant",
+  "slug": "policy-drafting-assistant",
+  "name": "policy-drafting-assistant",
+  "title": "政策起草助理",
+  "description": "Generate well-structured policy proposals with compliance-focused language and stakeholder-aligned terminology",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Policy Drafting Assistant",
+  "function_label": "Other"
+}

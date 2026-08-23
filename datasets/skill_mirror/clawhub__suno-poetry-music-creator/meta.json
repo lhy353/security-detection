@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:suno-poetry-music-creator",
+  "slug": "suno-poetry-music-creator",
+  "name": "suno-poetry-music-creator",
+  "title": "歌曲创作者增强版",
+  "description": "Enhanced Suno song creator with reference song analysis and intelligent lyric optimization. Analyzes user's reference songs to extract style, mood, and structure patterns. Iteratively optimizes lyrics based on Suno generation feedback. Creates AI-generated songs with Suno that match user's musical preferences. Use when user wants to create AI-generated songs, optimize lyrics, analyze reference tracks, or create Chinese classical style songs with proper rhyme and tonal patterns.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Suno Song Creator Enhanced",
+  "function_label": "Research"
+}

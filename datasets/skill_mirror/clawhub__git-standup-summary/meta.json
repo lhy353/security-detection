@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:git-standup-summary",
+  "slug": "git-standup-summary",
+  "name": "git-standup",
+  "title": "站立",
+  "description": "Generate concise daily/weekly standup summaries from git commit history. Analyzes recent commits, groups them by type (features, fixes, refactors, chores), and produces a standup-ready status report. Use when the user wants to: (1) Generate a daily standup summary for yourself or your team, (2) See what everyone worked on yesterday, (3) Prepare for daily scrum meetings, (4) Get a weekly activity digest, (5) Track progress on a specific branch or feature, (6) Generate a status report for your manager. Best for developers, engineering teams, remote workers, scrum masters, and anyone who needs quick git-based status reports.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Git Standup",
+  "function_label": "Automation"
+}

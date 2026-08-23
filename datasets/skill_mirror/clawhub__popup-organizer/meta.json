@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:popup-organizer",
+  "slug": "popup-organizer",
+  "name": "PopUp Organizer",
+  "title": "弹出式组织者",
+  "description": "Search and hire mobile vendors for events on PopUp. Find food trucks, DJs, photo booths & more, create event listings, send booking inquiries, and manage invoices.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PopUp Organizer",
+  "function_label": "Other"
+}

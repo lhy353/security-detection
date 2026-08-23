@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:remove-ai-writing-signs",
+  "slug": "remove-ai-writing-signs",
+  "name": "remove-ai-writing-signs",
+  "title": "删除人工智能书写标志",
+  "description": "Detect and eliminate all signs of AI-generated writing in English text, producing genuinely human-sounding output. English-only — decline or offer limited structural-flagging for non-English input. Uses a 5-pass rewriting architecture: artifact removal, era-aware vocabulary detox (GPT-4/4o/5+ maps), content deflation, structural reconstruction, and texture injection. Covers 27 pattern families from Wikipedia:Signs of AI writing. Use when asked to remove AI patterns, de-AI text, humanize content, clean AI drafts, make text undetectable, score AI-likeness, de-slop, or when user says \"sounds too AI\" or \"make it natural\". Trigger even for \"clean this up\" or \"this reads like ChatGPT\". British, American, and other native English variants all in scope. Supersedes the humanizer skill when both could apply.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Remove Ai Writing Signs",
+  "function_label": "Other"
+}

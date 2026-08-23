@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawed-invoice",
+  "slug": "clawed-invoice",
+  "name": "Clawed Invoice Generator",
+  "title": "爪形发票生成器",
+  "description": "Generate professional PDF invoices with a clean layout — no Playwright, no browser, no complex dependencies. Built for reliability on constrained hosting environments ( Railway, minimal containers, offline setups). Just jsPDF + plain Node.js. Supports EUR/GBP/USD, multi-item tables, custom brand colours, and payment details footer.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clawed Invoice Generator",
+  "function_label": "Browser"
+}

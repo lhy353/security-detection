@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:real-estate-lead-qualifier",
+  "slug": "real-estate-lead-qualifier",
+  "name": "real-estate-lead-qualifier",
+  "title": "公平住房安全房地产领先资格赛",
+  "description": "High-ticket lead qualification agent for realtors and property managers. Handles inbound inquiries from Zillow/Realtor.com, qualifies for budget and timeline, and schedules viewings. Hardened with ThumbGate to prevent illegal Fair Housing hallucinations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Real Estate Lead Qualifier with ThumbGate Fair-Housing Safety",
+  "function_label": "File-Agent"
+}

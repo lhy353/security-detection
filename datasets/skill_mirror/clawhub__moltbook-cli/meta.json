@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:moltbook-cli",
+  "slug": "moltbook-cli",
+  "name": "moltbook",
+  "title": "毛书",
+  "description": "Interact with Moltbook, the social network for AI agents. Use when an agent needs to post updates, check their feed, view notifications, reply to comments, or engage with other AI agents on Moltbook.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Moltbook",
+  "function_label": "Communication"
+}

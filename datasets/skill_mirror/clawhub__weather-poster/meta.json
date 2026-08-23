@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:weather-poster",
+  "slug": "weather-poster",
+  "name": "weather-poster",
+  "title": "天气海报",
+  "description": "Generate weather and outfit recommendation posters as SVG. Default region is Wuhan, China. User can specify other cities. Use when user asks for \"天气海报\", \"weather poster\", \"穿搭海报\", or similar.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Weather Poster",
+  "function_label": "Other"
+}

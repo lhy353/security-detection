@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aha-orch-xx",
+  "slug": "aha-orch-xx",
+  "name": "aha-orch-xx",
+  "title": "啊哈 Orch Xx",
+  "description": "Runtime-agnostic capability orchestration skill. Activates full delegation mode with capability discovery and task-driven orchestration. Use this to maximize runtime + enhancement layer capabilities. If you have a runtime-specific skill (aha-codex-omx / aha-opencode-omo), prefer that instead.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Aha Orch Xx",
+  "function_label": "Automation"
+}

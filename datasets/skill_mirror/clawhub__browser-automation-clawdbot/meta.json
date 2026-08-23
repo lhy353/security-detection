@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:browser-automation-clawdbot",
+  "slug": "browser-automation-clawdbot",
+  "name": "agent-browser",
+  "title": "代理浏览器技能",
+  "description": "Headless browser automation CLI optimized for AI agents with accessibility tree snapshots and ref-based element selection",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Browser Skill",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:talkdesk",
+  "slug": "talkdesk",
+  "name": "talkdesk",
+  "title": "讲台",
+  "description": "Talkdesk integration. Manage data, records, and automate workflows. Use when the user wants to interact with Talkdesk data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Talkdesk",
+  "function_label": "Automation"
+}

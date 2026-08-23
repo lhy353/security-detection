@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mouthpiece",
+  "slug": "mouthpiece",
+  "name": "mouthpiece",
+  "title": "职场嘴替",
+  "description": "职场嘴替——你的AI职场盟友，帮你把心里话说出来",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

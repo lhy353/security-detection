@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:continuous-openclaw-config-guard",
+  "slug": "continuous-openclaw-config-guard",
+  "name": "continuous-openclaw-config-guard",
+  "title": "配置回滚守护",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub"
+}

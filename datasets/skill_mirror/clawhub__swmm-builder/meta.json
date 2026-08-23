@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:swmm-builder",
+  "slug": "swmm-builder",
+  "name": "swmm-builder",
+  "title": "装配层）",
+  "description": "Assemble a runnable SWMM INP deterministically from subcatchment geometry/attributes, merged parameter JSON, network JSON, and climate references. Use when creating auditable INP + manifest artifacts for downstream swmm-runner/calibration.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SWMM Builder (INP assembly layer)",
+  "function_label": "Data-Agent"
+}

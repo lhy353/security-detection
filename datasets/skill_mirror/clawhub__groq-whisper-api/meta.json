@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:groq-whisper-api",
+  "slug": "groq-whisper-api",
+  "name": "groq-whisper-api",
+  "title": "卷曲）",
+  "description": "Transcribe audio via Groq Automatic Speech Recognition (ASR) Models (Whisper).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Groq Whisper API (curl)",
+  "function_label": "Other"
+}

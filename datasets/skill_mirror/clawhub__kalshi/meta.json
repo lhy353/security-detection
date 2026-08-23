@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:kalshi",
+  "slug": "kalshi",
+  "name": "kalshi",
+  "title": "卡尔希预测市场",
+  "description": "Read-only Kalshi prediction market integration. Use for viewing markets, checking portfolio positions, analyzing prediction opportunities, and finding high-payoff/high-certainty trades. Triggers on Kalshi, prediction markets, event contracts, or trading recommendations.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Kalshi Prediction Markets"
+}

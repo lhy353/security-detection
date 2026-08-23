@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pet-sitter-fridge-card",
+  "slug": "pet-sitter-fridge-card",
+  "name": "pet-sitter-fridge-card",
+  "title": "宠物保姆冰箱卡",
+  "description": "Create a printable pet sitter fridge card with pet basics, feeding, walks or litter, quirks, supplies, home notes, emergency contacts, and vet information without giving medical dosing guidance.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pet Sitter Fridge Card",
+  "function_label": "Communication"
+}

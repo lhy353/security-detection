@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:chinese-axiomata-deploy",
+  "slug": "chinese-axiomata-deploy",
+  "name": "axiomata-deploy",
+  "title": "网站部署技能",
+  "description": "在约15分钟内部署公共网站（HTML + Docker + DNS + 域名）。触发词：'deploy website'、'build and deploy'、'create web presence'、'launch site'、'deploy to web'、'publish website'、'setup web server'、'docker deploy'、'domain setup'、'DNS configuration'、'full stack deploy'。适用于想要快速、自主部署管道的用户。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

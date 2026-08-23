@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:workout-video-editor",
+  "slug": "workout-video-editor",
+  "name": "workout-video-editor",
+  "title": "锻炼视频编辑器",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Workout Video Editor",
+  "function_label": "Other"
+}

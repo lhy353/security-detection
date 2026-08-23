@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:transit-route-query",
+  "slug": "transit-route-query",
+  "name": "transit-route-query",
+  "title": "市内公交地铁路线规划",
+  "description": "零配置即装即用，查询任意两个地点之间的公交和地铁路线，自动规划最优换乘方案，地铁优先展示，支持最快、少换乘、少步行三种策略。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

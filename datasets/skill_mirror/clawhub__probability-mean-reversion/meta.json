@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:probability-mean-reversion",
+  "slug": "probability-mean-reversion",
+  "name": "probability-mean-reversion",
+  "title": "策略：多元市场·概率均值回归",
+  "description": "Use when a Polymarket outcome appears to overreact and then stall away from recent filled-price range.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Strategy: Polymarket · Probability Mean Reversion",
+  "function_label": "Other"
+}

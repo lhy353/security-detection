@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jobs-style-generator",
+  "slug": "jobs-style-generator",
+  "name": "jobs-style-generator",
+  "title": "工作风格生成器",
+  "description": "Transform any text into Steve Jobs' iconic presentation style. Perfect for product launches, keynotes, and making any message incredibly persuasive and memorable.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Jobs Style Generator",
+  "function_label": "File-Agent"
+}

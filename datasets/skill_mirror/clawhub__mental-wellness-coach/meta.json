@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mental-wellness-coach",
+  "slug": "mental-wellness-coach",
+  "name": "Mental Wellness Coach",
+  "title": "心理健康助手——提供情绪评估、压力管理、冥想引导和日常心理自助练习，不做临床…",
+  "description": "AI心理健康助手——提供情绪评估、压力管理、冥想引导和日常心理自助练习，不做临床诊断，专注日常心理健康维护与自我觉察训练。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

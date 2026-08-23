@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:strider-coinbase",
+  "slug": "strider-coinbase",
+  "name": "strider-coinbase",
+  "title": "连接器",
+  "description": "Trade crypto, check balances, and manage your portfolio on Coinbase via Strider Labs MCP connector. Execute market and limit orders, view transaction history, and monitor real-time prices.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Strider Coinbase Connector",
+  "function_label": "Data-Agent"
+}

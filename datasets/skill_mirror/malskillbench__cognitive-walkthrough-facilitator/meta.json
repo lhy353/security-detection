@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:cognitive-walkthrough-facilitator",
+  "slug": "cognitive-walkthrough-facilitator",
+  "name": "cognitive-walkthrough-facilitator",
+  "title": "认知演练报告",
+  "description": "Expert-guided cognitive walkthrough methodology for systematic UX evaluation, task analysis, and usability problem identification using evidence-based cognitive psychology principles.\n",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Cognitive Walkthrough Report",
+  "function_label": "Other"
+}

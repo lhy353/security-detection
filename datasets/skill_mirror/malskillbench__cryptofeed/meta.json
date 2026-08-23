@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:cryptofeed",
+  "slug": "cryptofeed",
+  "name": "cryptofeed",
+  "title": "加密饲料技能",
+  "description": "Cryptofeed - Real-time cryptocurrency market data feeds from 40+ exchanges. WebSocket streaming, normalized data, order books, trades, tickers. Python library for algorithmic trading and market data analysis.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Cryptofeed Skill",
+  "function_label": "Data-Agent"
+}

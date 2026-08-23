@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:justserpapi-google-search",
+  "slug": "justserpapi-google-search",
+  "name": "Google SERP Search API",
+  "title": "谷歌搜索结果页面",
+  "description": "Call GET /api/v1/google/search for Google SERP Search through Just Serp API with query.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Google SERP Search",
+  "function_label": "Research"
+}

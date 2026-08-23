@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:pressure-support-candle",
+  "slug": "pressure-support-candle",
+  "name": "压力支撑位蜡烛图",
+  "title": "压力支撑位蜡烛图技能",
+  "description": "基于波峰波谷分析识别A股股票的压力位和支撑位，生成K线图。使用Baostock获取数据（解决AKShare东财接口限制问题）",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

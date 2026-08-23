@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:session-cleaner",
+  "slug": "session-cleaner",
+  "name": "session-cleaner",
+  "title": "会话清理器",
+  "description": "Clean up stale OpenClaw session files. Keep the current main session and all group chat sessions; move everything else to a backup directory. Use when performing periodic maintenance, heartbeat cleanup, or when the user asks to clean up sessions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Session Cleaner",
+  "function_label": "Automation"
+}

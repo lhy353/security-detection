@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mental-models-cn-v2-1-0-backup",
+  "slug": "mental-models-cn-v2-1-0-backup",
+  "name": "mental-models-cn",
+  "title": "思维模型库 v2.6",
+  "description": "💡 3秒匹配最佳思维模型 | 108个模型覆盖商业分析、投资决策、心理学、系统思考 | 告别拍脑袋决策",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vault0",
+  "slug": "vault0",
+  "name": "vault0",
+  "title": "避难所-0",
+  "description": "Security suite for OpenClaw agents. Encrypted secret storage (AES-256-GCM), real-time activity monitoring via gateway WebSocket, policy enforcement, and native x402 payment wallet with EIP-3009 signing. Secure API keys, watch agent behavior, and handle machine-to-machine micropayments. macOS desktop app (Rust + Tauri). Reads ~/.openclaw/.env during hardening. Installation downloads a DMG from GitHub releases. After install, the app makes no external network calls and only listens on localhost.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Vault-0",
+  "function_label": "Communication"
+}

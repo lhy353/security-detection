@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:newsletter-digest",
+  "slug": "newsletter-digest",
+  "name": "newsletter-digest",
+  "title": "时事通讯文摘",
+  "description": "Summarize newsletters and articles, extract key insights, create reading lists",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Newsletter Digest",
+  "function_label": "Research"
+}

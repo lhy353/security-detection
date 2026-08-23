@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:firecrawl-search",
+  "slug": "firecrawl-search",
+  "name": "firecrawl",
+  "title": "火行",
+  "description": "Web search and scraping via Firecrawl API. Use when you need to search the web, scrape websites (including JS-heavy pages), crawl entire sites, or extract structured data from web pages. Requires FIRECRAWL_API_KEY environment variable.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Firecrawl",
+  "function_label": "Research"
+}

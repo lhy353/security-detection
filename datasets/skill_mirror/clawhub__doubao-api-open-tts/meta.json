@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:doubao-api-open-tts",
+  "slug": "doubao-api-open-tts",
+  "name": "doubao-open-tts",
+  "title": "豆宝打开TTS",
+  "description": "Text-to-Speech service using Doubao (Volcano Engine) API with 200+ voices, interactive voice selection, and multilingual support",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Doubao Open TTS"
+}

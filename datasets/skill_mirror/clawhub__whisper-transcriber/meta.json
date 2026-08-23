@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:whisper-transcriber",
+  "slug": "whisper-transcriber",
+  "name": "whisper-transcriber",
+  "title": "离线语音转文字）",
+  "description": "Offline speech-to-text (ASR) using whisper.cpp (whisper-cli) + ffmpeg. Supports batch transcription, timestamps, SRT/TXT/JSON outputs, and model download. Cross-platform: macOS/Linux; Windows via WSL2 (recommended).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:portfolio-optimization",
+  "slug": "portfolio-optimization",
+  "name": "portfolio-optimization",
+  "title": "投资组合优化",
+  "description": "提供多策略投资组合优化框架，支持均值-方差、Black-Litterman 和分层风险平价（HRP）算法，内置多种协方差估计方法对比分析。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

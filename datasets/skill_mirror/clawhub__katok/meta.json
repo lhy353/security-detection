@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:katok",
+  "slug": "katok",
+  "name": "katok",
+  "title": "使用 katok 实现 KakaoTalk 自动化",
+  "description": "macOS 카카오톡 자동화 CLI. 친구 목록, 채팅방 목록, 메시지 읽기, 메시지 보내기를 지원합니다. 카카오톡 관련 작업이 필요할 때 사용하세요.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "KakaoTalk Automation with katok",
+  "function_label": "Other"
+}

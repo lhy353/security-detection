@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dashboard-builder",
+  "slug": "dashboard-builder",
+  "name": "Dashboard Builder",
+  "title": "仪表板生成器",
+  "description": "Build and render ASCII dashboards in terminal with bar charts, gauges, tables, and text panels. Use when visualizing metrics or monitoring data.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dashboard Builder",
+  "function_label": "Data-Agent"
+}

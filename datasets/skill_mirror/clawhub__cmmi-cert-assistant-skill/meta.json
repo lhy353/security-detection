@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cmmi-cert-assistant-skill",
+  "slug": "cmmi-cert-assistant-skill",
+  "name": "cmmi-cert-assistant",
+  "title": "认证助手",
+  "description": "CMMI V3.0 Certification Assistant — Helps PM and EPG teams efficiently pass CMMI certification. Core capabilities: ① Upload project documents → auto-match CMMI V3.0 Practice Areas (PA); ② Gap analysis (what evidence is still missing); ③ Document conversion (output compliant documents matching CMMI templates). Trigger words: CMMI certification, PA matching, gap analysis, document conversion, appraisal preparation, practice area query.\nCMMI V3.0 认证助手 — 帮助PM和EPG团队高效通过CMMI认证。 核心能力：① 上传项目文档 → 自动匹配CMMI V3.0实践域（PA）； ② 差距分析（还缺什么证据）；③ 文档转换（输出符合CMMI模板的合规文档）。 触发词：CMMI认证、PA匹配、差距分析、文档转换、评估准备、实践域查询。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

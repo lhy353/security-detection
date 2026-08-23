@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:langgraph-idea-generator",
+  "slug": "langgraph-idea-generator",
+  "name": "langgraph-idea-generator",
+  "title": "用 LangGraph 把老板的一句话需求变成 3 行可执行代码方案（带 too…",
+  "description": "用 LangGraph 把老板的一句话需求变成 3 行可执行代码方案（带 tool 去重，避免重复造轮子）。Use when user mentions \"写代码的点子\", \"用代码解放双手\", \"LangGraph demo\", or wants a quick coding plan.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:voice-chat-mode",
+  "slug": "voice-chat-mode",
+  "name": "voice-chat-mode",
+  "title": "在用户明确要求中文语音聊天或中文语音模式时激活",
+  "description": "在用户明确要求中文语音聊天或中文语音模式时激活。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

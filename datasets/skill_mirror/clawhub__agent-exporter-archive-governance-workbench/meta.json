@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-exporter-archive-governance-workbench",
+  "slug": "agent-exporter-archive-governance-workbench",
+  "name": "agent-exporter-archive-governance-workbench",
+  "title": "代理出口商档案治理工作台",
+  "description": "Use when an agent needs to wire the local agent-exporter MCP bridge, publish a local archive shell, save retrieval reports, or read governance evidence and policy packs from a repo checkout. This packet teaches the local stdio bridge path and the archive/retrieval/governance lane split without overclaiming hosted or listed-live status.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "agent-exporter Archive Governance Workbench",
+  "function_label": "Browser"
+}

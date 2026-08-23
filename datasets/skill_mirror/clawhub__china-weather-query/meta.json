@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:china-weather-query",
+  "slug": "china-weather-query",
+  "name": "china-weather",
+  "title": "中国天气查询",
+  "description": "查询中国任意城市的实时天气、多日预报和生活指数。数据来源中国天气网（weather.com.cn）。当用户询问中国城市天气、气温、降雨、空气质量、穿衣建议、出行建议等天气相关问题时使用。支持全国 350 个城市。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

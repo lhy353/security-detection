@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:botpress-adk",
+  "slug": "botpress-adk",
+  "name": "adk",
+  "title": "开发指南",
+  "description": "A guide to build AI bots with Botpress's Agent Development Kit (ADK)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Botpress ADK Development Guide",
+  "function_label": "Automation"
+}

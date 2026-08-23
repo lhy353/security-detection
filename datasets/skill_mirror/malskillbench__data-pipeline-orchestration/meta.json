@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:data-pipeline-orchestration",
+  "slug": "data-pipeline-orchestration",
+  "name": "data-pipeline-orchestration",
+  "title": "数据管道编排",
+  "description": "Orchestration framework for data pipelines with automated workflow management and real-time monitoring capabilities.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Data Pipeline Orchestration",
+  "function_label": "Automation"
+}

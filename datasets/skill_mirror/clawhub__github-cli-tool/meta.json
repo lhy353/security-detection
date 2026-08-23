@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:github-cli-tool",
+  "slug": "github-cli-tool",
+  "name": "github",
+  "title": "技能",
+  "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "GitHub Skill",
+  "function_label": "Other"
+}

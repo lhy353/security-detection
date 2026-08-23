@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:urlsession-code-review",
+  "slug": "urlsession-code-review",
+  "name": "urlsession-code-review",
+  "title": "代码审查",
+  "description": "Reviews URLSession networking code for iOS/macOS. Covers async/await patterns, request building, error handling, caching, and background sessions. Use when reviewing code that uses URLSession, URLRequest, URLCache, or URLError, or any iOS networking path.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Urlsession Code Review",
+  "function_label": "Coding"
+}

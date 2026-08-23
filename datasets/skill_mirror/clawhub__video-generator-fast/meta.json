@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-generator-fast",
+  "slug": "video-generator-fast",
+  "name": "video-generator-fast",
+  "title": "从文本或图像生成视频",
+  "description": "Cloud-based video-generator-fast tool that handles generating short videos quickly from text prompts or images. Upload MP4, MOV, JPG, PNG files (up to 200MB), describe what you need, and get 1080p MP4 output in 30-60 seconds. Built for marketers, social media creators, small business owners who work with text or images.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Generator Fast — Generate Videos From Text or Images",
+  "function_label": "Automation"
+}

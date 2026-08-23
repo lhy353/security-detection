@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:wyze",
+  "slug": "wyze",
+  "name": "wyze",
+  "title": "设备",
+  "description": "Control Wyze smart-home devices — lights (on/off/dim/color/temp), plugs, and wall switches — from your assistant. Unofficial Wyze API via wyze-node.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Wyze devices",
+  "function_label": "Other"
+}

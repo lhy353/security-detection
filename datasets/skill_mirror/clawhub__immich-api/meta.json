@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:immich-api",
+  "slug": "immich-api",
+  "name": "immich-api",
+  "title": "伊米奇 API 桥",
+  "description": "Immich Photo Management API Bridge. Use for interacting with self-hosted Immich instances via REST API.\nTriggers when: (1) User wants to manage photos, albums, or assets in Immich, (2) Building automation around photo backups, \n(3) Searching or organizing media, (4) User management in Immich, (5) Upload/download photos via API, \n(6) Getting album or library information, (7) Working with Immich jobs/queues, (8) Any Immich-related photo tasks",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Immich API Bridge",
+  "function_label": "Other"
+}

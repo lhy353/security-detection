@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-warden-pro",
+  "slug": "openclaw-warden-pro",
+  "name": "openclaw-warden-pro",
+  "title": "开爪守望者专业版",
+  "description": "Full workspace security suite: detect unauthorized modifications, scan for prompt injection patterns, and automatically respond with countermeasures — snapshot restore, skill quarantine, git rollback, and automated protection sweeps. The complete post-installation security layer for agent workspaces.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Openclaw Warden Pro",
+  "function_label": "Other"
+}

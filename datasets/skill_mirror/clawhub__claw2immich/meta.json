@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:claw2immich",
+  "slug": "claw2immich",
+  "name": "claw2immich",
+  "title": "伊米奇照片库（来自claw2immich）",
+  "description": "Work with Immich photo library via MCP (claw2immich) - search photos by people, dates, locations, albums. Download assets via shared links. Handles multi-person search, CLIP smart search, and metadata queries.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Immich Photo Library (via claw2immich)",
+  "function_label": "Other"
+}

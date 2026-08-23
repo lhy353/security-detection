@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openhanako-personal-ai-agent",
+  "slug": "openhanako-personal-ai-agent",
+  "name": "openhanako-personal-ai-agent",
+  "title": "私人个人账户代理",
+  "description": "Build and configure personal AI agents with memory, personality, and autonomy using OpenHanako on Electron.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Openhanako Personal Ai Agent"
+}

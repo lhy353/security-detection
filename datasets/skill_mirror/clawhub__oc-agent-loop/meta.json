@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:oc-agent-loop",
+  "slug": "oc-agent-loop",
+  "name": "oc-agent-loop",
+  "title": "代理循环",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenClaw Agent Loop",
+  "function_label": "Coding"
+}

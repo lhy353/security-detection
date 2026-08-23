@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:chocolatey",
+  "slug": "chocolatey",
+  "name": "chocolatey",
+  "title": "巧克力味",
+  "description": "Chocolatey integration. Manage data, records, and automate workflows. Use when the user wants to interact with Chocolatey data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Chocolatey",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawbridge-skill-latest",
+  "slug": "clawbridge-skill-latest",
+  "name": "clawbridge",
+  "title": "爪桥技能",
+  "description": "Run Clawbridge discovery from OpenClaw chat",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clawbridge Skill",
+  "function_label": "Other"
+}

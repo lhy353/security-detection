@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:data-validator-pro",
+  "slug": "data-validator-pro",
+  "name": "data-quality-validator",
+  "title": "数据质量验证器",
+  "description": "Data quality validation and profiling toolkit for tabular data. Use when checking data completeness, detecting anomalies, validating schemas, profiling datasets, or assessing data cleanliness. Triggers on phrases like \"data quality\", \"data validation\", \"schema validation\", \"data profiling\", \"missing data\", \"anomaly detection\", \"data completeness\", \"dirty data\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Data Quality Validator",
+  "function_label": "Communication"
+}

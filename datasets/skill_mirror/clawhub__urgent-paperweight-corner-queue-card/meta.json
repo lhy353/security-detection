@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:urgent-paperweight-corner-queue-card",
+  "slug": "urgent-paperweight-corner-queue-card",
+  "name": "urgent-paperweight-corner-queue-card",
+  "title": "紧急镇纸角排队卡",
+  "description": "Create a small desk queue card for urgent papers held in one visible corner, limited to task organization with no legal, medical, or financial guidance.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Urgent Paperweight Corner Queue Card",
+  "function_label": "Communication"
+}

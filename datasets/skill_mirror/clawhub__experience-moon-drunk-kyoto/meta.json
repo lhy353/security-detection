@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:experience-moon-drunk-kyoto",
+  "slug": "experience-moon-drunk-kyoto",
+  "name": "experience-moon-drunk-kyoto",
+  "title": "醉月寺花园",
+  "description": "Feel the awe of an ancient lunar ritual as the supermoon bathes Kyoto’s temple gardens in silver light. Wander the lantern‑lit paths, sync your pulse with the moon, and uncover hidden inscriptions in six guided steps. (6 steps, HIGH intensity, 15-30 min)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Moon Drunk in the Temple Gardens",
+  "function_label": "Other"
+}

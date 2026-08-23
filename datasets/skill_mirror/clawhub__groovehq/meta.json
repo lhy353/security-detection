@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:groovehq",
+  "slug": "groovehq",
+  "name": "groovehq",
+  "title": "格罗夫赫克",
+  "description": "GrooveHQ integration. Manage Tickets, Customers, Users, Groups, Labels, Reports. Use when the user wants to interact with GrooveHQ data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Groovehq",
+  "function_label": "Communication"
+}

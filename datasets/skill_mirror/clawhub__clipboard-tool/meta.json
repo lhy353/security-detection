@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clipboard-tool",
+  "slug": "clipboard-tool",
+  "name": "clipboard-tool",
+  "title": "剪贴板",
+  "description": "Perform clipboard-tool operations from the command line.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clipboard - CLI Utility",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:japanese-smart-home-command-normalizer",
+  "slug": "japanese-smart-home-command-normalizer",
+  "name": "japanese-smart-home-command-normalizer",
+  "title": "日本智能家居命令标准化器",
+  "description": "Normalize short Japanese smart-home voice transcripts after STT into safe structured intents and slots. Use when handling Japanese commands for lights and air conditioners, especially when transcripts contain STT drift such as れーぼー, だんぼー, そうふう, エアコントメテ, or 電気化して.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Japanese Smart Home Command Normalizer",
+  "function_label": "Automation"
+}

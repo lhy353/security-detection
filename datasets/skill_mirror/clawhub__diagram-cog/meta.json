@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:diagram-cog",
+  "slug": "diagram-cog",
+  "name": "diagram-cog",
+  "title": "图齿轮",
+  "description": "AI diagram generator — flowcharts, system architecture, mind maps, org charts, ER diagrams, sequence diagrams, Gantt charts, network diagrams. Describe your system in plain English, get interactive zoomable diagrams or print-ready PDFs. No Visio, no Lucidchart. Powered by CellCog's frontier coding agent and app deployment infrastructure.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Diagram Cog - Describe It in Words, Get It as a Diagram",
+  "function_label": "Data-Agent"
+}

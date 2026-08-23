@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:fiction-theme-explorer",
+  "slug": "fiction-theme-explorer",
+  "name": "Fiction Theme Explorer",
+  "title": "小说主题浏览器",
+  "description": "Explores themes, character arcs, symbols, and reader response in user-selected fiction.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Fiction Theme Explorer",
+  "function_label": "Other"
+}

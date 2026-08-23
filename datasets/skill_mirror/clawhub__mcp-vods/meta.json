@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mcp-vods",
+  "slug": "mcp-vods",
+  "name": "mcp-vods",
+  "title": "追剧/追番技能",
+  "description": "用于追剧/追番的技能，为AI提供搜索影视播放地址的能力，并支持在小米电视上直接播放。当用户想搜索影视、动漫、短剧、综艺等节目信息或更新进度时使用此技能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

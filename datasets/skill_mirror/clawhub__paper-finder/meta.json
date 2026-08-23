@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:paper-finder",
+  "slug": "paper-finder",
+  "name": "paper-finder",
+  "title": "文献检索助手 (Paper Finder)",
+  "description": "根据主题、篇名、关键词等检索学术文献，返回真实的期刊信息、影响因子和下载链接，找不到就是找不到，绝不编造",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

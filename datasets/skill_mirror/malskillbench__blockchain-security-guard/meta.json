@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:blockchain-security-guard",
+  "slug": "blockchain-security-guard",
+  "name": "blockchain-security-guard",
+  "title": "区块链安全卫士",
+  "description": "Comprehensive security monitoring and threat detection for blockchain applications. Provides real-time security insights, automated threat response, and secure communication protocols.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Blockchain Security Guard",
+  "function_label": "Automation"
+}

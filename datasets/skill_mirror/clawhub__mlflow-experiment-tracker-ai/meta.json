@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mlflow-experiment-tracker-ai",
+  "slug": "mlflow-experiment-tracker-ai",
+  "name": "MLflow Experiment Tracker",
+  "title": "实验追踪智能助手",
+  "description": "MLflow 实验追踪智能助手。自动分析实验运行结果、对比超参数配置、 检测过拟合风险、推荐最优模型，为机器学习团队提供端到端的实验管理能力。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

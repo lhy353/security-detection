@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:workboard",
+  "slug": "workboard",
+  "name": "workboard",
+  "title": "工作板",
+  "description": "Workboard integration. Manage Organizations. Use when the user wants to interact with Workboard data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Workboard",
+  "function_label": "Browser"
+}

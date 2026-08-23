@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mosaicml",
+  "slug": "mosaicml",
+  "name": "mosaicml",
+  "title": "马赛克",
+  "description": "MosaicML integration. Manage data, records, and automate workflows. Use when the user wants to interact with MosaicML data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mosaicml",
+  "function_label": "Automation"
+}

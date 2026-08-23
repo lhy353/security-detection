@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:wspaces-deploy",
+  "slug": "wspaces-deploy",
+  "name": "wspaces-deploy",
+  "title": "空间部署",
+  "description": "Deploy static websites to W-Spaces. Use when deploying HTML/CSS/JS sites, landing pages, or single-page apps to wspaces.app. Supports project creation, code push, and deployment via API key authentication.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "W-Spaces Deployment",
+  "function_label": "Automation"
+}

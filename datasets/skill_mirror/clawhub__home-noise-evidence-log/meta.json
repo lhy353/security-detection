@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:home-noise-evidence-log",
+  "slug": "home-noise-evidence-log",
+  "name": "home-noise-evidence-log",
+  "title": "针对重复的家庭噪音建立冷静、真实的日志，包括带时间戳的事件、证明注释、模式摘要和",
+  "description": "Build a calm, factual log for repeated home noise, including timestamped incidents, proof notes, pattern summary, and a neutral message draft for management, an HOA, a landlord, or a neighbor. Use when the user wants documentation and de-escalating communication, not legal advice or confrontation coaching.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Home Noise Evidence Log",
+  "function_label": "Other"
+}

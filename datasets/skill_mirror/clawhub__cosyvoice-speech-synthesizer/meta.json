@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cosyvoice-speech-synthesizer",
+  "slug": "cosyvoice-speech-synthesizer",
+  "name": "cosyvoice-speech-synthesizer",
+  "title": "让文字开口说话",
+  "description": "让文字\"开口说话\"！用 AI 把任意文本变成自然流畅的语音，支持各种方言、情感和角色模仿。当你想把文章转成有声书、给视频配音、制作播客，或者只是好奇河南话/四川话怎么说时，用这个 skill。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

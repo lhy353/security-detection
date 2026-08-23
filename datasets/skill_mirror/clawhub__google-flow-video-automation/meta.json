@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:google-flow-video-automation",
+  "slug": "google-flow-video-automation",
+  "name": "google-flow-video-automation",
+  "title": "视频自动化",
+  "description": "Automatically generate AI videos on Google Flow (labs.google/fx/tools/flow) via Chrome CDP. Supports 16:9 aspect ratio, 10s duration, auto-download MP4.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

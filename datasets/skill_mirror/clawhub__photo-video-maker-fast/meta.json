@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:photo-video-maker-fast",
+  "slug": "photo-video-maker-fast",
+  "name": "photo-video-maker-fast",
+  "title": "将照片变成可共享的视频",
+  "description": "turn photos and images into polished slideshow video with this photo-video-maker-fast skill. Works with JPG, PNG, HEIC, WEBP files up to 200MB. social media creators and casual users use it for turning photo collections into shareable videos quickly — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Photo Video Maker Fast — Turn Photos Into Shareable Videos",
+  "function_label": "Communication"
+}

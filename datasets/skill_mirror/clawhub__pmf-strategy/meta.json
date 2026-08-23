@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pmf-strategy",
+  "slug": "pmf-strategy",
+  "name": "pmf-strategy",
+  "title": "策略：产品市场契合度",
+  "description": "When the user wants to validate product-market fit, measure PMF, or plan before scaling. Also use when the user mentions \"PMF,\" \"product-market fit,\" \"product market fit,\" \"Sean Ellis test,\" \"very disappointed,\" \"vitamin vs painkiller,\" \"PMF validation,\" \"premature scaling,\" or \"validate before scale.\" For GTM after validation, use gtm-strategy.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Strategies: Product-Market Fit",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:liang-tavily-crawl",
+  "slug": "liang-tavily-crawl",
+  "name": "tavily-crawl",
+  "title": "塔维利·爬行",
+  "description": "Crawl any website and save pages as local markdown files. Ideal for downloading documentation, knowledge bases, or web content for offline access or analysis.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tavily Crawl",
+  "function_label": "Other"
+}

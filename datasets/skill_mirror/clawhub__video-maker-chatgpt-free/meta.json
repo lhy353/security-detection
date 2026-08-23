@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-maker-chatgpt-free",
+  "slug": "video-maker-chatgpt-free",
+  "name": "video-maker-chatgpt-free",
+  "title": "使用 AI 从文本创建视频",
+  "description": "Turn a short text script about a product launch into 1080p AI-generated videos just by typing what you need. Whether it's generating videos from text prompts using AI or quick social content, drop your text prompts or video clips and describe the result you want. No timeline dragging, no export settings — 1-2 minutes from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Maker ChatGPT Free — Create Videos from Text with AI",
+  "function_label": "Automation"
+}

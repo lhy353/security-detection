@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:task-system",
+  "slug": "task-system",
+  "name": "task-system",
+  "title": "任务系统",
+  "description": "Complete task tracking system with SQLite persistence, automatic creation, notifications, heartbeat monitoring, and stuck task recovery. Replaces task-queue-heartbeat, auto-track, and notification skills. Use for all task management needs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Task System",
+  "function_label": "Data-Agent"
+}

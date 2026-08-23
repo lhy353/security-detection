@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:verifiable-data",
+  "slug": "verifiable-data",
+  "name": "verifiable-data",
+  "title": "可验证的数据",
+  "description": "Use Cryptowerk via curl to obtain service credentials, register hashes, fetch seals, and verify proofs for files or append-only records. Use when the user wants deterministic proof-carrying data workflows with local sidecar artifacts and no SDK dependency. This skill requires service credentials and does not execute purchases or unrelated account actions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Verifiable Data",
+  "function_label": "Other"
+}

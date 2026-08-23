@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:weather-wttr-in",
+  "slug": "weather-wttr-in",
+  "name": "weather-wttr-in",
+  "title": "天气wttr.in",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "weather-wttr.in",
+  "function_label": "Other"
+}

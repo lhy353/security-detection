@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:valgrind",
+  "slug": "valgrind",
+  "name": "valgrind",
+  "title": "选举门",
+  "description": "Valgrind reference tool. Use when working with valgrind in devtools contexts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Valgrind",
+  "function_label": "Coding"
+}

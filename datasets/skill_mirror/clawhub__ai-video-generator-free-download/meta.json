@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-video-generator-free-download",
+  "slug": "ai-video-generator-free-download",
+  "name": "ai-video-generator-free-download",
+  "title": "免费生成和导出视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — create a 30-second promotional video from my product photos and description — and get ready-to-share MP4 back in 1-2 minutes. Upload MP4, MOV, JPG, PNG files up to 200MB, and the AI handles AI video creation automatically. Ideal for content creators and marketers who want to create videos quickly without expensive software or editing skills.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Video Generator Free Download — Generate and Export Videos Free",
+  "function_label": "Automation"
+}

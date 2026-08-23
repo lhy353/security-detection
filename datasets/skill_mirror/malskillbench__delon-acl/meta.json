@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:delon-acl",
+  "slug": "delon-acl",
+  "name": "delon-acl",
+  "title": "访问控制列表",
+  "description": "@delon/acl skill - Access Control List for role-based permissions and UI element visibility. For ng-events construction site progress tracking system.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "@delon/acl - Access Control List",
+  "function_label": "Coding"
+}

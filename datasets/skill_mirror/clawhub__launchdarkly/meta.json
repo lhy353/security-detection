@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:launchdarkly",
+  "slug": "launchdarkly",
+  "name": "launchdarkly",
+  "title": "黑暗发射",
+  "description": "Launch Darkly integration. Manage Segments, Projects, Users. Use when the user wants to interact with Launch Darkly data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Launch Darkly",
+  "function_label": "Browser"
+}

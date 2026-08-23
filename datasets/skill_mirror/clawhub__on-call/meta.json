@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:on-call",
+  "slug": "on-call",
+  "name": "on-call",
+  "title": "随叫随到",
+  "description": "Dr. Anthony Fauci's memoir \"On Call: A Doctor's Journey in Public Service\" — an executable toolkit for navigating the tension between science, politics, and public health through the lens of a physician who served six presidents across 50+ years of epidemics.\nCovers 5 use cases: ① Crisis Leadership — navigating high-stakes decisions under pressure (\"The public is panicking, what do I say?\") ② Truth-Telling to Power — speaking hard truths to leaders without being fired (\"My boss wants me to say what's not true\") ③ Career Mission Design — building a long career in public service (\"I want my work to matter, not just pay\") ④ Pandemic/Messaging Strategy — communicating science to a fearful public (\"How do I explain uncertainty without losing trust?\") ⑤ Resilience in the Arena — withstanding personal attacks while staying focused on mission (\"I'm being attacked for doing the right thing\")\nTrigger when users say: \"How do I tell my boss the truth\" \"Science is being ignored\" \"Nobody listens to experts\" \"I'm burnt out from fighting\" \"How to communicate uncertainty\" \"The pandemic is politicized\" or mention: Anthony Fauci / Dr. Fauci / On Call / public service / NIH / truth to power / pandemic / COVID Also triggers when the user says they just installed this skill or doesn't know how to start — the AI MUST proactively present the Quick Start guide below.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "On Call",
+  "function_label": "Other"
+}

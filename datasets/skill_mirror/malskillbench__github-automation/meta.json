@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:github-automation",
+  "slug": "github-automation",
+  "name": "github-automation",
+  "title": "自动化：PR 和 CI 编排",
+  "description": "Automate the bridge between local development and the remote repository.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "GITHUB-AUTOMATION: PR & CI Orchestration",
+  "function_label": "Automation"
+}

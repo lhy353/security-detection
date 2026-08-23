@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dynamic-island",
+  "slug": "dynamic-island",
+  "name": "dynamic-island",
+  "title": "动态岛",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenClaw Dynamic Island",
+  "function_label": "Communication"
+}

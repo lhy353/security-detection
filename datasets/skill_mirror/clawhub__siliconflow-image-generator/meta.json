@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:siliconflow-image-generator",
+  "slug": "siliconflow-image-generator",
+  "name": "image-generator",
+  "title": "图像生成器",
+  "description": "SiliconFlow text-to-image and image-to-image generation for covers, posters, and campaign creatives. Use when users ask 生成配图/做海报/文生图/图生图. Supports prompt-driven generation and variation tasks. Not for OCR/text extraction. ｜SiliconFlow 生图：适合封面海报与营销素材生成；不用于 OCR。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Image Generator",
+  "function_label": "File-Agent"
+}

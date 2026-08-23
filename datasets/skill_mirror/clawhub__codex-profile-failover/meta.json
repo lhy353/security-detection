@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:codex-profile-failover",
+  "slug": "codex-profile-failover",
+  "name": "codex-profile-failover",
+  "title": "配置文件故障转移",
+  "description": "OpenClaw içinde birden fazla openai-codex OAuth profili varken otomatik ve manuel profil taklası sağlar. Aktif profilin kalan kullanım oranı yüzde 10 gibi bir eşik altına düştüğünde, 401 veya eksik token gibi usage/auth hataları oluştuğunda ya da operatör manuel tetikleme istediğinde session `authProfileOverride` alanını daha sağlıklı profile geçirmen gerektiğinde kullan.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Codex Profile Failover",
+  "function_label": "Automation"
+}

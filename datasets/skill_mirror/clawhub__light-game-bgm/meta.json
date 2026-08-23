@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:light-game-bgm",
+  "slug": "light-game-bgm",
+  "name": "light-game-bgm",
+  "title": "轻游戏BGM作曲家",
+  "description": "Compose light, melodic, loopable background music in the spirit of classic cozy game town, village, and overworld themes (the calm 2D RPG / retro online-game vibe) and render it to a real playable audio file using sampled instruments. Use this whenever the user wants to create original music, a game soundtrack, BGM, a chiptune or town/overworld theme, a calm instrumental loop, or asks you to \"make a song\", \"write some music\", or produce a seamless looping audio track — even if they don't say the word \"skill\". Also use it when an existing track sounds too synthetic or stiff (the \"stock General-MIDI\" sound) and the user wants more realistic instruments, expressive strings, concert-hall space, or a clean loop. Covers the full pipeline: waveform synthesis OR (preferred) MIDI + soundfont rendering, expressive performance, convolution reverb, and seamless looping.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Light game BGM composer",
+  "function_label": "Automation"
+}

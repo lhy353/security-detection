@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:qqbot-send-local-media",
+  "slug": "qqbot-send-local-media",
+  "name": "qqbot-send",
+  "title": "通过QQBot安全发送本地文件、图片、音频、视频等媒体",
+  "description": "Safely send local files, images, audio, video, and other media through QQBot. Use when a user asks to send a desktop/downloads/absolute-path file, resend a local attachment, or deliver media with <qqmedia>. The skill stages a disposable copy in the QQ media relay directory, sends only that staged copy, and cleans up the staged file without touching the original.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Qqbot Send",
+  "function_label": "File-Agent"
+}

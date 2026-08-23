@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:serverless-runner",
+  "slug": "serverless-runner",
+  "name": "serverless-runner",
+  "title": "无服务器运行者",
+  "description": "Reference tool for devtools — covers intro, quickstart, patterns and more. Quick lookup for Serverless Runner concepts, best practices, and implementation pa...",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Serverless Runner",
+  "function_label": "Coding"
+}

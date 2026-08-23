@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:workflow-checkpoint",
+  "slug": "workflow-checkpoint",
+  "name": "workflow-checkpoint",
+  "title": "工作流程检查点系统",
+  "description": "Workflow Checkpoint System - Save and recover from any point in multi-step AI workflows. Never lose progress mid-task.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Workflow Checkpoint System",
+  "function_label": "Automation"
+}

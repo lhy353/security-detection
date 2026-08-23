@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:camofox-browser-selkies-test",
+  "slug": "camofox-browser-selkies-test",
+  "name": "camofox-browser-selkies-test",
+  "title": "浏览器 Selkies 测试",
+  "description": "Use the Selkies test browser stack for desktop-stream/browser-in-desktop checks, Selkies-specific debugging, and viewport/mobile-context experiments. Trigger this when Lotfi mentions Selkies, the test browser, the test image, browser-in-desktop behavior, or the services on `http://127.0.0.1:9378` / `http://127.0.0.1:3003`.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Camofox Browser Selkies Test",
+  "function_label": "Browser"
+}

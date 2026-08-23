@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-skill-browser-use",
+  "slug": "openclaw-skill-browser-use",
+  "name": "Browser Use",
+  "title": "浏览器使用——自主浏览器自动化",
+  "description": "Autonomous browser automation for AI agents. Two tools: agent-browser (CLI Playwright for step-by-step control) and browser-use (Python autonomous agent that decides what to do on pages). Navigate, click, fill forms, scrape data, manage sessions, and run complex multi-step browser tasks.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Browser Use — Autonomous Browser Automation",
+  "function_label": "Browser"
+}

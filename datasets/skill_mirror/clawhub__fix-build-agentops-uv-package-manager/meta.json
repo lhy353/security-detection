@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:fix-build-agentops-uv-package-manager",
+  "slug": "fix-build-agentops-uv-package-manager",
+  "name": "uv-package-manager",
+  "title": "紫外线封装管理器",
+  "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "UV Package Manager",
+  "function_label": "Automation"
+}

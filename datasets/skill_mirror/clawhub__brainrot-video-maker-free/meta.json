@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:brainrot-video-maker-free",
+  "slug": "brainrot-video-maker-free",
+  "name": "brainrot-video-maker-free",
+  "title": "创建和导出 Brainrot 视频",
+  "description": "Turn a 30-second gameplay or meme clip into 1080p brainrot-style videos just by typing what you need. Whether it's generating split-screen brainrot videos with captions and chaos overlays or quick social content, drop your video clips and describe the result you want. No timeline dragging, no export settings — 1-2 minutes from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Brainrot Video Maker Free — Create and Export Brainrot Videos",
+  "function_label": "Communication"
+}

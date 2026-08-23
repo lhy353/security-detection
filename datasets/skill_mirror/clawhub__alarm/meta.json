@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:alarm",
+  "slug": "alarm",
+  "name": "feishu-smart-alarm",
+  "title": "读取飞书/lark 的文本或语音消息，识别是否包含需要提醒的待办和截止时间，并根…",
+  "description": "读取飞书/lark 的文本或语音消息，识别是否包含需要提醒的待办和截止时间，并根据消息语义和时间跨度自动判断一个偏宽松的提醒时间。适用于飞书机器人处理“今天 5 点前给我”“明天下午三点提醒我”“发语音说周五前记得提交”这类消息。支持先用 senseaudio asr 把语音转文字，再分析并建立提醒；启用 asr 时会把传入的本地音频上传到配置的 senseaudio 接口。会将提醒持久化到本地 sqlite，并使用飞书应用凭证向原会话发送确认消息和到点提醒。当前版本硬性要求通过进程环境变量提供 feishu_app_id、feishu_app_secret、senseaudio_api_key；不会读取 .env / .env.local，也不会临时提示输入。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:woocommerce-integration",
+  "slug": "woocommerce-integration",
+  "name": "woocommerce",
+  "title": "吴商务",
+  "description": "Woocommerce integration. Manage Products, Orders, Customers, Reports, TaxRates, ShippingMethods. Use when the user wants to interact with Woocommerce data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Woocommerce",
+  "function_label": "Browser"
+}

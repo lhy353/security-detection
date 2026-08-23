@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:basecred-8004-registration",
+  "slug": "basecred-8004-registration",
+  "name": "basecred-8004-registration",
+  "title": "注册",
+  "description": "Interactive ERC-8004 agent registration via chat. Guides users through a prefill form, shows draft, confirms, then registers on-chain using agent0-sdk.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Basecred ERC-8004 Registration",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mimo-ecom-copywriter",
+  "slug": "mimo-ecom-copywriter",
+  "name": "ecom-copywriter",
+  "title": "电商详情页文案生成器 🛒",
+  "description": "新品上架最头疼的就是详情页文案。FABE卖点提炼+5张主图文案+详情页结构+种子评价，一站搞定。淘宝/拼多多/京东各平台风格适配，让买家看完就想下单。\n触发词：电商文案、详情页文案、主图文案、商品文案、淘宝文案、卖点提炼、产品描述、电商描述、FABE\n排除：品牌命名、包装设计、客服话术",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

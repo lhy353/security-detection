@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:kuaidi-query",
+  "slug": "kuaidi-query",
+  "name": "kuaidi-query",
+  "title": "快递查询",
+  "description": "Query logistics tracking information via Track123 API",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

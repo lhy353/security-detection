@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:polymarket-clob-maker",
+  "slug": "polymarket-clob-maker",
+  "name": "polymarket-clob-maker",
+  "title": "综合市场做市商",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Polymarket Market Maker",
+  "function_label": "Automation"
+}

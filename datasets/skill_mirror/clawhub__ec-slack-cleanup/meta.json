@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ec-slack-cleanup",
+  "slug": "ec-slack-cleanup",
+  "name": "slack-cleanup",
+  "title": "松弛清理技巧",
+  "description": "Detect and remove duplicate Slack messages with safety checks. Use when you need to find duplicate messages in Slack channels (same content posted multiple times with close timestamps) or clean up duplicate posts. CRITICAL - Always show duplicates to user and get explicit confirmation before any deletion.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Slack Cleanup Skill",
+  "function_label": "Communication"
+}

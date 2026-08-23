@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:canonry",
+  "slug": "canonry",
+  "name": "canonry",
+  "title": "佳能",
+  "description": "Agent-first AEO operating platform.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Canonry",
+  "function_label": "Research"
+}

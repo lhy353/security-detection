@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:leexi",
+  "slug": "leexi",
+  "name": "leexi",
+  "title": "弯腰",
+  "description": "Leexi integration. Manage Leads, Persons, Organizations, Deals, Projects, Pipelines and more. Use when the user wants to interact with Leexi data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Leexi",
+  "function_label": "Browser"
+}

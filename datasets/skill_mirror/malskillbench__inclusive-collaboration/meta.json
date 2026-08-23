@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:inclusive-collaboration",
+  "slug": "inclusive-collaboration",
+  "name": "inclusive-collaboration",
+  "title": "包容性合作",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Inclusive Collaboration",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:wallet",
+  "slug": "wallet",
+  "name": "wallet",
+  "title": "钱包",
+  "description": "Digital wallet management for crypto and fiat. Unified interface for managing multiple wallet types.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Wallet"
+}

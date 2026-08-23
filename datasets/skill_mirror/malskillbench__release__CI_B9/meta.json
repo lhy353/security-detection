@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:release__CI_B9",
+  "slug": "release__CI_B9",
+  "name": "release",
+  "title": "释放技能",
+  "description": "Automated release workflow for oh-my-claudecode",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Release Skill",
+  "function_label": "Other"
+}

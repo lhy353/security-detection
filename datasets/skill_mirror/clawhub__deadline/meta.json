@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:deadline",
+  "slug": "deadline",
+  "name": "Deadline",
+  "title": "最后期限",
+  "description": "Your personal Deadline assistant. Use when you need deadline.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Deadline",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:explainer-video-free",
+  "slug": "explainer-video-free",
+  "name": "explainer-video-free",
+  "title": "从脚本创建讲解视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — turn this script into an animated explainer video with voiceover and subtitles — and get animated explainer video back in 1-2 minutes. Upload MP4, MOV, TXT, DOCX files up to 200MB, and the AI handles AI explainer video creation automatically. Ideal for marketers, startups, educators who want professional explainer videos without hiring animators or paying high costs.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Explainer Video Free — Create Explainer Videos from Script",
+  "function_label": "File-Agent"
+}

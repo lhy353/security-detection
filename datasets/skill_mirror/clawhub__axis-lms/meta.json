@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:axis-lms",
+  "slug": "axis-lms",
+  "name": "axis-lms",
+  "title": "轴 Lms",
+  "description": "Axis LMS integration. Manage data, records, and automate workflows. Use when the user wants to interact with Axis LMS data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Axis Lms",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:choosing-materials__CI_B5",
+  "slug": "choosing-materials__CI_B5",
+  "name": "choosing-materials",
+  "title": "选择材料",
+  "description": "Chooses Minecraft block materials, color palettes, and textures using VibeCraft MCP tools. Use when selecting materials for builds, creating color schemes, matching architectural styles, or asking about block combinations and palettes.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Choosing Materials",
+  "function_label": "Other"
+}

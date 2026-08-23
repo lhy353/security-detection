@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:omnifocus",
+  "slug": "omnifocus",
+  "name": "omnifocus",
+  "title": "任务管理",
+  "description": "Manage OmniFocus tasks via JavaScript for Automation (JXA) scripts. Use when the user asks Clawdbot to interact with OmniFocus, including - (1) Adding tasks to inbox, (2) Listing or searching tasks (inbox, available, flagged, overdue, due soon), (3) Completing tasks, (4) Updating task properties (notes, due dates, flags), (5) Getting OmniFocus statistics, (6) Reporting on task status, or (7) Acting on tasks in OmniFocus based on user queries.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OmniFocus Task Management",
+  "function_label": "File-Agent"
+}

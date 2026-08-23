@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:rag-hallucination-governor",
+  "slug": "rag-hallucination-governor",
+  "name": "rag-hallucination-governor",
+  "title": "抹布幻觉总督",
+  "description": "Diagnose and govern hallucination risk in production RAG systems. Use when users need practical RAG controls, retrieval threshold tuning, refusal or human-handoff rules, citation coverage checks, Top1 pollution handling, conflict detection, or production observability for RAG reliability.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Rag Hallucination Governor",
+  "function_label": "Data-Agent"
+}

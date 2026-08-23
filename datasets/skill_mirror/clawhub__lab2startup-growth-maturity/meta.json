@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:lab2startup-growth-maturity",
+  "slug": "lab2startup-growth-maturity",
+  "name": "lab2startup-growth-maturity",
+  "title": "师生共创：成长与成熟阶段",
+  "description": "师生共创成长与成熟阶段指导。当用户完成启动验证，需要产品化、市场拓展、组织建设、技术持续创新时使用。触发词：师生共创成长、产品化、规模化、市场拓展、组织建设、团队扩张、品牌建设、渠道建设",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aws-networking-audit",
+  "slug": "aws-networking-audit",
+  "name": "aws-networking-audit",
+  "title": "网络安全审计",
+  "description": "AWS VPC networking audit covering CIDR architecture, Security Group and NACL rule analysis, Transit Gateway connectivity, VPC Flow Log forensics, Route Table validation, and ENI/EIP resource optimization using read-only AWS CLI commands.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AWS VPC Networking Security Audit",
+  "function_label": "Automation"
+}

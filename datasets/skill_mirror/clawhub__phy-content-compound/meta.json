@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:phy-content-compound",
+  "slug": "phy-content-compound",
+  "name": "Content Compound",
+  "title": "内容原子库生成器",
+  "description": "Content atom library builder for social media creators. Scans a directory of your past content (markdown, text files) and extracts reusable \"content atoms\" — claims, data points, anecdotes, frameworks, contrarian takes, and questions. Tags each with topic keywords and source attribution. When given a new topic, retrieves the most relevant atoms from your personal library and generates a post outline. Like Zettelkasten but automated — every post you write makes the next one easier. Solves the 77% creator burnout problem by eliminating \"blank page\" starts. Research-backed (Zettelkasten serendipity effect, Justin Welsh 730-day content library, content atomization hub-and-spoke model). Zero external dependencies.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "phy-content-compound — Content Atom Library Builder",
+  "function_label": "Coding"
+}

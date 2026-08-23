@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:skylv-ai-architect",
+  "slug": "skylv-ai-architect",
+  "name": "ai-architect",
+  "title": "架构设计助手",
+  "description": "AI架构设计助手。设计AI系统架构、技术选型、性能优化。使用场景：(1) AI系统架构设计，(2) 技术选型建议，(3) 性能优化方案，(4) 成本优化策略。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

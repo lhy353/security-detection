@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:hilbert-spaces__CI_B1",
+  "slug": "hilbert-spaces__CI_B1",
+  "name": "hilbert-spaces",
+  "title": "希尔伯特空间",
+  "description": "Problem-solving strategies for hilbert spaces in functional analysis",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Hilbert Spaces",
+  "function_label": "Other"
+}

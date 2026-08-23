@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-video-generation-gemini",
+  "slug": "free-video-generation-gemini",
+  "name": "free-video-generation-gemini",
+  "title": "根据文本提示生成视频",
+  "description": "Get AI generated videos ready to post, without touching a single slider. Upload your text prompts (MP4, MOV, WebM, GIF, up to 500MB), say something like \"generate a 15-second video of a futuristic city at night with cinematic lighting\", and download 1080p MP4 when it's done. Built for content creators who move fast and want to create videos without filming or editing skills.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Video Generation Gemini — Generate Videos from Text Prompts",
+  "function_label": "Communication"
+}

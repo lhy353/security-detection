@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:journey-ai",
+  "slug": "journey-ai",
+  "name": "ai-travel-skill-package",
+  "title": "智能旅行助手套装",
+  "description": "AI智能旅行助手套装，包含行程规划、目的地指南、预算管理、签证办理、天气打包等一站式旅行服务。Invoke when user needs comprehensive travel planning, itinerary creation, destination information, budget calculation, visa guidance, or travel preparation assistance.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

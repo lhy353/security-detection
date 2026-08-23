@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:projectmind",
+  "slug": "projectmind",
+  "name": "projectmind",
+  "title": "原生项目管理助手",
+  "description": "AI原生项目管理助手 — 自然语言管理任务、追踪进度、每日站会、风险预警、工时追踪、知识库",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

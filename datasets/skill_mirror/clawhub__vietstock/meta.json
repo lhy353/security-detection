@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vietstock",
+  "slug": "vietstock",
+  "name": "fireant-stock",
+  "title": "股票价格查询器",
+  "description": "Automated Vietnamese stock price and index checking on FireAnt.vn. Use when checking current stock prices, market indices, trading volumes, or financial information for Vietnamese stocks (HOSE, HNX, UPCOM) and market indices (VNINDEX, HNX30, VN30). Accepts stock symbols like DPM, VCB, FPT, or indices like VNINDEX. Returns formatted price/index data, market statistics, and key financial metrics.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "FireAnt Stock Price Checker",
+  "function_label": "Browser"
+}

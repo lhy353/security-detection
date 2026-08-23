@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:rag-implementation",
+  "slug": "rag-implementation",
+  "name": "rag-implementation",
+  "title": "抹布实施",
+  "description": "Retrieval-Augmented Generation patterns including chunking, embeddings, vector stores, and retrieval optimization Use when: rag, retrieval augmented, vector search, embeddings, semantic search.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Rag Implementation",
+  "function_label": "Automation"
+}

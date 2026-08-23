@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cache-layer",
+  "slug": "cache-layer",
+  "name": "cache-layer",
+  "title": "缓存层",
+  "description": "Cache layers, TTLs, invalidation, and consistency. Use when speeding reads or debugging stale data.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cache Layer",
+  "function_label": "Coding"
+}

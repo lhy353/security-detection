@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ai-company-anlt",
+  "slug": "ai-company-anlt",
+  "name": "AI Company ANLT",
+  "title": "层",
+  "description": "AI Company dataanalyzeexecute层 Agent。支持多源data采集、automation报表生成、data洞察提取、data脱敏handle、\ncross-border data complianceassess。归 CFO 所有、CQO 质量supervise、CLO compliancesupervise。\ntrigger关键词：dataanalyze、生成报表、data洞察、财务analyze、运营data、data采集、\ndata analysis、generate report。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

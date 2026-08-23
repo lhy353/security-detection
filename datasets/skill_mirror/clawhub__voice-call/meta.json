@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:voice-call",
+  "slug": "voice-call",
+  "name": "voice-call",
+  "title": "语音通话",
+  "description": "Start voice calls via the OpenClaw voice-call plugin.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Voice Call",
+  "function_label": "Communication"
+}

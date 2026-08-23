@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:browser-download",
+  "slug": "browser-download",
+  "name": "browser-download",
+  "title": "浏览器下载技巧",
+  "description": "Teaches ADA how to perform file downloads using the browser tool.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Browser Download Skill",
+  "function_label": "Browser"
+}

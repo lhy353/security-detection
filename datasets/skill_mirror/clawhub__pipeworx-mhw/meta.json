@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pipeworx-mhw",
+  "slug": "pipeworx-mhw",
+  "name": "pipeworx-mhw",
+  "title": "怪物猎人世界》数据（mhw-db.com，免费，无需授权）",
+  "description": "MHW MCP — Monster Hunter World data (mhw-db.com, free, no auth)",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pipeworx Mhw",
+  "function_label": "Other"
+}

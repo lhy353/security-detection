@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:barra",
+  "slug": "barra",
+  "name": "barra",
+  "title": "巴拉",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Barra",
+  "function_label": "Other"
+}

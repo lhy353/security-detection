@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dlazy-imageseg",
+  "slug": "dlazy-imageseg",
+  "name": "dlazy-imageseg",
+  "title": "懒惰的图像片段",
+  "description": "Image matting tool: separates foreground from background and returns transparent background URL, suitable for product image processing, character cutout, and composition.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Dlazy Imageseg",
+  "function_label": "File-Agent"
+}

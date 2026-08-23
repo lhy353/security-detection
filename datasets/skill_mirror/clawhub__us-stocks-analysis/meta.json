@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:us-stocks-analysis",
+  "slug": "us-stocks-analysis",
+  "name": "us-stocks-analysis",
+  "title": "美股分析",
+  "description": "US stocks analysis with AI-synthesized insights. Combines price, sentiment, insider trades, congressional STOCK Act disclosures, institutional flows, analyst ratings, and AI signals into agent-ready briefings. Read-only. No trading, no purchases, no write operations, no wallet access.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "US Stocks Analysis - SentiSense",
+  "function_label": "Data-Agent"
+}

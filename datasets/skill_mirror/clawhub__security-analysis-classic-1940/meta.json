@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:security-analysis-classic-1940",
+  "slug": "security-analysis-classic-1940",
+  "name": "security-analysis-classic-1940",
+  "title": "证券分析经典 1940",
+  "description": "Benjamin Graham and David Dodd's \"Security Analysis: The Classic 1940 Edition\" — the definitive edition of the value investing bible. Warren Buffett has read it \"at least four times.\" Covers the margin of safety, investment vs speculation, bond and preferred stock analysis, common stock valuation, balance-sheet analysis, income account analysis, asset values, and discrepancies between price and value.\nCovers 7 use cases: ① Investment vs Speculation — \"What is real investing?\" ② Margin of Safety — \"How do I protect my capital?\" ③ Bond Analysis — \"How do I evaluate bonds?\" ④ Common Stocks — \"How do I value a stock?\" ⑤ Asset Values — \"Does book value matter?\" ⑥ Earnings Record — \"How many years of data do I need?\" ⑦ Price-Value Gaps — \"How do I find bargains?\"\nTrigger when users say: \"Security Analysis 1940\" \"Classic 1940 Edition\" \"Benjamin Graham\" \"Graham and Dodd\" \"value investing\" \"margin of safety\" \"intrinsic value\" \"investment vs speculation\" \"net current asset value\" \"net-net\" \"bond analysis\" \"common stock valuation\" \"balance sheet analysis\" \"protective covenants\" \"asset values\" \"liquidating value\" \"special situations\" \"price-earnings ratio\" or mention: Security Analysis / Graham / Dodd / 1940 edition / value investing / margin of safety / intrinsic value / book value / asset value / liquidating value / net-net / earnings record / dividend record / bond analysis / preferred stock / common stock / investment / speculation / thorough analysis / adequate return / safety of principal / discrepancy / price / value / special situation / arbitrage / merger / liquidation",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Security Analysis Classic 1940",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:remix-v2-routing",
+  "slug": "remix-v2-routing",
+  "name": "remix-v2-routing",
+  "title": "路由",
+  "description": "Remix v2 routing patterns. Use when implementing flat-routes v2 conventions, route file naming, nested layouts, resource routes, or root.tsx scaffolding. Triggers on _<name>.tsx (pathless layout), _index.tsx, $param, app/routes/, @remix-run/dev, defineRoutes, <Outlet /> in route modules.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Remix V2 Routing",
+  "function_label": "File-Agent"
+}

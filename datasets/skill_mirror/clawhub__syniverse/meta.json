@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:syniverse",
+  "slug": "syniverse",
+  "name": "syniverse",
+  "title": "西尼宇宙",
+  "description": "Syniverse integration. Manage data, records, and automate workflows. Use when the user wants to interact with Syniverse data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Syniverse",
+  "function_label": "Automation"
+}

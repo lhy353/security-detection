@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:douyin-data-exporter",
+  "slug": "douyin-data-exporter",
+  "name": "douyin-data-exporter",
+  "title": "获取用户主页视频数据",
+  "description": "抖音数据导出技能 - 获取用户主页视频数据",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

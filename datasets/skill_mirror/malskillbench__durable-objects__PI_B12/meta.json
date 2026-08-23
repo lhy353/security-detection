@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:durable-objects__PI_B12",
+  "slug": "durable-objects__PI_B12",
+  "name": "durable-objects",
+  "title": "耐用的物体",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Durable Objects",
+  "function_label": "Data-Agent"
+}

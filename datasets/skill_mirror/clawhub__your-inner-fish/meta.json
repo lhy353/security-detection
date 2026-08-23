@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:your-inner-fish",
+  "slug": "your-inner-fish",
+  "name": "your-inner-fish",
+  "title": "你内心的鱼",
+  "description": "Neil Shubin's Your Inner Fish — a paleontology and evolutionary biology toolkit revealing how the 3.5-billion-year history of life is written in our bodies, from the fish-like structures in our arms to the shark-like nerves in our heads, anchored in the discovery of Tiktaalik, the fossil fish that walked. Covers 6 use cases: ① Understanding human evolution through fossils — (\"human evolution\" \"fossils and human body\" \"evolution of human body\" \"Tiktaalik\") ② The discovery of Tiktaalik — (\"Tiktaalik\" \"fish with limbs\" \"transitional fossil\" \"walking fish\") ③ How our bodies reveal our evolutionary past — (\"inner fish\" \"evidence of evolution in body\" \"human anatomy evolution\" \"evolutionary leftovers\") ④ Genetics and development — (\"Hox genes\" \"evolutionary developmental biology\" \"evo devo\" \"how genes shape bodies\") ⑤ The history of our senses — (\"evolution of hearing\" \"evolution of vision\" \"how ears evolved\" \"how eyes evolved\") ⑥ Comparative anatomy — (\"comparative anatomy\" \"human vs animal anatomy\" \"shark human comparison\" \"body plan evolution\") Trigger when users say: \"your inner fish\" \"Neil Shubin\" \"Tiktaalik\" \"evolution human body\" \"fossil fish\" \"transitional fossil\" \"inner fish\" \"Shubin\" \"human anatomy evolution\" or mention: Shubin / Your Inner Fish / Tiktaalik / evolution / fossils / human body / fish / paleontology / comparative anatomy / evo devo. Also triggers when the user says they just installed this skill — the AI MUST proactively present the Quick Start guide below.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Your Inner Fish",
+  "function_label": "Other"
+}

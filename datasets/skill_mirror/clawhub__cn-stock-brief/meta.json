@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cn-stock-brief",
+  "slug": "cn-stock-brief",
+  "name": "cn-stock-brief",
+  "title": "股每日简报",
+  "description": "A股每日简报生成器。基于东方财富免费公开数据，一键生成大盘指数、板块涨跌、涨跌幅榜等简报。\n中文优先，无需API Key，开箱即用。\n当用户说\"A股\"、\"今日行情\"、\"大盘指数\"、\"股票\"、\"今日A股\"时触发。\nKeywords: A股, 股票, 行情, 大盘, 涨跌, 东方财富, 简报.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

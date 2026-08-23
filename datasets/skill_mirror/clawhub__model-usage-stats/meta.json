@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:model-usage-stats",
+  "slug": "model-usage-stats",
+  "name": "model-usage-stats",
+  "title": "模型消耗统计技能",
+  "description": "模型消耗统计技能，用于统计和展示不同会话、不同模型的 token 使用量、成本统计和消耗报告，通过飞书消息卡片进行可视化展示。当用户请求查看模型消耗、token 统计、成本分析或消耗报告时使用。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

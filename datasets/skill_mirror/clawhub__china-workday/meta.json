@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:china-workday",
+  "slug": "china-workday",
+  "name": "china-workday",
+  "title": "中国工作日查询 China Workday Checker",
+  "description": "中国工作日与法定节假日查询，专为职场场景设计。Use when the user asks whether a specific date is a workday or holiday in China, needs makeup-workday (补班) reminders, wants to count workdays in a month, or plans schedules around Chinese public holidays. Built-in data for 2025–2026 from official State Council notices. No API key, no network required.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

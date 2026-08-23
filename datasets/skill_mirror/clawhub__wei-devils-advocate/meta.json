@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wei-devils-advocate",
+  "slug": "wei-devils-advocate",
+  "name": "wei-devils-advocate",
+  "title": "魏魔使技能",
+  "description": "Stress-test ideas using multiple LLMs in adversarial roles to generate counterarguments, cross-check reasoning, and expose hidden risks and failure modes. 易找茬：通过多模型对抗式分析与交叉验证，从不同视角生成反对意见并揭示潜在风险。",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Wei Devil's Advocate Skill"
+}

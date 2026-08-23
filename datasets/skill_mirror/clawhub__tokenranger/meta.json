@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tokenranger",
+  "slug": "tokenranger",
+  "name": "tokenranger",
+  "title": "代币排名",
+  "description": "Install, configure, and operate the TokenRanger OpenClaw plugin. Use when you want to reduce cloud LLM token costs by 50-80% via local Ollama context compression, or when diagnosing TokenRanger sidecar issues.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tokenranger",
+  "function_label": "Automation"
+}

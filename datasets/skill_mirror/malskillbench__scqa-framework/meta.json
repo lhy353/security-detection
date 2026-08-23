@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:scqa-framework",
+  "slug": "scqa-framework",
+  "name": "scqa-framework",
+  "title": "框架技能",
+  "description": "Narrative structure for complex topics - Situation, Complication, Question, Answer",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "SCQA Framework Skill",
+  "function_label": "File-Agent"
+}

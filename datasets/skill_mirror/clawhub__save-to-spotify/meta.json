@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:save-to-spotify",
+  "slug": "save-to-spotify",
+  "name": "save-to-spotify",
+  "title": "音频内容制作技巧",
+  "description": "Create polished audio content and save to Spotify. Produces episodes with TTS narration, a rich timeline (chapters plus in-player images, external links, and Spotify entity cards), and a cover image. Also use for raw media saves, show/episode management, and timeline navigation.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Audio Content Production Skill"
+}

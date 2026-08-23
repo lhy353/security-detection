@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:novafon",
+  "slug": "novafon",
+  "name": "novafon",
+  "title": "集成技巧",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "novafon\\_api",
+  "function_label": "Other"
+}

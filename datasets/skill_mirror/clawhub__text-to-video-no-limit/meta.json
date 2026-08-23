@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:text-to-video-no-limit",
+  "slug": "text-to-video-no-limit",
+  "name": "text-to-video-no-limit",
+  "title": "从任何文本生成视频",
+  "description": "Get ready-to-share videos ready to post, without touching a single slider. Upload your text prompts (TXT, DOCX, PDF, SRT, up to 500MB), say something like \"turn this script into a 60-second video with visuals and background music\", and download 1080p MP4 when it's done. Built for content creators who move fast and want to create videos from text without hitting duration or render limits.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Text to Video No Limit — Generate Videos from Any Text",
+  "function_label": "File-Agent"
+}

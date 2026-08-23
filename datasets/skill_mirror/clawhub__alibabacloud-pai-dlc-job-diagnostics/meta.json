@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alibabacloud-pai-dlc-job-diagnostics",
+  "slug": "alibabacloud-pai-dlc-job-diagnostics",
+  "name": "alibabacloud-pai-dlc-job-diagnostics",
+  "title": "工作诊断和健康检查",
+  "description": "PAI-DLC job diagnostics and health inspection. Queuing-stuck root cause\nanalysis, failed-job localization, cluster health checks.\nCompanion to the `alibabacloud-pai-dlc-job` skill (read-only — no writes).\nTriggers: \"diagnose\", \"diagnose job\", \"job stuck\", \"why queuing\",\n\"queue stuck\", \"stuck in queue\", \"job failed\", \"failure reason\",\n\"healthcheck\", \"health check\", \"inspect job\", \"inspection\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PAI-DLC Job Diagnostics and Health Inspection",
+  "function_label": "Other"
+}

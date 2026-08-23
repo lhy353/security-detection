@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:brand-commercial-os",
+  "slug": "brand-commercial-os",
+  "name": "brand-commercial-os",
+  "title": "品牌商务中枢）",
+  "description": "品牌商务谈判全链路自动化系统，生成品牌能力包、GEO知识包、跨平台内容包、报价策略包、分发编排包与谈判总包；适用于平台合作、渠道招商、联名共建等商务场景",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:property-rental-yield",
+  "slug": "property-rental-yield",
+  "name": "property-rental-yield",
+  "title": "房产清单和租金收益计算器",
+  "description": "Generate professional property listings and calculate rental yields, ROI projections, cash flow analysis, and stamp duty for UK property investments. Use when a landlord or agent needs property marketing copy, yield calculations, or investment analysis.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Property Listing & Rental Yield Calculator",
+  "function_label": "Other"
+}

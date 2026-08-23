@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:typeform",
+  "slug": "typeform",
+  "name": "typeform",
+  "title": "类型",
+  "description": "Typeform API integration with managed OAuth. Create forms, manage responses, and access insights. Use this skill when users want to interact with Typeform surveys and responses. For other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Typeform",
+  "function_label": "Browser"
+}

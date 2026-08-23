@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:content-delivery-optimization__PI_B15",
+  "slug": "content-delivery-optimization__PI_B15",
+  "name": "content-delivery-optimization",
+  "title": "内容交付优化",
+  "description": "Streamline content delivery workflows with optimization strategies and media asset management.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Content Delivery Optimization",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:1688-shop-jushuitan-erp",
+  "slug": "1688-shop-jushuitan-erp",
+  "name": "1688-shop-jushuitan-erp",
+  "title": "聚水潭 ERP 连接与分析",
+  "description": "连接和分析聚水潭 ERP 数据。适用于商家提供聚水潭 app_key/app_secret/access_token 后保存本地连接资料，并按自然语言编排店铺授权、商品、库存、订单、采购、日报、补货提醒等经营分析场景。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

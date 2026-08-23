@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:test-should-be-removed",
+  "slug": "test-should-be-removed",
+  "name": "bria-ai",
+  "title": "图像生成、编辑和背景去除",
+  "description": "AI image generation, editing, and background removal API via Bria.ai — authenticates via OAuth device flow and caches credentials in ~/.bria/credentials, then calls 20+ endpoints to remove backgrounds for transparent PNGs and cutouts, generate images from text prompts, and edit photos with natural language instructions. Also create product photography and lifestyle shots, replace or blur backgrounds, upscale resolution, restyle, and batch-generate visual assets. Use this skill whenever the user wants to remove a background, create transparent PNGs, generate, edit, modify, or transform any image — including hero images, banners, social media visuals, product photos, illustrations, icons, thumbnails, ad creatives, or marketing materials. Also triggers on cutout, inpainting, outpainting, object removal or addition, photo restoration, style transfer, image enhancement, relight, reseason, sketch-to-photo, or any visual content creation. Commercially safe, royalty-free.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bria — AI Image Generation, Editing & Background Removal",
+  "function_label": "Automation"
+}

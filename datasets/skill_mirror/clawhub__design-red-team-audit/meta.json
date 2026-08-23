@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:design-red-team-audit",
+  "slug": "design-red-team-audit",
+  "name": "design-red-team-audit",
+  "title": "设计红队审核",
+  "description": "Adversarial design audit that stress-tests a game feature, system, pitch, roadmap item, or product idea by assuming failure and identifying the most credible reasons it would fail. Use when pressure-testing a concept before production, performing a pre-mortem, challenging a feature that sounds good on paper, exposing blind spots in design thinking, or getting a hostile-but-constructive critique with concrete failure mechanisms and de-risking moves.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Design Red Team Audit",
+  "function_label": "Data-Agent"
+}

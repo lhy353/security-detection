@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:gaokao-calculus-bridge",
+  "slug": "gaokao-calculus-bridge",
+  "name": "gaokao-calculus-bridge",
+  "title": "高考-高数衔接智慧课程 (Gaokao-Calculus Bridge)",
+  "description": "桥接2026高考数学改革与高等数学教育，培养真实世界问题解决能力。当用户需要情境化数学建模、跨学科应用、或从刷题模式转向素养培养时触发。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

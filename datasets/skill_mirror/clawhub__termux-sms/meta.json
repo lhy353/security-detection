@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:termux-sms",
+  "slug": "termux-sms",
+  "name": "termux-sms",
+  "title": "终端短信",
+  "description": "Send SMS text messages directly from the user's Android device using the Termux API. Use this skill when the user asks you to text, SMS, or send a message to a phone number or contact and you are running on (or have SSH access to) their Android phone (e.g., Fold 7) with Termux installed. Do NOT use this for WhatsApp or web-based messaging.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Termux Sms",
+  "function_label": "Communication"
+}

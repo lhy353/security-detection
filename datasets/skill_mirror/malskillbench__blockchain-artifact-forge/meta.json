@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:blockchain-artifact-forge",
+  "slug": "blockchain-artifact-forge",
+  "name": "blockchain-artifact-forge",
+  "title": "区块链神器锻造",
+  "description": "Build production-ready single-file blockchain web applications with React and modern tooling. Specialized for dApp interfaces, wallet connectors, and blockchain data visualizations.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Blockchain Artifact Forge",
+  "function_label": "Other"
+}

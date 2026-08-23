@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lob",
+  "slug": "lob",
+  "name": "lob",
+  "title": "高球",
+  "description": "Lob integration. Manage Persons, Organizations, Deals, Leads, Projects, Activities and more. Use when the user wants to interact with Lob data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lob",
+  "function_label": "Browser"
+}

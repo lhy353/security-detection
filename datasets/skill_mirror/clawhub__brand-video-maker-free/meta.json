@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:brand-video-maker-free",
+  "slug": "brand-video-maker-free",
+  "name": "brand-video-maker-free",
+  "title": "创建和导出品牌视频",
+  "description": "Turn three product photos and a logo PNG into 1080p branded video content just by typing what you need. Whether it's creating branded promotional videos from logos and product images or quick social content, drop your images, logos, text and describe the result you want. No timeline dragging, no export settings — 1-2 minutes from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Brand Video Maker Free — Create and Export Brand Videos",
+  "function_label": "Communication"
+}

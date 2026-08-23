@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:diataxis-writing",
+  "slug": "diataxis-writing",
+  "name": "diataxis-writing",
+  "title": "文档框架实践",
+  "description": "Diataxis documentation framework practice guide. Provides diagnosis, classification, templates, and quality assessment for four documentation types (Tutorial/How-to/Reference/Explanation).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Diátaxis Documentation Framework Practice",
+  "function_label": "Coding"
+}

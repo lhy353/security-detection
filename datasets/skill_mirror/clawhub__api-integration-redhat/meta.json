@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:api-integration-redhat",
+  "slug": "api-integration-redhat",
+  "name": "api-integration",
+  "title": "技能：api集成",
+  "description": "Integrate third-party APIs with auth, retries, timeouts, and logging.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SKILL: api-integration",
+  "function_label": "Other"
+}

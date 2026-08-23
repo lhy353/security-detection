@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cloudsway-smartsearch",
+  "slug": "cloudsway-smartsearch",
+  "name": "cloudsway-smartsearch",
+  "title": "搜索技能（AI代理的网页搜索）",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Search Skill (Web Search for AI Agents)",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:blender-flue",
+  "slug": "blender-flue",
+  "name": "Blender",
+  "title": "混合器",
+  "description": "Control Blender from the shell via Flue - a Python bridge to bpy without an MCP server.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Blender",
+  "function_label": "File-Agent"
+}

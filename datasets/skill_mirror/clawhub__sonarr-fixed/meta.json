@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sonarr-fixed",
+  "slug": "sonarr-fixed",
+  "name": "sonarr-fixed",
+  "title": "声纳（固定）",
+  "description": "Search and add TV shows to Sonarr. Supports monitor options, search-on-add. FORK of jordyvandomselaar/sonarr with fixed metadata.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sonarr (Fixed)",
+  "function_label": "Other"
+}

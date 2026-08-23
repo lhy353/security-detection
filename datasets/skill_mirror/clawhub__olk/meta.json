@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:olk",
+  "slug": "olk",
+  "name": "olk",
+  "title": "好的",
+  "description": "Microsoft Outlook and OneDrive CLI and MCP for email, calendar, contacts, tasks, and files, for personal and enterprise accounts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Olk",
+  "function_label": "Communication"
+}

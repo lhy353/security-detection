@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:database-designer",
+  "slug": "database-designer",
+  "name": "database-designer",
+  "title": "强大的层级技能",
+  "description": "Database Designer - POWERFUL Tier Skill",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Database Designer - POWERFUL Tier Skill",
+  "function_label": "Data-Agent"
+}

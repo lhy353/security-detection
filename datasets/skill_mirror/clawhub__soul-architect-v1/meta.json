@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:soul-architect-v1",
+  "slug": "soul-architect-v1",
+  "name": "soul-architect",
+  "title": "灵魂建筑师️",
+  "description": "Call when creating/updating STYLE_MANIFESTO persona source code.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Soul Architect ️",
+  "function_label": "Other"
+}

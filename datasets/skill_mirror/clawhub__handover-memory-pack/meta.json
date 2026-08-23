@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:handover-memory-pack",
+  "slug": "handover-memory-pack",
+  "name": "handover-memory-pack",
+  "title": "交接记忆包封装器",
+  "description": "为人员离岗或项目交接整理显性与隐性知识，减少信息流失。；use for handover, knowledge-transfer, memory workflows；do not use for 泄露不该交接的密钥, 省略高风险事项.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

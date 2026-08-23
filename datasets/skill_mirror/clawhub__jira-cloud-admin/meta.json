@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jira-cloud-admin",
+  "slug": "jira-cloud-admin",
+  "name": "jira-admin-cloud",
+  "title": "管理云（第一阶段）",
+  "description": "Jira Cloud admin playbook. Use for Jira Cloud administration tasks: projects (company-managed/team-managed), permissions, workflows, fields/screens, automation, JSM setup (queues/SLAs/portals), reporting/dashboards, and Confluence integrations. Includes official Atlassian references and best-practice checklists in ES/EN.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Jira Admin Cloud (Phase 1)",
+  "function_label": "Other"
+}

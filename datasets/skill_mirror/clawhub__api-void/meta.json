@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:api-void",
+  "slug": "api-void",
+  "name": "api-void",
+  "title": "无效",
+  "description": "Api Void integration. Manage data, records, and automate workflows. Use when the user wants to interact with Api Void data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Api Void",
+  "function_label": "Automation"
+}

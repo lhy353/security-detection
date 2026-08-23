@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skylv-agent-team-coordinator",
+  "slug": "skylv-agent-team-coordinator",
+  "name": "skylv-agent-team-coordinator",
+  "title": "多代理协调器",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Multi-Agent Orchestrator",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:typescript",
+  "slug": "typescript",
+  "name": "TypeScript",
+  "title": "打字稿",
+  "description": "Write type-safe TypeScript with proper narrowing, inference patterns, and strict mode best practices.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Typescript"
+}

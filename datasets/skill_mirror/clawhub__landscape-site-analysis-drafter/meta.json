@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:landscape-site-analysis-drafter",
+  "slug": "landscape-site-analysis-drafter",
+  "name": "landscape-site-analysis-drafter",
+  "title": "景观场地分析起草者",
+  "description": "Use this skill when a landscape architect, RLA, site designer, or planning consultant needs to draft a site analysis report before beginning design development. Covers physical inventory (topography, soils, hydrology, vegetation), microclimate, visual and contextual analysis, and regulatory constraints. Produces a DRAFT report with an opportunities-and-constraints matrix and design program recommendations for licensed LA review.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Landscape Site Analysis Drafter",
+  "function_label": "Other"
+}

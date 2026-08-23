@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jarvis-db-query-doctor-01",
+  "slug": "jarvis-db-query-doctor-01",
+  "name": "jarvis-db-query-doctor-01",
+  "title": "贾维斯数据库查询医生 01",
+  "description": "Diagnose slow SQL and rewrite queries for safer performance. Use when handling development work that needs repeatable steps, quality gates, and practical outputs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Jarvis Db Query Doctor 01",
+  "function_label": "Data-Agent"
+}

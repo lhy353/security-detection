@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:stock-research-team",
+  "slug": "stock-research-team",
+  "name": "stock-research-team",
+  "title": "多角色协作分析技能",
+  "description": "Multi-role AI stock research team. When a user asks to analyze a stock (e.g. \"分析贵州茅台\", \"analyze NVDA\", \"帮我看看AAPL\"), this skill orchestrates technical, fundamental, macro, and sentiment analysts, followed by a bull-bear debate, trading strategy, risk review, and a director's final verdict with a composite score. Supports both A-shares and US stocks via MCP tools.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

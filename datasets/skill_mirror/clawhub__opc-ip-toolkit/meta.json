@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:opc-ip-toolkit",
+  "slug": "opc-ip-toolkit",
+  "name": "opc-ip-toolkit",
+  "title": "胡田-OPC导师-知识产权工具包",
+  "description": "专为OPC、个人发明者、初创企业设计，提供专利、商标、软著三类知识产权全方位保护与运营工具",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

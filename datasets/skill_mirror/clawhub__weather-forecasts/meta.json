@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:weather-forecasts",
+  "slug": "weather-forecasts",
+  "name": "weather-forecast",
+  "title": "查询天气预报，支持城市名/坐标，提供当前天气和预报信息，包含图标展示",
+  "description": "查询天气预报，支持城市名/坐标，提供当前天气和预报信息，包含图标展示。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

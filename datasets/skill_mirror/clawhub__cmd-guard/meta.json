@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cmd-guard",
+  "slug": "cmd-guard",
+  "name": "exec-guard",
+  "title": "命令安全守卫",
+  "description": "命令安全守卫。在执行 shell 命令前进行语义分类（READ/WRITE/NETWORK/DESTRUCTIVE），自动放行安全操作，拦截危险操作。灵感来自 Claude Code 的命令语义分类器。触发词：exec guard、命令安全、安全执行、safe exec。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

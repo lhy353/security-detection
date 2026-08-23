@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-product-discovery-risk-assessment",
+  "slug": "bookforge-product-discovery-risk-assessment",
+  "name": "product-discovery-risk-assessment",
+  "title": "产品发现风险评估",
+  "description": "Assess product risks and decide whether to build. Use when starting product discovery, evaluating a new feature or product idea, deciding which risks to validate first, choosing between prototyping and testing approaches, or when someone asks 'should we build this?' Maps any idea to the 4-risk taxonomy (value risk, usability risk, feasibility risk, business viability risk) plus ethics risk, sequences discovery by priority, and selects the right technique category for each risk. Also use when a team is unsure what to validate next, when structuring a discovery sprint, or when planning pre-build validation activities. Hub skill for all downstream discovery technique selection — for specific techniques, use discovery-framing-technique-selection, discovery-prototype-selection, value-testing-technique-selection, customer-discovery-program, or business-viability-stakeholder-testing instead.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Product Discovery Risk Assessment",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:evermemory",
+  "slug": "evermemory",
+  "name": "evermemory",
+  "title": "永恒记忆",
+  "description": "EverMemory for OpenClaw and ClawHub. Use this skill when users ask to remember, recall, inspect memory state, manage preferences or profile, generate briefings, review rules, explain memory decisions, export/import memory, restore archived memory, or measure memory growth and smartness.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Evermemory",
+  "function_label": "Coding"
+}

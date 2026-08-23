@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:shopify",
+  "slug": "shopify",
+  "name": "shopify",
+  "title": "正在进行中",
+  "description": "Shopify integration - currently under maintenance. Contact founders@maton.ai for assistance.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Shopify Integration - Work in Progress",
+  "function_label": "Communication"
+}

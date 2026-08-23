@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:yaohx-expense-tracker",
+  "slug": "yaohx-expense-tracker",
+  "name": "expense-tracker",
+  "title": "记账助手 (Expense Tracker)",
+  "description": "个人记账助手。当用户发送账单/消费信息（文本或支付截图），自动识别并记录到消费数据库；每月最后一天晚上8点自动生成月度消费报告。触发词包括：记账、账单、消费记录、花了多少钱、月度总结、消费报告等。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

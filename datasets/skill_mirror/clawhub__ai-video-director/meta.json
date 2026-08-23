@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-video-director",
+  "slug": "ai-video-director",
+  "name": "AI Video Director",
+  "title": "人工智能视频导演",
+  "description": "Full-stack AI video creation pipeline. Supports Sora/Kling/Runway/Pika/即梦/Luma/Vidu/海螺AI. From concept→storyboard→frame-level prompts→platform optimization→post-production. 100+ cinematic shot templates, 10+ video types (ads/shorts/microfilms/animations).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Video Director",
+  "function_label": "Automation"
+}

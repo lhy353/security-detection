@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wang-xing-perspective",
+  "slug": "wang-xing-perspective",
+  "name": "wang-xing-perspective",
+  "title": "王兴思维视角",
+  "description": "王兴思维视角 · 美团创始人\n核心心智模型：无限游戏、长期主义、边界思考、四纵三横、深度学习\n用途：创业决策、战略规划、竞争分析\n触发词：「用王兴的视角」「王兴会怎么看」「无限游戏」「长期主义」「边界思考」",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

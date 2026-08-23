@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:elastic-email",
+  "slug": "elastic-email",
+  "name": "elastic-email",
+  "title": "弹性电子邮件",
+  "description": "Elastic Email integration. Manage Users, Contacts, Campaigns, Automations, Suppressions, Domains and more. Use when the user wants to interact with Elastic Email data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Elastic Email",
+  "function_label": "Communication"
+}

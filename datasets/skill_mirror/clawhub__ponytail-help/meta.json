@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ponytail-help",
+  "slug": "ponytail-help",
+  "name": "ponytail-help",
+  "title": "马尾辫帮助",
+  "description": "Quick reference for ponytail's modes, skills, and commands. One-shot display.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ponytail Help",
+  "function_label": "Other"
+}

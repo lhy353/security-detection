@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ctrip-hotel-search",
+  "slug": "ctrip-hotel-search",
+  "name": "ctrip-hotel-search",
+  "title": "携程酒店搜索",
+  "description": "自动搜索携程酒店，支持实时比价和详情获取。使用浏览器自动化技术，实现携程账号登录、酒店搜索、详情获取和对比分析功能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Browser"
+}

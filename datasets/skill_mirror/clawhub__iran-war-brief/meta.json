@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:iran-war-brief",
+  "slug": "iran-war-brief",
+  "name": "iran-war-brief",
+  "title": "伊朗战争信件",
+  "description": "Track the latest Iran war situation with concise 5-8 headline summaries, prioritize breaking and major events, include source links, and append a three-column verification table (US claims vs Iran claims vs third-party verifiable facts). Use when user asks for Iran conflict updates, battle damage/battle results tracking, claim verification, or rapid situation briefs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Iran War Brief",
+  "function_label": "Other"
+}

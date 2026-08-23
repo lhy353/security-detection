@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-skills",
+  "slug": "agent-skills",
+  "name": "agent-skills",
+  "title": "代理技巧",
+  "description": "Agent Skills standard reference guide. Covers SKILL.md specification format, progressive disclosure mechanism, skill discovery and activation, frontmatter metadata fields, directory structure conventions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Skills",
+  "function_label": "File-Agent"
+}

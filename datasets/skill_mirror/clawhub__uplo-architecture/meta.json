@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:uplo-architecture",
+  "slug": "uplo-architecture",
+  "name": "uplo-architecture",
+  "title": "建筑设计和 BIM 智能",
+  "description": "AI-powered architecture knowledge management. Search building designs, code compliance records, project specifications, and BIM data with structured extraction.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "UPLO Architecture — Building Design & BIM Intelligence",
+  "function_label": "Other"
+}

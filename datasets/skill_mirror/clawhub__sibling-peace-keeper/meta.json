@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sibling-peace-keeper",
+  "slug": "sibling-peace-keeper",
+  "name": "sibling-peace-keeper",
+  "title": "维和兄弟姐妹",
+  "description": "Provides shared problem-solving scripts and fairness-perception tools to reduce sibling conflict. Focuses on teaching children to resolve their own disputes with parent as coach, not referee.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sibling Peace Keeper",
+  "function_label": "Other"
+}

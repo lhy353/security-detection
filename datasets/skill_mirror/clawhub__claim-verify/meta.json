@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:claim-verify",
+  "slug": "claim-verify",
+  "name": "verify-claim",
+  "title": "验证声明",
+  "description": "When any factual claim is made — exchange rates, prices, dates, statistics — verify it against live data before using it.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "verify-claim",
+  "function_label": "Other"
+}

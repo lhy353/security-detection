@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:brand-positioning",
+  "slug": "brand-positioning",
+  "name": "brand-positioning",
+  "title": "品牌定位",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Brand Positioning",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:security-operations-gateway",
+  "slug": "security-operations-gateway",
+  "name": "security-operations-gateway",
+  "title": "安全运营网关",
+  "description": "Orchestrates secure operations and international collaboration for enterprise security infrastructure.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Security Operations Gateway",
+  "function_label": "Automation"
+}

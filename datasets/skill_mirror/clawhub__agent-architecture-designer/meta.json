@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-architecture-designer",
+  "slug": "agent-architecture-designer",
+  "name": "agent-architecture-designer",
+  "title": "架构设计师（代理技能导入）",
+  "description": "Imported specialist agent skill for architecture designer. Use when requests match this domain or role.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "architecture-designer (Imported Agent Skill)",
+  "function_label": "Automation"
+}

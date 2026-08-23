@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:Git Commit Helper__MIXED_B2",
+  "slug": "Git Commit Helper__MIXED_B2",
+  "name": "Git Commit Helper__MIXED_B2",
+  "title": "提交助手",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Git Commit Helper",
+  "function_label": "Coding"
+}

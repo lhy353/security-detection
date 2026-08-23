@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:enfuce",
+  "slug": "enfuce",
+  "name": "enfuce",
+  "title": "恩富斯",
+  "description": "Enfuce integration. Manage data, records, and automate workflows. Use when the user wants to interact with Enfuce data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Enfuce",
+  "function_label": "Automation"
+}

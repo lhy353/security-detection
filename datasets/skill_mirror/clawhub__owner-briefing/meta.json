@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:owner-briefing",
+  "slug": "owner-briefing",
+  "name": "owner-briefing",
+  "title": "业主简报技巧",
+  "description": "Generate and send a daily briefing to your owner covering today's meetings, urgent emails, open tasks, and anything that needs attention. Use when: it's the start of the owner's day, when asked for a summary, or on a scheduled cron job.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Owner Briefing Skill",
+  "function_label": "Communication"
+}

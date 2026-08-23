@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:firm-skill-loader-pack",
+  "slug": "firm-skill-loader-pack",
+  "name": "firm-skill-loader-pack",
+  "title": "坚定技能加载包",
+  "description": "Skill lazy loading and search pack. On-demand SKILL.md loading and keyword-based skill search. 2 loader tools.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Firm Skill Loader Pack",
+  "function_label": "Other"
+}

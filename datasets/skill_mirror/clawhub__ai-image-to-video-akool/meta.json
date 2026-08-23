@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-image-to-video-akool",
+  "slug": "ai-image-to-video-akool",
+  "name": "ai-image-to-video-akool",
+  "title": "将图像转换为视频剪辑",
+  "description": "convert static images into animated video clip with this skill. Works with JPG, PNG, WEBP, HEIC files up to 200MB. marketers, social media creators use it for turning still photos into short animated videos — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Image to Video Akool — Convert Images Into Video Clips",
+  "function_label": "Communication"
+}

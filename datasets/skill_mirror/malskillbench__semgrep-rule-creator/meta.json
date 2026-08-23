@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:semgrep-rule-creator",
+  "slug": "semgrep-rule-creator",
+  "name": "semgrep-rule-creator",
+  "title": "规则创建者",
+  "description": "Creates custom Semgrep rules for detecting security vulnerabilities, bug patterns, and code patterns. Use when writing Semgrep rules or building custom static analysis detections.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Semgrep Rule Creator",
+  "function_label": "Other"
+}

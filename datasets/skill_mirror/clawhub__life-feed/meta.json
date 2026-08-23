@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:life-feed",
+  "slug": "life-feed",
+  "name": "life-feed",
+  "title": "我的生命饲料技能斯塔吉",
+  "description": "Manage MyFeed things and groups via the MyFeed REST API.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "My Life Feed Skill Staj",
+  "function_label": "Other"
+}

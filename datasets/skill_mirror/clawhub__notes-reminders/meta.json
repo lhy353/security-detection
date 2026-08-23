@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:notes-reminders",
+  "slug": "notes-reminders",
+  "name": "notes-reminders",
+  "title": "备注提醒",
+  "description": "Manage quick notes and time-based reminders.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Notes Reminders",
+  "function_label": "Other"
+}

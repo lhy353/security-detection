@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pinata-erc-8004",
+  "slug": "pinata-erc-8004",
+  "name": "pinata-erc-8004",
+  "title": "通过 Pinata 代理注册",
+  "description": "Register and verify ERC-8004 AI agents on-chain using Pinata IPFS and Viem for blockchain transactions",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ERC-8004 Agent Registration via Pinata",
+  "function_label": "Other"
+}

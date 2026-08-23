@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:email-importance-content-analysis",
+  "slug": "email-importance-content-analysis",
+  "name": "email-importance-content-analysis",
+  "title": "电子邮件重要性内容分析",
+  "description": "Judge whether an email is important/urgent using content-based analysis rather than sender name or mailbox labels (which can be spoofed). Use when asked to triage emails, decide priority, detect phishing/social-engineering, or recommend next actions (reply/pay/login/download/click) based on what the message asks the user to do.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Email Importance Content Analysis",
+  "function_label": "Communication"
+}

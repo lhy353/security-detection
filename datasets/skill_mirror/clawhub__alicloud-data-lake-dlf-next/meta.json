@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alicloud-data-lake-dlf-next",
+  "slug": "alicloud-data-lake-dlf-next",
+  "name": "alicloud-data-lake-dlf-next",
+  "title": "数据湖形成（下）",
+  "description": "Manage Alibaba Cloud Data Lake Formation (DlfNext) via OpenAPI/SDK. Use whenever the user needs DLF Next catalog/governance resource operations, including listing resources, create/update flows, status checks, and troubleshooting metadata workflow issues.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Data Lake Formation (Next)",
+  "function_label": "Other"
+}

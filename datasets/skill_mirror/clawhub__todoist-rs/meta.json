@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:todoist-rs",
+  "slug": "todoist-rs",
+  "name": "todoist",
+  "title": "集成",
+  "description": "Manage Todoist tasks. Use when the user mentions \"todoist\", \"my tasks\", \"task list\", \"add a task\", \"complete task\", or wants to interact with their Todoist account.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Todoist Integration",
+  "function_label": "Data-Agent"
+}

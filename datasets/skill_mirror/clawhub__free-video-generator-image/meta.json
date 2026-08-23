@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-video-generator-image",
+  "slug": "free-video-generator-image",
+  "name": "free-video-generator-image",
+  "title": "免费图像视频生成器",
+  "description": "generate images into image-based videos with this skill. Works with JPG, PNG, WEBP, GIF files up to 200MB. marketers, social media creators use it for generating videos from static images for free — processing takes 30-60 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Video Generator from Image — Turn Images into MP4 Videos",
+  "function_label": "Communication"
+}

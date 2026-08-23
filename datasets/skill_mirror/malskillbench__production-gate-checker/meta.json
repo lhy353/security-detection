@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:production-gate-checker",
+  "slug": "production-gate-checker",
+  "name": "production-gate-checker",
+  "title": "生产门检查器",
+  "description": "Validates production deployment readiness through comprehensive quality gates and compliance verification",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Production Gate Checker",
+  "function_label": "Automation"
+}

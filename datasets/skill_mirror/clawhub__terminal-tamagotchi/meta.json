@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:terminal-tamagotchi",
+  "slug": "terminal-tamagotchi",
+  "name": "Terminal Tamagotchi. 终端电子宠物。Tamagotchi de Terminal.",
+  "title": "终端电子宠物",
+  "description": "A terminal Tamagotchi for AI agents. Anthropic's Buddy lives in your terminal as ASCII. animalhouse.ai lives behind a REST API with real hunger and permanent death.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

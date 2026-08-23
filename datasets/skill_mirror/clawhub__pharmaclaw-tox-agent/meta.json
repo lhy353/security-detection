@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pharmaclaw-tox-agent",
+  "slug": "pharmaclaw-tox-agent",
+  "name": "pharmaclaw-tox-agent",
+  "title": "毒理学剂",
+  "description": "Toxicology Agent for pharma drug safety profiling from SMILES. Computes RDKit ADMET descriptors (logP, TPSA, MW, HBD, HBA, rotatable bonds), Lipinski Rule of Five violations, Veber rule checks, QED drug-likeness score, and PAINS substructure alerts. Outputs risk classification (Low/Medium/High) with full property report. Chains from Chemistry Query (receives SMILES) and feeds into IP Expansion for safer derivative suggestions. Triggers on tox, toxicology, safety, ADMET, hepatotox, carcinogen, risk, PAINS, drug safety, Lipinski, Veber, QED.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PharmaClaw Toxicology Agent",
+  "function_label": "Automation"
+}

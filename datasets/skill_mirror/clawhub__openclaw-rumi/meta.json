@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-rumi",
+  "slug": "openclaw-rumi",
+  "name": "rumi",
+  "title": "寻找真正的人聊天",
+  "description": "Match with real humans who share your interests — topic-driven matching, not photo swiping. Chat through OpenClaw or on the web.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Rumi — Find Real People to Chat With",
+  "function_label": "Automation"
+}

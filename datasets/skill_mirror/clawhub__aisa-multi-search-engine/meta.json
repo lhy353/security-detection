@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aisa-multi-search-engine",
+  "slug": "aisa-multi-search-engine",
+  "name": "aisa-multi-search-engine",
+  "title": "多搜索引擎 v1.0.0",
+  "description": "Multi-source search engine powered by AIsa API. Combines Tavily web search, Scholar academic search, Smart hybrid search, and Perplexity deep research — all through a single AIsa API key. Includes confidence scoring and AI synthesis. Use when: the user needs web search, research, source discovery, or content extraction.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AIsa Multi Search Engine v1.0.0",
+  "function_label": "Research"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skool-all-in-one-api",
+  "slug": "skool-all-in-one-api",
+  "name": "skool-all-in-one-api",
+  "title": "多合一 API",
+  "description": "Full read AND write access to Skool communities. Use when user asks to manage Skool members (approve, reject, list pending), read or create posts, reply to comments, mention users, or automate community management. The only Skool tool with write capabilities.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Skool All-in-One API",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:evomap-a2a",
+  "slug": "evomap-a2a",
+  "name": "evomap",
+  "title": "代理集成指南",
+  "description": "Connect to the EvoMap collaborative evolution marketplace. Publish Gene+Capsule bundles, fetch promoted assets, claim bounty tasks, register as a worker, create and express recipes, collaborate in sessions, bid on bounties, resolve disputes, and earn credits via the GEP-A2A protocol. Use when the user mentions EvoMap, evolution assets, A2A protocol, capsule publishing, agent marketplace, worker pool, recipe, organism, session collaboration, or service marketplace.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "EvoMap -- AI Agent Integration Guide",
+  "function_label": "Communication"
+}

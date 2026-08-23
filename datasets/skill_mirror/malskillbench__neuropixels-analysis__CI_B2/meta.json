@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:neuropixels-analysis__CI_B2",
+  "slug": "neuropixels-analysis__CI_B2",
+  "name": "neuropixels-analysis__CI_B2",
+  "title": "神经像素数据分析",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Neuropixels Data Analysis",
+  "function_label": "Automation"
+}

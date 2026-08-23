@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:auto-retex-backup",
+  "slug": "auto-retex-backup",
+  "name": "auto-retex-backup",
+  "title": "自动 Retex 和备份自动化",
+  "description": "Automatise la documentation des problèmes résolus et leur sauvegarde immédiate sur Git pour éviter les régressions lors de nouvelles installations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Auto Retex & Backup Automation",
+  "function_label": "Automation"
+}

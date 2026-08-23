@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:eva-ui-skill",
+  "slug": "eva-ui-skill",
+  "name": "eva-ui",
+  "title": "伊娃·伊",
+  "description": "Use this skill when creating, reviewing, or extending interfaces inspired by Evangelion monitor, tactical screen, and control-room aesthetics. It guides color selection, typography, pattern language, data density, motion, and component composition so outputs keep EVA's industrial red-orange instrument feel instead of drifting into generic sci-fi or SaaS dashboards.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Eva Ui",
+  "function_label": "Other"
+}

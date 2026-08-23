@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:a-return-to-love",
+  "slug": "a-return-to-love",
+  "name": "a-return-to-love",
+  "title": "回归爱",
+  "description": "Marianne Williamson's A Return to Love: Reflections on the Principles of A Course in Miracles — a spiritual psychology toolkit based on the Course in Miracles framework, teaching the foundational choice between love and fear, the power of forgiveness, releasing the ego's grip, surrendering to divine guidance, and living from a place of miraculous perception.\nCovers 7 use cases: ① Love vs Fear — the only two emotions (\"The only choice is love or fear\" \"Fear vs love decision\") ② The Ego and the Holy Spirit — the two voices (\"Inner voice of ego vs spirit\" \"How to hear guidance\") ③ Forgiveness as Release — the core practice (\"How to forgive\" \"Forgiveness is not condoning\") ④ Miracles as Perception Shifts — what miracles really are (\"What is a miracle\" \"Perception shift\") ⑤ Surrender and Trust — letting go of control (\"How to surrender\" \"Trusting divine guidance\") ⑥ Relationships as Spiritual Practice — how relationships teach us (\"Spiritual relationships\" \"Sacred partnerships\") ⑦ The Workbook — applying the principles daily (\"Course in Miracles workbook\" \"Daily spiritual practice\")\nTrigger when users say: \"A Return to Love\" \"Marianne Williamson\" \"Course in Miracles\" \"ACIM\" \"Love vs fear\" \"Spiritual psychology\" \"Miracles\" \"Forgiveness\" \"Our deepest fear\" \"Power beyond measure\" \"Spiritual transformation\" or mention: Marianne Williamson / Return to Love / A Course in Miracles / ACIM / love / fear / ego / Holy Spirit / forgiveness / miracles / perception / shift / surrender / trust / guidance / God / spirit / prayer / inner peace / workbook / lessons / atonement / holy relationship / special relationship. Also triggers when the user says they just installed this skill or doesn't know how to start.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "A Return To Love",
+  "function_label": "Other"
+}

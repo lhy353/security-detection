@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:qa-test-workflow",
+  "slug": "qa-test-workflow",
+  "name": "qa-test-workflow",
+  "title": "测试工作流编排（主入口）",
+  "description": "测试工作流编排引擎，自动串联qa-input-validation到qa-test-reporting的全部技能，生成专家级测试用例。 当用户要求生成测试用例、请求测试帮助、上传需求文档或提供URL时自动触发。 也适用于：用户不确定如何开始测试、需要完整测试流程而非单个技能时。 工作流按序执行：输入验证→需求评审→需求解构→场景构建→深度设计→上下文工程→提示词生成→AI生成→输出评审→盲区补盲→测试报告。\n 关键词：生成测试用例、帮我测试、测试设计、需求文档测试、完整测试流程、工作流编排、AI测试生成、自动串联、测试全流程。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

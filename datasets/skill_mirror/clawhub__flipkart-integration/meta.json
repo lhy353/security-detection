@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:flipkart-integration",
+  "slug": "flipkart-integration",
+  "name": "flipkart",
+  "title": "翻转卡丁车",
+  "description": "Flipkart integration. Manage Products, Carts, Orders. Use when the user wants to interact with Flipkart data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Flipkart",
+  "function_label": "Browser"
+}

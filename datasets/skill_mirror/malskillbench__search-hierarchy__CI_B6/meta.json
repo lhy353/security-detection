@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:search-hierarchy__CI_B6",
+  "slug": "search-hierarchy__CI_B6",
+  "name": "search-hierarchy",
+  "title": "搜索工具层次结构",
+  "description": "Search Tool Hierarchy",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Search Tool Hierarchy",
+  "function_label": "Other"
+}

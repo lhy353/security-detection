@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:book-carpet-cleaning",
+  "slug": "book-carpet-cleaning",
+  "name": "book-carpet-cleaning",
+  "title": "乌克地毯清洗",
+  "description": "Book carpet-cleaning services through Lokuli MCP. Use when user needs to find and book carpet-cleaning. Triggers on requests like \"book a carpet-cleaning\", \"find carpet-cleaning near me\", or any carpet-cleaning service request.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "uook carpet cleaning",
+  "function_label": "Other"
+}

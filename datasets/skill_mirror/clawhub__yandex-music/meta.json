@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:yandex-music",
+  "slug": "yandex-music",
+  "name": "yandex-music-control",
+  "title": "音乐控制",
+  "description": "Inspect Yandex Music via the MarshalX yandex-music library. Use when the user wants Yandex Music search, current track lookup, liked tracks, playlists, or a reusable helper for Yandex Music tokens.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Yandex Music Control",
+  "function_label": "Other"
+}

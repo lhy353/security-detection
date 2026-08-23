@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-need-type-classifier",
+  "slug": "bookforge-need-type-classifier",
+  "name": "need-type-classifier",
+  "title": "需求类型分类器",
+  "description": "Classify customer statements from sales calls as Implied Needs (problems, difficulties, dissatisfactions) or Explicit Needs (wants, desires, intentions to act). Use this skill whenever a sales rep shares something a prospect said and asks what to do next, when reviewing call notes or transcripts to identify which customer statements represent buying signals, when diagnosing whether discovery went deep enough before a demo or proposal, when building a needs log from call notes, or when a colleague says 'the prospect sounded interested — they mentioned several problems.' This skill applies Rackham's empirically-validated SPIN methodology to prevent the most common large-sale mistake: treating Implied Needs (problems) as buying signals. In large B2B sales, Explicit Needs — not Implied Needs — predict deal success. Invoke whenever any customer statement needs to be categorized, developed, or acted on in a B2B or enterprise sales context.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Need Type Classifier",
+  "function_label": "Other"
+}

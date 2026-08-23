@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:sub-agent-creator",
+  "slug": "sub-agent-creator",
+  "name": "agent-creator",
+  "title": "代理设置工具",
+  "description": "Full workflow for creating an OpenClaw Agent. Use when the user says 'create an agent', 'make a new agent', 'add a bot', or needs to set up a new AI assistant. Covers the complete setup process including (1) adding agent config and peer bindings to openclaw.json, (2) creating workspace directory with SOUL.md persona, (3) scaffolding required folders and files, (4) copying agent runtime configs from main, (5) restarting gateway to apply changes.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Agent Creator - OpenClaw Agent Setup Tool"
+}

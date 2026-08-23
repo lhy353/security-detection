@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:learn-and-record",
+  "slug": "learn-and-record",
+  "name": "learn-and-record",
+  "title": "学习与记录",
+  "description": "学习新工具、新技术、新平台的完整流程。当你需要从零学习某个东西时使用此 skill。包含学习方法论、踩坑记录、探索清单和笔记模板。也用于回顾已有学习经验来指导新的学习。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

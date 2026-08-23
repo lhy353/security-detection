@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:forensics-data-collector",
+  "slug": "forensics-data-collector",
+  "name": "forensics-data-collector",
+  "title": "取证数据收集器",
+  "description": "Forensics Data Collector - Auto-activating skill for Security Advanced.\nTriggers on: forensics data collector, forensics data collector\nPart of the Security Advanced skill category.\n",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Forensics Data Collector",
+  "function_label": "Automation"
+}

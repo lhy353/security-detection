@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:crystal-sim-optimizer",
+  "slug": "crystal-sim-optimizer",
+  "name": "crystal-sim-optimizer",
+  "title": "晶体生长模拟优化器",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Crystal Growth Simulation Optimizer",
+  "function_label": "Data-Agent"
+}

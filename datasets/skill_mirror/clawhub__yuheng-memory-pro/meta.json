@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:yuheng-memory-pro",
+  "slug": "yuheng-memory-pro",
+  "name": "记忆专家skill",
+  "title": "主动精馏层)",
+  "description": "> 精选层·主动精馏：主动从原始会话和笔记中提取知识，沉淀到长期记忆。。触发词：skill, 优化。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

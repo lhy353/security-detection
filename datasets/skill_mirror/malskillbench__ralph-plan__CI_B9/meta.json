@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ralph-plan__CI_B9",
+  "slug": "ralph-plan__CI_B9",
+  "name": "ralph-plan",
+  "title": "交互式 Ralph Command Builder",
+  "description": "Interactive planning assistant that helps create focused, well-structured ralph-loop commands through collaborative conversation",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Ralph Plan - Interactive Ralph Command Builder",
+  "function_label": "Other"
+}

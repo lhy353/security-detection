@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:polyvision",
+  "slug": "polyvision",
+  "name": "polyvision",
+  "title": "钱包分析器",
+  "description": "Analyze Polymarket prediction market wallets — get copy trading scores (1-10), P&L, win rate, risk metrics (Sharpe ratio, Sortino ratio, max drawdown), red flags, position sizing, market category performance, recent performance (7d/30d/90d), streak analysis, individual open positions with entry/current prices, and recent trade history. Also discover elite traders via daily leaderboard, hot bets from top traders, and random wallet discovery. Connects via MCP server or REST API. Use when evaluating whether to copy trade a Polymarket trader, comparing multiple wallets side-by-side, screening for elite prediction market performers, checking if a wallet has bot-like trading patterns or hidden losses, researching a trader's risk profile, viewing recent trade activity, finding today's best open bets, or discovering new traders to follow. Free API key, no daily limits, 6-hour result caching.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PolyVision — Polymarket Wallet Analyzer",
+  "function_label": "Data-Agent"
+}

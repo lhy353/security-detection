@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sovereign-aws-cost-optimizer",
+  "slug": "sovereign-aws-cost-optimizer",
+  "name": "AWS Cost Optimizer",
+  "title": "成本优化器",
+  "description": "Analyzes AWS infrastructure for cost savings. Right-sizing, Reserved Instances, Savings Plans, unused resources.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AWS Cost Optimizer",
+  "function_label": "Other"
+}

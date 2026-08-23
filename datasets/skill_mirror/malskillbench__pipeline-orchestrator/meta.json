@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:pipeline-orchestrator",
+  "slug": "pipeline-orchestrator",
+  "name": "pipeline-orchestrator",
+  "title": "管道编排器",
+  "description": "Orchestrate CI/CD pipelines with automated workflow management, deployment tracking, and quality assurance.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Pipeline Orchestrator",
+  "function_label": "Automation"
+}

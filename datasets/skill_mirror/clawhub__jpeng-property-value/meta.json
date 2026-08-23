@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jpeng-property-value",
+  "slug": "jpeng-property-value",
+  "name": "jpeng-property-value",
+  "title": "房产价值估算器",
+  "description": "Estimate property values",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Property Value Estimator",
+  "function_label": "Other"
+}

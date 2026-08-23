@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:stock-price-checker",
+  "slug": "stock-price-checker",
+  "name": "stock-price-checker",
+  "title": "股票价格查询器",
+  "description": "Check stock prices using yfinance library. No API key required.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Stock Price Checker",
+  "function_label": "Other"
+}

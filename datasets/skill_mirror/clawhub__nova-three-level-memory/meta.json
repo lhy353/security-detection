@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:nova-three-level-memory",
+  "slug": "nova-three-level-memory",
+  "name": "three-layer-memory",
+  "title": "三层记忆系统 (Three-Layer Memory Architecture)",
+  "description": "AI Agent 三层记忆架构系统。用于构建具有长期记忆能力的 AI 助手。\n触发条件：(1) 用户询问记忆系统设计或架构 (2) 需要为 AI Agent 构建记忆能力 (3) \n提及\"记忆系统\"、\"情景记忆\"、\"语义记忆\"、\"NOVA\"、\"记忆维护\"等相关概念",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

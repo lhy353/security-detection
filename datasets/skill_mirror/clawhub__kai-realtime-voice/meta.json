@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kai-realtime-voice",
+  "slug": "kai-realtime-voice",
+  "name": "kai-realtime-voice",
+  "title": "实时语音",
+  "description": "Real-time voice streaming via MiniMax WebSocket API. Use for low-latency voice conversations and streaming audio generation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kai Realtime Voice",
+  "function_label": "Other"
+}

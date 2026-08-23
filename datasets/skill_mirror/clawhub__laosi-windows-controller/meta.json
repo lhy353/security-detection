@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:laosi-windows-controller",
+  "slug": "laosi-windows-controller",
+  "name": "windows-app-controller",
+  "title": "发布规则",
+  "description": "Windows应用控制器 - 原创技能。让AI通过自动化技术控制Windows应用程序，包括打开/关闭应用、点击按钮、填写表单、截取屏幕等操作。适用于GUI自动化、测试、数据录入等场景。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

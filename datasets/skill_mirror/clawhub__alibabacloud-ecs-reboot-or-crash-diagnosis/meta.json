@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:alibabacloud-ecs-reboot-or-crash-diagnosis",
+  "slug": "alibabacloud-ecs-reboot-or-crash-diagnosis",
+  "name": "alibabacloud-ecs-reboot-or-crash-diagnosis",
+  "title": "实例重启/崩溃诊断",
+  "description": "Diagnose ECS instance reboot or crash issues. First checks for abnormal maintenance events, then uses Cloud Assistant to check for internal restarts or kernel panics. Use this skill when users report ECS instance unexpected reboot, crash, abnormal shutdown, kernel panic, or OOM. Supports vmcore file analysis, kdump configuration, system log analysis, and Windows crash dump analysis.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ECS Instance Reboot/Crash Diagnosis"
+}

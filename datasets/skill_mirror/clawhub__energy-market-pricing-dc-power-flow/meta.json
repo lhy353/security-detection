@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:energy-market-pricing-dc-power-flow",
+  "slug": "energy-market-pricing-dc-power-flow",
+  "name": "dc-power-flow",
+  "title": "直流潮流",
+  "description": "DC power flow analysis for power systems. Use when computing power flows using DC approximation, building susceptance matrices, calculating line flows and loading percentages, or performing sensitivity analysis on transmission networks.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "DC Power Flow",
+  "function_label": "Communication"
+}

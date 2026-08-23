@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:data-quality-validator",
+  "slug": "data-quality-validator",
+  "name": "cm-data-quality-validator",
+  "title": "数据质量验证器",
+  "description": "Validate data quality in pipelines by checking completeness, consistency, freshness, accuracy, and distribution anomalies. Define expectations, profile data distributions, detect schema drift, identify outliers, and generate quality reports. Use when asked to validate data quality, audit pipeline data, check data completeness, detect data anomalies, profile datasets, review data freshness, or set up data quality checks. Triggers on \"data quality\", \"data validation\", \"data completeness\", \"data freshness\", \"data profiling\", \"data anomaly\", \"data consistency\", \"data expectations\", \"pipeline quality\", \"great expectations\", \"data audit\", \"schema drift\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cm Data Quality Validator",
+  "function_label": "Data-Agent"
+}

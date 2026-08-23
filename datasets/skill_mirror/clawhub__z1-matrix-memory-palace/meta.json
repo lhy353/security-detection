@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:z1-matrix-memory-palace",
+  "slug": "z1-matrix-memory-palace",
+  "name": "z1-matrix-memory-palace",
+  "title": "矩阵宫殿记忆法",
+  "description": "Build and operate a file-driven Memory Palace for multi-agent systems, combining a spatial memory shell with a continuously maintained LLM Wiki reflection layer. Use when designing or deploying long-term memory architecture for agent teams, especially for (1) project rooms + task corridors + reflection wings, (2) low-token file-based coordination buses, (3) converting work artifacts into principles, prompt kernels, failure patterns, and thinking paths, (4) building a silent librarian/archivist agent, or (5) migrating scattered protocol/history files into a structured memory operating system. Includes source attribution and fusion guidance from Karpathy's llm-wiki idea and Jeff Pierce's memory-palace approach.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

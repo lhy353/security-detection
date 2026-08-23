@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-editing-with-ai-online",
+  "slug": "video-editing-with-ai-online",
+  "name": "video-editing-with-ai-online",
+  "title": "使用 AI 编辑和导出视频",
+  "description": "edit raw video footage into edited MP4 videos with this skill. Works with MP4, MOV, AVI, WebM files up to 500MB. content creators and marketers use it for editing raw footage into polished videos without desktop software — processing takes 1-2 minutes on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Editing with AI Online — Edit and Export Videos with AI",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skill-sec",
+  "slug": "skill-sec",
+  "name": "clawned",
+  "title": "的安全代理",
+  "description": "Security agent that inventories installed OpenClaw skills, analyzes them for threats, and syncs results to your Clawned dashboard.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clawned — Security Agent for OpenClaw",
+  "function_label": "Automation"
+}

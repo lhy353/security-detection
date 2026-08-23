@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:soul-shifter",
+  "slug": "soul-shifter",
+  "name": "soul-shifter",
+  "title": "灵魂转移者",
+  "description": "Create, save, and switch OpenClaw's persona (Soul). Research characters to generate new souls or load existing ones from the library.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Soul Shifter",
+  "function_label": "Other"
+}

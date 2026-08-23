@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:lechat",
+  "slug": "lechat",
+  "name": "lechat",
+  "title": "勒查特",
+  "description": "LeChat agent collaboration platform. Use when building, configuring, or debugging LeChat components.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lechat"
+}

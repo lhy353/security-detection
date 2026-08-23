@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:web-qa-bot",
+  "slug": "web-qa-bot",
+  "name": "web-qa-bot",
+  "title": "网络如果机器人",
+  "description": "AI-powered automated QA for web apps. Smoke tests, accessibility, visual regression. Works with Cursor, Claude, ChatGPT, Copilot. Vibe-coding ready.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Web Qa Bot",
+  "function_label": "Browser"
+}

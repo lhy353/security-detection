@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:no-nonsense-tasks",
+  "slug": "no-nonsense-tasks",
+  "name": "no-nonsense-tasks",
+  "title": "没有废话的任务",
+  "description": "No-nonsense task manager using SQLite. Track tasks with statuses (backlog, todo, in-progress, done), descriptions, and tags. Use when managing personal tasks, to-do items, project tracking, or any workflow that needs status-based task organization. Supports adding, listing, filtering, updating, moving, and deleting tasks.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "No Nonsense Tasks",
+  "function_label": "Data-Agent"
+}

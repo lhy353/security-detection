@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:posthog",
+  "slug": "posthog",
+  "name": "posthog",
+  "title": "技能",
+  "description": "Interact with PostHog analytics via its REST API. Capture events, evaluate feature flags, query data with HogQL, manage persons, insights, dashboards, experiments, surveys, cohorts, annotations, and session recordings. Use when the user mentions \"PostHog\", \"PostHog API\", \"PostHog events\", \"PostHog feature flags\", \"PostHog insights\", \"PostHog query\", \"HogQL\", \"PostHog persons\", \"PostHog dashboards\", \"PostHog experiments\", \"PostHog surveys\", \"PostHog cohorts\", \"PostHog recordings\", \"capture events PostHog\", or \"PostHog analytics\".\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PostHog API Skill",
+  "function_label": "Data-Agent"
+}

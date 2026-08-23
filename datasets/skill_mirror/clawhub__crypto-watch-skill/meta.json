@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:crypto-watch-skill",
+  "slug": "crypto-watch-skill",
+  "name": "crypto-skill",
+  "title": "加密数据技能",
+  "description": "Cryptocurrency and precious metals market data analysis, supporting K-line, funding rate, open interest, long/short ratio, liquidation data, option data, fear and greed index for digital assets including Bitcoin, Ethereum, BNB, ZEC, SOL, and Gold. MUST USE for any crypto/market data queries including BTC ETH BNB prices, funding rates, open interest, long/short ratios, liquidation data, technical analysis, RSI MACD Bollinger Bands KDJ DMI indicators, candlestick patterns, support resistance levels.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Crypto Data Skill",
+  "function_label": "Data-Agent"
+}

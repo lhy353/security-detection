@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:position-management",
+  "slug": "position-management",
+  "name": "position-management",
+  "title": "仓位动态管理",
+  "description": "根据市场环境动态调整仓位，避免满仓踏空或重仓被套。用于A股仓位控制。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:video-generator-ai",
+  "slug": "video-generator-ai",
+  "name": "video-generator-ai",
+  "title": "将提示变成精美的对话式视频",
+  "description": "video-generator-ai is a ClawHub skill that transforms text prompts, scripts, and asset inputs into fully rendered video content through a conversational interface. Unlike template-based tools, it adapts to your creative direction in real time — generating scene sequences, applying transitions, syncing audio, and exporting finished files. Designed for content creators, marketers, and developers building automated media pipelines. Supports mp4, mov, avi, webm, and mkv output formats.\n",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Turn Prompts Into Polished Video, Conversationally"
+}

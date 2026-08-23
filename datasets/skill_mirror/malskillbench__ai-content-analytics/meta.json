@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ai-content-analytics",
+  "slug": "ai-content-analytics",
+  "name": "ai-content-analytics",
+  "title": "内容分析平台",
+  "description": "Expert guidance for AI-powered content analysis with accessibility features and stakeholder engagement tracking",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "AI Content Analytics Platform",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:response-tone-polisher-1",
+  "slug": "response-tone-polisher-1",
+  "name": "response-tone-polisher",
+  "title": "响应音抛光器",
+  "description": "Polishes response letters by transforming defensive or harsh language.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Response Tone Polisher",
+  "function_label": "Other"
+}

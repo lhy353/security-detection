@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agriculture",
+  "slug": "agriculture",
+  "name": "agriculture",
+  "title": "农业运营代理",
+  "description": "Farm operations management — crop planning, inventory, equipment, livestock, weather, and financials.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agriculture Operations Agent",
+  "function_label": "Other"
+}

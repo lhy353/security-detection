@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:weekly-goal-review-skill",
+  "slug": "weekly-goal-review-skill",
+  "name": "Weekly Goal Review Skill",
+  "title": "每周目标回顾技巧",
+  "description": "Guides structured help for Weekly Goal Review using clear templates, checks, and safe defaults (category: Planning & Productivity).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Weekly Goal Review Skill",
+  "function_label": "Other"
+}

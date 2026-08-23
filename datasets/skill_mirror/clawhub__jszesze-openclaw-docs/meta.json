@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:jszesze-openclaw-docs",
+  "slug": "jszesze-openclaw-docs",
+  "name": "jszesze-openclaw-docs",
+  "title": "文档",
+  "description": "OpenClaw documentation helper that caches the live docs index, searches page titles and URLs, fetches raw markdown docs, builds a local docs cache for full-text grep, and tracks index snapshots over time. Use when answering OpenClaw setup, configuration, CLI, channel, automation, architecture, or troubleshooting questions and you want grounded docs links or current page text.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenClaw docs",
+  "function_label": "Communication"
+}

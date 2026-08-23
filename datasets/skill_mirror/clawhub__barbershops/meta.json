@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:barbershops",
+  "slug": "barbershops",
+  "name": "Nearby Barbershops",
+  "title": "附近的理发店",
+  "description": "Find nearby barbershops. Invoke when user asks for a haircut near me.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Nearby Barbershops",
+  "function_label": "Other"
+}

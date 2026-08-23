@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:swift-concurrency-expert",
+  "slug": "swift-concurrency-expert",
+  "name": "swift-concurrency-expert",
+  "title": "并发专家",
+  "description": "Swift Concurrency review and remediation for Swift 6.2+. Use when asked to review Swift Concurrency usage, improve concurrency compliance, or fix Swift concurrency compiler errors in a feature or file.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Swift Concurrency Expert",
+  "function_label": "Other"
+}

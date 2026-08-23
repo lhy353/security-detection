@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:idea-synthesis-matrix",
+  "slug": "idea-synthesis-matrix",
+  "name": "Idea Synthesis Matrix",
+  "title": "想法综合矩阵",
+  "description": "Organizes ideas from multiple user-supplied sources into a comparison matrix for synthesis.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Idea Synthesis Matrix",
+  "function_label": "Other"
+}

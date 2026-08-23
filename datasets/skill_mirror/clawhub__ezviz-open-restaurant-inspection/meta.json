@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ezviz-open-restaurant-inspection",
+  "slug": "ezviz-open-restaurant-inspection",
+  "name": "ezviz-open-restaurant-inspection",
+  "title": "萤石餐厅检验技巧",
+  "description": "Ezviz restaurant inspection skill. Captures device images and sends to Ezviz AI for food safety analysis.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ezviz Restaurant Inspection Skill",
+  "function_label": "Other"
+}

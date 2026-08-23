@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:abe-de-ai-ify",
+  "slug": "abe-de-ai-ify",
+  "name": "de-ai-ify",
+  "title": "去人工智能化文本",
+  "description": "Remove AI-generated jargon and restore human voice to text",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "De-AI-ify Text",
+  "function_label": "Other"
+}

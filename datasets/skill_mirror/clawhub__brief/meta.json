@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:brief",
+  "slug": "brief",
+  "name": "Brief",
+  "title": "简短的",
+  "description": "Condense information into actionable briefings. User specifies sources, skill structures the output.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Brief",
+  "function_label": "File-Agent"
+}

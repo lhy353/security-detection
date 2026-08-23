@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:outdoor-recreation-skills",
+  "slug": "outdoor-recreation-skills",
+  "name": "outdoor-recreation-skills",
+  "title": "户外休闲技巧",
+  "description": "Practical skills for camping, hiking, and outdoor recreation. Use when someone wants to start camping, plan a hiking trip, learn outdoor cooking, or build confidence in nature without prior experience.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Outdoor Recreation Skills",
+  "function_label": "File-Agent"
+}

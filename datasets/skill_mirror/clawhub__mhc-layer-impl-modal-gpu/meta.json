@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mhc-layer-impl-modal-gpu",
+  "slug": "mhc-layer-impl-modal-gpu",
+  "name": "modal-gpu",
+  "title": "模态 GPU 训练",
+  "description": "Run Python code on cloud GPUs using Modal serverless platform. Use when you need A100/T4/A10G GPU access for training ML models. Covers Modal app setup, GPU selection, data downloading inside functions, and result handling.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Modal GPU Training",
+  "function_label": "Data-Agent"
+}

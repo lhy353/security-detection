@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:version-master",
+  "slug": "version-master",
+  "name": "version-master",
+  "title": "版本-Master 2.1.0",
+  "description": "Intelligent single-file version management. Save, restore, diff, and clean file snapshots with per-file version history. Activate when users need version control, file snapshot management, or project state recovery.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Version-Master 2.1.0",
+  "function_label": "Other"
+}

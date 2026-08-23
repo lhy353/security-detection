@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:unity-ecs-patterns",
+  "slug": "unity-ecs-patterns",
+  "name": "unity-ecs-patterns",
+  "title": "模式",
+  "description": "Master Unity ECS (Entity Component System) with DOTS, Jobs, and Burst for high-performance game development. Use when building data-oriented games, optimizing performance, or working with large entity counts.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Unity Ecs Patterns",
+  "function_label": "Other"
+}

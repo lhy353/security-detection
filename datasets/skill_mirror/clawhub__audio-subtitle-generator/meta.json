@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:audio-subtitle-generator",
+  "slug": "audio-subtitle-generator",
+  "name": "audio-subtitle-generator",
+  "title": "音频字幕生成器",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — generate subtitles from the audio and burn them into the video — and get captioned video files back in 30-60 seconds. Upload MP4, MOV, MP3, WAV files up to 500MB, and the AI handles AI subtitle generation automatically. Ideal for podcasters, video creators, educators who need accurate captions without manual transcription.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Audio Subtitle Generator — Generate Subtitles from Audio",
+  "function_label": "Communication"
+}

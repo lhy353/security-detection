@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:browser-debugging",
+  "slug": "browser-debugging",
+  "name": "browser-debugging",
+  "title": "浏览器调试",
+  "description": "Debug client-side issues using browser developer tools. Identify JavaScript errors, styling issues, and performance problems in the browser.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Browser Debugging",
+  "function_label": "Coding"
+}

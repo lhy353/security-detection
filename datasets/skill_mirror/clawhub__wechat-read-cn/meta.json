@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wechat-read-cn",
+  "slug": "wechat-read-cn",
+  "name": "wechat-read",
+  "title": "微信读取聊天记录",
+  "description": "Read chat history from a WeChat contact or group via macOS desktop client screenshot + agent OCR. Use when the user asks to read, view, check, or retrieve WeChat chat messages, conversation history, or recent messages from a contact or group. v2.0 auto mode tries fast locate + verify first; falls back to Agent-assisted mode only when verification fails. Requires macOS, WeChat desktop logged in, Accessibility permission, and cliclick. NOT for sending messages (use wechat-send).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

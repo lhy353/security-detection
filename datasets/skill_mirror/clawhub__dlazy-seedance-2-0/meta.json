@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dlazy-seedance-2-0",
+  "slug": "dlazy-seedance-2-0",
+  "name": "dlazy-seedance-2.0",
+  "title": "懒惰的种子-2.0",
+  "description": "ByteDance's latest video generation model. Supports multi-modal reference (images, video, audio) to generate videos, as well as first/last frame and text-to-video modes.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "dlazy-seedance-2.0",
+  "function_label": "File-Agent"
+}

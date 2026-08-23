@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ltrace",
+  "slug": "ltrace",
+  "name": "ltrace",
+  "title": "跟踪",
+  "description": "Ltrace reference tool. Use when working with ltrace in devtools contexts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ltrace",
+  "function_label": "Coding"
+}

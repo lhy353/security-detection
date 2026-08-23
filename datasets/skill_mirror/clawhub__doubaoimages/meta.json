@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:doubaoimages",
+  "slug": "doubaoimages",
+  "name": "doubaoimg",
+  "title": "豆宝本地图片保存神器",
+  "description": "Generate images with Doubao web chat, extract the final generated image URL from the page, save the image locally, and return the saved local path. Use when the user wants a low-cost browser-based image generation workflow instead of paid image APIs, especially for portraits, concept images, and local saving.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Doubao Local Image Saver",
+  "function_label": "Browser"
+}

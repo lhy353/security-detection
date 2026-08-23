@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:10to8",
+  "slug": "10to8",
+  "name": "10to8",
+  "title": "到8",
+  "description": "10to8 integration. Manage data, records, and automate workflows. Use when the user wants to interact with 10to8 data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "10To8",
+  "function_label": "Automation"
+}

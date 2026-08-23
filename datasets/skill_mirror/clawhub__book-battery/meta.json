@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:book-battery",
+  "slug": "book-battery",
+  "name": "book-battery",
+  "title": "乌克乌特里",
+  "description": "Book battery services through Lokuli MCP. Use when user needs to find and book battery. Triggers on requests like \"book a battery\", \"find battery near me\", or any battery service request.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "uook uattery",
+  "function_label": "Other"
+}

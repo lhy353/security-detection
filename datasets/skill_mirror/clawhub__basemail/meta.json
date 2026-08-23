@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:basemail",
+  "slug": "basemail",
+  "name": "BaseMail",
+  "title": "上人工智能代理的链上电子邮件",
+  "description": "📬 BaseMail - Onchain Email for AI Agents on Base. Get yourname@basemail.ai linked to your Basename (.base.eth). SIWE wallet auth, no CAPTCHA, no passwords. Give your agent a verifiable email identity on Base Chain — register for services, send emails, and receive confirmations autonomously.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "BaseMail - Onchain Email for AI Agents on Base",
+  "function_label": "Communication"
+}

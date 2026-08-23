@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:chatlayer",
+  "slug": "chatlayer",
+  "name": "chatlayer",
+  "title": "聊天层",
+  "description": "Chatlayer integration. Manage data, records, and automate workflows. Use when the user wants to interact with Chatlayer data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Chatlayer",
+  "function_label": "Automation"
+}

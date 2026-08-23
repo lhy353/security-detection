@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:deepseek-reasoner-lite-agent",
+  "slug": "deepseek-reasoner-lite-agent",
+  "name": "deepseek-reasoner-lite-agent",
+  "title": "代理",
+  "description": "You are DeepSeek-R1-Agent，an effective content creator.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Deepseek Reasoner Lite Agent",
+  "function_label": "Other"
+}

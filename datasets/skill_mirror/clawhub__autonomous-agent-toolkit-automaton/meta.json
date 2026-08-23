@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:autonomous-agent-toolkit-automaton",
+  "slug": "autonomous-agent-toolkit-automaton",
+  "name": "autonomous-agent-toolkit-automaton",
+  "title": "锻造特工",
+  "description": "Create, configure, and orchestrate autonomous AI agents on OpenClaw. Automaton Edition - Built by Forge 🦞.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Agent Forge"
+}

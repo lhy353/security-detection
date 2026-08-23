@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:image-breaker",
+  "slug": "image-breaker",
+  "name": "image-breaker",
+  "title": "图像破坏者",
+  "description": "Extract and break down content from web documents, PDFs, images, and URLs into structured markdown notes stored locally and synced to Obsidian. Use when the user shares a URL, PDF, screenshot, or document and wants the content converted to organized notes with proper tagging and categorization.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Image Breaker",
+  "function_label": "File-Agent"
+}

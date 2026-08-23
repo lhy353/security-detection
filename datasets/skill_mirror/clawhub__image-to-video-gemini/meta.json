@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:image-to-video-gemini",
+  "slug": "image-to-video-gemini",
+  "name": "image-to-video-gemini",
+  "title": "将图像转换为视频剪辑",
+  "description": "Turn a single product photo or landscape image into 1080p animated video clips just by typing what you need. Whether it's converting static images into short AI-generated video clips or quick social content, drop your still images and describe the result you want. No timeline dragging, no export settings — 30-60 seconds from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Image to Video Gemini — Convert Images into Video Clips",
+  "function_label": "Communication"
+}

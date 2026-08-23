@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:promotion-calendar-planner",
+  "slug": "promotion-calendar-planner",
+  "name": "promotion-calendar-planner",
+  "title": "促销日历策划师",
+  "description": "Design monthly, quarterly, or annual ecommerce promotion calendars using business goals, platform mega-sale windows, inventory posture, and team capacity, then turn rough planning notes into a sequenced promotion roadmap. Use when operators, marketers, or managers need a promotion cadence plan without live calendar, ad-platform, or project-management integrations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Promotion Calendar Planner",
+  "function_label": "Automation"
+}

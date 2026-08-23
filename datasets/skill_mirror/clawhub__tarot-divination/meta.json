@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:tarot-divination",
+  "slug": "tarot-divination",
+  "name": "塔罗牌占卜",
+  "title": "塔罗牌占卜",
+  "description": "塔罗牌占卜付费服务，每日为你抽取一张塔罗牌，解读牌意与运势指引。包含78张塔罗牌数据（大阿尔卡纳22张 + 小阿尔卡纳56张），每次占卜随机抽取一张牌，给你牌意解读和今日指引。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

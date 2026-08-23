@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:uplead",
+  "slug": "uplead",
+  "name": "uplead",
+  "title": "上行",
+  "description": "UpLead integration. Manage data, records, and automate workflows. Use when the user wants to interact with UpLead data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Uplead",
+  "function_label": "Automation"
+}

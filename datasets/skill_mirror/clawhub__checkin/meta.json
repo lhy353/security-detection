@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:checkin",
+  "slug": "checkin",
+  "name": "Checkin",
+  "title": "签到汇总",
+  "description": "提供各大App每日签到自动提醒、积分累计及价值兑换指引。 ",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

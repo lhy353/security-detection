@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:morning",
+  "slug": "morning",
+  "name": "morning",
+  "title": "晨间日记、反思和计划",
+  "description": "Daily journaling, reflection, and planning. Use when user says 'morning', 'let's plan the day', 'journal', or similar. Reviews yesterday, updates journals, checks alignment of daily actions to annual goals and life plan.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Morning Journaling, Reflection & Planning",
+  "function_label": "Other"
+}

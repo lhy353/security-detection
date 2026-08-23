@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-paper-survey",
+  "slug": "ai-paper-survey",
+  "name": "ai-paper-survey",
+  "title": "论文调查技巧",
+  "description": "Conduct structured AI paper surveys using alphaXiv MCP tools. Reads user research interests from a keywords file, searches recent papers across multiple dimensions, classifies by innovation tier, runs impact analysis, and outputs a Markdown report. Use when the user asks to survey recent papers, do a literature review, find what's new in a research area, or track progress in AI subfields.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Paper Survey Skill",
+  "function_label": "Research"
+}

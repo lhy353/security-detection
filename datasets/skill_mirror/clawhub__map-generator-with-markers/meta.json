@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:map-generator-with-markers",
+  "slug": "map-generator-with-markers",
+  "name": "map-generator-with-markers",
+  "title": "带标记的地图生成器",
+  "description": "Map Generator With Markers: Generate static maps with markers, paths, and labels. Multiple map types (roadmap, satellite, hybrid, terrain). Stored 7 days. Use when an agent needs map generator with markers, creating route maps with waypoints, generating location markers for reports, visualizing geographic data distributions, creating satellite view property maps, create map, points, map type through AgentPMT-hosted remote tool calls. Discovery terms: map generator with markers.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Map Generator With Markers",
+  "function_label": "Other"
+}

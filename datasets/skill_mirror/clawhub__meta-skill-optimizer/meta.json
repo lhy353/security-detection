@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:meta-skill-optimizer",
+  "slug": "meta-skill-optimizer",
+  "name": "meta-skill-optimizer",
+  "title": "元技能优化器",
+  "description": "Self-improving AI skill optimizer that learns from feedback, auto-tunes prompts, optimizes tool usage patterns, and evolves based on success/failure analysis. Enables AI to continuously enhance its own capabilities.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Meta Skill Optimizer",
+  "function_label": "Other"
+}

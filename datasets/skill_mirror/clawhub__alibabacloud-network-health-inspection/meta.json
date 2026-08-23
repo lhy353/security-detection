@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:alibabacloud-network-health-inspection",
+  "slug": "alibabacloud-network-health-inspection",
+  "name": "alibabacloud-network-health-inspection",
+  "title": "启用 AI-Mode（在任何 aliyun CLI 使用之前运行一次）",
+  "description": "Comprehensive health inspection tool for Alibaba Cloud network products (EIP, CBWP, NAT Gateway, CEN, Transit Router, Physical Connection, VBR, Global Accelerator, CLB, ALB, NLB). Analyzes bandwidth utilization, connection count, QPS, and packet loss using Cloud Monitor data; generates a Markdown inspection report with monitoring charts, risk assessment, and scaling recommendations. All API calls are read-only. Use when users want to inspect network product usage, check bandwidth headroom, assess capacity before a business launch, or identify over-limit risk. Triggered by: inspect network products, network health check, bandwidth inspection, EIP/NAT/CLB/ALB/NLB/CEN/VBR/GA inspection, network utilization analysis, pre-launch network inspection, capacity assessment, bandwidth over-limit risk.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Enable AI-Mode (run once before any aliyun CLI usage)",
+  "function_label": "Data-Agent"
+}

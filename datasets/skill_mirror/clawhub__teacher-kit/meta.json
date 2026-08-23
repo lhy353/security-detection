@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:teacher-kit",
+  "slug": "teacher-kit",
+  "name": "teacher-kit",
+  "title": "备课助手",
+  "description": "AI 备课助手 — 一键生成教案、试题、课程大纲。为教师打造的一站式备课工具。AI Lesson Prep Kit for educators — generate lesson plans, quizzes, and course outlines.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

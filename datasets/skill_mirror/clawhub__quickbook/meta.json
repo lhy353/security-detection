@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:quickbook",
+  "slug": "quickbook",
+  "name": "quickbooks-api",
+  "title": "技能",
+  "description": "Production-grade integration and automation with the QuickBooks Online API. Covers OAuth 2.0 authentication, accounting entities (Customers, Invoices, Payments, Bills, Journal Entries), real-time Webhooks, Reports API, Payments API, IDS query language, Change Data Capture, Batch operations, and AI/MCP server integration.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "QuickBooks Online API Skill",
+  "function_label": "Data-Agent"
+}

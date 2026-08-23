@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:interactive-portfolio__CI_B7",
+  "slug": "interactive-portfolio__CI_B7",
+  "name": "interactive-portfolio__CI_B7",
+  "title": "互动作品集",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Interactive Portfolio",
+  "function_label": "Data-Agent"
+}

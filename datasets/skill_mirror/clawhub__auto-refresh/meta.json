@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:auto-refresh",
+  "slug": "auto-refresh",
+  "name": "auto-refresh",
+  "title": "定时刷新网页或执行任务",
+  "description": "自动刷新技能 - 定时刷新网页或执行任务",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

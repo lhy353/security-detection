@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:crypto-alpha-scanner",
+  "slug": "crypto-alpha-scanner",
+  "name": "crypto-alpha-scanner",
+  "title": "加密阿尔法扫描仪",
+  "description": "Automated crypto market intelligence - prices, sentiment, trending coins, and Polymarket hot markets. Zero dependencies, 100% reliability. Perfect for alpha channels and market monitoring.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Crypto Alpha Scanner",
+  "function_label": "Communication"
+}

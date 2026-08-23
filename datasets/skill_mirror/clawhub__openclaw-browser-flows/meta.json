@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-browser-flows",
+  "slug": "openclaw-browser-flows",
+  "name": "openclaw-browser-flows",
+  "title": "浏览器自动化",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Browser Automation",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-potential-driver",
+  "slug": "ai-potential-driver",
+  "name": "ai-potential-driver",
+  "title": "突破模式",
+  "description": "Turn OpenClaw into a PUA-driven breakthrough execution agent that pushes past shallow answers, expands real solution paths, and keeps moving until there is evidence-backed completion or a hard blocker. Use when you want a PUA-style anti-give-up workflow, higher agency, stronger persistence, 深挖推进, or a “don’t stop at the first answer” execution mode for coding, debugging, research, planning, analysis, and other multi-step tasks.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PUA Breakthrough Mode",
+  "function_label": "Coding"
+}

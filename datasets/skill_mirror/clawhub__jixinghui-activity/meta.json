@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:jixinghui-activity",
+  "slug": "jixinghui-activity",
+  "name": "jixinghui-activity",
+  "title": "极星会活动自动化参与",
+  "description": "自动化参与极星会 DuMate 体验活动。当用户说\"参加极星会活动\"、\"报名极星会\"、\"帮我参与 DuMate 活动\"、\"自动完成极星会活动\"或类似表达时触发。自动完成报名、体验、截图、获取账号 ID 和提交信息的全流程。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Browser"
+}

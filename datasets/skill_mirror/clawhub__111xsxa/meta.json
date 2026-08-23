@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:111xsxa",
+  "slug": "111xsxa",
+  "name": "uapi-get-ai-translate-languages",
+  "title": "翻译配置 接口",
+  "description": "使用 UAPI 的“AI翻译配置”单接口 skill，处理 AI翻译配置、AI翻译、翻译配置 等请求。 Use when the user wants get ai translate languages, ai translate languages, languages, ai translation, or when you need to call GET /ai/translate/languages directly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

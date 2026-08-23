@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:kekik-crawler",
+  "slug": "kekik-crawler",
+  "name": "kekik-crawler",
+  "title": "百里香爬虫",
+  "description": "Scrapling-only, deterministic web crawler with clean SRP architecture, presets, checkpointing, and JSONL/report outputs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Kekik Crawler",
+  "function_label": "Browser"
+}

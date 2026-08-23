@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:deep-researchj",
+  "slug": "deep-researchj",
+  "name": "deep-research",
+  "title": "深度研究代理",
+  "description": "Deep Research Agent specializes in complex, multi-step research tasks that require planning, decomposition, and long-context reasoning across tools and files by we-crafted.com/agents/deep-research",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Deep Research Agent"
+}

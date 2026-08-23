@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:coding-agent__CI_B8",
+  "slug": "coding-agent__CI_B8",
+  "name": "coding-agent",
+  "title": "编码代理",
+  "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Coding Agent (bash-first)",
+  "function_label": "Automation"
+}

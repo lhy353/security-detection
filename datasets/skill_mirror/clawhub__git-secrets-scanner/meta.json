@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:git-secrets-scanner",
+  "slug": "git-secrets-scanner",
+  "name": "git-secrets-scanner",
+  "title": "安全扫描器",
+  "description": "Git 安全扫描器 - 检查提交中的敏感信息泄露（API keys、密码、token）",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

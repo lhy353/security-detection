@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sports-live",
+  "slug": "sports-live",
+  "name": "sports-live",
+  "title": "实时体育赛事更新",
+  "description": "Aggiornamenti sportivi in tempo reale tramite TheSportsDB e API-Football.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sports Live — Aggiornamenti Sportivi in Tempo Reale",
+  "function_label": "Other"
+}

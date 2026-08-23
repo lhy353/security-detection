@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-video-generator-by-image",
+  "slug": "free-video-generator-by-image",
+  "name": "free-video-generator-by-image",
+  "title": "免费图像视频生成器",
+  "description": "Turn three product photos or a single landscape image into 1080p animated image videos just by typing what you need. Whether it's generating videos from still images for social media posts or quick social content, drop your images and describe the result you want. No timeline dragging, no export settings — 30-60 seconds from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Video Generator by Image — Turn Images Into Videos",
+  "function_label": "Communication"
+}

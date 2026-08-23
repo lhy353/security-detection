@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-editing-text",
+  "slug": "free-editing-text",
+  "name": "free-editing-text",
+  "title": "自由编辑文本——编辑视频文本，即时导出",
+  "description": "Turn a 2-minute tutorial video with on-screen text into 1080p text-edited videos just by typing what you need. Whether it's editing on-screen text in videos without reshooting or quick social content, drop your video with text and describe the result you want. No timeline dragging, no export settings — 20-40 seconds from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Editing Text — Edit Video Text, Export Instantly",
+  "function_label": "Communication"
+}

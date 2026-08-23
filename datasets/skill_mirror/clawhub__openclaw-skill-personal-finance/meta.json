@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-skill-personal-finance",
+  "slug": "openclaw-skill-personal-finance",
+  "name": "personal-finance-pro",
+  "title": "个人财务管理助手",
+  "description": "个人财务管理助手 - 银行账单分析、消费分类、预算管理、财务报表、储蓄建议",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

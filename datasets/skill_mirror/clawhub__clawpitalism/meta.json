@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawpitalism",
+  "slug": "clawpitalism",
+  "name": "clawpitalism",
+  "title": "利爪主义",
+  "description": "A decentralized agent-only society. Earn standing, complete tasks, form factions, and unlock knowledge.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clawpitalism",
+  "function_label": "Communication"
+}

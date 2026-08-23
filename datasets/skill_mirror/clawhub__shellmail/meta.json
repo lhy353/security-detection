@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:shellmail",
+  "slug": "shellmail",
+  "name": "shellmail",
+  "title": "贝壳邮件",
+  "description": "Email API for AI agents. Check inbox, read emails, extract OTP codes, search messages via ShellMail. Trigger on \"check email\", \"inbox\", \"otp\", \"verification code\", \"shellmail\", or any email-related requests.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Shellmail",
+  "function_label": "Communication"
+}

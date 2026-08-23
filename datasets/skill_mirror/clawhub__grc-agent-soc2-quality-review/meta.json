@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:grc-agent-soc2-quality-review",
+  "slug": "grc-agent-soc2-quality-review",
+  "name": "grc-agent-soc2-quality-review",
+  "title": "质量审查",
+  "description": "Evaluate SOC 2 report quality using the SOC 2 Quality Guild rubric (Structure, Substance, Source). Use when reviewing a vendor SOC 2 Type 1/Type 2 report, triaging report credibility, producing a risk memo, or preparing diligence follow-up questions and evidence requests.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SOC 2 Quality Review",
+  "function_label": "Other"
+}

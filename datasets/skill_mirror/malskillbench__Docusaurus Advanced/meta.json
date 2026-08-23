@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:Docusaurus Advanced",
+  "slug": "Docusaurus Advanced",
+  "name": "Docusaurus Advanced",
+  "title": "配置",
+  "description": "Deep dive into the Docusaurus configuration, plugins, and custom fields.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Docusaurus Configuration",
+  "function_label": "Coding"
+}

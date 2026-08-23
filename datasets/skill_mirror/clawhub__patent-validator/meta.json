@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:patent-validator",
+  "slug": "patent-validator",
+  "name": "Patent Validator",
+  "title": "专利验证器",
+  "description": "Turn your concept analysis into search queries — research the landscape before consulting an attorney. NOT legal advice.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Patent Validator",
+  "function_label": "Other"
+}

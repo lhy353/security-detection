@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:claw-esp-expert",
+  "slug": "claw-esp-expert",
+  "name": "claw-esp-expert",
+  "title": "专家型技能：环境检查、examples 导航、GPIO 规则审计…",
+  "description": "ESP-IDF 专家型技能：环境检查、examples 导航、GPIO 规则审计与构建诊断。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:memory-system-sidecar",
+  "slug": "memory-system-sidecar",
+  "name": "memory-system-sidecar",
+  "title": "内存系统边车",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Memory System Sidecar",
+  "function_label": "File-Agent"
+}

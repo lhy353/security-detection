@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-video-generator-hd",
+  "slug": "free-video-generator-hd",
+  "name": "free-video-generator-hd",
+  "title": "根据提示生成高清视频",
+  "description": "generate text or images into HD video files with this skill. Works with JPG, PNG, MP4, MOV files up to 200MB. content creators, small business owners, students use it for generating HD videos from text prompts or images without paid software — processing takes 1-2 minutes on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Video Generator HD — Generate HD Videos from Prompts",
+  "function_label": "Communication"
+}

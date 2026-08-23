@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bibtex-literature-review",
+  "slug": "bibtex-literature-review",
+  "name": "bibtex-literature-review",
+  "title": "文献综述",
+  "description": "Build Word literature reviews from BibTeX, RIS, CSL JSON, CSV/TSV, or plain reference lists with GB/T 7714, APA, MLA, Chicago, IEEE, Vancouver, or Harvard bibliography formatting and clickable Word REF citations. Use when Codex must parse literature source files, write Chinese or English reviews, generate .docx documents with superscript numeric citations, avoid HYPERLINK fields, enforce Word automatic numbered bibliography paragraphs, or validate REF/bookmark/numbering OOXML behavior.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Bibtex Literature Review",
+  "function_label": "Research"
+}

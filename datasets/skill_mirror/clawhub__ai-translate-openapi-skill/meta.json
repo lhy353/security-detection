@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-translate-openapi-skill",
+  "slug": "ai-translate-openapi-skill",
+  "name": "ai-translate-openapi-skill",
+  "title": "技能",
+  "description": "AI image text translator — translate text in an image to another language while preserving design",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WeShop OpenAPI Skill — ai-translate",
+  "function_label": "Other"
+}

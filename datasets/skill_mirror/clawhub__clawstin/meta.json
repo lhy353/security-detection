@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawstin",
+  "slug": "clawstin",
+  "name": "clawstin",
+  "title": "奥斯汀 OpenClaw 聚会",
+  "description": "Inform users about Clawstin (OpenClaw meetups in Austin), show upcoming events, handle RSVP and mailing list signup via API. \"Keep Austin Clawd.\"",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clawstin — Austin OpenClaw Meetup",
+  "function_label": "Communication"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:elite-memory-skill",
+  "slug": "elite-memory-skill",
+  "name": "elite-memory",
+  "title": "终极 AI 记忆系统",
+  "description": "终极 AI 记忆系统 - WAL 协议 + 每日记忆 + 长期记忆 + GitHub 自动同步 + 飞书通知",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub"
+}

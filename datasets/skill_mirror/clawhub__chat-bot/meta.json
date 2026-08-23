@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:chat-bot",
+  "slug": "chat-bot",
+  "name": "pywayne-llm-chat-bot",
+  "title": "聊天机器人",
+  "description": "LLM chat interface using OpenAI-compatible APIs with streaming support and session management. Use when working with pywayne.llm.chat_bot module for creating LLM chat instances with custom configuration, managing multi-turn conversations with history, handling streaming responses, or managing multiple chat sessions with ChatManager",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pywayne LLM Chat Bot",
+  "function_label": "Other"
+}

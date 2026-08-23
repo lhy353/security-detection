@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:emotional-advisor",
+  "slug": "emotional-advisor",
+  "name": "emotional-advisor",
+  "title": "情绪健康AI助手",
+  "description": "Professional emotional wellness AI assistant providing emotional analysis, mood recognition, and psychological advice. By listening to users' emotional struggles, it offers in-depth analysis and actionable solutions grounded in psychological principles.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Emotional Wellness AI Assistant",
+  "function_label": "Other"
+}

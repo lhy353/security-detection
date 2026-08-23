@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:editor-ai-linkedin",
+  "slug": "editor-ai-linkedin",
+  "name": "editor-ai-linkedin",
+  "title": "编辑和导出 LinkedIn 视频",
+  "description": "professionals and marketers edit raw video footage into LinkedIn-ready videos using this skill. Accepts MP4, MOV, AVI, WebM up to 500MB, renders on cloud GPUs at 1080p, and returns MP4 files in 1-2 minutes. Designed for editing and formatting videos for LinkedIn posts.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI LinkedIn Video Editor — Edit and Export LinkedIn Videos",
+  "function_label": "Communication"
+}

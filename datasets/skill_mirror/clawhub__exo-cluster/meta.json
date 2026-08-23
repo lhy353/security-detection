@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:exo-cluster",
+  "slug": "exo-cluster",
+  "name": "exo-cluster",
+  "title": "分布式 AI 集群",
+  "description": "Exo 分布式 AI 集群 - 将多台 Mac/PC/WSL2 设备整合为统一 GPU 集群，本地运行大模型。支持 DeepSeek、Qwen、LLaMA。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:deep-topic-research",
+  "slug": "deep-topic-research",
+  "name": "deep-topic-research",
+  "title": "深度话题调研工作流（Deep Topic Research）",
+  "description": "对用户提出的具体话题/课题/行业进行深度调研，输出结构化报告。结合多智能体并行搜索（借鉴女娲Nuwa）和克制调用原则（借鉴AutoGLM DeepResearch），先展示中间发现再决策。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

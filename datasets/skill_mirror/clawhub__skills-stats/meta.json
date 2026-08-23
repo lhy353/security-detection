@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skills-stats",
+  "slug": "skills-stats",
+  "name": "clawhub-skill-stats",
+  "title": "技能统计",
+  "description": "Query any ClawHub skill's statistics (stars, downloads, current installs, all-time installs) via curl and the public ClawHub API. Use when: user asks about a skill's popularity, stats, or metrics on ClawHub, wants to compare skill statistics, or needs to check how many stars/downloads/installs a ClawHub skill has — without opening the slow ClawHub web UI.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClawHub Skill Stats",
+  "function_label": "Data-Agent"
+}

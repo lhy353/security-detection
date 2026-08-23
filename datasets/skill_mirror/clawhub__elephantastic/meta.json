@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:elephantastic",
+  "slug": "elephantastic",
+  "name": "agent-gtd",
+  "title": "代理-gtd → 大象",
+  "description": "DEPRECATED — renamed to elephantastic. Install elephantastic instead: clawhub install elephantastic",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "agent-gtd → elephantastic",
+  "function_label": "Other"
+}

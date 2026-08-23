@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:unit-test-writer",
+  "slug": "unit-test-writer",
+  "name": "unit-test-writer",
+  "title": "单元测试编写者",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Unit Test Writer",
+  "function_label": "Automation"
+}

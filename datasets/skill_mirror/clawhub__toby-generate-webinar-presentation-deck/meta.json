@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:toby-generate-webinar-presentation-deck",
+  "slug": "toby-generate-webinar-presentation-deck",
+  "name": "toby-generate-webinar-presentation-deck",
+  "title": "生成网络研讨会演示文稿",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Generate Webinar Presentation Deck",
+  "function_label": "Other"
+}

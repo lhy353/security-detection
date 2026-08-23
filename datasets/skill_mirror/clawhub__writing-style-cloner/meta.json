@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:writing-style-cloner",
+  "slug": "writing-style-cloner",
+  "name": "writing-style-cloner",
+  "title": "写作风格克隆器",
+  "description": "Antonia的个人写作风格克隆器。将语音转录稿或草稿直接改写为符合Antonia写作风格的自媒体文章。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

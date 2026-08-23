@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:household-renewal-command-center",
+  "slug": "household-renewal-command-center",
+  "name": "Household Renewal Command Center",
+  "title": "家庭更新指挥中心",
+  "description": "Build a household renewal tracker for IDs, passports, insurance, vehicle registration, warranties, subscriptions, school forms, and medical paperwork.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Household Renewal Command Center",
+  "function_label": "Communication"
+}

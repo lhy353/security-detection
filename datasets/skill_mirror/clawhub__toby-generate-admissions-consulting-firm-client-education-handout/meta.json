@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:toby-generate-admissions-consulting-firm-client-education-handout",
+  "slug": "toby-generate-admissions-consulting-firm-client-education-handout",
+  "name": "Generate Admissions Consulting Firm Client Education Handout",
+  "title": "生成招生咨询公司客户教育讲义",
+  "description": "Create a polished explainer handout with visuals, FAQs, and clear next steps for a college admissions consulting firm. Use when handling client...",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Generate Admissions Consulting Firm Client Education Handout",
+  "function_label": "Other"
+}

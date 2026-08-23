@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ssh-executor",
+  "slug": "ssh-executor",
+  "name": "ssh-executor",
+  "title": "执行器",
+  "description": "Execute commands on remote hosts over SSH using SSH aliases, ssh config, tmux sessions, and private keys. Use when the user asks to SSH into a host, inspect Linux or server state remotely, run one-off remote shell commands, reuse an SSH alias, or drive a tmux-based remote workflow. Prefer for key-based SSH access and remote diagnostics. Do not use for password storage, private-key exfiltration, silent host-key bypass, or destructive changes without explicit confirmation.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Ssh Executor"
+}

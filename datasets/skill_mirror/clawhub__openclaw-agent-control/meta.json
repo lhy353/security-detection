@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-agent-control",
+  "slug": "openclaw-agent-control",
+  "name": "openclaw-agent-control",
+  "title": "代理控制技能",
+  "description": "Deploy and start OpenClaw Agent Control with one command (backend + frontend) using skill-based workflow.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenClaw Agent Control Skill",
+  "function_label": "Automation"
+}

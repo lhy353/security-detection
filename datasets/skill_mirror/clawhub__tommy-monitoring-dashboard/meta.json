@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tommy-monitoring-dashboard",
+  "slug": "tommy-monitoring-dashboard",
+  "name": "live-monitoring-dashboard",
+  "title": "实时监控仪表板",
+  "description": "Zero-token real-time Discord monitoring dashboard for OpenClaw. Displays system health, cron jobs, sessions, and performance analytics via persistent Discord messages updated every 2 minutes with no LLM token cost.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Live Monitoring Dashboard",
+  "function_label": "Automation"
+}

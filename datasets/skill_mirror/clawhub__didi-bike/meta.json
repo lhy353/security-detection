@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:didi-bike",
+  "slug": "didi-bike",
+  "name": "滴滴青桔",
+  "title": "滴滴青桔 AI 助手",
+  "description": "青桔单车出行助手，精通骑行路线、站点推荐、费用优化、出行建议",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

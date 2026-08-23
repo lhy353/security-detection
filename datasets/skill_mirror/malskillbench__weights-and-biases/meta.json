@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:weights-and-biases",
+  "slug": "weights-and-biases",
+  "name": "weights-and-biases",
+  "title": "权重和偏差：ML 实验跟踪和 MLOps",
+  "description": "Track ML experiments with automatic logging, visualize training in real-time, optimize hyperparameters with sweeps, and manage model registry with W&B - collaborative MLOps platform",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Weights & Biases: ML Experiment Tracking & MLOps",
+  "function_label": "Data-Agent"
+}

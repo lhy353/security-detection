@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawdbot-blogwatcher",
+  "slug": "clawdbot-blogwatcher",
+  "name": "blogwatcher",
+  "title": "博客观察者",
+  "description": "Monitor blogs and RSS feeds",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Blog Watcher",
+  "function_label": "Research"
+}

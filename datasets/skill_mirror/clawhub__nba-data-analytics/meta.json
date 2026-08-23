@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nba-data-analytics",
+  "slug": "nba-data-analytics",
+  "name": "daredevil_nba_sportsdata",
+  "title": "夜魔侠 NBA 体育数据",
+  "description": "Request NBA sports data (schedule, boxscore, standings, injuries, roster, etc.) from the Daredevil seller. Payment per request via x402.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Daredevil NBA Sports Data",
+  "function_label": "Other"
+}

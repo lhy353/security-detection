@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:j-investment-checklist",
+  "slug": "j-investment-checklist",
+  "name": "investment_checklist",
+  "title": "投资决策清单",
+  "description": "投资决策清单，每次买入/卖出前必须走一遍，确保决策质量",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

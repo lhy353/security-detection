@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ai-mcp-integration",
+  "slug": "ai-mcp-integration",
+  "name": "ai-mcp-integration",
+  "title": "和 MCP 集成指南",
+  "description": "AI and MCP (Model Context Protocol) integration patterns for RawDrive. Use when working with the ai-service, implementing AI features, or building MCP tools.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "AI & MCP Integration Guidelines",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hd-video-editing-with",
+  "slug": "hd-video-editing-with",
+  "name": "hd-video-editing-with",
+  "title": "编辑和导出高清视频",
+  "description": "edit raw video footage into polished HD videos with this hd-video-editing-with skill. Works with MP4, MOV, AVI, MKV files up to 500MB. content creators and YouTubers use it for editing high-definition footage into clean, shareable videos — processing takes 1-2 minutes on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "HD Video Editing With AI — Edit and Export HD Videos",
+  "function_label": "Communication"
+}

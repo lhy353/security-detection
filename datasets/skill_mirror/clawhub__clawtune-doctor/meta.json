@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:clawtune-doctor",
+  "slug": "clawtune-doctor",
+  "name": "clawtune-doctor",
+  "title": "诊断你的 OpenClaw 配置和 tool calling 问题，基于 205…",
+  "description": "诊断你的 OpenClaw 配置和 tool calling 问题，基于 205 场景评测数据给出优化建议",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

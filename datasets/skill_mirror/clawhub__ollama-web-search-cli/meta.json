@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ollama-web-search-cli",
+  "slug": "ollama-web-search-cli",
+  "name": "ollama-web-search-cli",
+  "title": "使用 Ollama Web Search API 进行网络搜索和网页抓取",
+  "description": "使用 Ollama Web Search API 进行网络搜索和网页抓取",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

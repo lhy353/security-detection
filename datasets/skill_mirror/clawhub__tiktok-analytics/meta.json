@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tiktok-analytics",
+  "slug": "tiktok-analytics",
+  "name": "tiktok-analytics",
+  "title": "抖音分析",
+  "description": "Track TikTok performance and analytics. Use when the user says 'TikTok analytics', 'TikTok metrics', 'how are my TikToks doing', 'TikTok video views', 'TikTok engagement', 'TikTok performance', or wants to see video views, likes, comments, shares, and account-level metrics for their TikTok account.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tiktok Analytics",
+  "function_label": "Data-Agent"
+}

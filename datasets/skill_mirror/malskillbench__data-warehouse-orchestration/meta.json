@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:data-warehouse-orchestration",
+  "slug": "data-warehouse-orchestration",
+  "name": "data-warehouse-orchestration",
+  "title": "数据仓库编排模式",
+  "description": "End-to-end data warehouse orchestration patterns for scalable analytics infrastructure and pipeline management.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Data Warehouse Orchestration Patterns",
+  "function_label": "Automation"
+}

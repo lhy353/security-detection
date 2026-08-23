@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-practice-schedule-designer",
+  "slug": "bookforge-practice-schedule-designer",
+  "name": "practice-schedule-designer",
+  "title": "练习日程设计器",
+  "description": "Design a concrete practice schedule that will actually make learning stick — not just feel productive. Use this skill when the user is preparing for a test, building a new skill, training others, or planning a study program and needs to decide how to structure practice sessions over time. Triggers include: user is relying on marathon study sessions or cramming before a deadline; user practices one topic exhaustively before moving to the next; user feels they know material during practice but forgets it on tests or in real situations; user wants to know how often to review flashcards or revisit past material; user needs to design a training curriculum for a team or class; user is switching between topics during study and wants to know if that is helping or hurting; user is preparing for a performance context (exam, job, sport) and must choose between depth on one skill versus breadth across many. This skill does NOT address memorization technique or recall strategy — use retrieval-practice-study-system for those.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Practice Schedule Designer",
+  "function_label": "Other"
+}

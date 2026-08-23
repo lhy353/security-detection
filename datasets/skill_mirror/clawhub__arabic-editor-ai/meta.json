@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:arabic-editor-ai",
+  "slug": "arabic-editor-ai",
+  "name": "arabic-editor-ai",
+  "title": "使用 AI 编辑阿拉伯语视频",
+  "description": "edit raw video footage into edited Arabic videos with this arabic-editor-ai skill. Works with MP4, MOV, AVI, WebM files up to 500MB. Arabic content creators use it for editing Arabic-language videos with AI-generated Arabic subtitles and cuts — processing takes 1-2 minutes on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Arabic Editor AI — Edit Arabic Videos with AI",
+  "function_label": "Communication"
+}

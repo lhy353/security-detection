@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-dx",
+  "slug": "openclaw-dx",
+  "name": "openclaw-dx",
+  "title": "网关 DX",
+  "description": "Diagnose and fix openclaw gateway issues. Use when the gateway is stuck, not starting, crash-looping, or rejecting connections. Covers main and --profile vesper gateways. Runs triage, applies fixes, writes incident report to ~/clawd/inbox.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenClaw Gateway DX",
+  "function_label": "Other"
+}

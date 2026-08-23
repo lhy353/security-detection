@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:fpt-cli-openclaw",
+  "slug": "fpt-cli-openclaw",
+  "name": "fpt-cli-openclaw",
+  "title": "开爪",
+  "description": "This skill should be used when OpenClaw needs to install, configure, inspect, or operate `fpt-cli` for Autodesk Flow Production Tracking / ShotGrid workflows, especially for auth setup, schema/entity reads, structured searches, and safe write previews.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Fpt Cli Openclaw",
+  "function_label": "Communication"
+}

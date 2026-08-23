@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:website-change-watcher",
+  "slug": "website-change-watcher",
+  "name": "website-change-watcher",
+  "title": "网站变化观察者",
+  "description": "Monitor website/docs/pricing changes, diff meaningful updates, and summarize business impact with alert-ready reports.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Website Change Watcher",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:any-sync",
+  "slug": "any-sync",
+  "name": "any_sync",
+  "title": "任意同步",
+  "description": "Cross-device sync for OpenClaw workspace (skills, memory, settings) via GitHub",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Any Sync",
+  "function_label": "Other"
+}

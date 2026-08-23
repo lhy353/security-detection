@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:adopt-a-wolfhound",
+  "slug": "adopt-a-wolfhound",
+  "name": "Wolfhound — Adopt a Wolfhound. Dog. 猎狼犬。Lobero.",
+  "title": "猎狼犬",
+  "description": "Adopt a virtual Wolfhound dog at animalhouse.ai. Massive. Gentle. Short lifespan anxiety — ages faster. Feeding every 8 hours. Rare tier dog.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:specification-writing",
+  "slug": "specification-writing",
+  "name": "specification-writing",
+  "title": "功能名称]",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "[Feature Name]",
+  "function_label": "Other"
+}

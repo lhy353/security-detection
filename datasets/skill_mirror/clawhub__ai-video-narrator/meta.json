@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-video-narrator",
+  "slug": "ai-video-narrator",
+  "name": "ai-video-narrator",
+  "title": "为任何视频提供应有的声音",
+  "description": "Add professional AI narration and voiceover to any video — generate natural-sounding narration from text or scripts, match voice tone to video mood, synchronize narration with visual timing, and produce documentary-quality voiceover without hiring talent. NemoVideo creates narration that sounds human: varied pacing, emotional inflection, natural pauses, breath sounds, and style matching. Narrate product demos, documentaries, explainer videos, tutorials, presentations, and social content with AI voices indistinguishable from professional voice actors. AI narrator video, add narration to video, video voiceover generator, documentary narrator AI, text to narration video, auto narrate video, video storyteller AI.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Video Narrator — Give Any Video a Voice It Deserves",
+  "function_label": "Other"
+}

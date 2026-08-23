@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-editor-with-ai-assistant",
+  "slug": "video-editor-with-ai-assistant",
+  "name": "video-editor-with-ai-assistant",
+  "title": "编辑和导出精美视频",
+  "description": "Get polished edited clips ready to post, without touching a single slider. Upload your raw video footage (MP4, MOV, AVI, WebM, up to 500MB), say something like \"cut the dead air, add transitions, and overlay background music\", and download 1080p MP4 when it's done. Built for content creators and marketers who move fast and want quick professional edits without learning complex software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Editor with AI Assistant — Edit and Export Polished Videos",
+  "function_label": "Automation"
+}

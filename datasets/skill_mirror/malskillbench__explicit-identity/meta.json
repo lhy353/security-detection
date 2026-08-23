@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:explicit-identity",
+  "slug": "explicit-identity",
+  "name": "explicit-identity",
+  "title": "跨越界限的明确身份",
+  "description": "Explicit Identity Across Boundaries",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Explicit Identity Across Boundaries",
+  "function_label": "Automation"
+}

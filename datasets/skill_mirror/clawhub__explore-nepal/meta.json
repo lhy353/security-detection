@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:explore-nepal",
+  "slug": "explore-nepal",
+  "name": "explore-nepal",
+  "title": "关键执行规则",
+  "description": "Book flights to Nepal including Kathmandu and Pokhara. Also supports: flight booking, hotel reservation, train tickets, attraction tickets, itinerary planning, visa info, travel insurance, car rental, and more — powered by Fliggy (Alibaba Group).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CRITICAL EXECUTION RULES",
+  "function_label": "Other"
+}

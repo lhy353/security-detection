@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:prompt-injection-guard",
+  "slug": "prompt-injection-guard",
+  "name": "prompt-injection-guard",
+  "title": "快速注射防护技能",
+  "description": "Prompt injection defense. Detect and block malicious prompts, protect system instructions, sanitize user input.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Prompt Injection Guard Skill",
+  "function_label": "Other"
+}

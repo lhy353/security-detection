@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:deployment-validator",
+  "slug": "deployment-validator",
+  "name": "deployment-validator",
+  "title": "部署验证器",
+  "description": "Validates deployment readiness and compliance requirements before production releases. Performs automated safety checks, dependency verification, and rollback planning.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Deployment Validator",
+  "function_label": "Automation"
+}

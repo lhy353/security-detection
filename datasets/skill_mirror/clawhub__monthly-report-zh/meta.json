@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:monthly-report-zh",
+  "slug": "monthly-report-zh",
+  "name": "monthly-report-zh",
+  "title": "月报生成助手",
+  "description": "将一个月的工作内容、项目进展与个人成果自动整理为结构清晰的月报文档， 适用于月度总结、月度汇报、工作月报等场景。支持突出核心亮点、量化关键 数据指标、梳理问题与风险，并生成下月工作计划。适合各职能条线员工、 项目经理及团队负责人撰写月报/月度工作汇报/月度工作总结时使用， 显著降低整理成本，确保汇报内容重点突出、逻辑清晰、格式专业。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

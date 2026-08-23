@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:huo15-plan-mode",
+  "slug": "huo15-plan-mode",
+  "name": "huo15-plan-mode",
+  "title": "火一五 Plan Mode",
+  "description": "火一五 Plan Mode - 危险操作二次确认机制。检测到危险操作时自动暂停，等待用户确认后再执行。触发词：Plan Mode、危险操作确认、二次确认。",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:terraform-cloud",
+  "slug": "terraform-cloud",
+  "name": "terraform-cloud",
+  "title": "地形云",
+  "description": "Terraform Cloud — manage workspaces, runs, plans, state, and variables via REST API",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "️ Terraform Cloud",
+  "function_label": "Automation"
+}

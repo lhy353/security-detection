@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:amap-maps-streamablehttp",
+  "slug": "amap-maps-streamablehttp",
+  "name": "amap-maps-streamableHTTP",
+  "title": "技能",
+  "description": "Auto-generated skill for amap-maps-streamableHTTP tools via OneKey Gateway.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "amap-maps-streamableHTTP Skill",
+  "function_label": "File-Agent"
+}

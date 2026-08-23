@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:trustboost-pii-sanitizer",
+  "slug": "trustboost-pii-sanitizer",
+  "name": "trustboost-pii-sanitizer",
+  "title": "消毒剂 v2.6.0",
+  "description": "Context-aware PII sanitization for autonomous AI agent pipelines. Sanitizes text before LLMs with 5 context modes (legal/financial/medical/code/general), Privacy Budget per agent, and TrustBoost Score for M2M trust verification. Supports EN, ES (LATAM), PT (BR/PT), DE, JA, FR, IT, KO with country-specific patterns (RFC, CUIT, CPF, CNPJ, Personalausweis, マイナンバー, NIR, Codice Fiscale, 주민등록번호). Returns sanitized text, safety_score (0.0-1.0), risk_category (CRITICAL/PRIVATE/SENSITIVE/CLEAN), and context_applied. No SDK required — single POST request. 50 free requests per wallet with tx_hash=\"TRIAL\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "TrustBoost PII Sanitizer v2.6.0",
+  "function_label": "Data-Agent"
+}

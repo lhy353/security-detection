@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:content-standards-enforcer",
+  "slug": "content-standards-enforcer",
+  "name": "content-standards-enforcer",
+  "title": "内容标准执行者",
+  "description": "Validates and enhances written content against professional publishing standards, ensuring accuracy, credibility, and editorial compliance across all content types.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Content Standards Enforcer",
+  "function_label": "Other"
+}

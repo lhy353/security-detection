@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:draw-io",
+  "slug": "draw-io",
+  "name": "draw-io",
+  "title": "图表技巧",
+  "description": "draw.io diagram creation, editing, and review. Use for .drawio XML editing, PNG conversion, layout adjustment, and AWS icon usage.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "draw.io Diagram Skill",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vscode-agent-creator",
+  "slug": "vscode-agent-creator",
+  "name": "vscode-agent-creator",
+  "title": "自定义代理创建器",
+  "description": "Create VS Code Copilot custom Agent (.agent.md) files.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "VS Code Copilot Custom Agent Creator",
+  "function_label": "Coding"
+}

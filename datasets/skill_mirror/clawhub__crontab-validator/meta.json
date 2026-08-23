@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:crontab-validator",
+  "slug": "crontab-validator",
+  "name": "crontab-validator",
+  "title": "验证器和解释器",
+  "description": "Validate, explain, lint, and calculate next run times for cron expressions. Use when asked to check cron syntax, explain a crontab entry, find next scheduled runs, or lint cron expressions for common mistakes. Triggers on \"crontab\", \"cron expression\", \"cron schedule\", \"cron syntax\", \"cron explain\", \"cron next run\", \"*/5 * * * *\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Crontab Validator & Explainer",
+  "function_label": "Coding"
+}

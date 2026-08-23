@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:openai-image-gen__CI_B1",
+  "slug": "openai-image-gen__CI_B1",
+  "name": "openai-image-gen",
+  "title": "图像生成",
+  "description": "Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "OpenAI Image Gen",
+  "function_label": "Data-Agent"
+}

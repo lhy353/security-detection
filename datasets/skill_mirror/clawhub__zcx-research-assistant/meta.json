@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:zcx-research-assistant",
+  "slug": "zcx-research-assistant",
+  "name": "zcx-research-assistant",
+  "title": "深度研究助手",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

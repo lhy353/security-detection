@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:subagent-sheepdog",
+  "slug": "subagent-sheepdog",
+  "name": "subagent-sheepdog",
+  "title": "副代理牧羊犬",
+  "description": "Launch verification and watchdog discipline for delegated, backgrounded, browser-driven, and long-running tasks. Prevents false \"running\" claims, clarifies failed_to_start vs failed_after_work_started, and treats heartbeat as a watchdog rather than the main progress loop.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Subagent Sheepdog",
+  "function_label": "Browser"
+}

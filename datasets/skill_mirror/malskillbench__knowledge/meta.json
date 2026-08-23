@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:knowledge",
+  "slug": "knowledge",
+  "name": "knowledge",
+  "title": "知识库技能",
+  "description": "Search WeKnora knowledge base for documentation, guides, and best practices. Use when user asks \"how to\", \"what is\", or needs configuration guides, feature docs, usage instructions, or troubleshooting steps.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Knowledge Base Skill",
+  "function_label": "Automation"
+}

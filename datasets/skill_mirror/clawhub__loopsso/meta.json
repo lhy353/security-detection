@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:loopsso",
+  "slug": "loopsso",
+  "name": "loopsso",
+  "title": "循环.so",
+  "description": "Loops.so integration. Manage Persons, Organizations, Deals, Activities, Notes, Files and more. Use when the user wants to interact with Loops.so data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Loops.so",
+  "function_label": "Browser"
+}

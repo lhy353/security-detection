@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aeo-schema-validate",
+  "slug": "aeo-schema-validate",
+  "name": "aeo-schema-validate",
+  "title": "架构验证",
+  "description": "Validate JSON-LD structured data on a URL against AEO best practices. Checks schema types, property completeness, and entity consistency. Use for focused schema auditing.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AEO Schema Validation",
+  "function_label": "Other"
+}

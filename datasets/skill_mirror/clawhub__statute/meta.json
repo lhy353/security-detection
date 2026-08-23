@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:statute",
+  "slug": "statute",
+  "name": "statute",
+  "title": "法律法规参考",
+  "description": "Legal statutes reference — statutory interpretation, legislative process, types of statutes, and citation formats. Use when researching laws, understanding statutory construction, or analyzing legislative text.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Statute — Legal Statutes Reference",
+  "function_label": "Other"
+}

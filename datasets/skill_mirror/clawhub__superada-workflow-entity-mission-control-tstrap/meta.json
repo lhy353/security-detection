@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:superada-workflow-entity-mission-control-tstrap",
+  "slug": "superada-workflow-entity-mission-control-tstrap",
+  "name": "superada-workflow-entity-mission-control-bootstrap",
+  "title": "实体任务控制引导程序",
+  "description": "Installs from a real external skill bundle that bootstraps the Entity Mission Control helper runtime for a crew of agents with shared scripts, structured task intake, per-agent manifests, and supervised rollout steps.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Entity Mission Control Bootstrap",
+  "function_label": "Automation"
+}

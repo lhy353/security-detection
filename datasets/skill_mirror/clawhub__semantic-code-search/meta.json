@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:semantic-code-search",
+  "slug": "semantic-code-search",
+  "name": "semantic-code-search",
+  "title": "语义代码搜索",
+  "description": "Semantic search engine for codebases that understands intent and finds functionally similar code. Use when searching code by meaning rather than text, finding similar implementations, discovering duplicate logic, or navigating unfamiliar codebases. Covers AST parsing, embedding generation, similarity search, and intent-based queries.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Semantic Code Search",
+  "function_label": "Data-Agent"
+}

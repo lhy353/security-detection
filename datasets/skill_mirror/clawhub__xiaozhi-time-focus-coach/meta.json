@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:xiaozhi-time-focus-coach",
+  "slug": "xiaozhi-time-focus-coach",
+  "name": "xiaozhi-time-focus-coach",
+  "title": "时间与专注力教练",
+  "description": "让时间变成你能看见的东西——不是管出来的，是被小龙虾帮你看清楚去哪了的。 当学生说\"我时间不够用\"、\"我总是拖延\"、\"帮我记录学习时间\"、\"我容易分心\"、 \"黄金时段在哪里\"、\"智能番茄钟\"、\"我的专注力很差\"、\"帮我分析分心规律\"时， 必须激活此SKILL。 核心功能：时间销行账三步系统（记录→分析→黄金时段）+ 10种AI辅助专注方法 + 专属专注力履历档案 + 智能番茄钟。 涉及长期记录、提醒或协作时，仅在用户允许后启用。 时间管理最大的误区不是自律性不够，而是没有数据。 凡是涉及学习时间记录、专注力训练、任务安排优化的场景，务必调用此SKILL。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

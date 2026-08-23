@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:diy-video-editor",
+  "slug": "diy-video-editor",
+  "name": "diy-video-editor",
+  "title": "描述项目、记录构建",
+  "description": "DIY Video Editor — Edit Home Improvement and Renovation Project Videos with AI. The bathroom renovation took three weekends and you filmed every demolition swing, tile cut, and grout line — forty-seven clips totaling nine hours, most of which is measuring twice and swearing once. Upload the full haul. The AI identifies project phases — demo day, framing, plumbing rough-in, tiling, grouting, fixture install, final reveal — and assembles a structured build video: before-and-after split screens at each milestone, speed ramps through repetitive screw-driving with a visible elapsed-time counter, material callouts floating beside each product as it appears — \"Subway tile, 3x6, matte white, $2.49/sqft.\" Pin a running cost tally in the corner that updates at every purchase mention. Score with upbeat rock that matches power-tool energy. Render a twelve-minute YouTube project walkthrough, a sixty-second before-and-after Reel for Instagram, and a vertical TikTok of just the demolition montage set to a trending audio. Aimed at weekend warriors documenting home flips, contractor channels growing audiences, real estate investors showcasing value-add renovations, and hardware-store influencers reviewing products through actual install footage. Supports mp4, mov, webm, mkv, jpg, png.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "DIY Video Editor — Describe the Project, Document the Build",
+  "function_label": "Other"
+}

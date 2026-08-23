@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:reference-sdk__CI_B6",
+  "slug": "reference-sdk__CI_B6",
+  "name": "reference-sdk",
+  "title": "参考SDK检查",
+  "description": "Check reference SDK implementations using btca ask",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Reference SDK Check",
+  "function_label": "Coding"
+}

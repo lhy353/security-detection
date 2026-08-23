@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-feishu-group-chat",
+  "slug": "openclaw-feishu-group-chat",
+  "name": "openclaw-feishu-group-chat",
+  "title": "开爪飞书群聊",
+  "description": "Teach OpenClaw how to work in Feishu (Lark) group chats — recognize who's talking, behave properly in groups vs DMs, respect multi-user privacy, and format messages for the platform. Use when connecting OpenClaw to Feishu and you want your agent to be a competent group participant, not just a responder.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Openclaw Feishu Group Chat",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sg-maid-search",
+  "slug": "sg-maid-search",
+  "name": "sg-maid-search",
+  "title": "新加坡家政女佣配对",
+  "description": "Search and match available domestic maids from Sunrise Link's database in Singapore. Use this skill when the user wants to find, filter, or shortlist domestic maids based on their household needs, budget, or specific skill requirements. Guides users through requirements gathering if no criteria are specified.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Singapore Domestic Maid Matching",
+  "function_label": "Data-Agent"
+}

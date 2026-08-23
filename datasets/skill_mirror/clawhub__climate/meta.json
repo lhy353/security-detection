@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:climate",
+  "slug": "climate",
+  "name": "climate",
+  "title": "气候",
+  "description": "Climate - command-line tool for everyday use Use when you need climate.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Climate",
+  "function_label": "Communication"
+}

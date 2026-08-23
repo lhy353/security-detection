@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-newsletter-toolkit",
+  "slug": "ai-newsletter-toolkit",
+  "name": "ai-newsletter-toolkit",
+  "title": "艾通讯工具包",
+  "description": "The complete orchestration suite for 2026 AI-driven newsletters. Automates data harvesting, trend distillation, and multi-channel distribution (Threads/Email/GitHub).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ai Newsletter Toolkit",
+  "function_label": "Communication"
+}

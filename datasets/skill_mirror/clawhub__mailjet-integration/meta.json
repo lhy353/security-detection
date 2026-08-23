@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mailjet-integration",
+  "slug": "mailjet-integration",
+  "name": "mailjet",
+  "title": "邮机",
+  "description": "Mailjet integration. Manage Campaigns, Templates, Senders. Use when the user wants to interact with Mailjet data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Mailjet",
+  "function_label": "Communication"
+}

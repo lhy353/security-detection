@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vvvv-testing",
+  "slug": "vvvv-testing",
+  "name": "vvvv-testing",
+  "title": "测试 vvvv gamma 项目",
+  "description": "Set up and run automated tests for vvvv gamma packages and C# nodes -- VL.TestFramework with NUnit for library/package authors (CI-ready), test .vl patches with assertion nodes, and lightweight agent-driven test workflows. Use when writing tests for vvvv packages, setting up test infrastructure, creating test patches, running automated compilation checks, or integrating vvvv tests into CI/CD.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Testing vvvv gamma Projects",
+  "function_label": "Coding"
+}

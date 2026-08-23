@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:wttr-in",
+  "slug": "wttr-in",
+  "name": "wttr-in",
+  "title": "重量输入",
+  "description": "Query weather data from wttr.in. Use when current weather information is needed.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Wttr.in",
+  "function_label": "Data-Agent"
+}

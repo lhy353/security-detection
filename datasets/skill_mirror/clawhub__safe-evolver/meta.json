@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:safe-evolver",
+  "slug": "safe-evolver",
+  "name": "safe-evolver",
+  "title": "安全进化者",
+  "description": "A safe AI agent evolution engine that analyzes runtime history to identify improvements and applies protocol-constrained evolution with comprehensive safety checks and audit logs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Safe Evolver",
+  "function_label": "Data-Agent"
+}

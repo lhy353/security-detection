@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:auto-fix",
+  "slug": "auto-fix",
+  "name": "auto-fix",
+  "title": "自动修复技能",
+  "description": "Auto-fix for common errors. Lint, type, syntax, test failures. Quick fixes without manual intervention.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Auto-Fix Skill",
+  "function_label": "Coding"
+}

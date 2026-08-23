@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:awscli",
+  "slug": "awscli",
+  "name": "awscli",
+  "title": "控制技巧",
+  "description": "Manage AWS Lightsail and EC2 instances using AWS CLI",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AWS CLI Control Skill",
+  "function_label": "Other"
+}

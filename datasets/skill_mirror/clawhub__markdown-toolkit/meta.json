@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:markdown-toolkit",
+  "slug": "markdown-toolkit",
+  "name": "markdown-toolkit",
+  "title": "降价工具包",
+  "description": "Swiss army knife for Markdown — TOC generator, format conversion (MD↔HTML), broken formatting fixer, HTML stripper, file merger, YAML frontmatter validator, orphan link finder. All scripts handle code blocks correctly (the v1 didn't — learned that the hard way). Not for LaTeX, DOCX, or rich document layout.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Markdown Toolkit",
+  "function_label": "File-Agent"
+}

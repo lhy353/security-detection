@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:gifgrep__PI_B8",
+  "slug": "gifgrep__PI_B8",
+  "name": "gifgrep",
+  "title": "使用 CLI/TUI 搜索 GIF 提供商、下载结果并提取静态图片/表格",
+  "description": "Search GIF providers with CLI/TUI, download results, and extract stills/sheets.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "gifgrep",
+  "function_label": "Automation"
+}

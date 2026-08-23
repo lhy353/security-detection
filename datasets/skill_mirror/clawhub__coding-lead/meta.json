@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:coding-lead",
+  "slug": "coding-lead",
+  "name": "coding-lead",
+  "title": "编码铅",
+  "description": "Coding execution skill for any implementation-focused agent. Current production path is claude-only with simple tasks direct, medium tasks preferring ACP run or direct acpx, and complex tasks handled via existing agent continuity plus context files instead of ACP session persistence. Integrates with qmd and smart-agent-memory when available.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Coding Lead",
+  "function_label": "Data-Agent"
+}

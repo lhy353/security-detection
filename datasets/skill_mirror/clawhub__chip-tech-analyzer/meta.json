@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:chip-tech-analyzer",
+  "slug": "chip-tech-analyzer",
+  "name": "chip-tech-analyzer",
+  "title": "芯片技术分析器",
+  "description": "生成专业的芯片（CPU/显卡/GPU）技术分析文档，包含架构解析、性能评测、功耗分析、性价比评估等。适用于硬件评测、选购指南、技术研究报告等场景。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

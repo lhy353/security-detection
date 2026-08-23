@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:team-building",
+  "slug": "team-building",
+  "name": "team-building",
+  "title": "团队建设",
+  "description": "Generate team activities, icebreakers, and random team assignments. Use when planning team events.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Team Building",
+  "function_label": "Other"
+}

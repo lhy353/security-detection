@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:daily-greeting-bot",
+  "slug": "daily-greeting-bot",
+  "name": "daily-greeting-bot",
+  "title": "获取当地天气，并结合天气情况生成一句幽默的早安问候或“土味情话”",
+  "description": "获取当地天气，并结合天气情况生成一句幽默的早安问候或“土味情话”。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

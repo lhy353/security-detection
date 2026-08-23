@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ntriq-x402-blueprint-batch",
+  "slug": "ntriq-x402-blueprint-batch",
+  "name": "ntriq-x402-blueprint-batch",
+  "title": "蓝图批次",
+  "description": "Batch architectural blueprint analysis for up to 500 images. Flat $15.00 USDC via x402.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Blueprint Batch (x402)",
+  "function_label": "File-Agent"
+}

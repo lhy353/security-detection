@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:multi-skill-eval",
+  "slug": "multi-skill-eval",
+  "name": "multi-skill-eval",
+  "title": "集成化多方法技能评估系统",
+  "description": "集成化多方法技能评估系统。整合静态分析(skill-assessment)、Rubric质量打分(skill-evaluator)和自主基准测试(skill-eval)。用于全面评估、对比、审计或改进OpenClaw技能。覆盖文档完整性、代码质量、25项Rubric打分、多模型基准测试。\n\n触发词(中文): 评估技能、技能评分、技能审计、对比技能、批量评估、技能质量检查、静态分析、基准测试、触发词检测、幽灵工具检测\n触发词(English): evaluate skill, compare skills, audit skill, benchmark skill, static analysis, skill quality, skill assessment\n\nUse when you need to evaluate, audit, benchmark, or improve OpenClaw skills.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

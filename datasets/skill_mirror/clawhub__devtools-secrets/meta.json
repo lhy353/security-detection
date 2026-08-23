@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:devtools-secrets",
+  "slug": "devtools-secrets",
+  "name": "devtools-secrets",
+  "title": "开发工具的秘密",
+  "description": "Knowledge and guardrails for the mise + fnox + infisical secrets toolchain. Use when the user asks to \"configure secrets\", \"set up fnox\", \"infisical\", \"mise env\", \"secrets management\", \"environment variables for secrets\", or mentions secret injection, secret providers, or env var hygiene.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Devtools Secrets",
+  "function_label": "Automation"
+}

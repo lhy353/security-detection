@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:speech-quality-evaluator",
+  "slug": "speech-quality-evaluator",
+  "name": "speech-quality-evaluator",
+  "title": "语音质量评估器",
+  "description": "Analyzes audio recordings and speech streams for quality metrics including clarity,\nnoise levels, distortion, and intelligibility scoring. Supports batch processing\nand real-time evaluation workflows.\n",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Speech Quality Evaluator",
+  "function_label": "File-Agent"
+}

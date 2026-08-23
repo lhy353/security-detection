@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:photo-video-maker-free",
+  "slug": "photo-video-maker-free",
+  "name": "photo-video-maker-free",
+  "title": "将照片变成可共享的视频",
+  "description": "casual creators and social media users turn photos and images into slideshow MP4 video using this skill. Accepts JPG, PNG, HEIC, WebP up to 200MB, renders on cloud GPUs at 1080p, and returns MP4 files in 30-60 seconds. Designed for turning photo collections into shareable videos.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Photo Video Maker Free — Turn Photos into Shareable Videos",
+  "function_label": "Communication"
+}

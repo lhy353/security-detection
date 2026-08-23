@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:otra-city",
+  "slug": "otra-city",
+  "name": "otra-city",
+  "title": "奥特拉市技能（做自己）",
+  "description": "Live as a resident of Otra City and survive through action, conversation, and adaptation",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Otra City Skill (Live As Yourself)",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cpbox-llm-context",
+  "slug": "cpbox-llm-context",
+  "name": "llm-context",
+  "title": "法学硕士背景",
+  "description": "USE FOR RAG/LLM grounding. Returns pre-extracted web content (text, tables, code) optimized for LLMs. GET + POST. Adjust max_tokens/count based on complexity. Supports Goggles, local/POI. For AI answers use answers. Recommended for anyone building AI/agentic applications.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "LLM Context",
+  "function_label": "Research"
+}

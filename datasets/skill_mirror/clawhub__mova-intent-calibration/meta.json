@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mova-intent-calibration",
+  "slug": "mova-intent-calibration",
+  "name": "mova-intent-calibration",
+  "title": "意念结晶",
+  "description": "Transform a raw user request into a clear, bounded, testable, and responsibility-bearing intent through structured crystallization. Use before any complex task, contract creation, or execution. Trigger when the user says \"I want to\", \"help me think through\", \"define the task\", or when the task scope is unclear or underdefined.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MOVA Intent Crystallization",
+  "function_label": "Other"
+}

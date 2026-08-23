@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:strategy-translator",
+  "slug": "strategy-translator",
+  "name": "strategy-translator",
+  "title": "策略翻译器",
+  "description": "Translate trading strategies between different frameworks and languages. Use when converting Pine Script to Python, porting strategies to NautilusTrader, or cross-platform migration.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Strategy Translator",
+  "function_label": "Automation"
+}

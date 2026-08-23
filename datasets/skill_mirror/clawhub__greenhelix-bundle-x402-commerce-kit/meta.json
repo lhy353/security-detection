@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:greenhelix-bundle-x402-commerce-kit",
+  "slug": "greenhelix-bundle-x402-commerce-kit",
+  "name": "greenhelix-bundle-x402-commerce-kit",
+  "title": "商务套件：商家入门套件 + 支付导轨指南 + 安全强化",
+  "description": "Launch a crypto-native storefront from scratch. Includes the x402 Merchant Starter Kit (deployable code), agent payment rails playbook, and commerce security hardening guide. Deploy in 15 minutes. 2 guides + production code.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "x402 Commerce Kit: Merchant Starter Kit + Payment Rails Guide + Security Hardening",
+  "function_label": "Automation"
+}

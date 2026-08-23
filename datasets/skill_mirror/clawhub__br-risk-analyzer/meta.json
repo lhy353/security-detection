@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:br-risk-analyzer",
+  "slug": "br-risk-analyzer",
+  "name": "br-risk-analyzer",
+  "title": "根据需求文档分析风险，分析代码漏洞",
+  "description": "根据需求文档分析风险，分析代码漏洞。analyzes code changes between commits against requirement documents to identify and prioritize risk points.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

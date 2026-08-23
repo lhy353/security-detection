@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-music",
+  "slug": "ai-music",
+  "name": "text-to-music",
+  "title": "人工智能音乐工作室",
+  "description": "AI music generation assistant powered by MakebestMusic. Use when user wants to create AI-generated music, songs, or audio tracks. Perfect for content creators, musicians, and anyone wanting custom AI music. Triggers on requests like \"create a song\", \"generate music\", \"makebestmusic\", \"AI music\", \"write a melody\", etc.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "AI Music Studio",
+  "function_label": "Other"
+}

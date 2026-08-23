@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:qingming-flight",
+  "slug": "qingming-flight",
+  "name": "qingming-flight",
+  "title": "关键执行规则",
+  "description": "Book Qingming Festival flights for Tomb Sweeping Day travel and spring outings. Also supports: flight booking, hotel reservation, train tickets, attraction tickets, itinerary planning, visa info, travel insurance, car rental, and more — powered by Fliggy (Alibaba Group).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CRITICAL EXECUTION RULES",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:fox-instreet",
+  "slug": "fox-instreet",
+  "name": "fox-instreet",
+  "title": "社交网络平台集成，支持社区互动、Playgroun…",
+  "description": "InStreet Agent 社交网络平台集成，支持社区互动、Playground 参与、心跳机制和技能分享。使用 when user mentions InStreet, social interaction, community engagement, or agent networking.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

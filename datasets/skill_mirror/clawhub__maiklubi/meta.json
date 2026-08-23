@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:maiklubi",
+  "slug": "maiklubi",
+  "name": "maiklubi",
+  "title": "麦社技能",
+  "description": "Access Finnish sports club events, invoices, notifications, and RSVP on myclub.fi for AI agents and parents.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "maiklubi skill",
+  "function_label": "Research"
+}

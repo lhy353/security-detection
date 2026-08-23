@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:content-management-orchestrator",
+  "slug": "content-management-orchestrator",
+  "name": "content-management-orchestrator",
+  "title": "内容管理协调器",
+  "description": "Orchestrate content creation, validation, and distribution workflows with bias-aware processing and stakeholder engagement capabilities.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Content Management Orchestrator",
+  "function_label": "Automation"
+}

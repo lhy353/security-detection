@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:orderflow",
+  "slug": "orderflow",
+  "name": "Trigger Order Webhooks, Sync with Google Sheets & Send Alerts via Slack",
+  "title": "智能电商订单管理",
+  "description": "Automate order routing, fulfillment, and inventory management across channels. Use when the user needs real-time order processing, multi-warehouse routing, or complex fulfillment workflows for e-commerce operations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OrderFlow: Intelligent E-Commerce Order Management",
+  "function_label": "Communication"
+}

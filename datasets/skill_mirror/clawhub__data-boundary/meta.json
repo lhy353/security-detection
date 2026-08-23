@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:data-boundary",
+  "slug": "data-boundary",
+  "name": "data-boundary",
+  "title": "数据门",
+  "description": "DataGate parses untrusted CSV or JSON through a deterministic tool boundary before model analysis. Use for requests like \"analyze this CSV\", \"summarize this JSON\", or \"inspect this export\" when raw file text should not go straight into model context.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "DataGate",
+  "function_label": "Other"
+}

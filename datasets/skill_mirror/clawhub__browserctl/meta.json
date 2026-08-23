@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:browserctl",
+  "slug": "browserctl",
+  "name": "browsectl",
+  "title": "浏览控制",
+  "description": "WebDriver automation CLI for AI-driven browser control. Provides session management, tab control, element interaction, screenshots, batch execution, and an interactive REPL.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "browsectl",
+  "function_label": "Browser"
+}

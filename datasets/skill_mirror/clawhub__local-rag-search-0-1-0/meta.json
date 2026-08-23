@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:local-rag-search-0-1-0",
+  "slug": "local-rag-search-0-1-0",
+  "name": "local-rag-search",
+  "title": "本地RAG搜索技巧",
+  "description": "Efficiently perform web searches using the mcp-local-rag server with semantic similarity ranking. Use this skill when you need to search the web for current information, research topics across multiple sources, or gather context from the internet without using external APIs. This skill teaches effective use of RAG-based web search with DuckDuckGo, Google, and multi-engine deep research capabilities.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Local RAG Search Skill",
+  "function_label": "Research"
+}

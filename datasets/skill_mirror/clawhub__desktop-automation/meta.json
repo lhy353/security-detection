@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:desktop-automation",
+  "slug": "desktop-automation",
+  "name": "desktop-control",
+  "title": "通过 CUA 服务器进行桌面控制",
+  "description": "Control the desktop via CUA computer server API running on port 8000",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Desktop Control via CUA Server"
+}

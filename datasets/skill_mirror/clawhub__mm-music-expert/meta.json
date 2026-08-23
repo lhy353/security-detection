@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mm-music-expert",
+  "slug": "mm-music-expert",
+  "name": "mm-music-expert",
+  "title": "音乐专家",
+  "description": "Create music with MiniMax music models (music-2.5+, music-2.5). Use when generating songs, instrumental tracks, or chanting from lyrics and style prompts via MiniMax Music Generation API. Guides music novices through an interactive workflow to produce professional-quality music.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MiniMax Music Expert",
+  "function_label": "Automation"
+}

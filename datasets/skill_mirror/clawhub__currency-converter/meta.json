@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:currency-converter",
+  "slug": "currency-converter",
+  "name": "currency-converter",
+  "title": "汇率转换器 (Currency Converter)",
+  "description": "提供实时或近实时的货币汇率查询与转换服务。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

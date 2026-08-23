@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:godfery-generate-healthcare-ad-creative-brief",
+  "slug": "godfery-generate-healthcare-ad-creative-brief",
+  "name": "Generate Healthcare Ad Creative Brief",
+  "title": "生成医疗保健广告创意简介",
+  "description": "Plan campaign visuals and hooks for healthcare promotions. Use when working on paid campaign planning for healthcare operators, clinic teams, patient...",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Generate Healthcare Ad Creative Brief",
+  "function_label": "Other"
+}

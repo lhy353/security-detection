@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:officecli-data-dashboard",
+  "slug": "officecli-data-dashboard",
+  "name": "officecli-data-dashboard",
+  "title": "数据仪表板技能",
+  "description": "Use this skill when the user wants to create a data dashboard, analytics dashboard, KPI dashboard, or executive summary from CSV/tabular data in Excel format. Trigger on: 'dashboard', 'KPI report', 'analytics summary', 'data visualization', 'CSV to Excel dashboard', 'executive dashboard', 'metrics dashboard'. Output is always a single .xlsx file.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Data Dashboard Skill"
+}

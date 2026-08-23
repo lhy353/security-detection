@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:oo-asana",
+  "slug": "oo-asana",
+  "name": "oo-asana",
+  "title": "体式",
+  "description": "Asana (asana.com). Use this skill for ANY Asana request — reading, creating, and updating data. Whenever a task involves Asana, use this skill instead of calling the API directly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Asana",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:fanli-wang",
+  "slug": "fanli-wang",
+  "name": "返利网购物助手",
+  "title": "返利网购物助手",
+  "description": "返利网购物返现工具，国内老牌返利平台，覆盖淘宝京东唯品会苏宁等数百家电商，购物自动返现金到账户。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openrouter-transcribe",
+  "slug": "openrouter-transcribe",
+  "name": "openrouter-transcribe",
+  "title": "音频转录",
+  "description": "Transcribe audio files via OpenRouter using audio-capable models (Gemini, GPT-4o-audio, etc).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenRouter Audio Transcription",
+  "function_label": "Coding"
+}

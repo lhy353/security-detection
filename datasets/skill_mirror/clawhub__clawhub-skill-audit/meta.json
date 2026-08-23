@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clawhub-skill-audit",
+  "slug": "clawhub-skill-audit",
+  "name": "clawhub-skill-audit",
+  "title": "技能审核",
+  "description": "Audit locally installed skills against ClawHub: detect version drift, find new publish candidates, review security flags, and triage ownership conflicts. Use when: reviewing whether published skills need updates, deciding what new local skills are ready to open-source, investigating hidden/flagged skills on ClawHub, or running the weekly skill lifecycle check.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Clawhub Skill Audit",
+  "function_label": "Automation"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mimotts25-plus",
+  "slug": "mimotts25-plus",
+  "name": "mimotts25-plus",
+  "title": "增强版语音合成",
+  "description": "小米 MiMo TTS 2.5 Plus — 增强版语音合成。兼容官方接口，支持预置音色/声音设计/克隆/导演模式。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

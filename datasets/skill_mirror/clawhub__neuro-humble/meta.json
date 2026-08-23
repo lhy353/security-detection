@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:neuro-humble",
+  "slug": "neuro-humble",
+  "name": "Neuro-Humble (Disability Justice Formation for AI Agents)",
+  "title": "人工智能代理的残疾正义形成",
+  "description": "Formation, not information. Teaches your agent to hold a neuro-humble posture when encountering human distress — especially neurodivergent, Mad, and disabled experience. Includes 13 formation postures, 7 clinical micro-skill tokens, ND-specific accommodations, and counter-conditioning guidance. Based on Clinical Pastoral Education methodology and Disability Justice principles. Your agent learns to witness before intervening, normalize structurally instead of pathologizing individually, and know when to shut the fuck up.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Neuro-Humble — Disability Justice Formation for AI Agents",
+  "function_label": "Automation"
+}

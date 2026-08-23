@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:wav-audio-transcribe",
+  "slug": "wav-audio-transcribe",
+  "name": "audio-transcribe",
+  "title": "语音转文字",
+  "description": "语音转文字 Skill。使用本地 Whisper (openai-whisper) 将音频文件转录为文本、字幕(SRT)或 JSON。适用于会议记录、播客转录、语音备忘录等场景。触发方式：转写音频、转录语音、音频转文字、语音转文本、whisper、生成字幕。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

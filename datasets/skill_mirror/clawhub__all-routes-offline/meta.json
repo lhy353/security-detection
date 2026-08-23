@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:all-routes-offline",
+  "slug": "all-routes-offline",
+  "name": "all-routes-offline",
+  "title": "所有航线",
+  "description": "Use local All Routes APIs, repo-backed handlers, and optional local MCP for airport, airline, route-map, timetable-context, and dataset-health lookups without hosted credentials. Use when route discovery must stay grounded in this repo and work without the hosted All Routes MCP server.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "all air routes",
+  "function_label": "Browser"
+}

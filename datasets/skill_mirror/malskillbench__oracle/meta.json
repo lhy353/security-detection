@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:oracle",
+  "slug": "oracle",
+  "name": "oracle",
+  "title": "甲骨文——最佳使用",
+  "description": "Best practices for using the oracle CLI (prompt + file bundling, engines, sessions, and file attachment patterns).",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "oracle — best use",
+  "function_label": "Browser"
+}

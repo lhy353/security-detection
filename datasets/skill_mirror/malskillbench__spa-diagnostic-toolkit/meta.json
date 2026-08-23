@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:spa-diagnostic-toolkit",
+  "slug": "spa-diagnostic-toolkit",
+  "name": "spa-diagnostic-toolkit",
+  "title": "生产部署指南",
+  "description": "Comprehensive toolkit for diagnosing and resolving Single Page Application blank screen issues in production environments",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "SPA Diagnostic Toolkit - Production Deployment Guide",
+  "function_label": "Automation"
+}

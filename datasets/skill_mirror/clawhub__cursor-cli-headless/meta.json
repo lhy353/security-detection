@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cursor-cli-headless",
+  "slug": "cursor-cli-headless",
+  "name": "cursor-cli-headless",
+  "title": "无头光标 CLI",
+  "description": "Execute coding tasks using the Cursor CLI in headless print mode. Use when delegating code writing, refactoring, analysis, or review tasks to a headless Cursor agent process, running automated code changes, or batch-processing files with the agent CLI.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cursor Cli Headless",
+  "function_label": "Coding"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:onebot",
+  "slug": "onebot",
+  "name": "onebot",
+  "title": "消息发送",
+  "description": "通过 OneBot HTTP API 使用本地命令（curl）发送 QQ 私聊或群消息。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:personio-recruiting",
+  "slug": "personio-recruiting",
+  "name": "personio-recruiting",
+  "title": "人才招聘",
+  "description": "Personio Recruiting integration. Manage data, records, and automate workflows. Use when the user wants to interact with Personio Recruiting data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Personio Recruiting",
+  "function_label": "Automation"
+}

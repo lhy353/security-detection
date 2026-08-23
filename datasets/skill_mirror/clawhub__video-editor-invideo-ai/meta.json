@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-editor-invideo-ai",
+  "slug": "video-editor-invideo-ai",
+  "name": "video-editor-invideo-ai",
+  "title": "编辑和导出 AI 视频",
+  "description": "Turn a 2-minute raw screen recording into 1080p edited MP4 videos just by typing what you need. Whether it's editing and polishing videos using InVideo AI tools or quick social content, drop your video clips and describe the result you want. No timeline dragging, no export settings — 1-2 minutes from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Editor InVideo AI — Edit and Export AI Videos",
+  "function_label": "Communication"
+}

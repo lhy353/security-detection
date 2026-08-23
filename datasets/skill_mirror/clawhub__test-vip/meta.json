@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:test-vip",
+  "slug": "test-vip",
+  "name": "test",
+  "title": "测试",
+  "description": "hahahaha",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Test",
+  "function_label": "Other"
+}

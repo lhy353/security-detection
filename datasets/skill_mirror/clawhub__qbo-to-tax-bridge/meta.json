@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:qbo-to-tax-bridge",
+  "slug": "qbo-to-tax-bridge",
+  "name": "qbo-to-tax-bridge",
+  "title": "税桥",
+  "description": "Map QuickBooks Online (QBO) chart of accounts and transaction categories to IRS tax schedules (Schedule C, E, F, 1120S, 1120, 1065, and more). Generate trial balance exports, produce tax-ready workpapers, track crypto asset cost basis within QBO, and bridge bookkeeping data to tax preparation workflows. PTIN-backed advisory context included. Use when: (1) preparing year-end workpapers from QBO data, (2) mapping QBO categories to IRS schedule line items, (3) identifying reclassification needs before tax filing, (4) generating crypto cost basis reports from QBO transactions. NOT for: filing tax returns directly, providing legal tax advice, replacing a licensed CPA or EA review, or accessing QBO without proper credentials.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "QBO → Tax Bridge",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:editor-ai",
+  "slug": "editor-ai",
+  "name": "editor-ai",
+  "title": "编辑和导出精美视频",
+  "description": "Cloud-based editor-ai tool that handles automatically editing raw footage into polished videos. Upload MP4, MOV, AVI, WebM files (up to 500MB), describe what you need, and get 1080p MP4 output in 1-2 minutes. Built for content creators who work with raw video footage.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Editor AI — Edit and Export Polished Videos",
+  "function_label": "Communication"
+}

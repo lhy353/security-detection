@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:markdown-table-to-image",
+  "slug": "markdown-table-to-image",
+  "name": "markdown-table-to-image",
+  "title": "表格转图片 v1.0.1",
+  "description": "将 Markdown 表格转换为清晰图片。当用户说\"表格看不清\"、\"生成图片\"、\"转成图片\"时触发。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

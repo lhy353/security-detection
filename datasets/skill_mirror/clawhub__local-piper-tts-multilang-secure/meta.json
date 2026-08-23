@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:local-piper-tts-multilang-secure",
+  "slug": "local-piper-tts-multilang-secure",
+  "name": "local-piper-tts-multilang-secure",
+  "title": "本地 Piper Tts 多语言安全",
+  "description": "Local offline text-to-speech via Piper TTS. Self-contained setup, automatic language detection, per-call voice selection. Extensible to any language. Writes output into the OpenClaw workspace.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Local Piper Tts Multilang Secure",
+  "function_label": "Other"
+}

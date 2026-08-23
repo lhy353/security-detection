@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:community-kpi-dashboard",
+  "slug": "community-kpi-dashboard",
+  "name": "community-kpi-dashboard",
+  "title": "社区 KPI 仪表板技能",
+  "description": "Measurement system tracking engagement, health, and business impact of community programs.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Community KPI Dashboard Skill",
+  "function_label": "Automation"
+}

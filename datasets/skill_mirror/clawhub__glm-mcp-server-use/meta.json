@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:glm-mcp-server-use",
+  "slug": "glm-mcp-server-use",
+  "name": "glm-mcp-server-use",
+  "title": "服务器使用",
+  "description": "GLM MCP Server Use for OpenClaw. Configure and use the 4 official Z.AI / GLM MCP servers (vision, web search, web reader, zread) with environment-variable API-key auth. Use for endpoint wiring, schema inspection, smoke tests, and troubleshooting MCP calls.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Glm Mcp Server Use",
+  "function_label": "File-Agent"
+}

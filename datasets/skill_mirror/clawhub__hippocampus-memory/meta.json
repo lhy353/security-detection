@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hippocampus-memory",
+  "slug": "hippocampus-memory",
+  "name": "hippocampus-memory",
+  "title": "记忆系统",
+  "description": "Persistent memory system for AI agents. Automatic encoding, decay, and semantic reinforcement — just like the hippocampus in your brain. Based on Stanford Generative Agents (Park et al., 2023).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Hippocampus - Memory System",
+  "function_label": "Automation"
+}

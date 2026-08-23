@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:success-plan-generator",
+  "slug": "success-plan-generator",
+  "name": "success-plan-generator",
+  "title": "成功计划生成器",
+  "description": "为 B2B 客户生成成功计划，绑定里程碑、可验证结果与复盘节奏。；use for success-plan, customer-success, b2b workflows；do not use for 承诺合同外服务, 替代正式项目计划.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

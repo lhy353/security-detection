@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:satellite-tracker",
+  "slug": "satellite-tracker",
+  "name": "Satellite Tracker",
+  "title": "卫星追踪器",
+  "description": "Real-time satellite and spacecraft tracking powered by SGP4 orbit prediction. Supports Tiangong (CSS), ISS, Hubble, or any NORAD catalog ID. Features real-time coordinates, speed, altitude, pass predictions, and geographic region display. Data source: Celestrak TLE (free, no API key required). 实时追踪卫星和航天器位置。支持天宫空间站、ISS、天舟货运飞船等。 输入卫星名或NORAD ID，输出实时坐标、速度、高度、所在区域。 支持过境预测（输入观测者坐标）。 数据源：Celestrak TLE + SGP4轨道预测，免费无需API Key。\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

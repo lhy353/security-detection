@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tweet-generator",
+  "slug": "tweet-generator",
+  "name": "tweet-generator",
+  "title": "推文生成器",
+  "description": "Craft tweets, threads, and viral hooks with schedule tips. Use when drafting copy, editing threads, optimizing engagement, scheduling posts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tweet Generator",
+  "function_label": "Other"
+}

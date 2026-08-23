@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:mx-stock-simulator",
+  "slug": "mx-stock-simulator",
+  "name": "eastmoney_stock_simulator",
+  "title": "妙想模拟组合管理",
+  "description": "妙想提供的股票模拟组合管理系统，支持持仓查询、买卖操作、撤单、委托查询、历史成交查询和资金查询等功能。通过安全认证的API接口实现真实交易体验。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cine-cog",
+  "slug": "cine-cog",
+  "name": "cine-cog",
+  "title": "大影院，人人均可使用",
+  "description": "AI cinematic video production powered by CellCog. Short films, music videos, brand films, widescreen cinematics. Consistent characters, cinematic lighting, visual storytelling — grand compositions from a single prompt.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cine Cog - Grand Cinema, Accessible to Everyone",
+  "function_label": "Communication"
+}

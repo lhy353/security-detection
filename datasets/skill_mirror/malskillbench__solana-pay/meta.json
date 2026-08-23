@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:solana-pay",
+  "slug": "solana-pay",
+  "name": "solana-pay",
+  "title": "索拉纳支付",
+  "description": "Solana Pay protocol integration. Generate payment requests, QR codes, and verify transactions on Solana blockchain.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Solana Pay",
+  "function_label": "Other"
+}

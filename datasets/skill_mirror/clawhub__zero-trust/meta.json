@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zero-trust",
+  "slug": "zero-trust",
+  "name": "zero-trust",
+  "title": "零信任安全协议",
+  "description": "Security-first behavioral guidelines for cautious agent operation. Use this skill for ALL operations involving external resources, installations, credentials, or actions with external effects. Triggers on - any URL/link interaction, package installations, API key handling, sending emails/messages, social media posts, financial transactions, or any action that could expose data or have irreversible effects.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zero Trust Security Protocol",
+  "function_label": "File-Agent"
+}

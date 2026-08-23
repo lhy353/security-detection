@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:code42",
+  "slug": "code42",
+  "name": "code42",
+  "title": "代码42",
+  "description": "Code42 integration. Manage data, records, and automate workflows. Use when the user wants to interact with Code42 data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Code42",
+  "function_label": "Automation"
+}

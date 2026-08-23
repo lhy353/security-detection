@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:testing-coverage",
+  "slug": "testing-coverage",
+  "name": "testing-coverage",
+  "title": "合约的测试和代码覆盖率",
+  "description": "Guide for writing tests and achieving high code coverage for CosmWasm contracts. Use when creating unit tests, integration tests, or analyzing coverage reports.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Testing and Code Coverage for CosmWasm Contracts",
+  "function_label": "Other"
+}

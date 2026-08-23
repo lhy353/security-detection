@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cn-base64-tools",
+  "slug": "cn-base64-tools",
+  "name": "cn-base64-tools",
+  "title": "工具",
+  "description": "Base64编码解码工具。支持文本编码/解码、URL安全Base64、文件Base64转换。纯Python标准库，无需API Key。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

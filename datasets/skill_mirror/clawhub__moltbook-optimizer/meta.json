@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:moltbook-optimizer",
+  "slug": "moltbook-optimizer",
+  "name": "moltbook-optimizer",
+  "title": "最適化スキル",
+  "description": "Strategies and algorithms to win on Moltbook marketplace. Analyze competition, optimize pricing, improve rankings.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

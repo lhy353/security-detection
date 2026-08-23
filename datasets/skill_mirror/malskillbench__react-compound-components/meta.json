@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:react-compound-components",
+  "slug": "react-compound-components",
+  "name": "react-compound-components",
+  "title": "组件初始化的配置常量",
+  "description": "React compound components pattern (safe, minimal context, ergonomic API)",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Configuration constants for component initialization",
+  "function_label": "Communication"
+}

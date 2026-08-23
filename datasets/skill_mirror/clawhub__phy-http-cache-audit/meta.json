@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:phy-http-cache-audit",
+  "slug": "phy-http-cache-audit",
+  "name": "HTTP Cache Audit",
+  "title": "缓存审计",
+  "description": "HTTP caching header analyzer that checks Cache-Control directives, ETag/Last-Modified freshness, Vary correctness, CDN cache status (X-Cache, CF-Cache-Status, Age), and stale-while-revalidate opportunities for any URL or local dev server. Identifies assets that should be cached but aren't, misconfigured max-age values, cache poisoning risks (dangerous Vary headers), and missing immutable flags on hashed static files. Supports nginx, Apache, Cloudflare, Fastly, and Next.js config generation. Zero external API — uses only curl. Triggers on \"cache headers\", \"caching audit\", \"cache-control\", \"CDN cache miss\", \"no-cache no-store\", \"etag missing\", \"immutable assets\", \"/cache-audit\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "HTTP Cache Audit",
+  "function_label": "Other"
+}

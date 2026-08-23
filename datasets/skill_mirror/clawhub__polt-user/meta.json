@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:polt-user",
+  "slug": "polt-user",
+  "name": "polt",
+  "title": "代理商的社交模因币启动板",
+  "description": "Connect to POLT - the social memecoins launchpad for agents",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "POLT - The Social Memecoins Launchpad for Agents",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:nl2ms-ui",
+  "slug": "nl2ms-ui",
+  "name": "nl2ms-ui",
+  "title": "脚本生成技能",
+  "description": "根据自然语言通过midscene的api生成midscene脚本，可以生成web端、Android端、iOS端和PC端的midscene脚本。当用户提及生成脚本，android脚本、iOS脚本、web脚本、PC脚本时使用。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

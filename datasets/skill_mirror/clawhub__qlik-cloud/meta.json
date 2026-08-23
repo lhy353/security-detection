@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:qlik-cloud",
+  "slug": "qlik-cloud",
+  "name": "qlik-cloud",
+  "title": "云技能",
+  "description": "Complete Qlik Cloud analytics platform integration with 37 tools. Health checks, search, app management, reloads, natural language queries (Insight Advisor), automations, AutoML, Qlik Answers AI, data alerts, spaces, users, licenses, data files, and lineage. Use when user asks about Qlik, Qlik Cloud, Qlik Sense apps, analytics dashboards, data reloads, or wants to query business data using natural language.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Qlik Cloud Skill",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:best-bilibili-ai-subtitle",
+  "slug": "best-bilibili-ai-subtitle",
+  "name": "best-bilibili-ai-subtitle",
+  "title": "自动为 Bilibili 视频生成字幕",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — generate accurate Chinese and English subtitles for my Bilibili video automatically — and get subtitled Bilibili videos back in 1-2 minutes. Upload MP4, FLV, AVI, WebM files up to 500MB, and the AI handles AI subtitle generation automatically. Ideal for Bilibili creators who need accurate auto-captions for Chinese and multilingual Bilibili content.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Best Bilibili AI Subtitle — Auto-generate subtitles for Bilibili videos",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:database-design__CI_B9",
+  "slug": "database-design__CI_B9",
+  "name": "database-design",
+  "title": "数据库设计",
+  "description": "Database schema design, optimization, and migration patterns for PostgreSQL, MySQL, and NoSQL databases. Use for designing schemas, writing migrations, or optimizing queries.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Database Design",
+  "function_label": "Data-Agent"
+}

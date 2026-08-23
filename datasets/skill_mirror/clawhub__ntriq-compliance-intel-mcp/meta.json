@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ntriq-compliance-intel-mcp",
+  "slug": "ntriq-compliance-intel-mcp",
+  "name": "ntriq-compliance-intel-mcp",
+  "title": "英特尔 MCP 合规性",
+  "description": "Regulatory compliance analysis. Checks GDPR, SOX, HIPAA, PCI-DSS requirements and flags violations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Compliance Intel MCP",
+  "function_label": "Other"
+}

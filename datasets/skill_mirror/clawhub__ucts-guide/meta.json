@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ucts-guide",
+  "slug": "ucts-guide",
+  "name": "ucts-guide",
+  "title": "智能指南",
+  "description": "Smart task analysis with optimal tool prescription. Analyze any coding task by complexity, domain, scope, and risk — then prescribe the best combination of UCTS optimization tools. Works directly in OpenClaw without a Claude Code session.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "UCTS Smart Guide",
+  "function_label": "Coding"
+}

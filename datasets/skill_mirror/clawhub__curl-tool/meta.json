@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:curl-tool",
+  "slug": "curl-tool",
+  "name": "curl-tool",
+  "title": "数据传输",
+  "description": "Transfer data using HTTP, HTTPS, FTP protocols. Test APIs and download files.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Curl Tool - Data Transfer",
+  "function_label": "Other"
+}

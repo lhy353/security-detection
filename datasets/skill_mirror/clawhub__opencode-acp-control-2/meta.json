@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:opencode-acp-control-2",
+  "slug": "opencode-acp-control-2",
+  "name": "opencode-acp-control",
+  "title": "技能",
+  "description": "Control OpenCode directly via the Agent Client Protocol (ACP). Start sessions, send prompts, resume conversations, and manage OpenCode updates.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenCode ACP Skill",
+  "function_label": "Communication"
+}

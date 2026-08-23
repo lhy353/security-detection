@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-storage-engine-selector",
+  "slug": "bookforge-storage-engine-selector",
+  "name": "storage-engine-selector",
+  "title": "存储引擎选择器",
+  "description": "Select the right storage engine architecture (LSM-tree, B-tree, or in-memory) for a database workload using a 7-dimensional scored trade-off analysis. Use when evaluating RocksDB vs InnoDB vs LevelDB, diagnosing write amplification in production, choosing between write-optimized vs read-optimized storage, selecting a compaction strategy (size-tiered vs leveled), or deciding whether to skip disk with an in-memory database. Also use for: comparing Cassandra vs PostgreSQL storage internals; justifying an existing engine choice to a team; assessing whether compaction pauses are causing latency spikes. Covers LSM-tree family (LevelDB, RocksDB, Cassandra, HBase), B-tree family (PostgreSQL, MySQL InnoDB, SQLite), and in-memory stores (Redis, Memcached, VoltDB).\nFor choosing between relational/document/graph models, use data-model-selector instead. For OLTP vs. analytics routing, use oltp-olap-workload-classifier instead. For replication topology, use replication-strategy-selector instead.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Storage Engine Selector",
+  "function_label": "Data-Agent"
+}

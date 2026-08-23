@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:card-wallet",
+  "slug": "card-wallet",
+  "name": "card-wallet",
+  "title": "卡钱包",
+  "description": "Audit a multi-card wallet — earning map, credit stack, overlaps, gaps, and total annual cost. Evaluates a user's full card lineup. Covers 11 major US issuers including co-branded hotel and airline cards.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Card Wallet",
+  "function_label": "Other"
+}

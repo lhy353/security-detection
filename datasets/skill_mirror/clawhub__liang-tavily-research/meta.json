@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:liang-tavily-research",
+  "slug": "liang-tavily-research",
+  "name": "tavily-research",
+  "title": "塔维利研究公司",
+  "description": "Comprehensive research grounded in web data with explicit citations. Use when you need multi-source synthesis—comparisons, current events, market analysis, detailed reports.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tavily Research",
+  "function_label": "Other"
+}

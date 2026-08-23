@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:Running Log",
+  "slug": "Running Log",
+  "name": "Running Log",
+  "title": "运行日志-开发者简介",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Running Log - DEVELOPER Profile",
+  "function_label": "Other"
+}

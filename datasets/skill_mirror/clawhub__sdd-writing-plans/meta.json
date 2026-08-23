@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:sdd-writing-plans",
+  "slug": "sdd-writing-plans",
+  "name": "sdd-writing-plans",
+  "title": "编写执行计划",
+  "description": "当有规格说明或需要多步骤任务的需求时，在编写代码之前使用。根据 spec-design.md 生成可执行的 spec-plan.md。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:elliott-wave",
+  "slug": "elliott-wave",
+  "name": "elliott-wave",
+  "title": "艾略特股价波动规律",
+  "description": "波浪理论（Elliott Wave）技术分析 — 艾略特股价波动规律。当用户说「波浪理论」「数浪」「推动浪」「调整浪」「延长浪」「斐波那契」时激活。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

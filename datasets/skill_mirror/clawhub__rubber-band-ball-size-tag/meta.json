@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:rubber-band-ball-size-tag",
+  "slug": "rubber-band-ball-size-tag",
+  "name": "rubber-band-ball-size-tag",
+  "title": "橡皮筋球尺寸标签",
+  "description": "Create size tags and a quick reset rule card for a rubber band ball so loose bands get a visible home without child or pet data fields or safety claims.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Rubber Band Ball Size Tag",
+  "function_label": "Communication"
+}

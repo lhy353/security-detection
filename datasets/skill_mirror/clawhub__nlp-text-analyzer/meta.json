@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:nlp-text-analyzer",
+  "slug": "nlp-text-analyzer",
+  "name": "nlp-text-analyzer",
+  "title": "文本分析器",
+  "description": "NLP文本分析器 - 支持分词、情感分析、关键词提取、文本分类等自然语言处理功能 | NLP Text Analyzer - Tokenization, sentiment analysis, keyword extraction, text classification",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

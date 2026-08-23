@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:doubao-media",
+  "slug": "doubao-media",
+  "name": "doubao-media",
+  "title": "豆包媒体生成",
+  "description": "Doubao (Volcengine ARK) 文生图、文生视频工具 - 生成后自动发送到对话，无需手动查找文件。Text-to-image and text-to-video with auto-send to chat.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

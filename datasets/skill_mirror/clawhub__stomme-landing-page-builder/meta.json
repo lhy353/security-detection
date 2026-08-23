@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:stomme-landing-page-builder",
+  "slug": "stomme-landing-page-builder",
+  "name": "landing-page-builder",
+  "title": "登陆页面生成器",
+  "description": "Build premium static landing pages with the Stomme/PolyTrader design system. Glass morphism, CSS custom properties, separated copy, responsive, Cloudflare Pages-ready. Use when building a website, landing page, marketing site, or product page. Produces static HTML/CSS/JS with no framework dependencies.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Landing Page Builder",
+  "function_label": "Automation"
+}

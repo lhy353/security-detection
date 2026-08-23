@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:anti-hype-filter",
+  "slug": "anti-hype-filter",
+  "name": "anti-hype-filter",
+  "title": "技能：反炒作过滤器",
+  "description": "Detect hype cycles and neutralize emotional triggers by rewriting claims into verifiable structures and explicit risk/uncertainty.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SKILL: anti-hype-filter",
+  "function_label": "Communication"
+}

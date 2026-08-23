@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:qwen-code-skill",
+  "slug": "qwen-code-skill",
+  "name": "qwen-code",
+  "title": "代码技能（背景优先）",
+  "description": "Run Alibaba Cloud Qwen Code CLI via background process for task execution, code review, and automation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Qwen Code Skill (background-first)",
+  "function_label": "Coding"
+}

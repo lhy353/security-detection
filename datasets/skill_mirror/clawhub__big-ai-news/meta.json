@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:big-ai-news",
+  "slug": "big-ai-news",
+  "name": "big-ai-news",
+  "title": "大人工智能新闻——多源人工智能新闻聚合器",
+  "description": "Aggregate and deduplicate AI news from multiple Chinese and English tech news sources into a single merged digest. Use when the user asks for \"AI news\", \"AI news digest\", \"big AI news\", \"merge AI news\", \"AI新闻汇总\", \"AI资讯汇总\", or wants AI news from multiple sources combined. Supports fetching from TechNews 科技新報, 量子位 QbitAI, 科技岛 TechNice, AIBase, and other AI news sites. Outputs deduplicated, categorized news with titles, briefs, and links.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Big AI News — Multi-Source AI News Aggregator",
+  "function_label": "Other"
+}

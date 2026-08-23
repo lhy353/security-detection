@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:voicenotes-official",
+  "slug": "voicenotes-official",
+  "name": "voicenotes",
+  "title": "语音笔记",
+  "description": "This official skill from the Voicenotes team gives OpenClaw access to new APIs and the ability to search semantically, retrieve full transcripts, filter by tags or date range and create text notes — all through natural conversation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "voicenotes",
+  "function_label": "Other"
+}

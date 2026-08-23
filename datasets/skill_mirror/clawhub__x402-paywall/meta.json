@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:x402-paywall",
+  "slug": "x402-paywall",
+  "name": "agent-economy",
+  "title": "代理经济",
+  "description": "x402 payment layer for AI agents — charge USDC per skill call. Meta-skill that wraps any skill with per-call pricing and on-chain payment verification.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Agent Economy — x402 Payment Layer for AI Agents"
+}

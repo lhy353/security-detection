@@ -1,0 +1,9 @@
+{
+  "id": "clawhub:dingtalk-doc",
+  "slug": "dingtalk-doc",
+  "name": "dingtalk-doc",
+  "title": "钉钉文档管理技能",
+  "description": "钉钉文档管理技能。当用户发送的消息中包含 alidocs.dingtalk.com 链接、要求总结/读取/查看/更新钉钉文档或钉钉知识库文档，或当前上下文已明确对象是钉钉文档时使用。关键词：钉钉文档、钉钉知识库、alidocs、总结、读取、查看、更新、修改、文档、链接。",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub"
+}

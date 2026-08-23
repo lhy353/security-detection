@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:keats-code-reviewer",
+  "slug": "keats-code-reviewer",
+  "name": "code-reviewer",
+  "title": "代码审查员",
+  "description": "Conduct rigorous, adversarial code reviews with zero tolerance for mediocrity. Default behavior is a single-model adversarial review that identifies security holes, lazy patterns, edge case failures, and bad practices across Python, R, JavaScript/TypeScript, SQL, and front-end code. Supports an optional `--dual` mode for heavier cross-model iterative review when deeper scrutiny is worth the added cost and latency. Use when users ask to \"critically review my code\", \"critically review\" code or a PR, \"critique my code\", \"find issues in my code\", \"find issues\" in code, ask \"what's wrong with this code\", ask to \"review this code\", \"critique my PR\", say \"double review this\", or request a \"cross-model review\". Scrutinizes error handling, type safety, performance, accessibility, and code quality. Provides structured feedback with severity tiers (Blocking, Required Changes, Suggestions, Noted) and specific, actionable recommendations.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Code Reviewer",
+  "function_label": "Coding"
+}

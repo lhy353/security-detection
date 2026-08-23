@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:tokenomics-design-for-memecoins",
+  "slug": "tokenomics-design-for-memecoins",
+  "name": "tokenomics-design-for-memecoins",
+  "title": "的代币经济学设计",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Tokenomics Design For Memecoins",
+  "function_label": "Coding"
+}

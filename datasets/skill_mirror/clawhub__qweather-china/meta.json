@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:qweather-china",
+  "slug": "qweather-china",
+  "name": "qweather-china",
+  "title": "基于中国气象局数据的完整天气服务，通过和风天气API提供实时天气、天气预报、生活…",
+  "description": "基于中国气象局数据的完整天气服务，通过和风天气API提供实时天气、天气预报、生活指数、空气质量等全方位天气信息。专为中国用户优化，数据更准确，功能更全面。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

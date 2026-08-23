@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:emergence-render-image",
+  "slug": "emergence-render-image",
+  "name": "emergence-render-image",
+  "title": "浮现渲染图像技巧",
+  "description": "Official Emergence Science Skill for rendering professional diagrams (TikZ, Mermaid, Graphviz, D2) via the Emergence Science Render API.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Emergence Render Image Skill",
+  "function_label": "Data-Agent"
+}

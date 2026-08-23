@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:political-intelligence-knowledge",
+  "slug": "political-intelligence-knowledge",
+  "name": "political-intelligence-knowledge",
+  "title": "政治情报与知识管理",
+  "description": "Comprehensive knowledge management system for political research and intelligence dissemination.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Political Intelligence & Knowledge Management",
+  "function_label": "Automation"
+}

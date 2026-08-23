@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:xueqiu-combo-report",
+  "slug": "xueqiu-combo-report",
+  "name": "xueqiu-combo-report",
+  "title": "雪球自选组合分析的端到端工作流程，通过抓取或自选组合持有批次进行分析",
+  "description": "End-to-end workflow for Xueqiu self-selected combo analysis from scraped or self-selected combo holdings batches through final ranking and PDF export. Use when the user wants one complete skill covering: (1) collecting Xueqiu self-selected combo holdings in batches from a logged-in browser session, (2) merging and patching those combo results, (3) ranking all stocks by how many combos hold them, and (4) generating JSON, Markdown, HTML, and PDF summary files. 雪球自选组合端到端分析技能，适用于：在已登录雪球浏览器会话中分批抓取自选组合持仓、合并和修补批次结果、按股票被多少组合持有进行统计排序，并生成 JSON、Markdown、HTML、PDF 汇总文件。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Xueqiu Combo Report",
+  "function_label": "Browser"
+}

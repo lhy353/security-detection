@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:amazon-sagemaker-integration",
+  "slug": "amazon-sagemaker-integration",
+  "name": "amazon-sagemaker",
+  "title": "亚马逊 Sagemaker",
+  "description": "Amazon Sagemaker integration. Manage data, records, and automate workflows. Use when the user wants to interact with Amazon Sagemaker data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Amazon Sagemaker",
+  "function_label": "Automation"
+}

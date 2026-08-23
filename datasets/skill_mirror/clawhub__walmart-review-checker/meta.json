@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:walmart-review-checker",
+  "slug": "walmart-review-checker",
+  "name": "walmart-review-checker",
+  "title": "沃尔玛评论检查器",
+  "description": "Walmart review authenticity analyzer. Detect fake reviews, suspicious patterns, and rating manipulation. Includes WFS verified badge analysis, incentivized review detection, and Walmart-specific red flag identification. No API key required.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Walmart Review Checker",
+  "function_label": "Other"
+}

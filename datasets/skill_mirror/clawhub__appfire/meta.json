@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:appfire",
+  "slug": "appfire",
+  "name": "appfire",
+  "title": "应用火力",
+  "description": "Appfire integration. Manage data, records, and automate workflows. Use when the user wants to interact with Appfire data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Appfire",
+  "function_label": "Automation"
+}

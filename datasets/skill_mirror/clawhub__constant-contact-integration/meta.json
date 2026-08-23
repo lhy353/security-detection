@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:constant-contact-integration",
+  "slug": "constant-contact-integration",
+  "name": "constant-contact",
+  "title": "持续接触",
+  "description": "Constant Contact integration. Manage Contacts, Campaigns, Libraries. Use when the user wants to interact with Constant Contact data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Constant Contact",
+  "function_label": "Browser"
+}

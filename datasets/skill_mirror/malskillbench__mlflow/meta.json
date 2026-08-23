@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:mlflow",
+  "slug": "mlflow",
+  "name": "mlflow",
+  "title": "机器学习生命周期管理平台",
+  "description": "Track ML experiments, manage model registry with versioning, deploy models to production, and reproduce experiments with MLflow - framework-agnostic ML lifecycle platform",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "MLflow: ML Lifecycle Management Platform",
+  "function_label": "Automation"
+}

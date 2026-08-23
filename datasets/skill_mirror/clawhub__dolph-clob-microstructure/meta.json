@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dolph-clob-microstructure",
+  "slug": "dolph-clob-microstructure",
+  "name": "dolph-clob-microstructure",
+  "title": "显微结构扫描仪",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CLOB Microstructure Scanner",
+  "function_label": "Automation"
+}

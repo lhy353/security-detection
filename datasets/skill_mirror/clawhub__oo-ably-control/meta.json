@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:oo-ably-control",
+  "slug": "oo-ably-control",
+  "name": "oo-ably-control",
+  "title": "巧妙的控制",
+  "description": "Ably Control (ably.com). Use this skill for ANY Ably Control request — reading, creating, updating, and deleting data. Whenever a task involves Ably Control, use this skill instead of calling the API directly.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ably Control",
+  "function_label": "Automation"
+}

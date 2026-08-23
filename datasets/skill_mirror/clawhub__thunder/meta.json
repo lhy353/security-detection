@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:thunder",
+  "slug": "thunder",
+  "name": "迅雷",
+  "title": "迅雷 → xunlei",
+  "description": "迅雷（重定向到 xunlei 技能）",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

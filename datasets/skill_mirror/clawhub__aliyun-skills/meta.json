@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:aliyun-skills",
+  "slug": "aliyun-skills",
+  "name": "aliyun-cli",
+  "title": "阿里云CLI技能",
+  "description": "Manage Alibaba Cloud resources using the Aliyun CLI tool.\nUse this skill whenever the user wants to manage any Alibaba Cloud resource via the aliyun CLI,\nincluding: ECS instances, VPC networking, OSS object storage, RDS databases, SLB/CLB load\nbalancers, RAM users/roles/policies, DNS records, or aliyun CLI setup and authentication.\nIf the user mentions \"阿里云\", \"Alibaba Cloud\", \"aliyun\", \"ECS\", \"VPC\", \"OSS\", \"RDS\", \"SLB\",\n\"RAM\", \"ACR\", \"Container Registry\", or any Alibaba Cloud service, use this skill.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Aliyun CLI Skill",
+  "function_label": "Data-Agent"
+}

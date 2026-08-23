@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skill-auto-publish",
+  "slug": "skill-auto-publish",
+  "name": "skill-auto-publish",
+  "title": "自动发布",
+  "description": "Safely publish an already-reviewed skill to ClawHub, verify the live registry state, and return a clear release report.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ClawHub Auto Publish",
+  "function_label": "Browser"
+}

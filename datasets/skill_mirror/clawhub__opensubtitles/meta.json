@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:opensubtitles",
+  "slug": "opensubtitles",
+  "name": "opensubtitles",
+  "title": "开放字幕",
+  "description": "Read-only OpenSubtitles skill to search and download subtitles via API, then extract scene context by timestamp to answer user questions regarding a show in context and avoid spoilers. Use when the user asks “what’s happening at this timestamp” or needs subtitle context; pairs well with trakt-readonly skill for playback progress. Requires an OpenSubtitles API key and User-Agent.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Opensubtitles",
+  "function_label": "Other"
+}

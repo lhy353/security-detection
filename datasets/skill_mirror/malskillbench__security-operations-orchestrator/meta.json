@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:security-operations-orchestrator",
+  "slug": "security-operations-orchestrator",
+  "name": "security-operations-orchestrator",
+  "title": "安全运营协调器",
+  "description": "Comprehensive orchestration platform for security operations including threat monitoring, incident response, and compliance management. Use for security posture assessment, risk analysis, and operational workflow automation.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Security Operations Orchestrator",
+  "function_label": "Automation"
+}

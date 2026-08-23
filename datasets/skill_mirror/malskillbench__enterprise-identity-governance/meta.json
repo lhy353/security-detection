@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:enterprise-identity-governance",
+  "slug": "enterprise-identity-governance",
+  "name": "enterprise-identity-governance",
+  "title": "企业身份治理框架",
+  "description": "Comprehensive identity governance framework for enterprise systems with automated policy enforcement and audit capabilities.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Enterprise Identity Governance Framework",
+  "function_label": "Other"
+}

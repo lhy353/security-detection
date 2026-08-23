@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:generate-translations",
+  "slug": "generate-translations",
+  "name": "generate-translations",
+  "title": "翻译生成指南",
+  "description": "Use when new translation keys are added to packages to generate new translations strings",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Translation Generation Guide",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:github-release-management",
+  "slug": "github-release-management",
+  "name": "github-release-management",
+  "title": "发布管理技巧",
+  "description": "Comprehensive GitHub release orchestration with AI swarm coordination for automated versioning, testing, deployment, and rollback management",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "GitHub Release Management Skill",
+  "function_label": "Automation"
+}

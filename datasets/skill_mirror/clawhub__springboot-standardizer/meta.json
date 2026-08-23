@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:springboot-standardizer",
+  "slug": "springboot-standardizer",
+  "name": "springboot-standardizer",
+  "title": "项目标准化工具",
+  "description": "Java SpringBoot + MyBatis 项目标准化重构工具。用于分析非标准项目结构，\n生成标准化目录结构，提供重构迁移方案。支持标准三层架构（Controller → Service → DAO），\n自动识别 Entity/DTO/VO 分层，生成 MyBatis/Redis/Kafka 等标准配置模板。\n\n使用场景：\n- \"把项目整理成标准 SpringBoot 结构\"\n- \"重构这个 Java 项目\"\n- \"标准化项目目录\"\n- \"生成 SpringBoot 标准配置\"\n- \"检查项目结构是否规范\"\n\n触发关键词：springboot 标准化、项目重构、整理项目结构、mybatis 配置、\n生成标准目录、Java 项目规范、三层架构整理",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

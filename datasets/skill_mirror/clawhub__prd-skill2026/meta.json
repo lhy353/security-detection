@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:prd-skill2026",
+  "slug": "prd-skill2026",
+  "name": "product-prd-writer",
+  "title": "产品 PRD 作家",
+  "description": "Generate product requirement documents (PRD) with a complete structure for product design and requirement writing. Use when the user asks for PRD, 产品需求文档, 产品需求, 需求文档, or product requirements.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Product PRD Writer",
+  "function_label": "File-Agent"
+}

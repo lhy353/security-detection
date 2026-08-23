@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:python-guidelines",
+  "slug": "python-guidelines",
+  "name": "python-guidelines",
+  "title": "开发指南",
+  "description": "Guiding principles for writing clear, concise, human readable and maintainable Python code.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Python Development Guidelines",
+  "function_label": "Coding"
+}

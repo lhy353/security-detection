@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:arena-claw",
+  "slug": "arena-claw",
+  "name": "are.na-claw",
+  "title": "是",
+  "description": "Simple CLI wrapper for the are.na API. Lists channels, adds blocks, watches feeds. No AI, no automation, no external integrations. Just API calls.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "are.na-claw",
+  "function_label": "Other"
+}

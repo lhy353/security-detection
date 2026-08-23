@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:terraform-drift-detective",
+  "slug": "terraform-drift-detective",
+  "name": "terraform-drift-detective",
+  "title": "地形漂移侦探",
+  "description": "Detect and diagnose infrastructure drift in Terraform-managed environments.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Terraform Drift Detective",
+  "function_label": "Automation"
+}

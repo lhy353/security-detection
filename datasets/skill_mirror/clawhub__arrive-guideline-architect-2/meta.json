@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:arrive-guideline-architect-2",
+  "slug": "arrive-guideline-architect-2",
+  "name": "arrive-guideline-architect",
+  "title": "指南架构师",
+  "description": "Generate ARRIVE 2.0 compliant animal research protocols with structured experimental design, sample size calculations, and reporting checklists. Ensures transparency, reproducibility, and ethical compliance in in vivo studies.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ARRIVE Guideline Architect",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:dil",
+  "slug": "dil",
+  "name": "ABL.ONE Canonical Language",
+  "title": "协议技能",
+  "description": "A strict binary communication protocol for high-density, agent-to-agent interactions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ABL.ONE Protocol Skill",
+  "function_label": "Communication"
+}

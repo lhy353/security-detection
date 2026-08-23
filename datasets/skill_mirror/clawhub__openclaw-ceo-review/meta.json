@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-ceo-review",
+  "slug": "openclaw-ceo-review",
+  "name": "openclaw-ceo-review",
+  "title": "战略计划审查",
+  "description": "CEO-perspective plan review and strategy upgrader supporting four modes: expansion/selective expansion/hold scope/scope reduction. Automatically outputs premise challenges, alternatives, failure mode mapping, and observability checklists to enable high-quality strategic review before development.\n中文：CEO视角的计划审查与战略升级器，支持扩张/选择性扩张/守住范围/精简范围四种模式。自动输出前提挑战、替代方案、失败模式映射、观测清单，帮助在开发前做高质量战略复核。\n日本語：CEO視点の計画監査・戦略アップグレードエージェント。拡張/選択的拡張/スコープ維持/縮小の4モードで検証、代替案、失敗モード、観測性を生成し、実装前に経営判断を強化。\n한국어：CEO 관점의 계획 검토 및 전략 업그레이드 에이전트. 확장/선택적 확장/스코프 유지/범위 축소 4모드로 전술하며 전제 검증, 대안, 실패 모드 매핑, 모니터링 체크리스트를 생성해 실행 전 전략을 정교화.\nEspañol：Revisión estratégica con enfoque CEO. Optimiza planes con 4 modos (expansión, expansión selectiva, mantener alcance, reducir alcance), genera chequeo de supuestos, alternativas, mapa de fallos y lista de observabilidad para validar decisiones.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

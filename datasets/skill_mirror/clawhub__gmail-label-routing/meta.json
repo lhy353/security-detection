@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gmail-label-routing",
+  "slug": "gmail-label-routing",
+  "name": "gmail-label-routing",
+  "title": "标签路由",
+  "description": "Configurar en Gmail el enrutamiento por remitente hacia etiquetas usando el workflow local `scripts/gws_gmail_label_workflow.py`, incluyendo crear/usar etiqueta, crear filtro, aplicar retroactivo y opcionalmente sacar de INBOX. Usar cuando el usuario pida cosas como “manda este remitente a esta etiqueta”, “hazlo para varios remitentes”, “aplícalo a correos existentes”, “sácalos de INBOX”, o “limpia/reemplaza filtros duplicados para ese remitente”.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Gmail Label Routing",
+  "function_label": "Other"
+}

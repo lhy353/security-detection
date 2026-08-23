@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lap-adyen-payment-api",
+  "slug": "lap-adyen-payment-api",
+  "name": "lap-adyen-payment-api",
+  "title": "支付API",
+  "description": "Adyen Payment API skill. Use when working with Adyen Payment for adjustAuthorisation, authorise, authorise3d. Covers 13 endpoints.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Adyen Payment API",
+  "function_label": "Other"
+}

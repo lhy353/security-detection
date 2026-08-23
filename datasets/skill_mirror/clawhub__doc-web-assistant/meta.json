@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:doc-web-assistant",
+  "slug": "doc-web-assistant",
+  "name": "doc-web-assistant",
+  "title": "文档网络助手",
+  "description": "Use native web_fetch content to build a local documentation knowledge base, query it, extract command plans, and prepare Doc Executor workflows.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Doc Web Assistant",
+  "function_label": "File-Agent"
+}

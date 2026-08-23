@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sell-evoweb-ai",
+  "slug": "sell-evoweb-ai",
+  "name": "Create a Self-Selling Website",
+  "title": "自助销售网站",
+  "description": "Create AI-First Website with GEO (Generative Engine Optimization) and marketing rules to convert visitors into leads",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "EvoWeb Self-Selling Websites",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:chrome-devtools",
+  "slug": "chrome-devtools",
+  "name": "chrome-devtools",
+  "title": "开发者工具代理",
+  "description": "Expert-level browser automation, debugging, and performance analysis using Chrome DevTools MCP. Use for interacting with web pages, capturing screenshots, analyzing network traffic, and profiling performance.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Chrome DevTools Agent",
+  "function_label": "Browser"
+}

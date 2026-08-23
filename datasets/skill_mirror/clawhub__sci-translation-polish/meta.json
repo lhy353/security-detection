@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:sci-translation-polish",
+  "slug": "sci-translation-polish",
+  "name": "sci-translation-polish",
+  "title": "科学翻译波兰语",
+  "description": "Convert Chinese academic papers to native-level publication-ready English. Supports Nature/IEEE/ACM/APA styles. Uses a three-layer decoupling method (semantic extraction → logical restructuring → native writing) to eliminate translationese. **Use this skill whenever the user mentions academic paper translation, SCI paper writing, journal submission, research paper polishing, or needs to convert Chinese academic content to English for international publication, even if they don't explicitly ask for 'translation' or 'polishing'.**",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Sci Translation Polish",
+  "function_label": "Other"
+}

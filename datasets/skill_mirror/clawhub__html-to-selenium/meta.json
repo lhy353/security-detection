@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:html-to-selenium",
+  "slug": "html-to-selenium",
+  "name": "page-analyzer",
+  "title": "通用网页元素分析和Selenium控制",
+  "description": "General webpage element analysis and Selenium automation control script generation. Use cases:\n(1) Analyze HTML element structure of any webpage\n(2) Automatically identify form elements (input, button, dropdown, etc.)\n(3) Provide page source code to large model for intelligent analysis\n(4) Generate Selenium control scripts for any web application\n(5) Handle automation tasks like login, search, form submission\n\nNote: This skill should only be used for public webpages or pages you have authorization to access.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "General Webpage Element Analysis & Selenium Control",
+  "function_label": "Browser"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:minimax-video",
+  "slug": "minimax-video",
+  "name": "minimax-video",
+  "title": "智谱) web search API for search…",
+  "description": "Use Zhipu (智谱) web search API for searching the internet. Use when user asks for web search, latest news, or needs current information.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

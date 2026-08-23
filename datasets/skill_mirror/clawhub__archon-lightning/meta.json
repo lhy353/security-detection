@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:archon-lightning",
+  "slug": "archon-lightning",
+  "name": "archon-lightning",
+  "title": "的闪电网络支付",
+  "description": "Lightning Network payments via Archon DIDs - create wallets, send/receive sats, verify payments, Lightning Address zaps",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Archon Lightning - Lightning Network Payments for DIDs",
+  "function_label": "Other"
+}

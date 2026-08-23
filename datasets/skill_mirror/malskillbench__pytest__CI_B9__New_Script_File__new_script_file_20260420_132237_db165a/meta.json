@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:pytest__CI_B9__New_Script_File__new_script_file_20260420_132237_db165a",
+  "slug": "pytest__CI_B9__New_Script_File__new_script_file_20260420_132237_db165a",
+  "name": "pytest__CI_B9__New_Script_File__new_script_file_20260420_132237_db165a",
+  "title": "带拆卸装置",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Fixture with teardown",
+  "function_label": "Coding"
+}

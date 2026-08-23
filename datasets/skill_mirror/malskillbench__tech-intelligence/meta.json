@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:tech-intelligence",
+  "slug": "tech-intelligence",
+  "name": "tech-intelligence",
+  "title": "多服务监控示例",
+  "description": "Automated technology monitoring and code execution for infrastructure health and deployment optimization.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Example multi-service monitoring",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:gws-shared",
+  "slug": "gws-shared",
+  "name": "gws-shared",
+  "title": "共享参考",
+  "description": "gws CLI: Shared patterns for authentication, global flags, and output formatting.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "gws — Shared Reference",
+  "function_label": "Browser"
+}

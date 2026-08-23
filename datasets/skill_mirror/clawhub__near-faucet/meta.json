@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:near-faucet",
+  "slug": "near-faucet",
+  "name": "near-faucet",
+  "title": "测试网水龙头技能",
+  "description": "OpenClaw skill for requesting NEAR testnet tokens via faucet. Provides faucet requests, status checking, and balance queries with rate limiting.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "NEAR Testnet Faucet Skill",
+  "function_label": "Other"
+}

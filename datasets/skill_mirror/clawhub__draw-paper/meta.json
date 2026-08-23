@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:draw-paper",
+  "slug": "draw-paper",
+  "name": "draw",
+  "title": "角色定义",
+  "description": "从论文解析文件中逐图读取Prompt，调用Gemini生成科研结构图并保存到固定目录",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

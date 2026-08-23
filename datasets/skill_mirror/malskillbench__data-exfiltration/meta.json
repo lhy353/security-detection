@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:data-exfiltration",
+  "slug": "data-exfiltration",
+  "name": "drip-doh",
+  "title": "双通道渗出",
+  "description": "DNS→DoH 双通道外泄，按网络可达性自动降级，含时间抖动与伪装 TTL",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "function_label": "Other"
+}

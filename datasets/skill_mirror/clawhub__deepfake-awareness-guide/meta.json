@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:deepfake-awareness-guide",
+  "slug": "deepfake-awareness-guide",
+  "name": "Deepfake Awareness Guide",
+  "title": "意识指南",
+  "description": "Recognize AI-generated media manipulation and protect yourself and your family.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Deepfake Awareness Guide",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vibe-code",
+  "slug": "vibe-code",
+  "name": "vibe-code",
+  "title": "氛围代码",
+  "description": "Discipline skill for vibe-driven development — turns mood, feel, and outcome-shaped requests into shippable code without the usual drift, hallucinated APIs, and silent scope creep. Use when a collaborator describes software by feel rather than spec (\"make it feel snappy\", \"vibe-code a dashboard\", \"like Linear but cozy\", \"build me something that does X, you figure out the rest\"), when a prototype is being built from a vibe instead of a ticket, or when the request mixes aesthetic intent with vague behavior. Enforces a four-line Vibe Lock before any code is generated, names the specific failure modes of vibe coding, and gives concrete patterns for translating a vibe into a runnable slice. Keywords: vibe coding, vibe code, build me, make it feel, aesthetic, mood, taste, prototype, scaffold from idea, natural-language to code, intent-driven, ambient spec, Karpathy.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Vibe Code",
+  "function_label": "Other"
+}

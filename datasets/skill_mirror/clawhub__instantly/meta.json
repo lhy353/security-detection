@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:instantly",
+  "slug": "instantly",
+  "name": "instantly",
+  "title": "即刻",
+  "description": "Instantly API integration with managed OAuth. Cold email outreach platform for managing campaigns, leads, accounts, and analytics.\nUse this skill when users want to create campaigns, manage leads, send emails, or view analytics.\nFor other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Instantly",
+  "function_label": "Browser"
+}

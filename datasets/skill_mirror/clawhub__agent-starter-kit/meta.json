@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-starter-kit",
+  "slug": "agent-starter-kit",
+  "name": "agent-starter-kit",
+  "title": "代理入门套件",
+  "description": "Everything a new OpenClaw agent needs in one install. Workspace setup, memory system, heartbeat config, security basics, network discovery, and recommended skills. Start autonomous in 60 seconds.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Starter Kit — From Zero to Autonomous in 60 Seconds",
+  "function_label": "Communication"
+}

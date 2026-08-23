@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nexus-talent-assessor",
+  "slug": "nexus-talent-assessor",
+  "name": "nexus-talent-assessor",
+  "title": "人才评估员",
+  "description": "HR talent assessment agent. Performs competency-based evaluations, skill gap analysis, 360-feedback processing, and career path recommendations with AI coaching.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Nexus Talent Assessor",
+  "function_label": "Other"
+}

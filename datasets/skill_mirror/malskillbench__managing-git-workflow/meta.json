@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:managing-git-workflow",
+  "slug": "managing-git-workflow",
+  "name": "managing-git-workflow",
+  "title": "管理 Git 工作流程",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Managing Git Workflow",
+  "function_label": "Data-Agent"
+}

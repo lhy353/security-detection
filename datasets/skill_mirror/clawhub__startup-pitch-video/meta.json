@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:startup-pitch-video",
+  "slug": "startup-pitch-video",
+  "name": "startup-pitch-video",
+  "title": "创建投资者推介和演示日演示视频",
+  "description": "Describe your startup and NemoVideo creates the pitch video. Seed round, Series A, demo day, YC application — narrate the problem, the solution, the traction, and the ask, and get a pitch video that communicates your vision clearly to investors who see hundreds of decks.\nWorks by connecting to the NemoVideo AI backend at mega-api-prod.nemovideo.ai. Supports MP4, MOV, AVI, WebM.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Startup Pitch Video Maker — Create Investor Pitch and Demo Day Presentation Videos",
+  "function_label": "Data-Agent"
+}

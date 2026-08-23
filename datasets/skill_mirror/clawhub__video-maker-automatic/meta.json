@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-maker-automatic",
+  "slug": "video-maker-automatic",
+  "name": "video-maker-automatic",
+  "title": "自动编辑和导出视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — automatically edit my footage into a finished video with transitions and music — and get finished MP4 videos back in 1-2 minutes. Upload MP4, MOV, AVI, WebM files up to 500MB, and the AI handles AI automatic video creation automatically. Ideal for content creators and marketers who want a finished video without manually editing every cut and transition.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Maker Automatic — Auto-Edit and Export Videos",
+  "function_label": "Communication"
+}

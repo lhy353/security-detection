@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:vx-project",
+  "slug": "vx-project",
+  "name": "vx-project",
+  "title": "项目管理指南",
+  "description": "Project management guide for vx. Use when setting up a new project, configuring vx.toml, or managing project-level tool versions and scripts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "VX Project Management Guide",
+  "function_label": "Coding"
+}

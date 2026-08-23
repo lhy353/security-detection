@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:web-fetch-fakeip",
+  "slug": "web-fetch-fakeip",
+  "name": "web-fetch-fakeip",
+  "title": "假 IP 解决方法",
+  "description": "Legacy workaround for web_fetch fake-ip failures on older npm-global OpenClaw installs. Use when web_fetch is blocked under Clash, Mihomo, or Surge fake-ip mode and the OpenClaw version does not yet support the openclaw.json ssrfPolicy fix. For OpenClaw v2026.4.10 and later, prefer configuration instead of patching.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "web_fetch Fake-IP Workaround",
+  "function_label": "Other"
+}

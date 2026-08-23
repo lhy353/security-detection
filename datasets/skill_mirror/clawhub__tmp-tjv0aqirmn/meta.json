@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:tmp-tjv0aqirmn",
+  "slug": "tmp-tjv0aqirmn",
+  "name": "knab",
+  "title": "代理操作手册",
+  "description": "Interact with KNAB/AIMS on-chain vaults across BSC, Polygon, and Base. Use when user asks about AIMS tokens (LOVE, WISH, TIME, SPACE, XYZT, FACE, TAICHI, CHINESE, LOVE_BASE), vault yields, agent earnings, on-chain deposit/withdraw, token prices, KNAB protocol, vault APY, pool reserves, or autonomous DeFi yield. Also activate on keywords \"knab\", \"aims vaults\", \"agent economy\", \"lovecoin\", \"wishcoin\".",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Knab — Agent Operation Manual"
+}

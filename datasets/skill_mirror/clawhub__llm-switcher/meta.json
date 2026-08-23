@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:llm-switcher",
+  "slug": "llm-switcher",
+  "name": "llm-switcher",
+  "title": "型号切换器",
+  "description": "Change OpenClaw's global default AI model in config, save the change, and restart the gateway after explicit confirmation. Before writing default config, first test model availability by applying a session-only override. Use when the user wants to switch the default model for future sessions and validate it safely first.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Model Switcher",
+  "function_label": "Other"
+}

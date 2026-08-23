@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:byterover-test",
+  "slug": "byterover-test",
+  "name": "byterover",
+  "title": "上下文树",
+  "description": "Queries and curates knowledge in ByteRover context tree. Use when user asks to remember information, add context, search patterns, query implementations, or manage project knowledge. Triggers on phrases like \"remember this\", \"add to context\", \"how does X work\", \"what are the patterns\", \"store this\", \"save this knowledge\", \"curate\", \"brv query\", \"check context tree\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "ByteRover Context Tree",
+  "function_label": "Other"
+}

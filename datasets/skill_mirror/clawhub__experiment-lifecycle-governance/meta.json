@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:experiment-lifecycle-governance",
+  "slug": "experiment-lifecycle-governance",
+  "name": "experiment-lifecycle-governance",
+  "title": "实验生命周期治理",
+  "description": "Add governance to experiment workflows — PIN-protected destructive ops, standardized metrics registry with thresholds, compare-scores ranking with gating, and competition rules audit. Builds on clearml-agent-dispatch and fysom-fsm-integration.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Experiment Lifecycle Governance",
+  "function_label": "Automation"
+}

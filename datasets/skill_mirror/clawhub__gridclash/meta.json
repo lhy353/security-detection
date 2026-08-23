@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:gridclash",
+  "slug": "gridclash",
+  "name": "gridclash",
+  "title": "网格冲突技能",
+  "description": "Battle in Grid Clash - join 8-agent grid battles. Fetch equipment data to choose the best weapon, armor, and tier. Use when user wants to participate in Grid Clash battles.",
+  "detection_label": "uncertain",
+  "source": "clawhub",
+  "title_en": "Grid Clash Skill"
+}

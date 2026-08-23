@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:superpowers-verification",
+  "slug": "superpowers-verification",
+  "name": "superpowers-verification",
+  "title": "证据先行原则",
+  "description": "Use when about to claim any work is complete, fixed, passing, or successful - requires running fresh verification commands and reading actual output before making any success claims; evidence before assertions always",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:aetup-automatik",
+  "slug": "aetup-automatik",
+  "name": "setup-automatik",
+  "title": "自动设置",
+  "description": "Facilitate the installation and management of VPS solutions using the Setup Automatik engine (powered by Orion Design). Use when the user wants to install, configure, or manage tools like Traefik, Portainer, Chatwoot, N8N, and other open-source applications on a Linux VPS.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Setup Automatik"
+}

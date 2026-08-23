@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:oo-one-password",
+  "slug": "oo-one-password",
+  "name": "oo-one-password",
+  "title": "密码",
+  "description": "1Password (1password.com). Use this skill for ANY 1Password request — searching and reading data. Whenever a task involves 1Password, use this skill instead of calling the API directly.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "1Password"
+}

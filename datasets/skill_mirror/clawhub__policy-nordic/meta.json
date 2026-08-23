@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:policy-nordic",
+  "slug": "policy-nordic",
+  "name": "🇪🇺 北欧市场政策查询Skill",
+  "title": "北欧市场政策查询Skill",
+  "description": "基于惠迈智能体架构，智能查询并分析北欧及澳新加地区市场政策、法规与投资环境，支持多语言与多数据源配置。无需API Key，安装即用。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

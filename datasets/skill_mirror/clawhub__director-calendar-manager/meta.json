@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:director-calendar-manager",
+  "slug": "director-calendar-manager",
+  "name": "calendar-manager",
+  "title": "日历管理器",
+  "description": "Manage calendar availability, schedule meetings across timezones, find optimal meeting times, and send calendar invites. Use when user wants to (1) find available time slots, (2) schedule meetings, (3) check availability across timezones, (4) generate calendar invite files (.ics), or (5) manage multiple calendars.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Calendar Manager",
+  "function_label": "Communication"
+}

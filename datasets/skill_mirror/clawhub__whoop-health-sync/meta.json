@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:whoop-health-sync",
+  "slug": "whoop-health-sync",
+  "name": "whoop",
+  "title": "健康数据同步",
+  "description": "Sync WHOOP health data (recovery, sleep, strain, workouts) to markdown files for AI-powered health insights. Use when user asks about WHOOP data, health metrics, recovery scores, sleep analysis, HRV, strain tracking, or wants daily health reports. Triggers on \"WHOOP\", \"recovery score\", \"HRV\", \"sleep debt\", \"strain\", \"health sync\", \"健康数据\", \"恢复分数\", \"睡眠\", \"心率变异性\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WHOOP Health Data Sync",
+  "function_label": "Browser"
+}

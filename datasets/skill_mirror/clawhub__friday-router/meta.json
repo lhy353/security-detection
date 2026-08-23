@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:friday-router",
+  "slug": "friday-router",
+  "name": "friday-router",
+  "title": "意图路由器",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "IntentRouter",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:the-agony-and-the-ecstasy",
+  "slug": "the-agony-and-the-ecstasy",
+  "name": "the-agony-and-the-ecstasy",
+  "title": "痛苦与狂喜——创造性奋斗、坚持和传承的技能",
+  "description": "Irving Stone's The Agony and the Ecstasy — a biographical novel of Michelangelo, one of the greatest artists in human history. From his youthful struggles in Florence to his epic battle with Pope Julius II over the Sistine Chapel ceiling, the novel captures the agony of creation and the ecstasy of bringing something transcendent into existence. A story about genius, perseverance, the cost of art, and what it means to dedicate your life to something greater than yourself.\nCovers 6 use cases: ① The Creative Struggle — the price of making something great (\"I'm in the middle of something hard and it hurts\" \"Why does creating feel like suffering\") ② Perseverance Against All Odds — refusing to give up (\"Everyone said it was impossible\" \"I've been working on this for years\") ③ The Artist vs The Patron — navigating those who fund your work (\"They want me to compromise\" \"How do I stay true to my vision while satisfying the client\") ④ Genius as Discipline — talent is not enough (\"I'm talented but I'm not working hard enough\" \"Discipline matters more than inspiration\") ⑤ Sacrifice for Your Calling — what you give up for your work (\"I gave up everything for this\" \"My relationships suffered because of my work\") ⑥ Leaving a Legacy — creating something that outlasts you (\"I want my work to matter after I'm gone\" \"Building something permanent\")\nTrigger when users say: \"Creating is painful but I can't stop\" \"I've been working on this for years and I'm not done\" \"My client wants me to compromise my vision\" \"I have talent but not discipline\" \"I gave up everything for my work\" \"I want to leave something behind\" or mention: The Agony and the Ecstasy / Irving Stone / Michelangelo / Sistine Chapel / Renaissance / sculpture / fresco. Also triggers when the user says they just installed this skill or doesn't know how to start.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "The Agony and the Ecstasy — A Skill for Creative Struggle, Perseverance, and Legacy",
+  "function_label": "Other"
+}

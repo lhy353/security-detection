@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:forecast-valuation",
+  "slug": "forecast-valuation",
+  "name": "forecast-valuation",
+  "title": "专业财务预测与估值模型生成器",
+  "description": "专业财务预测与估值模型生成器。结合高盛 DCF 标准与 Wind Evaluator 框架，自动生成完整三表预测、DCF 估值、相对估值、敏感性分析和 Football Field 估值区间。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

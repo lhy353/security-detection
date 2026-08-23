@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:gevety",
+  "slug": "gevety",
+  "name": "gevety",
+  "title": "盖维蒂健康助理",
+  "description": "Access your Gevety health data - biomarkers, healthspan scores, biological age, supplements, activities, daily actions, 90-day health protocol, and upcoming tests",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Gevety Health Assistant",
+  "function_label": "Data-Agent"
+}

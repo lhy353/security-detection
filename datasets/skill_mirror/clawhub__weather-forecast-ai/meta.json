@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:weather-forecast-ai",
+  "slug": "weather-forecast-ai",
+  "name": "weather",
+  "title": "天气技能",
+  "description": "Get current weather and forecasts via wttr.in or Open-Meteo. Use when: user asks about weather, temperature, or forecasts for any location. NOT for: historical weather data, severe weather alerts, or detailed meteorological analysis. No API key needed.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Weather Skill",
+  "function_label": "Other"
+}

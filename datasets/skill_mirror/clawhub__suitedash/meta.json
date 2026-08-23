@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:suitedash",
+  "slug": "suitedash",
+  "name": "suitedash",
+  "title": "苏特达什",
+  "description": "SuiteDash integration. Manage Organizations. Use when the user wants to interact with SuiteDash data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Suitedash",
+  "function_label": "Browser"
+}

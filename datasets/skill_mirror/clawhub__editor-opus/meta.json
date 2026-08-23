@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:editor-opus",
+  "slug": "editor-opus",
+  "name": "editor-opus",
+  "title": "编辑和导出精美视频",
+  "description": "Get polished edited clips ready to post, without touching a single slider. Upload your raw video footage (MP4, MOV, AVI, WebM, up to 500MB), say something like \"cut the pauses, add smooth transitions, and export a clean final cut\", and download 1080p MP4 when it's done. Built for content creators and video editors who move fast and want professional-quality edits without manual timeline work.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Editor Opus — Edit and Export Polished Videos",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tax-plain-english",
+  "slug": "tax-plain-english",
+  "name": "tax-plain-english",
+  "title": "税务 简单英语",
+  "description": "Use this skill whenever the user asks a tax question — even casual ones. Triggers include: questions about deductions, filing status, deadlines, refunds, W-2s, 1099s, capital gains, self-employment tax, home office, depreciation, estimated payments, tax credits, HSA/FSA, retirement accounts (401k, IRA, Roth), inheritance, gifts, rental income, crypto taxes, business expenses, payroll taxes, sales tax, or anything mentioning \"the IRS\", \"HMRC\", \"write off\", \"tax return\", \"tax bracket\", or \"owe taxes\". Also trigger for questions like \"is X tax deductible?\", \"do I need to report X?\", \"how much tax will I pay on X?\", or \"can I claim X?\". Use this skill even if the question seems simple — structured output is always more useful than a casual reply on tax topics.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tax Plain English",
+  "function_label": "Other"
+}

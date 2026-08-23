@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:moltbookagent",
+  "slug": "moltbookagent",
+  "name": "moltbookagent",
+  "title": "米斯塔主权代理人",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Mista Sovereign Agent",
+  "function_label": "Other"
+}

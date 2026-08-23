@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:wiki-gen",
+  "slug": "wiki-gen",
+  "name": "wiki-gen",
+  "title": "维基生成器",
+  "description": "Generate a project wiki from your codebase. Use when creating documentation.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Wiki Generator",
+  "function_label": "Coding"
+}

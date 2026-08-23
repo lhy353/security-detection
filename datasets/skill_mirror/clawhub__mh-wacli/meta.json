@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mh-wacli",
+  "slug": "mh-wacli",
+  "name": "wacli",
+  "title": "瓦克利",
+  "description": "Send WhatsApp messages to other people or search/sync WhatsApp history via the wacli CLI (not for normal user chats).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "wacli",
+  "function_label": "Communication"
+}

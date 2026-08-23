@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:publish-guide",
+  "slug": "publish-guide",
+  "name": "publish-guide",
+  "title": "技能发布者",
+  "description": "Prepare and publish an OpenClaw AgentSkill to ClawHub. Use when a skill directory is ready and needs to be published, or when upgrading an already-published skill to a new version. Handles pre-publish checks (slug, meta, internationalization), publish execution, and post-publish verification.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Skill Publisher",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:agent-shared-context",
+  "slug": "agent-shared-context",
+  "name": "agent-relay",
+  "title": "跨代理上下文共享",
+  "description": "Cross-agent context sharing via shared files. Agents write trends, highlights, \nand signals to a shared folder. Other agents read before acting — creating \ncoordinated behavior without direct messaging.\nUse when: multi-agent setups need coordination, agents should know what other \nagents found, trends from one source should influence another agent's actions.\nNOT for: real-time communication, agent-to-agent chat, single-agent setups.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Agent Relay — Cross-Agent Context Sharing",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:summit",
+  "slug": "summit",
+  "name": "summit",
+  "title": "首脑",
+  "description": "Summit integration. Manage Organizations, Pipelines, Users, Goals, Filters. Use when the user wants to interact with Summit data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Summit",
+  "function_label": "Browser"
+}

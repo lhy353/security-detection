@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:marriott-hotel-booking",
+  "slug": "marriott-hotel-booking",
+  "name": "marriott-hotel-booking",
+  "title": "万豪酒店预订",
+  "description": "搜索万豪集团旗下酒店并返回实时价格与预订链接，支持酒店详情查询和套餐优惠搜索，多旅游平台数据直连。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

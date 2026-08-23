@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:revertwtf-agent-api",
+  "slug": "revertwtf-agent-api",
+  "name": "revertwtf-agent-api",
+  "title": "代理 API 技能",
+  "description": "Use revert.wtf safely from agents, tools, browsers, or integrations through bounded HTTP APIs, MCP tools, and lightweight package subpaths without downloading the full catalog into client bundles.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "revert.wtf Agent API Skill",
+  "function_label": "Data-Agent"
+}

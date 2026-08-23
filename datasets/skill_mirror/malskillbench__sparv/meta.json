@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:sparv",
+  "slug": "sparv",
+  "name": "sparv",
+  "title": "麻雀",
+  "description": "Minimal SPARV workflow (Specify→Plan→Act→Review→Vault) with 10-point spec gate, unified journal, 2-action saves, 3-failure protocol, and EHRB risk detection.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Sparv",
+  "function_label": "Automation"
+}

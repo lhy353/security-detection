@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:debugbundle",
+  "slug": "debugbundle",
+  "name": "debugbundle",
+  "title": "调试包",
+  "description": "Use DebugBundle MCP and CLI workflows to investigate incidents, fetch bundles, manage operational debugging surfaces, run verification, and guide fixes.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Debugbundle",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:sql",
+  "slug": "sql",
+  "name": "sql",
+  "title": "数据库环境中 SQL 的 Sql 标准",
+  "description": "Sql standards for sql in Database environments. Covers best practices,",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Sql",
+  "function_label": "Data-Agent"
+}

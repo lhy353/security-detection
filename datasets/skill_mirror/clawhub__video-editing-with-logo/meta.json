@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-editing-with-logo",
+  "slug": "video-editing-with-logo",
+  "name": "video-editing-with-logo",
+  "title": "向视频添加徽标叠加",
+  "description": "add video clips into logo-branded videos with this skill. Works with MP4, MOV, AVI, WebM files up to 500MB. marketers use it for adding a brand logo watermark to videos — processing takes 20-40 seconds on cloud GPUs and you get 1080p MP4 files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Editing With Logo — Add Logo Overlay to Videos",
+  "function_label": "Communication"
+}

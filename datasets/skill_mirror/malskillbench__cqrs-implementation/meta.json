@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:cqrs-implementation",
+  "slug": "cqrs-implementation",
+  "name": "cqrs-implementation",
+  "title": "实施",
+  "description": "Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Cqrs Implementation",
+  "function_label": "Other"
+}

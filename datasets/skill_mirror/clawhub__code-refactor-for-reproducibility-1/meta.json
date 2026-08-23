@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:code-refactor-for-reproducibility-1",
+  "slug": "code-refactor-for-reproducibility-1",
+  "name": "code-refactor-for-reproducibility",
+  "title": "研究代码再现性重构工具",
+  "description": "Use when refactoring research code for publication, adding documentation to existing analysis scripts, creating reproducible computational workflows, or preparing code for sharing with collaborators. Transforms research code into publication-ready, reproducible workflows. Adds documentation, implements error handling, creates environment specifications, and ensures computational reproducibility for scientific publications.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Research Code Reproducibility Refactoring Tool",
+  "function_label": "Coding"
+}

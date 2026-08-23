@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:tdd-guide",
+  "slug": "tdd-guide",
+  "name": "tdd-guide",
+  "title": "指南",
+  "description": "Test-driven development workflow with test generation, coverage analysis, and multi-framework support",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Tdd Guide",
+  "function_label": "Coding"
+}

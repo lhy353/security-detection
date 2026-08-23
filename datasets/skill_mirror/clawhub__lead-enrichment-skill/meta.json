@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lead-enrichment-skill",
+  "slug": "lead-enrichment-skill",
+  "name": "lead-enrichment",
+  "title": "铅富集",
+  "description": "Enrich a company or person lead from public-web signals before outreach. Produces an ICP-fit verdict, key facts, red flags, and optional structured output.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Lead Enrichment",
+  "function_label": "Coding"
+}

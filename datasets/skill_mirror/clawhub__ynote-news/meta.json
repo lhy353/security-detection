@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ynote-news",
+  "slug": "ynote-news",
+  "name": "ynote-news",
+  "title": "有道云笔记资讯推送",
+  "description": "有道云笔记资讯推送：基于收藏笔记分析关注话题，推送最新相关资讯。支持对话触发与每日定时推送（如早上9点）。触发词：资讯推送、设置资讯推送、生成资讯推送。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

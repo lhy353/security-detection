@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:zara",
+  "slug": "zara",
+  "name": "zara",
+  "title": "信息助理",
+  "description": "Information assistant for Zara. Search products, news, financials, and official resources for Zara.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Zara — Information Assistant",
+  "function_label": "Research"
+}

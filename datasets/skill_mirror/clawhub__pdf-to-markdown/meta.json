@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pdf-to-markdown",
+  "slug": "pdf-to-markdown",
+  "name": "PDF to Markdown",
+  "title": "到 Markdown",
+  "description": "Convert PDF files to Markdown with table recognition. Use when extracting text, converting tables, summarizing documents, fixing formatting issues.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PDF to Markdown",
+  "function_label": "File-Agent"
+}

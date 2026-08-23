@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:event-recap-video",
+  "slug": "event-recap-video",
+  "name": "event-recap-video",
+  "title": "活动回顾视频制作",
+  "description": "Create professional event recap videos capturing highlights and key moments with AI production.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Event Recap Video Maker — AI Highlight Content",
+  "function_label": "Other"
+}

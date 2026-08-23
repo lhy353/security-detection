@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:editor-inshot",
+  "slug": "editor-inshot",
+  "name": "editor-inshot",
+  "title": "编辑和导出社交视频",
+  "description": "Turn a 60-second smartphone clip into 1080p edited video clips just by typing what you need. Whether it's editing short videos for social media with cuts, music, and effects or quick social content, drop your video clips and describe the result you want. No timeline dragging, no export settings — 30-60 seconds from upload to download.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Editor InShot — Edit and Export Social Videos",
+  "function_label": "Communication"
+}

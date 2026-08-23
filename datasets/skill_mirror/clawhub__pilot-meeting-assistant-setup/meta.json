@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pilot-meeting-assistant-setup",
+  "slug": "pilot-meeting-assistant-setup",
+  "name": "pilot-meeting-assistant-setup",
+  "title": "会议助理设置",
+  "description": "Deploy a meeting assistant system with 3 agents.\nUse this skill when: 1. User wants to set up an automated meeting assistant system 2. User is configuring an agent as part of a meeting management workflow 3. User asks about automating meeting scheduling, notes, and action tracking\nDo NOT use this skill when: - User wants to share a single file (use pilot-share instead) - User wants a one-off scheduled task (use pilot-cron instead)\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Meeting Assistant Setup",
+  "function_label": "Automation"
+}

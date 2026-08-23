@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:verimor-sms",
+  "slug": "verimor-sms",
+  "name": "verimor_sms",
+  "title": "短信技能",
+  "description": "Verimor API üzerinden SMS gönder, bakiye sorgula, rapor al, başlıkları listele ve kara liste yönet.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Verimor SMS Skill",
+  "function_label": "Communication"
+}

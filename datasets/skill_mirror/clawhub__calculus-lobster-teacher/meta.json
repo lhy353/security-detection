@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:calculus-lobster-teacher",
+  "slug": "calculus-lobster-teacher",
+  "name": "calculus-lobster-teacher",
+  "title": "高数小龙虾 🦐",
+  "description": "高等数学智能课程助手 2.1：在 2.0 全栈能力上强化「认知高阶性」——分析、评价、创造与迁移； 同济七版 1–12 章；图谱 skillId 协同；题型级批改 + 高阶评分维度。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:bookforge-strategic-situation-analyzer",
+  "slug": "bookforge-strategic-situation-analyzer",
+  "name": "strategic-situation-analyzer",
+  "title": "战略态势分析仪",
+  "description": "Classify any strategic situation and route to the right game-theory skill. Use this skill whenever a user describes any situation involving multiple decision-makers whose outcomes depend on each other's choices. Triggers include: user says 'I'm not sure how to think about this strategically'; user faces a competitive or cooperative decision and doesn't know where to start; user asks which game theory concept applies to their situation; user describes a negotiation, competition, auction, vote, or incentive design problem and wants to know the right framework; user asks 'is this a prisoners' dilemma?'; user wants to understand whether their situation calls for cooperation or competition; user has a business, political, or personal strategic dilemma and needs a diagnostic before diving into analysis; user says 'what kind of game am I playing?'; user describes any interaction where their best action depends on what others will do; user is unsure whether to look for dominant strategies, equilibria, or use backward reasoning; user needs to decide whether to move first or second; user wonders whether they should cooperate, compete, randomize, commit, signal, or negotiate. This is the ENTRY POINT skill for the entire Art of Strategy skill set. It diagnoses the game type and routes to the specialized skill best suited to the situation. It does NOT replace the specialized skills — it prepares the user to use them effectively.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Strategic Situation Analyzer",
+  "function_label": "Other"
+}

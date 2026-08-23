@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:dynamic-webfetch",
+  "slug": "dynamic-webfetch",
+  "name": "dynamic-webfetch",
+  "title": "动态网页抓取工具",
+  "description": "动态网页抓取工具 - 使用 Playwright 支持 JavaScript 渲染的网页内容抓取",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Browser"
+}

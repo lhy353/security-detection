@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:simon-property",
+  "slug": "simon-property",
+  "name": "simon-property",
+  "title": "电商杀不死的零售地产",
+  "description": "电商冲击下仍在增长的实体零售：Premium Outlets的秘诀",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

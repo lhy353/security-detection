@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:data-deep-analysis",
+  "slug": "data-deep-analysis",
+  "name": "data-deep-analysis",
+  "title": "系统性深度分析",
+  "description": "遇到复杂或矛盾的信息时使用。系统性地追溯根源、交叉验证、形成有证据支撑的结论，避免草率判断。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

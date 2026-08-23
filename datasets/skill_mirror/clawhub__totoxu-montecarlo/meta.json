@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:totoxu-montecarlo",
+  "slug": "totoxu-montecarlo",
+  "name": "totoxu-montecarlo",
+  "title": "蒙特卡罗加密核心",
+  "description": "Monte Carlo Crypto Trading Core. Simulates thousands of future price paths (Geometric Brownian Motion) to evaluate win probabilities, risk of ruin, and stop-loss impact for trading strategies.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Monte Carlo Crypto Core",
+  "function_label": "Other"
+}

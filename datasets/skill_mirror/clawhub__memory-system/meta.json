@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:memory-system",
+  "slug": "memory-system",
+  "name": "memory-system",
+  "title": "多层记忆系统",
+  "description": "多层记忆系统，提供分层存储、按需检索、持久化的完整方法论。触发词：记忆系统、长期记忆、上下文管理、知识管理、信息存储、meta-skill-system",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

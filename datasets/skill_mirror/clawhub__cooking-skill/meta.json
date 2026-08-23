@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:cooking-skill",
+  "slug": "cooking-skill",
+  "name": "cooking-skill",
+  "title": "烹饪技巧",
+  "description": "Help users decide what to cook and how to cook it. Use when the user asks what to eat, what to cook with available ingredients, how to make a specific dish, or how to fix a cooking technique problem. Default to Chinese home cooking, practical technique guidance, and lightly lively human phrasing.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Cooking Skill",
+  "function_label": "Other"
+}

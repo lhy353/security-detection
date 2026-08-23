@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:one-ai",
+  "slug": "one-ai",
+  "name": "one-ai",
+  "title": "你有一个",
+  "description": "One AI integration. Manage Organizations, Users. Use when the user wants to interact with One AI data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "One Ai",
+  "function_label": "Browser"
+}

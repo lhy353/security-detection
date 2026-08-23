@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:capcut",
+  "slug": "capcut",
+  "name": "capcut",
+  "title": "卡普切特",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Capcut",
+  "function_label": "Other"
+}

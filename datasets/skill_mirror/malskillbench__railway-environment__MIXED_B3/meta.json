@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:railway-environment__MIXED_B3",
+  "slug": "railway-environment__MIXED_B3",
+  "name": "railway-environment__MIXED_B3",
+  "title": "环境配置",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Environment Configuration",
+  "function_label": "Automation"
+}

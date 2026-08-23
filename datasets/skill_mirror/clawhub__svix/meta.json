@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:svix",
+  "slug": "svix",
+  "name": "svix",
+  "title": "斯维克斯",
+  "description": "Svix integration. Manage Organizations. Use when the user wants to interact with Svix data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Svix",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:contact-discovery",
+  "slug": "contact-discovery",
+  "name": "contact-discovery",
+  "title": "联系探索",
+  "description": "Find public contact details for a person or company using Prismfy-powered web search. Use when a user wants a public email, contact path, press/support page, or company email-format clue before outreach.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Contact Discovery",
+  "function_label": "Research"
+}

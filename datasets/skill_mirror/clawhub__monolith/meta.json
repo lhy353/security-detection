@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:monolith",
+  "slug": "monolith",
+  "name": "monolith",
+  "title": "加密钱包技能",
+  "description": "Secure crypto wallet for AI agents. Hardware-isolated keys (Apple Secure Enclave), ERC-4337 smart wallet, on-chain spending caps, default-deny policy engine.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Monolith — Crypto Wallet Skill",
+  "function_label": "Data-Agent"
+}

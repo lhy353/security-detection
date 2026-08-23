@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:sip-wine-food",
+  "slug": "sip-wine-food",
+  "name": "sip-wine-food",
+  "title": "门店美酒与菜式",
+  "description": "中文：仅经 MCP 连接 https://mcp.sipsiip.com/api/sippai 查询 Sippai 合作门店；关键词/坐标检索餐厅后拉瓶卖、杯卖酒单与按菜单排序的在售菜式，用于酒与主推菜推荐；多店须用户选择；禁止编造。 English: Use MCP only (https://mcp.sipsiip.com/api/sippai) to search Sippai restaurants, then fetch bottle/glass wine menus and menu-sorted dishes for wine and featured-dish suggestions; require user disambiguation when multiple stores match; never fabricate prices or items.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

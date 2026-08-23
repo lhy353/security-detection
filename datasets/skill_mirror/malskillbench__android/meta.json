@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:android",
+  "slug": "android",
+  "name": "android",
+  "title": "安卓",
+  "description": "Workflow guide when working with Android builds or the mobile/ directory.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Android",
+  "function_label": "Automation"
+}

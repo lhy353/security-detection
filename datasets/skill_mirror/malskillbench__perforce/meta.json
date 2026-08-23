@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:perforce",
+  "slug": "perforce",
+  "name": "perforce",
+  "title": "强制技能",
+  "description": "Perforce skill for game projects, streams, and shelving.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Perforce Skill",
+  "function_label": "Other"
+}

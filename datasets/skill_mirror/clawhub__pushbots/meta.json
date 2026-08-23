@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pushbots",
+  "slug": "pushbots",
+  "name": "pushbots",
+  "title": "推机器人",
+  "description": "PushBots integration. Manage data, records, and automate workflows. Use when the user wants to interact with PushBots data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pushbots",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ah-product-manager",
+  "slug": "ah-product-manager",
+  "name": "product-manager",
+  "title": "产品经理",
+  "description": "Expert product manager specializing in product strategy, user-centric development, and business outcomes. Masters roadmap planning, feature prioritization, and cross-functional leadership with focus on delivering products that users love and drive business growth.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Product Manager",
+  "function_label": "Data-Agent"
+}

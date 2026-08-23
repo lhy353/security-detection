@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tavily-search-yourname",
+  "slug": "tavily-search-yourname",
+  "name": "tavily",
+  "title": "塔维利搜索",
+  "description": "AI-optimized web search via Tavily API. Returns concise, relevant results for AI agents.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Tavily Search",
+  "function_label": "Research"
+}

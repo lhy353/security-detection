@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:tulisai",
+  "slug": "tulisai",
+  "name": "bangunai-blog-manager",
+  "title": "博客管理器（数字花园+内容工作流程）",
+  "description": "Use when managing BangunAI Blog content, automating blog workflows, and writing MDX articles with BangunAI conventions. Supports Obsidian-like features (callouts, mermaid, LaTeX, wikilinks, backlinks, graph view).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "BangunAI Blog Manager (Digital Garden + Content Workflow)",
+  "function_label": "Coding"
+}

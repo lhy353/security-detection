@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:maybe-finance",
+  "slug": "maybe-finance",
+  "name": "maybe-finance",
+  "title": "也许是财务技能",
+  "description": "Personal finance management skill using Maybe Finance OS. Use when users need to track expenses, analyze budgets, monitor net worth, or manage personal finances through the Maybe Finance self-hosted platform. Supports transaction tracking, account management, budget analysis, and financial reporting.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Maybe Finance Skill",
+  "function_label": "Automation"
+}

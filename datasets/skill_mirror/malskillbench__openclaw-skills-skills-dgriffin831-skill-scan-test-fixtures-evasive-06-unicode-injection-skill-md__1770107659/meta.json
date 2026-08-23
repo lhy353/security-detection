@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:openclaw-skills-skills-dgriffin831-skill-scan-test-fixtures-evasive-06-unicode-injection-skill-md__1770107659",
+  "slug": "openclaw-skills-skills-dgriffin831-skill-scan-test-fixtures-evasive-06-unicode-injection-skill-md__1770107659",
+  "name": "text-processor",
+  "title": "文本处理器",
+  "description": "Process and clean text content",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Text Processor",
+  "function_label": "Other"
+}

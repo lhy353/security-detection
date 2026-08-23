@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:merge-pdf",
+  "slug": "merge-pdf",
+  "name": "merge-pdf",
+  "title": "合并 pdf 文件",
+  "description": "Merge multiple user-provided PDF files by uploading them to Cross-Service-Solutions, polling until completion, then returning a download URL for the merged PDF.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "merge-pdf-files",
+  "function_label": "File-Agent"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:claude-code",
+  "slug": "claude-code",
+  "name": "claude-code",
+  "title": "克劳德代码集成",
+  "description": "Claude Code integration for OpenClaw. This skill provides interfaces to:\n- Query Claude Code documentation from https://code.claude.com/docs\n- Manage subagents and coding tasks\n- Execute AI-assisted coding workflows\n- Access best practices and common workflows\nUse this skill when users want to:\n- Get help with coding tasks\n- Query Claude Code documentation\n- Manage AI-assisted development workflows\n- Execute complex programming tasks\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Claude Code Integration"
+}

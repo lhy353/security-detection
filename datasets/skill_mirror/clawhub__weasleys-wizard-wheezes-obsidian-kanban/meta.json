@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:weasleys-wizard-wheezes-obsidian-kanban",
+  "slug": "weasleys-wizard-wheezes-obsidian-kanban",
+  "name": "weasleys-wizard-wheezes-obsidian-kanban",
+  "title": "韦斯莱魔法把戏",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Weasleys Wizard Wheezes - Obsidian Kanban",
+  "function_label": "Other"
+}

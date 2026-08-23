@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:rest-api-generator",
+  "slug": "rest-api-generator",
+  "name": "skylv-openapi-generator",
+  "title": "生成器",
+  "description": "Generates OpenAPI 3.0 specs from code. Creates API documentation for REST endpoints. Triggers: openapi spec, generate api doc, swagger.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenAPI Generator",
+  "function_label": "File-Agent"
+}

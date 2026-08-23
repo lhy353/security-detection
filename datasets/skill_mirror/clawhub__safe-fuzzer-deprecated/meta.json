@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:safe-fuzzer-deprecated",
+  "slug": "safe-fuzzer-deprecated",
+  "name": "safe-fuzzer",
+  "title": "安全模糊器",
+  "description": "Sandbox-only behavior-led gray-box skill fuzzer. Spawns a worker subagent, probes an installed target skill, deploys honeypot fixtures, and returns a structured JSON risk report.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SAFE Fuzzer",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:domain-trust-check",
+  "slug": "domain-trust-check",
+  "name": "domain-trust-check",
+  "title": "域信任检查",
+  "description": "URL safety scanner and domain reputation checker. Use when: checking if a URL is safe before visiting, scanning links in emails/messages, verifying domains for phishing/malware/scam. NOT for: submitting malicious domains for bounty rewards (use outtake-bounty-network).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Domain Trust Check",
+  "function_label": "Communication"
+}

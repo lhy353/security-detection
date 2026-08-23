@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:douyin-realtime-hot-rise",
+  "slug": "douyin-realtime-hot-rise",
+  "name": "douyin-realtime-hot-rise",
+  "title": "抖音上升热点选题助手",
+  "description": "抖音上升热点选题助手适合内容创作者、运营、电商、营销在用户想知道接下来拍什么、写什么更可能有流量时使用，帮助基于输入材料生成上升热点列表、排名和变化趋势视图、可用于内容规划的选题线索。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

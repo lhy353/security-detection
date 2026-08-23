@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:junyi-vault-organizer",
+  "slug": "junyi-vault-organizer",
+  "name": "junyi-vault-organizer",
+  "title": "自动归档 (Two-Domain Knowledge Vault)",
+  "description": "自动归档 — A two-domain knowledge management system: Business domain (事业域, customizable name, organized by function) and Life & Learning domain (生活学习域, three-layer Inbox→Cognition→Guidebook). Stores to Obsidian vault. Triggers when user mentions 自动归档, 归档, 享育心塾萃取器, 萃取器, or asks to save/store/organize any information — articles, reading notes, class notes, children's words, conversations, ideas, reflections, quotes, or any content they want to keep. Also triggers on save this, remember this, file this away, put this in my notes, store this for later, 记下来, 存一下, 帮我记, 存到知识库.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

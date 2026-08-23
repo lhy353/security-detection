@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:data-chart-builder",
+  "slug": "data-chart-builder",
+  "name": "data-chart-builder",
+  "title": "数据图表生成器",
+  "description": "Create publication-ready charts from any data source (CSV, JSON, FRED API, or inline data). Supports line, bar, scatter, area-fill, indexed series, annotations, and multi-series overlays. Use for economic data visualization, time series comparison, trend analysis, gap/shaded region charts, annotated timelines, or any custom plotting task. Triggers on requests for charts, graphs, plots, data visualization, time series comparison, indexed data plots, or annotated economic/social/technical charts.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Data Chart Builder",
+  "function_label": "Other"
+}

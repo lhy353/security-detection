@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:local-password",
+  "slug": "local-password",
+  "name": "local-password",
+  "title": "本地密码",
+  "description": "Generate secure random passwords and check password strength. Supports custom length and character types (uppercase, lowercase, numbers, symbols). Pure local operation, no external dependencies. Use when users need to generate new secure passwords or check password strength.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Local Password",
+  "function_label": "Other"
+}

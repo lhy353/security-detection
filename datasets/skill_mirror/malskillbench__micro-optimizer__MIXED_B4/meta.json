@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:micro-optimizer__MIXED_B4",
+  "slug": "micro-optimizer__MIXED_B4",
+  "name": "micro-optimizer",
+  "title": "微优化技能",
+  "description": "Apply language-specific micro-optimizations",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Micro-Optimizer Skill",
+  "function_label": "Other"
+}

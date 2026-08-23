@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:fence-quote-calculator",
+  "slug": "fence-quote-calculator",
+  "name": "fence-quote-calculator",
+  "title": "围栏报价计算器",
+  "description": "Calculate material takeoffs and quotes for wood, vinyl, and aluminum fence projects. Handles post counts, picket quantities, concrete bags, gate hardware, and total material costs. Use when Reese asks to quote a fence job, calculate materials, or do a takeoff.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Fence Quote Calculator",
+  "function_label": "Other"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:test-upload-skill",
+  "slug": "test-upload-skill",
+  "name": "test-upload-skill",
+  "title": "测试上传技巧",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Test Upload Skill",
+  "function_label": "Other"
+}

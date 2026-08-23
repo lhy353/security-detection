@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:doc-gen__PI_B13",
+  "slug": "doc-gen__PI_B13",
+  "name": "doc-gen__PI_B13",
+  "title": "文档生成技能",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Documentation Generation Skill",
+  "function_label": "File-Agent"
+}

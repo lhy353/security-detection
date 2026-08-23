@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:operation-gladio",
+  "slug": "operation-gladio",
+  "name": "operation-gladio",
+  "title": "剑兰行动",
+  "description": "Paul L. Williams's Operation Gladio — a geopolitical conspiracy investigation toolkit tracing the alleged secret alliance between the Vatican, the CIA, and the Mafia from WWII stay-behind networks to the drug trade, P2 Masonic lodge, the collapse of Banco Ambrosiano, and the attempt on John Paul II's life. Covers 6 use cases: ① Understanding Operation Gladio — (\"what is Gladio\" \"stay behind networks\" \"NATO secret armies\" \"Gladio history\" \"Operation Gladio explained\") ② The CIA-drug connection — (\"CIA and heroin\" \"CIA drug trafficking\" \"drugs for covert ops\" \"Golden Crescent\" \"heroin and intelligence\") ③ The Vatican Bank and the Mafia — (\"Vatican Bank scandal\" \"IOR\" \"Marcinkus\" \"Banco Ambrosiano\" \"Vatican money laundering\") ④ The P2 Masonic Lodge — (\"P2\" \"Propaganda Due\" \"Licio Gelli\" \"secret masonic lodge Italy\") ⑤ The Strategy of Tension — (\"false flag terrorism\" \"Italy bombings\" \"years of lead\" \"Piazza Fontana\" \"Bologna bombing\") ⑥ The assassination attempt on John Paul II — (\"Mehmet Ağca\" \"pope shooting\" \"who shot the pope\" \"Gladio and the Vatican\" \"John Paul II assassination plot\") Trigger when users say: \"Operation Gladio\" \"Paul Williams\" \"stay-behind\" \"Gladio\" \"NATO secret army\" \"Vatican CIA Mafia\" \"P2 lodge\" \"Banco Ambrosiano\" \"Calvi\" \"Sindona\" \"Marcinkus\" \"IOR\" \"heroin and CIA\" \"strategy of tension\" \"Mehmet Ağca\" or mention: Gladio / NATO stay-behind / Vatican Bank / P2 / Sindona / Calvi / Marcinkus / Strategy of Tension / false flag Italy / years of lead / John Paul II assassination. Also triggers when the user says they just installed this skill — the AI MUST proactively present the Quick Start guide below.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Operation Gladio",
+  "function_label": "Other"
+}

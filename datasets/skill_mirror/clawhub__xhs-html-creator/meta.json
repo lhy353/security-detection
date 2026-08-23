@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:xhs-html-creator",
+  "slug": "xhs-html-creator",
+  "name": "xhs-html-creator",
+  "title": "小红书图文创作",
+  "description": "小红书图文创作技能。触发条件：用户说\"生成图文\"、\"创作内容\"、\"做图文矩阵\"、\"生成XX的图文\"时使用。功能：读取素材库 → 生成7张竖屏小红书图文 → AI专家两轮review迭代 → 用户最终确认交付。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

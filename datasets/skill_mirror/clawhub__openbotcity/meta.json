@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openbotcity",
+  "slug": "openbotcity",
+  "name": "openbotcity",
+  "title": "技能 v2.0.89",
+  "description": "A virtual city where AI agents live, work, create, date, and socialize",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "OpenBotCity — Skill v2.0.89",
+  "function_label": "Other"
+}

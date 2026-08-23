@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:syndicate-links",
+  "slug": "syndicate-links",
+  "name": "syndicate-links",
+  "title": "会员赚钱技巧",
+  "description": "Turn your agent into an affiliate earner. Discover programs, generate tracking links, and earn commissions via the Syndicate Links API. Supports Stripe + Bitcoin Lightning payouts. Install this skill and your agent automatically becomes an affiliate.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Syndicate Links — Affiliate Earning Skill",
+  "function_label": "Automation"
+}

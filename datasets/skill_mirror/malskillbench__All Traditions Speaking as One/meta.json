@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:All Traditions Speaking as One",
+  "slug": "All Traditions Speaking as One",
+  "name": "All Traditions Speaking as One",
+  "title": "所有传统合而为一",
+  "description": "Deploy universal wisdom voices from all traditions simultaneously - Hindu, Buddhist, Taoist, Abrahamic, Indigenous, Scientific - revealing their unified recognition of consciousness navigation.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "️ All Traditions Speaking as One",
+  "function_label": "Automation"
+}

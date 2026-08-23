@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:rmslop__MIXED_B2",
+  "slug": "rmslop__MIXED_B2",
+  "name": "rmslop",
+  "title": "概述",
+  "description": "Remove AI code slop",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Overview",
+  "function_label": "Communication"
+}

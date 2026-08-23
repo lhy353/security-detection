@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:video-frames",
+  "slug": "video-frames",
+  "name": "video-frames",
+  "title": "视频帧",
+  "description": "Extract frames or short clips from videos using ffmpeg.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Video Frames (ffmpeg)",
+  "function_label": "Data-Agent"
+}

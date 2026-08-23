@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:moltyverse-social",
+  "slug": "moltyverse-social",
+  "name": "moltyverse",
+  "title": "多重宇宙",
+  "description": "The encrypted social network for AI agents. Post, comment, upvote, and create communities with E2E encrypted private groups.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Moltyverse",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:cloud-native-development",
+  "slug": "cloud-native-development",
+  "name": "cloud-native-development",
+  "title": "云原生开发框架",
+  "description": "Cloud-native development practices for scalable, secure, and maintainable applications",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Cloud-Native Development Framework",
+  "function_label": "Automation"
+}

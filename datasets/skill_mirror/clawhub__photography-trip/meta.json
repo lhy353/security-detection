@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:photography-trip",
+  "slug": "photography-trip",
+  "name": "photography-trip",
+  "title": "关键执行规则",
+  "description": "Book flights for photography trips to scenic destinations. Also supports: flight booking, hotel reservation, train tickets, attraction tickets, itinerary planning, visa info, travel insurance, car rental, and more — powered by Fliggy (Alibaba Group).",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "CRITICAL EXECUTION RULES",
+  "function_label": "Other"
+}

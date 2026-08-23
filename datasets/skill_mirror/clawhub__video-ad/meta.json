@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-ad",
+  "slug": "video-ad",
+  "name": "video-ad",
+  "title": "视频广告",
+  "description": "Create scroll-stopping video ads with Pexo. Give it your product, brand, or a photo and Pexo writes the hook, sequences the shots, picks the best models, and delivers a finished ad with music — ready to run on Meta, TikTok, or YouTube. Use for advertising/promo video: \"video ad\", \"make an ad\", \"product ad\", \"promo video\", \"commercial\". NOT for explainer or tutorial content (use the explainer-video skill).\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Ad — Pexo",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:linguixcom",
+  "slug": "linguixcom",
+  "name": "linguixcom",
+  "title": "集成",
+  "description": "Linguix.com integration. Manage data, records, and automate workflows. Use when the user wants to interact with Linguix.com data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Linguix.com",
+  "function_label": "Automation"
+}

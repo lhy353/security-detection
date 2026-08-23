@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:language-buddy",
+  "slug": "language-buddy",
+  "name": "language-buddy",
+  "title": "语言伙伴",
+  "description": "An AI language exchange partner for conversation practice, real-time error correction, fluency coaching, and confidence building. Adapts to your level, tracks recurring mistakes, and provides structured drills.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Language Buddy",
+  "function_label": "Other"
+}

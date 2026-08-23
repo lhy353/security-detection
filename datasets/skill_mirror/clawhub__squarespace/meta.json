@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:squarespace",
+  "slug": "squarespace",
+  "name": "squarespace",
+  "title": "方空间",
+  "description": "Squarespace Commerce API integration with managed OAuth. Manage products, inventory, orders, customer profiles, and transactions.\nUse this skill when users want to manage e-commerce operations on Squarespace stores.\nFor other third party apps, use the api-gateway skill (https://clawhub.ai/byungkyu/api-gateway).\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Squarespace",
+  "function_label": "Browser"
+}

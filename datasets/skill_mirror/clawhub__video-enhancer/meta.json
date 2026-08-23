@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:video-enhancer",
+  "slug": "video-enhancer",
+  "name": "video-enhancer",
+  "title": "视频增强器",
+  "description": "Cloud-based video enhancement skill that uploads a user-selected local video file to Wondershare-hosted endpoints for AI enhancement, then downloads the processed result back to local storage. Use only when the user explicitly agrees to third-party cloud processing for a non-sensitive video, when user says \"enhance video\", \"improve video quality\", \"upscale video\", \"make video clearer\", \"fix blurry video\", \"restore old footage\", \"video enhancement\", \"convert to HD\", or provides a video file and requests quality improvement. supports MP4/MOV.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Enhancer",
+  "function_label": "File-Agent"
+}

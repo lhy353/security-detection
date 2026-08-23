@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:xquads-advisory-board",
+  "slug": "xquads-advisory-board",
+  "name": "xquads-advisory-board",
+  "title": "顾问委员会",
+  "description": "Conselho de 12 pensadores lendários - Ray Dalio, Charlie Munger, Naval Ravikant, Peter Thiel, Simon Sinek, Reid Hoffman, etc. Use para decisões estratégicas, conselhos de negócio, mental models, avaliação de scaling, cultura.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Advisory Board",
+  "function_label": "Other"
+}

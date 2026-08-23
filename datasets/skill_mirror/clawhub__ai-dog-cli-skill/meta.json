@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ai-dog-cli-skill",
+  "slug": "ai-dog-cli-skill",
+  "name": "ai-dog-cli-skill",
+  "title": "微商CLI技能——ai-dog",
+  "description": "AI pet portrait generator — create or transform pet photos with a text prompt; image is optional",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "WeShop CLI Skill — ai-dog",
+  "function_label": "Other"
+}

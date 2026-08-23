@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:veridicusscan-mcp-analyst",
+  "slug": "veridicusscan-mcp-analyst",
+  "name": "veridicusscan-mcp-analyst",
+  "title": "分析师",
+  "description": "Use when the user wants to inspect a prompt, local file, or public HTTPS URL with VeridicusScan through its MCP bridge, triage prompt-injection or hidden-instruction findings, explain coverage or redaction limits, export reports, or run runtime-defense workflows such as memory ingestion, selective disclosure, tool scoping, plan guarding, and action gating.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Veridicusscan Mcp Analyst",
+  "function_label": "File-Agent"
+}

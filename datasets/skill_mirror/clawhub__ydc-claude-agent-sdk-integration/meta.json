@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ydc-claude-agent-sdk-integration",
+  "slug": "ydc-claude-agent-sdk-integration",
+  "name": "ydc-claude-agent-sdk-integration",
+  "title": "将 Claude Agent SDK 与 You.com MCP 集成",
+  "description": "Integrate Claude Agent SDK with You.com HTTP MCP server for Python and TypeScript. Use when developer mentions Claude Agent SDK, Anthropic Agent SDK, or integrating Claude with MCP tools.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Integrate Claude Agent SDK with You.com MCP",
+  "function_label": "Coding"
+}

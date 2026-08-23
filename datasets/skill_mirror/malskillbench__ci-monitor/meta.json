@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:ci-monitor",
+  "slug": "ci-monitor",
+  "name": "ci-monitor",
+  "title": "监控命令",
+  "description": "Monitor Nx Cloud CI pipeline and handle self-healing fixes automatically. Checks for Nx Cloud connection before starting.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "CI Monitor Command",
+  "function_label": "Automation"
+}

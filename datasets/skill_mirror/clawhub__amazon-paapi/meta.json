@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:amazon-paapi",
+  "slug": "amazon-paapi",
+  "name": "amazon-paapi",
+  "title": "亚马逊产品广告API（PA API）技能",
+  "description": "Official Amazon PA API for product info, prices, and reviews",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Amazon Product Advertising API (PA API) Skill",
+  "function_label": "Other"
+}

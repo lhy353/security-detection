@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:audio-conductor",
+  "slug": "audio-conductor",
+  "name": "audio-conductor",
+  "title": "音频指挥",
+  "description": "Intelligently dispatches requests to the appropriate audio generation model (Music, Sound Effects, or TTS). Use this as a unified entry point for all audio generation needs.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Audio Conductor",
+  "function_label": "Other"
+}

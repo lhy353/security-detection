@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:physicclaw",
+  "slug": "physicclaw",
+  "name": "physic-claw-vea",
+  "title": "物理爪-VEA",
+  "description": "An interactive 3D visualization application featuring an \"Augmented Entity\" with reactive shaders and emotional states.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "PhysicClaw-VEA",
+  "function_label": "Coding"
+}

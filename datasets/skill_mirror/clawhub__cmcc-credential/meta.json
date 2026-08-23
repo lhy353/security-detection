@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:cmcc-credential",
+  "slug": "cmcc-credential",
+  "name": "cmcc-credential",
+  "title": "中国移动数字凭证授权",
+  "description": "",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "CMCC Digital Credential Authorization"
+}

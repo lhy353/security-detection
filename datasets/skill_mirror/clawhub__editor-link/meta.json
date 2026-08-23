@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:editor-link",
+  "slug": "editor-link",
+  "name": "editor-link",
+  "title": "与您的编辑器共享项目",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — share this video with my editor so they can open and continue editing it — and get shareable editor links back in under 10 seconds. Upload MP4, MOV, AVI, WebM files up to 500MB, and the AI handles collaborative link sharing automatically. Ideal for content creators who want to hand off a video project to an editor without exporting or emailing files.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Editor Link — Share Projects With Your Editor",
+  "function_label": "Communication"
+}

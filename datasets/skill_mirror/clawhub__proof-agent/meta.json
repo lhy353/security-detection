@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:proof-agent",
+  "slug": "proof-agent",
+  "name": "proof-agent",
+  "title": "证明代理",
+  "description": "Adversarial verification of AI-generated work. Spawns an independent verifier to check for false claims, broken code, and security issues.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Proof Agent",
+  "function_label": "Coding"
+}

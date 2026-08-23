@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:firm-platform-audit-pack",
+  "slug": "firm-platform-audit-pack",
+  "name": "firm-platform-audit-pack",
+  "title": "公司平台审核包",
+  "description": "Platform alignment audit pack for OpenClaw 2026.2. Secrets v2, agent routing, voice security, trust model, autoupdate, plugin SDK, content boundaries, and sqlite-vec. 8 platform tools.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Firm Platform Audit Pack",
+  "function_label": "Data-Agent"
+}

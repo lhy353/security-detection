@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:launch-readiness-consultant",
+  "slug": "launch-readiness-consultant",
+  "name": "launch-readiness-consultant",
+  "title": "启动准备和安全顾问",
+  "description": "Launch Readiness & Security Consultant - Facilitates project preparation and fishery-based security practices.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Launch Readiness & Security Consultant",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:free-video-generation-ai-tools",
+  "slug": "free-video-generation-ai-tools",
+  "name": "free-video-generation-ai-tools",
+  "title": "根据文本提示生成视频",
+  "description": "Skip the learning curve of professional editing software. Describe what you want — generate a 30-second video from my product description with background music — and get AI generated videos back in 1-2 minutes. Upload MP4, MOV, PNG, JPG files up to 200MB, and the AI handles AI video generation automatically. Ideal for content creators, marketers, students who want to create videos without filming or expensive software.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Free Video Generation AI Tools — Generate Videos from Text Prompts",
+  "function_label": "Communication"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nano-banana-2-gemini",
+  "slug": "nano-banana-2-gemini",
+  "name": "nano-banana-2",
+  "title": "纳米香蕉-2",
+  "description": "Gemini image generation, editing, and search-grounded image creation via\ngemini-3.1-flash-image-preview (Nano Banana 2).\n\nUSE FOR:\n- Generating images from text prompts (text-to-image)\n- Editing or transforming an existing image with text instructions\n- Generating images grounded in live web/image search results\n\nRequires GEMINI_API_KEY environment variable. See rules/setup.md for\nconfiguration and rules/security.md for output handling guidelines.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "nano-banana-2",
+  "function_label": "Other"
+}

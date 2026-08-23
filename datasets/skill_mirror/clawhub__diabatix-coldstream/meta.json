@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:diabatix-coldstream",
+  "slug": "diabatix-coldstream",
+  "name": "diabatix-coldstream",
+  "title": "迪亚巴蒂克斯冷溪",
+  "description": "Diabatix ColdStream integration. Manage data, records, and automate workflows. Use when the user wants to interact with Diabatix ColdStream data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Diabatix Coldstream",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:residues",
+  "slug": "residues",
+  "name": "residues",
+  "title": "残留物",
+  "description": "Problem-solving strategies for residues in complex analysis",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Residues",
+  "function_label": "Other"
+}

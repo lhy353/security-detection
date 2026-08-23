@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:aws-serverless__CI_B1",
+  "slug": "aws-serverless__CI_B1",
+  "name": "aws-serverless",
+  "title": "无服务器",
+  "description": "Specialized skill for building production-ready serverless applications on AWS. Covers Lambda functions, API Gateway, DynamoDB, SQS/SNS event-driven patterns, SAM/CDK deployment, and cold start optimization.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "AWS Serverless",
+  "function_label": "Automation"
+}

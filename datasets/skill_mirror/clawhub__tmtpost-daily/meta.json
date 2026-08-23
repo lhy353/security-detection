@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:tmtpost-daily",
+  "slug": "tmtpost-daily",
+  "name": "tmtpost-daily",
+  "title": "钛媒体每日资讯",
+  "description": "钛媒体每日资讯聚合技能。用于获取钛媒体当天的最新新闻、快报和热门榜单，支持关键词搜索。当用户说\"钛媒日报\"、\"今日资讯\"、\"钛媒体搜索\"或需要查看/搜索科技行业动态时触发。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

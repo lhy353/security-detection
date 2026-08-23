@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:aios-make-chart-image",
+  "slug": "aios-make-chart-image",
+  "name": "aios-make-chart-image",
+  "title": "图表图片生成",
+  "description": "当 OpenClaw 或 AIOS agent 需要把 JSON、Markdown 表格或 ECharts option 渲染成图表图片时，必须使用本技能。使用内置 JavaScript 脚本解析数据、生成 ECharts 配置，并导出 PNG、SVG、JPEG 或 WebP 图片；不要临时手写浏览器截图流程。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "File-Agent"
+}

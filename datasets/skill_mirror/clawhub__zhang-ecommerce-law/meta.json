@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:zhang-ecommerce-law",
+  "slug": "zhang-ecommerce-law",
+  "name": "zhang-ecommerce-law",
+  "title": "九章-电商法律专家",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

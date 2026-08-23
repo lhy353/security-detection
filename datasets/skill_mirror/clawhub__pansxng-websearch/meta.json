@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:pansxng-websearch",
+  "slug": "pansxng-websearch",
+  "name": "pansxng-websearch",
+  "title": "自包含的本地元搜索引擎技能",
+  "description": "自包含的本地元搜索引擎技能。基于 SearXNG，零配置，开箱即用。\n触发词：搜索、搜一下、pansxng、联网搜索、私密搜索、searx、帮我搜、xxx是什么。\n使用场景：(1) 联网搜索 (2) 多引擎聚合 (3) 隐私搜索 (4) 指定引擎搜索\n无需任何前置条件——首次使用时自动安装全部依赖（Homebrew → Python 3.11 → Valkey → SearXNG）。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

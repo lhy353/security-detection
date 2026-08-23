@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ticktick-enhanced",
+  "slug": "ticktick-enhanced",
+  "name": "ticktick",
+  "title": "滴答技能",
+  "description": "Manage TickTick tasks and projects",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "TickTick Skill",
+  "function_label": "Coding"
+}

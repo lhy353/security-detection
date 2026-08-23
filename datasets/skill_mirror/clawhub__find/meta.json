@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:find",
+  "slug": "find",
+  "name": "Find",
+  "title": "寻找",
+  "description": "Locate anything with progressive search expansion, multi-source validation, and iterative refinement until found.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Find",
+  "function_label": "Other"
+}

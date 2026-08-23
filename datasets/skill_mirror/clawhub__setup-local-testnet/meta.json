@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:setup-local-testnet",
+  "slug": "setup-local-testnet",
+  "name": "setup-local-testnet",
+  "title": "本地测试网设置",
+  "description": "Spin up a local Anvil testnet with Uniswap deployed and pre-seeded liquidity. One command gives you a full development environment with funded accounts, real Uniswap pools, and zero gas costs. Use when developing, testing, or demoing Uniswap agent workflows.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Setup Local Testnet",
+  "function_label": "Other"
+}

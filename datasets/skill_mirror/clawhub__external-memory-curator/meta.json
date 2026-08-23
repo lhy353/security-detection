@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:external-memory-curator",
+  "slug": "external-memory-curator",
+  "name": "external-memory-curator",
+  "title": "外部存储器管理员",
+  "description": "Organize external project memory with status files and safe promotion rules.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "External Memory Curator",
+  "function_label": "Other"
+}

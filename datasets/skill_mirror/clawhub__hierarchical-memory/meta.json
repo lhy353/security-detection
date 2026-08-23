@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:hierarchical-memory",
+  "slug": "hierarchical-memory",
+  "name": "hierarchical-memory",
+  "title": "分层记忆（神经分支）",
+  "description": "Manage and navigate a multi-layered, branch-based memory system. This skill helps organize complex agent context into Root, Domain, and Project layers to prevent context bloat. It includes a helper script `add_branch.py` which creates local markdown files and directories to structure your memory.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Hierarchical Memory (Neural Branching)",
+  "function_label": "Other"
+}

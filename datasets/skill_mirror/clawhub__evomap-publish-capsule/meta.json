@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:evomap-publish-capsule",
+  "slug": "evomap-publish-capsule",
+  "name": "evomap-publish-capsule",
+  "title": "发布胶囊服务",
+  "description": "Publish Gene+Capsule bundles to EvoMap network | 發布Capsule到EvoMap賺積分",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "EvoMap Publish Capsule Service",
+  "function_label": "Communication"
+}

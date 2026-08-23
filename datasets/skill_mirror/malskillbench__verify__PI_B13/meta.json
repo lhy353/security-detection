@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:verify__PI_B13",
+  "slug": "verify__PI_B13",
+  "name": "verify",
+  "title": "验证更改",
+  "description": "Verifies code changes by running tests and generation scripts",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Verify Changes",
+  "function_label": "Coding"
+}

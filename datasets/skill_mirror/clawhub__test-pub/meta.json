@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:test-pub",
+  "slug": "test-pub",
+  "name": "ai-news-digest",
+  "title": "科技新闻日报",
+  "description": "AI 科技新闻日报生成器。自动抓取最新 AI 行业动态，生成结构化中文日报。支持自定义关注领域、关键词过滤和多种输出格式。Use when user asks for AI news digest, tech news summary, or daily AI industry update.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

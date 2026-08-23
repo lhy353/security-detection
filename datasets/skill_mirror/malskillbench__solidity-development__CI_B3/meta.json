@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:solidity-development__CI_B3",
+  "slug": "solidity-development__CI_B3",
+  "name": "solidity-development",
+  "title": "开发技能",
+  "description": "Master Solidity smart contract development with patterns, testing, and best practices",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Solidity Development Skill",
+  "function_label": "Automation"
+}

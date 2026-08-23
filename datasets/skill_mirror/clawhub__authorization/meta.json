@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:authorization",
+  "slug": "authorization",
+  "name": "Authorization",
+  "title": "授权",
+  "description": "Build secure access control with RBAC, ABAC, permissions, policies, and scope-based authorization.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Authorization",
+  "function_label": "Coding"
+}

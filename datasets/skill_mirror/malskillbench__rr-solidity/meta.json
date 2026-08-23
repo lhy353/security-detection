@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:rr-solidity",
+  "slug": "rr-solidity",
+  "name": "rr-solidity",
+  "title": "使用 Foundry 进行 Solidity 开发",
+  "description": "",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Solidity Development with Foundry",
+  "function_label": "Automation"
+}

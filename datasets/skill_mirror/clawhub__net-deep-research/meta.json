@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:net-deep-research",
+  "slug": "net-deep-research",
+  "name": "net-deep-research",
+  "title": "网络深度研究",
+  "description": "Perform deep multi-source internet research before answering. Use when the user prefixes a request with /net, asks for the latest information, wants real-time facts, requests web verification, asks which framework, tool, product, policy, or implementation path is best right now, or needs evidence-based answers synthesized from multiple public sources such as official docs, official sites, GitHub, package registries, standards sites, and other stable public references.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Net Deep Research",
+  "function_label": "Automation"
+}

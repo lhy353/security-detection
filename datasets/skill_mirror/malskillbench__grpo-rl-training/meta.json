@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:grpo-rl-training",
+  "slug": "grpo-rl-training",
+  "name": "grpo-rl-training",
+  "title": "通过 TRL 进行 GRPO/RL 培训",
+  "description": "Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific model training",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "GRPO/RL Training with TRL",
+  "function_label": "Data-Agent"
+}

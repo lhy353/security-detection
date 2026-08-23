@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:jw-task-scheduler",
+  "slug": "jw-task-scheduler",
+  "name": "Task Scheduler",
+  "title": "智能任务调度技能",
+  "description": "智能任务调度技能 - 定时任务、周期任务、一次性提醒的创建与管理。适用于自动化运维、定时报告、提醒通知。觸發詞：定時、排程、排程任務、自動化、提醒、周期任务。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Communication"
+}

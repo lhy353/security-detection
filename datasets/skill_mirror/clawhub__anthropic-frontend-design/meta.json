@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:anthropic-frontend-design",
+  "slug": "anthropic-frontend-design",
+  "name": "anthropic-frontend-design",
+  "title": "人择前端设计",
+  "description": "Create distinctive, production-grade frontend interfaces that avoid generic \"AI slop\" aesthetics. Combines the design intelligence of UI/UX Pro Max with Anthropic's anti-slop philosophy. Use for building UI components, pages, applications, or interfaces with exceptional attention to detail and bold creative choices.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Anthropic Frontend Design",
+  "function_label": "Other"
+}

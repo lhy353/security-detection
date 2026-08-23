@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:skvm-jit",
+  "slug": "skvm-jit",
+  "name": "skvm-jit",
+  "title": "优化触发器",
+  "description": "Trigger `skvm jit-optimize` with post-task evidence so it generates a reviewable optimization proposal for a skill. Use after finishing a task that was driven by any skill (not just SkVM-compiled ones) when the outcome was a failure, was partial, or the skill's instructions clearly caused confusion or an unnecessary detour. Clean successful runs usually do not need an optimization pass. For general skvm usage (profile/aot-compile/bench/proposals), use the sibling `skvm-general` skill instead.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "SkVM JIT Optimize Trigger",
+  "function_label": "Other"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:web3-crypto-ops-skill",
+  "slug": "web3-crypto-ops-skill",
+  "name": "web3-crypto-ops",
+  "title": "加密操作 v3.0.0",
+  "description": "Universal Web3 & Crypto operating skill for AI agents. 12 domains, 60+ API endpoints, 5 providers: OKX DEX aggregator, Binance Web3 intelligence, Binance/Gate.io/Bitget Spot. Production-grade patterns: RPC health failover, 10-point token safety scoring, honeypot round-trip simulation, V2/V3 smart routing, direct pool turbo execution, Pump.fun/Jupiter auto-dispatch. Commercial risk gates and compliance controls built-in.\n",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "Web3 Crypto Ops v3.0.0"
+}

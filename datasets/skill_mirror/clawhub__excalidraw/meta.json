@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:excalidraw",
+  "slug": "excalidraw",
+  "name": "excalidraw",
+  "title": "绘画技巧",
+  "description": "Generate, compress, and save .excalidraw.md drawings for the Obsidian Excalidraw plugin with proper element-bound arrows, LZ-String compression, and tree/flow/architecture layout patterns.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Excalidraw Drawing Skill",
+  "function_label": "Communication"
+}

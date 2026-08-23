@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:self-improving-agent-ollieb89",
+  "slug": "self-improving-agent-ollieb89",
+  "name": "self-improving-agent",
+  "title": "自我提升剂",
+  "description": "Capture errors, corrections, and recurring patterns into structured `.learnings/` logs, then promote durable guidance into workspace memory files. Use when commands fail, users correct output, missing capabilities are requested, or new best practices should be preserved across sessions.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Self-Improving Agent",
+  "function_label": "Automation"
+}

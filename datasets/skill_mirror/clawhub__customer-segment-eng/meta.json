@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:customer-segment-eng",
+  "slug": "customer-segment-eng",
+  "name": "customer-segment-eng",
+  "title": "客户细分技巧",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Customer Segmentation Skill",
+  "function_label": "Data-Agent"
+}

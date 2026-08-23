@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:comfyskill",
+  "slug": "comfyskill",
+  "name": "comfyskill",
+  "title": "生成技能",
+  "description": "",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Other"
+}

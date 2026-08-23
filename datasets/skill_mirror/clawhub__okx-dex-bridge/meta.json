@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:okx-dex-bridge",
+  "slug": "okx-dex-bridge",
+  "name": "okx-dex-bridge",
+  "title": "跨链互换",
+  "description": "Use this skill to bridge tokens, cross-chain swap/transfer, move assets between chains, get cross-chain quotes, compare bridge fees, find the cheapest/fastest route, build bridge calldata, check bridge status, track a cross-chain transaction, list supported chains or bridge protocols, or when the user mentions bridging ETH/USDC/tokens from one chain (Ethereum, BSC, Polygon, Arbitrum, Base, Optimism, Solana, etc.) to another. Routes through multiple bridge protocols (Stargate, Across, Relay, Gas.zip) for optimal execution. Supports fee comparison, destination address specification, approval management, and full lifecycle status tracking until fund arrival.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Onchain OS DEX Cross-Chain Swap",
+  "function_label": "Data-Agent"
+}

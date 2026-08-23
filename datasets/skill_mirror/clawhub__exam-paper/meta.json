@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:exam-paper",
+  "slug": "exam-paper",
+  "name": "exam-paper",
+  "title": "考试试卷生成器",
+  "description": "【考试试卷生成器 | 题库管理 | 错题本】输入学科和题目数量，自动从题库随机抽题，生成考卷PDF和答案PDF两份文件。支持单选题、判断题、编程填空题。内置题库增删查、错题记录与复习标记功能。当前内置信息学奥赛22题，支持扩展其它学科。 触发词：出卷、组卷、考试卷、试卷、生成试卷、生成考试、题库、错题本、错题库、错题记录、信息学奥赛、信息学竞赛、考试卷生成、考试题库、exam paper、generate exam、question bank、error tracking、错题复习、考前练习、自动组卷、考试PDF。 当用户需要生成/导出考试试卷PDF、管理题目库、查看/记录错题时使用此技能。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Coding"
+}

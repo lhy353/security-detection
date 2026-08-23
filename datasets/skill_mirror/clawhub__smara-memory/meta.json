@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:smara-memory",
+  "slug": "smara-memory",
+  "name": "smara-memory",
+  "title": "斯马拉记忆技能",
+  "description": "Persistent memory for AI agents — store, search, and recall user context via the Smara Memory API",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Smara Memory Skill",
+  "function_label": "Other"
+}

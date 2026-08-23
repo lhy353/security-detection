@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:smooch",
+  "slug": "smooch",
+  "name": "smooch",
+  "title": "斯莫奇",
+  "description": "Smooch integration. Manage data, records, and automate workflows. Use when the user wants to interact with Smooch data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Smooch",
+  "function_label": "Automation"
+}

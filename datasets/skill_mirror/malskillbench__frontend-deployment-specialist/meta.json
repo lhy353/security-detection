@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:frontend-deployment-specialist",
+  "slug": "frontend-deployment-specialist",
+  "name": "frontend-deployment-specialist",
+  "title": "前端部署专家",
+  "description": "Expert in diagnosing and resolving Single Page Application deployment issues, with focus on blank screen troubleshooting and production monitoring",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Frontend Deployment Specialist",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:golang-continuous-integration",
+  "slug": "golang-continuous-integration",
+  "name": "golang-continuous-integration",
+  "title": "持续集成",
+  "description": "CI/CD pipeline configuration using GitHub Actions for Golang projects — testing, linting, SAST, security scanning, code coverage, Dependabot, Renovate, GoReleaser, code review automation, and release pipelines. Use when setting up or improving Go project CI, configuring GitHub Actions workflows, adding linters or security scanners, automating dependency updates, or adding quality gates.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Go Continuous Integration",
+  "function_label": "Coding"
+}

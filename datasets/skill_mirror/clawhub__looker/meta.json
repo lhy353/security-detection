@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:looker",
+  "slug": "looker",
+  "name": "looker",
+  "title": "观察者",
+  "description": "Looker integration. Manage data, records, and automate workflows. Use when the user wants to interact with Looker data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Looker",
+  "function_label": "Automation"
+}

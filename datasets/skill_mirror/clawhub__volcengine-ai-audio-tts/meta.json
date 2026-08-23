@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:volcengine-ai-audio-tts",
+  "slug": "volcengine-ai-audio-tts",
+  "name": "volcengine-ai-audio-tts",
+  "title": "音频 Tts",
+  "description": "Text-to-speech generation on Volcengine audio services. Use when users need narration, multi-language speech output, voice selection, or TTS troubleshooting.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Volcengine Ai Audio Tts",
+  "function_label": "Other"
+}

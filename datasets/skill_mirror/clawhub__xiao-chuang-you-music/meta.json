@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:xiao-chuang-you-music",
+  "slug": "xiao-chuang-you-music",
+  "name": "xiao-chuang-you-music",
+  "title": "小窗幽 · 音乐",
+  "description": "小窗幽音乐子技能。当用户询问音乐、歌单、民乐、古琴、古筝、茶乐、禅乐、丝竹等话题时激活。提供新中式歌单、乐器专题、茶乐搭配指南。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Automation"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:supabase-db__MIXED_B2",
+  "slug": "supabase-db__MIXED_B2",
+  "name": "supabase-db",
+  "title": "数据库架构",
+  "description": "Detailed rules for SQL schema, 3NF normalization, RLS, and Triggers.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Database Architecture (PostgreSQL)",
+  "function_label": "Data-Agent"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:act-365",
+  "slug": "act-365",
+  "name": "act-365",
+  "title": "行为！ 365",
+  "description": "Act! 365 integration. Manage Contacts, Groups, Opportunities, Tasks, Users. Use when the user wants to interact with Act! 365 data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Act! 365",
+  "function_label": "Browser"
+}

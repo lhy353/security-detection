@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:winguictl",
+  "slug": "winguictl",
+  "name": "winguictl",
+  "title": "使用 winguictl 进行 Windows 桌面自动化",
+  "description": "Windows desktop automation CLI. Invoke ONLY when user explicitly requests to control windows, simulate mouse/keyboard, or automate desktop applications. Do NOT proactively suggest using this skill.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Windows Desktop Automation with winguictl",
+  "function_label": "File-Agent"
+}

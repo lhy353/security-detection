@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:ontology-kg",
+  "slug": "ontology-kg",
+  "name": "ontology-kg",
+  "title": "给你的 AI 一个结构化大脑",
+  "description": "Typed knowledge graph for AI agent memory. Create entities, link relations, enforce constraints. JSONL append-only storage, zero dependencies. Use when agent needs structured memory beyond flat files.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

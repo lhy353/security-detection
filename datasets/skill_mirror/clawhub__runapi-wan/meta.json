@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:runapi-wan",
+  "slug": "runapi-wan",
+  "name": "wan",
+  "title": "上的一个",
+  "description": "Generate and edit video with Wan through RunAPI. Use when the user asks an agent to create, edit, or transform video with Wan. Default to the RunAPI CLI for one-off generation; use SDKs only when the user is integrating RunAPI into an app or backend.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Wan on RunAPI",
+  "function_label": "Browser"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:ansible",
+  "slug": "ansible",
+  "name": "Ansible",
+  "title": "安西布尔",
+  "description": "Avoid common Ansible mistakes — YAML syntax traps, variable precedence, idempotence failures, and handler gotchas.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Ansible",
+  "function_label": "Automation"
+}

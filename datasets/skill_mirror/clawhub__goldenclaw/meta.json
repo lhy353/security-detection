@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:goldenclaw",
+  "slug": "goldenclaw",
+  "name": "goldenclaw",
+  "title": "金爪 技能",
+  "description": "Manage GoldenClaw (GCLAW) on Solana. Create wallet, claim from faucet, check balance, send tokens, view history. For OpenClaw AI agents.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "GoldenClaw (GCLAW) Skill"
+}

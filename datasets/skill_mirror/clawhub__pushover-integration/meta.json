@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:pushover-integration",
+  "slug": "pushover-integration",
+  "name": "pushover",
+  "title": "推倒",
+  "description": "Pushover integration. Manage Users, Groups. Use when the user wants to interact with Pushover data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Pushover",
+  "function_label": "Browser"
+}

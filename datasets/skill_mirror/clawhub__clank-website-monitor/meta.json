@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:clank-website-monitor",
+  "slug": "clank-website-monitor",
+  "name": "website-monitor",
+  "title": "网站监控技巧",
+  "description": "Monitor websites for changes, new content, and price alerts. Perfect for tracking competitors, job postings, or product prices.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Website Monitor Skill",
+  "function_label": "Automation"
+}

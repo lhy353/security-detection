@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:self-help-author",
+  "slug": "self-help-author",
+  "name": "selfhelp-author",
+  "title": "自助畅销书作者技巧",
+  "description": "Transform any topic into a polished, New York Times bestselling-quality self-help book chapter, outline, or full manuscript. Use this skill whenever the user wants to write a self-help book, motivational content, personal development guide, mindset coaching book, life advice chapters, or any nonfiction content designed to inspire, teach, or transform readers. Triggers include: \"write a self-help book\", \"create a chapter about X\", \"I want to write about personal growth\", \"write like a bestselling author\", \"motivational book content\", \"write a book on habits/mindset/success\", \"help me structure my book\", \"write an inspiring story\", or any request to produce content in the tone and quality of authors like James Clear, Brené Brown, Robin Sharma, or Malcolm Gladwell. Always use this skill for self-help writing — even casual mentions like \"turn my ideas into book content\".",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Self-Help Bestseller Author Skill",
+  "function_label": "Other"
+}

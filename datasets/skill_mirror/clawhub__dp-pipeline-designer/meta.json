@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:dp-pipeline-designer",
+  "slug": "dp-pipeline-designer",
+  "name": "dp-pipeline-designer",
+  "title": "数据处理平台流水线设计师",
+  "description": "DP 数据处理平台流水线设计师。当用户提到创建管道、数据流、Flink作业、Kafka读取、写到数据库/MongoDB、数据处理管道等需求时激活。",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Data-Agent"
+}

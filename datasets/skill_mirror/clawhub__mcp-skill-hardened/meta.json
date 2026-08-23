@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:mcp-skill-hardened",
+  "slug": "mcp-skill-hardened",
+  "name": "mcp-skill-hardened",
+  "title": "技能",
+  "description": "Wraps the Exa MCP server (mcp.exa.ai) for web search, deep research, and related tools.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "MCP Skill",
+  "function_label": "Research"
+}

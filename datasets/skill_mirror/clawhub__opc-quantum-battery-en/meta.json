@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:opc-quantum-battery-en",
+  "slug": "opc-quantum-battery-en",
+  "name": "opc-quantum-battery-en",
+  "title": "量子电池专家 (Quantum Battery Expert)",
+  "description": "Quantum Battery technology due diligence English version, assessment framework for quantum battery projects",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "function_label": "Research"
+}

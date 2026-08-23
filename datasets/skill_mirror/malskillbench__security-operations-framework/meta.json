@@ -1,0 +1,10 @@
+{
+  "id": "malskillbench:security-operations-framework",
+  "slug": "security-operations-framework",
+  "name": "security-operations-framework",
+  "title": "安全运营框架",
+  "description": "Comprehensive framework for managing security operations, incident response, and system health monitoring",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Security Operations Framework"
+}

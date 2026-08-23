@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:abm-video-ad-creation",
+  "slug": "abm-video-ad-creation",
+  "name": "video-ad-creation",
+  "title": "视频广告制作",
+  "description": "When the user wants to create video advertisements using Remotion. Also use when the user mentions 'video ad,' 'create ad video,' 'ad creative video,' 'promotional video,' 'product video ad,' or 'marketing video.' Guides creation of standard ad format compositions (15s, 30s, 60s) with scene-based storytelling structure. For project setup and core Remotion APIs, see remotion-best-practices. For social media video formats, see social-video-content.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Video Ad Creation",
+  "function_label": "Communication"
+}

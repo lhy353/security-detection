@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:yc-cold-outreach",
+  "slug": "yc-cold-outreach",
+  "name": "yc-cold-outreach",
+  "title": "冷外展技巧",
+  "description": "Expert in Y Combinator (YC) cold email outreach techniques based on Startup School principles. Use to draft, critique, or iterate on cold emails to potential customers, partners, or investors. Based on Aaron Epstein's methodology for high-conversion outreach.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "YC Cold Outreach Skill",
+  "function_label": "Communication"
+}

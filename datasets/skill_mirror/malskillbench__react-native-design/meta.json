@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:react-native-design",
+  "slug": "react-native-design",
+  "name": "react-native-design",
+  "title": "反应原生设计",
+  "description": "Master React Native styling, navigation, and Reanimated animations for cross-platform mobile development. Use when building React Native apps, implementing navigation patterns, or creating performant animations.",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "React Native Design",
+  "function_label": "Coding"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:openclaw-safe-config-rollback",
+  "slug": "openclaw-safe-config-rollback",
+  "name": "openclaw-safe-config-rollback",
+  "title": "安全配置回滚",
+  "description": "Safely apply OpenClaw config changes with automatic rollback and ack timeout guard. Use when editing ~/.openclaw/openclaw.json, restarting gateway, enabling cross-context routing, or any risky runtime config change that must auto-revert if health checks or explicit ack are missing.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Openclaw Safe Config Rollback",
+  "function_label": "Other"
+}

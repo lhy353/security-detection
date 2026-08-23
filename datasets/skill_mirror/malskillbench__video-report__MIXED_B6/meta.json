@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:video-report__MIXED_B6",
+  "slug": "video-report__MIXED_B6",
+  "name": "video-report",
+  "title": "视频报道",
+  "description": "Generate a report about a video",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Video Report",
+  "function_label": "Data-Agent"
+}

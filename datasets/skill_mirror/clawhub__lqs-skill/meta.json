@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:lqs-skill",
+  "slug": "lqs-skill",
+  "name": "lqs-skill",
+  "title": "技能（人工运行）概述",
+  "description": "LQS Skill — prompt/schema/template driven artifact generator for the LQS codebase.\nManual-run only: users paste free-text requirement or exported document text; the Skill\nguides prompt-driven generation of RequirementDraft → Spec → RenderPlan → Preview Diff.\nThis Skill does NOT execute code, run migrations, or fetch external documents automatically.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "LQS Skill (human-run) overview",
+  "function_label": "Other"
+}

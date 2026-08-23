@@ -1,0 +1,10 @@
+{
+  "id": "clawhub:openclaw-github-backup",
+  "slug": "openclaw-github-backup",
+  "name": "openclaw-backup",
+  "title": "备份",
+  "description": "Automatically backup OpenClaw configuration to a private GitHub repository. Features API key sanitization, activity detection, and smart backup frequency (hourly when active, daily when inactive). One-click recovery support.",
+  "detection_label": "benign_but_dangerous",
+  "source": "clawhub",
+  "title_en": "OpenClaw Backup"
+}

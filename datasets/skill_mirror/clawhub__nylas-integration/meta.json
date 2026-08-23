@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:nylas-integration",
+  "slug": "nylas-integration",
+  "name": "nylas",
+  "title": "尼拉斯",
+  "description": "Nylas integration. Manage data, records, and automate workflows. Use when the user wants to interact with Nylas data.\n",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Nylas",
+  "function_label": "Automation"
+}

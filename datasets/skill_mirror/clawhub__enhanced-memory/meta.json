@@ -1,0 +1,11 @@
+{
+  "id": "clawhub:enhanced-memory",
+  "slug": "enhanced-memory",
+  "name": "enhanced-memory",
+  "title": "增强记忆力",
+  "description": "Enhanced memory search with hybrid vector+keyword scoring, temporal routing, filepath scoring, adaptive weighting, pseudo-relevance feedback, salience scoring, and knowledge graph cross-references. Replaces the default memory search with a 4-signal fusion retrieval system. Use when searching memories, indexing memory files, building cross-references, or scoring memory salience. Requires Ollama with nomic-embed-text model.",
+  "detection_label": "benign",
+  "source": "clawhub",
+  "title_en": "Enhanced Memory",
+  "function_label": "Automation"
+}

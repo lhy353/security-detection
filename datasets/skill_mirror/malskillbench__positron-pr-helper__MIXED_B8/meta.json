@@ -1,0 +1,11 @@
+{
+  "id": "malskillbench:positron-pr-helper__MIXED_B8",
+  "slug": "positron-pr-helper__MIXED_B8",
+  "name": "positron-pr-helper",
+  "title": "正电子公关助手",
+  "description": "Generates well-structured PR bodies with dynamically fetched e2e test tags",
+  "detection_label": "malicious",
+  "source": "malskillbench",
+  "title_en": "Positron PR Helper",
+  "function_label": "Coding"
+}
