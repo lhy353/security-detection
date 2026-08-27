@@ -8,5 +8,28 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "energy-calculator",
+      "name": "energy-calculator",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Initial silence detection analyzes pre-computed energy data; it is a narrower application of energy profiling."
+    },
+    {
+      "slug": "pause-detector",
+      "name": "pause-detector",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Initial-silence detection is a narrower case; pause-detector finds silence/pauses throughout audio, not just at the start."
+    },
+    {
+      "slug": "voice-activity-detection",
+      "name": "Voice Activity Detection (VAD)",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Silence-detector is narrower: it detects only initial low-energy silence, while VAD detects speech/silence segments more generally."
+    }
+  ]
 }

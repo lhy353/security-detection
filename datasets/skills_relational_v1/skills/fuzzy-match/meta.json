@@ -8,5 +8,28 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "data_cleaning",
+      "name": "data_cleaning",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Fuzzy matching/reconciliation is a narrower text/entity-matching cleaning operation within broader tabular data cleaning."
+    },
+    {
+      "slug": "fuzzy-name-search",
+      "name": "fuzzy-name-search",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Fuzzy name search is a narrower application of fuzzy matching focused on fund/stock name lookup in 13F data."
+    },
+    {
+      "slug": "manufacturing-failure-reason-codebook-normalization",
+      "name": "manufacturing-failure-reason-codebook-normalization",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Failure-reason normalization uses typo correction and semantic matching for a specific codebook-mapping domain, narrower than general fuzzy matching."
+    }
+  ]
 }

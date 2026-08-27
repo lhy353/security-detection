@@ -5,7 +5,7 @@ import {
   fetchRelated,
   fetchSkill,
   skillDownloadUrl,
-  type RelationalEdge,
+  type RelatedSkill,
   type SkillDetail,
   type SkillListItem,
 } from "../api";
@@ -19,9 +19,9 @@ function labelClass(label: string): string {
   return "chip";
 }
 
-function edgeLabel(edge: RelationalEdge): string {
-  const dir = edge.direction === "out" ? "→" : "←";
-  return `${edge.type} ${dir} ${edge.name || edge.slug}`;
+function relatedLabel(item: RelatedSkill): string {
+  const arrow = item.direction === "outgoing" ? "→" : "←";
+  return `${item.type} ${arrow} ${item.name || item.slug}`;
 }
 
 export default function DetailPage() {
@@ -63,6 +63,19 @@ export default function DetailPage() {
 
   if (!skill) {
     return <div className="empty">加载详情…</div>;
+  }
+
+  const relatedSkills = skill.related_skills ?? [];
+  const isRelational = skill.source === "skilldag" || skill.dataset_name === "skills_relational_v1";
+
+  function relatedSkillsSummary(): string {
+    if (relatedSkills.length > 0) {
+      return relatedSkills.map((r) => r.slug).join(", ");
+    }
+    if (!isRelational) {
+      return "不适用（非关系型 skill）";
+    }
+    return "无（SkillGraph 中无 specializes / similar_to 连边）";
   }
 
   return (
@@ -119,6 +132,8 @@ export default function DetailPage() {
           <dd>{formatGoldStatus(skill.gold_status)}</dd>
           <dt>内容来源</dt>
           <dd>{skill.content_source}</dd>
+          <dt>关联 Skill</dt>
+          <dd>{relatedSkillsSummary()}</dd>
           {skill.gold_review_notes ? (
             <>
               <dt>金标备注</dt>
@@ -143,36 +158,44 @@ export default function DetailPage() {
         )}
       </section>
 
-      <section className="panel">
-        <h2>关系边（SkillGraph）</h2>
-        <p className="muted" style={{ marginTop: 0 }}>
-          来自 SkillDAG skillgraph_200：specializes、similar_to 等类型化边。
-        </p>
-        {skill.relational_edges?.length ? (
+      {isRelational && relatedSkills.length === 0 ? (
+        <section className="panel">
+          <h2>关联 Skill</h2>
+          <p className="muted" style={{ marginTop: 0 }}>
+            该节点在 SkillDAG skills_200 图中没有直接连边（200 条里约 107
+            条为孤立节点）。可点击顶部「关系型集」浏览有连边的 skill，例如{" "}
+            <Link to="/skill/skilldag%3Aharbor">harbor</Link>。
+          </p>
+        </section>
+      ) : null}
+
+      {relatedSkills.length > 0 ? (
+        <section className="panel">
+          <h2>关联 Skill</h2>
+          <p className="muted" style={{ marginTop: 0 }}>
+            来自 <code>meta.json</code> 的 <code>related_skills</code>（SkillGraph
+            边：specializes / similar_to）。
+          </p>
           <div className="related-list">
-            {skill.relational_edges.map((edge) => (
+            {relatedSkills.map((item) => (
               <Link
-                key={`${edge.type}-${edge.direction}-${edge.skill_id}`}
-                to={`/skill/${encodeURIComponent(edge.skill_id)}`}
+                key={`${item.type}-${item.slug}`}
+                to={`/skill/${encodeURIComponent(item.skill_id)}`}
               >
-                <span>{edgeLabel(edge)}</span>
-                <span className="chip">{edge.type}</span>
+                <span>{relatedLabel(item)}</span>
+                <span className="chip">{item.type}</span>
               </Link>
             ))}
           </div>
-        ) : (
-          <p className="muted">该节点在图中无直接连边</p>
-        )}
-      </section>
+        </section>
+      ) : null}
 
-      <section className="panel">
-        <h2>相关技能</h2>
-        <p className="muted" style={{ marginTop: 0 }}>
-          优先使用关系图邻接；不足时按功能类 / 标签 / 来源启发式补充。
-        </p>
-        {related.length === 0 ? (
-          <p className="muted">暂无相关项</p>
-        ) : (
+      {related.length > 0 && relatedSkills.length === 0 ? (
+        <section className="panel">
+          <h2>相关技能</h2>
+          <p className="muted" style={{ marginTop: 0 }}>
+            按功能类 / 标签 / 来源启发式推荐。
+          </p>
           <div className="related-list">
             {related.map((r) => (
               <Link key={r.id} to={`/skill/${encodeURIComponent(r.id)}`}>
@@ -183,8 +206,8 @@ export default function DetailPage() {
               </Link>
             ))}
           </div>
-        )}
-      </section>
+        </section>
+      ) : null}
     </div>
   );
 }

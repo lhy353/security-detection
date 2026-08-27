@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "temporal-python-testing",
+      "name": "temporal-python-testing",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Temporal workflow testing is a narrower subset of Python pytest testing, focused on Temporal-specific time-skipping, replay, and workflow debugging."
+    }
+  ]
 }

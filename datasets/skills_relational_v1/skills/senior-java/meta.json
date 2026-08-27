@@ -8,5 +8,56 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "hibernate-upgrade",
+      "name": "hibernate-upgrade",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Hibernate upgrade is a narrow subset within broader senior Java/Spring Boot expertise."
+    },
+    {
+      "slug": "jackson-security",
+      "name": "jackson-security",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Jackson deserialization security is a narrow subset within broader Java/Spring Boot development and security implementation expertise."
+    },
+    {
+      "slug": "jakarta-namespace",
+      "name": "jakarta-namespace",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Jakarta namespace migration is a narrow Java/Spring migration capability within broader senior Java and Spring Boot expertise."
+    },
+    {
+      "slug": "maven-dependency-management",
+      "name": "maven-dependency-management",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Maven dependency management is a narrower capability included within broader senior Java/Spring Boot development expertise."
+    },
+    {
+      "slug": "restclient-migration",
+      "name": "restclient-migration",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "RestClient migration is a narrow Spring/Java task within broader enterprise Java and Spring Boot development expertise."
+    },
+    {
+      "slug": "spring-boot-migration",
+      "name": "spring-boot-migration",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Spring Boot migration is a narrow subset of senior Java/Spring Boot capability focused only on upgrading Boot versions."
+    },
+    {
+      "slug": "spring-security-6",
+      "name": "spring-security-6",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Spring Security 6 migration is a narrower Spring/Boot security configuration upgrade task within senior Java's broader Spring expertise."
+    }
+  ]
 }

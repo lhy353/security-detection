@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "imc-tuning-rules",
+      "name": "imc-tuning-rules",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "IMC tuning rules are a specific method within the broader PID controller design and implementation space."
+    }
+  ]
 }

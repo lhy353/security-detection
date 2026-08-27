@@ -22,6 +22,15 @@ export type SkillListItem = {
   dataset_name?: string;
 };
 
+export type RelatedSkill = {
+  slug: string;
+  name: string;
+  type: string;
+  direction: string;
+  reason: string;
+  skill_id: string;
+};
+
 export type SkillDetail = SkillListItem & {
   attack_vector: string;
   behavior: string;
@@ -36,16 +45,7 @@ export type SkillDetail = SkillListItem & {
   description: string;
   skill_md: string | null;
   content_source: string;
-  relational_edges: RelationalEdge[];
-};
-
-export type RelationalEdge = {
-  type: string;
-  direction: string;
-  slug: string;
-  skill_id: string;
-  name: string;
-  reason: string;
+  related_skills: RelatedSkill[];
 };
 
 export type Stats = {

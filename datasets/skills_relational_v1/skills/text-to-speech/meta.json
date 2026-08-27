@@ -8,5 +8,28 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "elevenlabs-tts",
+      "name": "elevenlabs-tts",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "ElevenLabs TTS is a specific TTS backend; the other skill broadly covers TTS mastering and delivery workflow."
+    },
+    {
+      "slug": "gtts",
+      "name": "gtts",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "gTTS only synthesizes text to audio; text-to-speech skill also covers cleanup, normalization, alignment, and delivery."
+    },
+    {
+      "slug": "openai-tts",
+      "name": "openai-tts",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "OpenAI TTS is a specific TTS backend; the candidate covers broader TTS production practices across engines and delivery."
+    }
+  ]
 }

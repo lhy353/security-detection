@@ -8,5 +8,35 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "elevenlabs-tts",
+      "name": "elevenlabs-tts",
+      "type": "similar_to",
+      "direction": "incoming",
+      "reason": "Both are high-quality text-to-speech backends producing speech audio from text; usually pick one backend."
+    },
+    {
+      "slug": "gtts",
+      "name": "gtts",
+      "type": "similar_to",
+      "direction": "incoming",
+      "reason": "Both are TTS backends producing speech audio from text; using both is usually redundant."
+    },
+    {
+      "slug": "audiobook",
+      "name": "audiobook",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "OpenAI TTS is a specific synthesis backend included within the audiobook pipeline."
+    },
+    {
+      "slug": "text-to-speech",
+      "name": "TTS Audio Mastering",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "OpenAI TTS is a specific TTS backend; the candidate covers broader TTS production practices across engines and delivery."
+    }
+  ]
 }

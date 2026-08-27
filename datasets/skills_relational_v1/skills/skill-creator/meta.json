@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "docs-to-skill",
+      "name": "auto-skill-generator",
+      "type": "similar_to",
+      "direction": "incoming",
+      "reason": "Both focus on creating skills; one researches docs to generate them, the other guides effective skill creation."
+    }
+  ]
 }

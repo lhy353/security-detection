@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "data_cleaning",
+      "name": "data_cleaning",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Astronomical light-curve preprocessing is a domain-specific form of cleaning/preprocessing, narrower than general data cleaning."
+    },
+    {
+      "slug": "exoplanet-workflows",
+      "name": "exoplanet-workflows",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Light-curve preprocessing is one step within broader exoplanet detection and characterization workflows."
+    }
+  ]
 }

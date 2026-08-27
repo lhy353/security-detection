@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "senior-java",
+      "name": "senior-java",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Hibernate upgrade is a narrow subset within broader senior Java/Spring Boot expertise."
+    },
+    {
+      "slug": "spring-boot-migration",
+      "name": "spring-boot-migration",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Hibernate 5→6 migration is one component of the broader Spring Boot 2.x→3.x migration."
+    }
+  ]
 }

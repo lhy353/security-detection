@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "senior-java",
+      "name": "senior-java",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Maven dependency management is a narrower capability included within broader senior Java/Spring Boot development expertise."
+    }
+  ]
 }

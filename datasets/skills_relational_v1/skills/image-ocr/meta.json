@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "gpt-multimodal",
+      "name": "gpt-multimodal",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "OCR-only text extraction from images is a narrower subset of multimodal vision analysis capabilities."
+    },
+    {
+      "slug": "openai-vision",
+      "name": "openai-vision",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Image OCR is narrower; vision models can also extract text plus broader image analysis and comparison."
+    }
+  ]
 }

@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "senior-security",
+      "name": "senior-security",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Network threat detection thresholds are a narrower security analysis capability within the anchor's comprehensive security toolkit."
+    }
+  ]
 }

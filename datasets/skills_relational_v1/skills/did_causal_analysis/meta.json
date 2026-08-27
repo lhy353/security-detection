@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "senior-data-scientist",
+      "name": "senior-data-scientist",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "DiD causal analysis is a narrower capability within broad senior data science expertise including causal inference and experimentation."
+    }
+  ]
 }

@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "python-parallelization",
+      "name": "python-parallelization",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Joblib CPU-core parallel batch/grid-search is a narrower subset of broader Python parallelization across multiprocessing, threading, asyncio, and vectorization."
+    }
+  ]
 }

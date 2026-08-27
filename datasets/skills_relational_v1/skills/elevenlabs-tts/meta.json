@@ -8,5 +8,35 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "gtts",
+      "name": "gtts",
+      "type": "similar_to",
+      "direction": "outgoing",
+      "reason": "Both convert text into speech audio; choosing both TTS backends is redundant for the same output type."
+    },
+    {
+      "slug": "openai-tts",
+      "name": "openai-tts",
+      "type": "similar_to",
+      "direction": "outgoing",
+      "reason": "Both are high-quality text-to-speech backends producing speech audio from text; usually pick one backend."
+    },
+    {
+      "slug": "audiobook",
+      "name": "audiobook",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "ElevenLabs TTS is one backend inside the broader audiobook pipeline."
+    },
+    {
+      "slug": "text-to-speech",
+      "name": "TTS Audio Mastering",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "ElevenLabs TTS is a specific TTS backend; the other skill broadly covers TTS mastering and delivery workflow."
+    }
+  ]
 }

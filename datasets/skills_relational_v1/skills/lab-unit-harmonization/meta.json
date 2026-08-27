@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "data_cleaning",
+      "name": "data_cleaning",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Clinical lab harmonization is domain-specific cleaning/standardization, narrower than general tabular data cleaning."
+    }
+  ]
 }

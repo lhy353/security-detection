@@ -8,5 +8,28 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "csv-processing",
+      "name": "csv-processing",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "CSV processing is a narrower subset of spreadsheet analysis/editing across XLSX/XLSM/CSV/TSV with formulas and formatting."
+    },
+    {
+      "slug": "data-reconciliation",
+      "name": "data-reconciliation",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Data reconciliation is a narrower spreadsheet analysis capability within general spreadsheet creation, editing, analysis, and recalculation."
+    },
+    {
+      "slug": "vulnerability-csv-reporting",
+      "name": "vulnerability-csv-reporting",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "It focuses narrowly on generating vulnerability CSV reports; xlsx broadly handles spreadsheets, including CSV creation, editing, and analysis."
+    }
+  ]
 }

@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "ffmpeg",
+      "name": "ffmpeg-keyframe-extraction",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Anchor extracts only key frames/I-frames; candidate extracts individual frames generally, a broader capability."
+    }
+  ]
 }

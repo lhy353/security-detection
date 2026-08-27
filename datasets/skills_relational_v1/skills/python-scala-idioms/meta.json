@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "python-scala-collections",
+      "name": "python-scala-collections",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Collections guidance is a narrower subset of general idiomatic Python-to-Scala translation advice."
+    },
+    {
+      "slug": "python-scala-functional",
+      "name": "python-scala-functional",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Functional translation is a narrower subset of broader idiomatic Python-to-Scala guidance."
+    }
+  ]
 }

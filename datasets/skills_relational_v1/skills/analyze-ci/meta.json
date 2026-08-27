@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "gh-cli",
+      "name": "gh-cli",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Analyze-ci is a narrower GitHub-focused workflow likely using gh; gh-cli supports many broader GitHub interactions."
+    }
+  ]
 }

@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "video-frame-extraction",
+      "name": "video-frame-extraction",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Anchor extracts only key frames/I-frames; candidate extracts individual frames generally, a broader capability."
+    }
+  ]
 }

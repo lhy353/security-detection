@@ -8,5 +8,49 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "cvss-score-extraction",
+      "name": "cvss-score-extraction",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "CVSS extraction is a narrow security-reporting capability within broader security engineering and assessment work."
+    },
+    {
+      "slug": "spring-security-6",
+      "name": "spring-security-6",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Spring Security 6 migration is a narrow application-security subset within broader senior security engineering capabilities."
+    },
+    {
+      "slug": "ssh-penetration-testing",
+      "name": "ssh-penetration-testing",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "SSH penetration testing is a specific subset of the anchor's broader penetration testing and security assessment scope."
+    },
+    {
+      "slug": "threat-detection",
+      "name": "threat-detection",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Network threat detection thresholds are a narrower security analysis capability within the anchor's comprehensive security toolkit."
+    },
+    {
+      "slug": "trivy-offline-vulnerability-scanning",
+      "name": "trivy-offline-vulnerability-scanning",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Offline Trivy dependency scanning is a specific vulnerability assessment subset of broader security assessment and auditing capabilities."
+    },
+    {
+      "slug": "vulnerability-csv-reporting",
+      "name": "vulnerability-csv-reporting",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "CSV vulnerability reporting is a narrow security audit reporting function within broader compliance auditing and security assessment work."
+    }
+  ]
 }

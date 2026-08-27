@@ -8,5 +8,35 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "elevenlabs-tts",
+      "name": "elevenlabs-tts",
+      "type": "similar_to",
+      "direction": "incoming",
+      "reason": "Both convert text into speech audio; choosing both TTS backends is redundant for the same output type."
+    },
+    {
+      "slug": "openai-tts",
+      "name": "openai-tts",
+      "type": "similar_to",
+      "direction": "outgoing",
+      "reason": "Both are TTS backends producing speech audio from text; using both is usually redundant."
+    },
+    {
+      "slug": "audiobook",
+      "name": "audiobook",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "gTTS is a narrower text-to-speech backend used within the broader audiobook workflow."
+    },
+    {
+      "slug": "text-to-speech",
+      "name": "TTS Audio Mastering",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "gTTS only synthesizes text to audio; text-to-speech skill also covers cleanup, normalization, alignment, and delivery."
+    }
+  ]
 }

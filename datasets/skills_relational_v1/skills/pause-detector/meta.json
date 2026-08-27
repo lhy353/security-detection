@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "energy-calculator",
+      "name": "energy-calculator",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Pause detection uses pre-computed energy data; energy calculation is broader upstream capability reused for this narrower task."
+    },
+    {
+      "slug": "silence-detector",
+      "name": "silence-detector",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Initial-silence detection is a narrower case; pause-detector finds silence/pauses throughout audio, not just at the start."
+    }
+  ]
 }

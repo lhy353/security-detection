@@ -8,5 +8,42 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "hibernate-upgrade",
+      "name": "hibernate-upgrade",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Hibernate 5→6 migration is one component of the broader Spring Boot 2.x→3.x migration."
+    },
+    {
+      "slug": "jakarta-namespace",
+      "name": "jakarta-namespace",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Jakarta namespace updates are one specific part of broader Spring Boot 2.x to 3.x migration work."
+    },
+    {
+      "slug": "restclient-migration",
+      "name": "restclient-migration",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "RestClient migration is a specific Spring Boot 3.x migration concern within broader Spring Boot 2.x to 3.x migration work."
+    },
+    {
+      "slug": "senior-java",
+      "name": "senior-java",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Spring Boot migration is a narrow subset of senior Java/Spring Boot capability focused only on upgrading Boot versions."
+    },
+    {
+      "slug": "spring-security-6",
+      "name": "spring-security-6",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Spring Security 6 migration is a specific subset of broader Spring Boot 3 migration tasks, which include security plus Java, dependencies, Jakarta updates."
+    }
+  ]
 }

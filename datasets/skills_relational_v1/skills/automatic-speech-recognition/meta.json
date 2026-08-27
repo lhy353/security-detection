@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "speech-to-text",
+      "name": "speech-to-text",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Speech-to-text is a narrower Whisper transcription skill using only tiny model, a subset of general ASR."
+    },
+    {
+      "slug": "whisper-transcription",
+      "name": "whisper-transcription",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Whisper-transcription is a narrower Whisper STT skill focused on word-level timestamps, within broader ASR transcription capability."
+    }
+  ]
 }

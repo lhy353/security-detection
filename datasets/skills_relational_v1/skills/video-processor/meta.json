@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "ffmpeg-video-editing",
+      "name": "ffmpeg-video-editing",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Removing segments and concatenating remaining parts is a narrower subset of general ffmpeg video editing."
+    }
+  ]
 }

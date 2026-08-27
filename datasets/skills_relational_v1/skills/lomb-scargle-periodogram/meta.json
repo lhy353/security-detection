@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "exoplanet-workflows",
+      "name": "exoplanet-workflows",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Lomb-Scargle is a specific periodic-signal method used within broader exoplanet workflow planning."
+    },
+    {
+      "slug": "transit-least-squares",
+      "name": "transit-least-squares",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "TLS targets a narrower case: transit-shaped exoplanet signals in light curves; Lomb-Scargle is broader periodic-signal detection."
+    }
+  ]
 }

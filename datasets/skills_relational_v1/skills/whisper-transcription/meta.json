@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "automatic-speech-recognition",
+      "name": "Automatic Speech Recognition (ASR)",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Whisper-transcription is a narrower Whisper STT skill focused on word-level timestamps, within broader ASR transcription capability."
+    },
+    {
+      "slug": "speech-to-text",
+      "name": "speech-to-text",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Anchor is narrower: Whisper tiny video transcription with timestamps; candidate broadly transcribes audio/video with OpenAI Whisper and word-level timestamps."
+    }
+  ]
 }

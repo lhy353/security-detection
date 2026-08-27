@@ -8,5 +8,35 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "box-least-squares",
+      "name": "box-least-squares",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "BLS is a specific detection method within broader exoplanet analysis workflows and best practices."
+    },
+    {
+      "slug": "light-curve-preprocessing",
+      "name": "light-curve-preprocessing",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Light-curve preprocessing is one step within broader exoplanet detection and characterization workflows."
+    },
+    {
+      "slug": "lomb-scargle-periodogram",
+      "name": "lomb-scargle-periodogram",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Lomb-Scargle is a specific periodic-signal method used within broader exoplanet workflow planning."
+    },
+    {
+      "slug": "transit-least-squares",
+      "name": "transit-least-squares",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "TLS is a specific exoplanet transit-detection algorithm within broader exoplanet analysis workflows."
+    }
+  ]
 }

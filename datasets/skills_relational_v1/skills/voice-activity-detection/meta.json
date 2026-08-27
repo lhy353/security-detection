@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "silence-detector",
+      "name": "silence-detector",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Silence-detector is narrower: it detects only initial low-energy silence, while VAD detects speech/silence segments more generally."
+    }
+  ]
 }

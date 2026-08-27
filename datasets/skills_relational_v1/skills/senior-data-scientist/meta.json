@@ -8,5 +8,28 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "csv-processing",
+      "name": "csv-processing",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "CSV/pandas time-series handling is one component of broader data science capabilities including modeling and experimentation."
+    },
+    {
+      "slug": "did_causal_analysis",
+      "name": "did_causal_analysis",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "DiD causal analysis is a narrower capability within broad senior data science expertise including causal inference and experimentation."
+    },
+    {
+      "slug": "feature_engineering",
+      "name": "feature_engineering",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Feature engineering is a narrower capability included within broader senior data scientist expertise."
+    }
+  ]
 }

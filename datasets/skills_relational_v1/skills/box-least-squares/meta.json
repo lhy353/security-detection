@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "transit-least-squares",
+      "name": "transit-least-squares",
+      "type": "similar_to",
+      "direction": "outgoing",
+      "reason": "Both detect transiting exoplanets from light curves using specialized transit-search periodograms with same output type."
+    },
+    {
+      "slug": "exoplanet-workflows",
+      "name": "exoplanet-workflows",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "BLS is a specific detection method within broader exoplanet analysis workflows and best practices."
+    }
+  ]
 }

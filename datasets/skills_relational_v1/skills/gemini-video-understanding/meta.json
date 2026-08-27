@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "gemini-count-in-video",
+      "name": "gemini-count-in-video",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Counting/tracking objects in videos is a narrower subset of general Gemini video understanding capabilities."
+    },
+    {
+      "slug": "speech-to-text",
+      "name": "speech-to-text",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Whisper transcription is a narrower subset of Gemini video understanding, which includes transcription plus broader visual/video analysis."
+    }
+  ]
 }

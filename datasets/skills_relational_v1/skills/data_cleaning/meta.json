@@ -8,5 +8,28 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "fuzzy-match",
+      "name": "fuzzy-match",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Fuzzy matching/reconciliation is a narrower text/entity-matching cleaning operation within broader tabular data cleaning."
+    },
+    {
+      "slug": "lab-unit-harmonization",
+      "name": "lab-unit-harmonization",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Clinical lab harmonization is domain-specific cleaning/standardization, narrower than general tabular data cleaning."
+    },
+    {
+      "slug": "light-curve-preprocessing",
+      "name": "light-curve-preprocessing",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Astronomical light-curve preprocessing is a domain-specific form of cleaning/preprocessing, narrower than general data cleaning."
+    }
+  ]
 }

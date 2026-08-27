@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "syzkaller-build-loop",
+      "name": "syzkaller-build-loop",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Extracting constants is one step within the broader workflow for adding syscall descriptions and building syzkaller."
+    }
+  ]
 }

@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "maven-plugin-configuration",
+      "name": "maven-plugin-configuration",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Plugin configuration is a narrower part of Maven build customization within the broader build lifecycle skill."
+    }
+  ]
 }

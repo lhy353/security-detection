@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "fuzzy-match",
+      "name": "fuzzy-match",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Fuzzy name search is a narrower application of fuzzy matching focused on fund/stock name lookup in 13F data."
+    }
+  ]
 }

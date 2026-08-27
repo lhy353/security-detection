@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "threejs",
+      "name": "threejs",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "OBJExporter only outputs OBJ; threejs covers broader scene parsing/export workflows including per-link OBJ export plus baking, partitioning, and URDF articulation."
+    }
+  ]
 }

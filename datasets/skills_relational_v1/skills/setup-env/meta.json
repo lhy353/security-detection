@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "nlp-research-repo-package-installment",
+      "name": "nlp-research-repo-package-installment",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Focused subset of Python environment setup: specifically aligning repo-declared dependencies and Python version for NLP research reproduction."
+    },
+    {
+      "slug": "uv-package-manager",
+      "name": "uv-package-manager",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "setup-env focuses narrowly on uv-based environment setup, dependency install, and running scripts; uv-package-manager covers broader uv workflows."
+    }
+  ]
 }

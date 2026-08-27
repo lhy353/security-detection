@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "web-interface-guidelines",
+      "name": "web-interface-guidelines",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Browser-testing focuses on verifying UI behavior/performance; web-interface-guidelines covers broader UI best practices including performance and CLS prevention."
+    }
+  ]
 }

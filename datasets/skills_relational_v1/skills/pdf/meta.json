@@ -8,5 +8,28 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "academic-pdf-redaction",
+      "name": "academic-pdf-redaction",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Academic PDF redaction is a narrower PDF-processing capability within a broader PDF manipulation toolkit."
+    },
+    {
+      "slug": "marker",
+      "name": "marker",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Marker only converts PDFs to Markdown with formula/structure preservation; pdf covers broader PDF extraction, creation, editing, forms, and document operations."
+    },
+    {
+      "slug": "pdf-reading",
+      "name": "pdf-reading",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "pdf-reading covers extraction only; pdf also creates, merges, splits, fills forms, and broader PDF processing."
+    }
+  ]
 }

@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "python-scala-collections",
+      "name": "python-scala-collections",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Collection operation translation is a narrower subset of broader Python-to-Scala syntax mapping guidance."
+    }
+  ]
 }

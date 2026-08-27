@@ -39,6 +39,40 @@ function SkillCard({ item }: { item: SkillListItem }) {
   );
 }
 
+type StatFilter =
+  | "all"
+  | "benign"
+  | "malicious"
+  | "security_merged_v1"
+  | "skills_relational_v1";
+
+function StatButton({
+  filterKey,
+  activeFilter,
+  label,
+  value,
+  onSelect,
+}: {
+  filterKey: StatFilter;
+  activeFilter: StatFilter;
+  label: string;
+  value: string | number;
+  onSelect: (key: StatFilter) => void;
+}) {
+  const active = activeFilter === filterKey;
+  return (
+    <button
+      type="button"
+      className={`stat stat-btn${active ? " active" : ""}`}
+      aria-pressed={active}
+      onClick={() => onSelect(filterKey)}
+    >
+      <div className="label">{label}</div>
+      <div className="value">{value}</div>
+    </button>
+  );
+}
+
 export default function BrowsePage() {
   const [params, setParams] = useSearchParams();
   const [stats, setStats] = useState<Stats | null>(null);
@@ -51,22 +85,36 @@ export default function BrowsePage() {
 
   const q = params.get("q") ?? "";
   const label = params.get("label") ?? "";
+  const dataset = params.get("dataset") ?? "";
   const source = params.get("source") ?? "";
   const functionFilter = params.get("function") ?? "";
   const gold = params.get("gold_status") ?? "";
   const page = Number(params.get("page") ?? "1");
 
+  const activeStatFilter: StatFilter = dataset
+    ? dataset === "security_merged_v1"
+      ? "security_merged_v1"
+      : dataset === "skills_relational_v1"
+        ? "skills_relational_v1"
+        : "all"
+    : label === "benign"
+      ? "benign"
+      : label === "malicious"
+        ? "malicious"
+        : "all";
+
   const query = useMemo(() => {
     const p = new URLSearchParams();
     if (q) p.set("q", q);
     if (label) p.set("label", label);
+    if (dataset) p.set("dataset", dataset);
     if (source) p.set("source", source);
     if (functionFilter) p.set("function", functionFilter);
     if (gold) p.set("gold_status", gold);
     p.set("page", String(page));
     p.set("page_size", "24");
     return p;
-  }, [q, label, source, functionFilter, gold, page]);
+  }, [q, label, dataset, source, functionFilter, gold, page]);
 
   const reloadList = useCallback(() => {
     fetchSkills(query)
@@ -144,8 +192,64 @@ export default function BrowsePage() {
     setParams(next);
   }
 
+  function clearSecondaryFilters(next: URLSearchParams) {
+    next.delete("source");
+    next.delete("function");
+    next.delete("gold_status");
+    next.delete("q");
+  }
+
+  function applyStatFilter(filter: StatFilter) {
+    const next = new URLSearchParams(params);
+    next.set("page", "1");
+
+    if (filter === activeStatFilter && filter !== "all") {
+      next.delete("label");
+      next.delete("dataset");
+      clearSecondaryFilters(next);
+      setParams(next);
+      return;
+    }
+
+    next.delete("label");
+    next.delete("dataset");
+    clearSecondaryFilters(next);
+    switch (filter) {
+      case "benign":
+        next.set("label", "benign");
+        break;
+      case "malicious":
+        next.set("label", "malicious");
+        break;
+      case "security_merged_v1":
+        next.set("dataset", "security_merged_v1");
+        break;
+      case "skills_relational_v1":
+        next.set("dataset", "skills_relational_v1");
+        break;
+      default:
+        break;
+    }
+    setParams(next);
+  }
+
   const pages = Math.max(1, Math.ceil(total / 24));
   const counts = stats?.detection_label_counts ?? {};
+
+  const filterHint = (() => {
+    const parts: string[] = [];
+    if (dataset === "security_merged_v1") parts.push("安全检测集");
+    else if (dataset === "skills_relational_v1") parts.push("关系型集");
+    if (label === "benign") parts.push("Benign");
+    else if (label === "malicious") parts.push("Malicious");
+    else if (label) parts.push(`标签 ${label}`);
+    if (source) parts.push(`来源 ${source}`);
+    if (functionFilter) parts.push(`功能 ${functionFilter}`);
+    if (gold) parts.push(`金标 ${formatGoldStatus(gold)}`);
+    if (q) parts.push(`搜索「${q}」`);
+    if (!parts.length) return "";
+    return `当前：${parts.join(" · ")}`;
+  })();
 
   return (
     <>
@@ -156,31 +260,54 @@ export default function BrowsePage() {
           <code>skills_relational_v1</code>（200 关系型）。支持筛选、下载与 GitHub 同步。
         </p>
         <div className="stat-row">
-          <div className="stat">
-            <div className="label">总计</div>
-            <div className="value">{stats?.n ?? "—"}</div>
-          </div>
-          <div className="stat">
-            <div className="label">Benign</div>
-            <div className="value">{counts.benign ?? "—"}</div>
-          </div>
-          <div className="stat">
-            <div className="label">Malicious</div>
-            <div className="value">{counts.malicious ?? "—"}</div>
-          </div>
-          <div className="stat">
-            <div className="label">安全检测集</div>
-            <div className="value">
-              {stats?.by_dataset?.security_merged_v1 ?? "—"}
-            </div>
-          </div>
-          <div className="stat">
-            <div className="label">关系型集</div>
-            <div className="value">
-              {stats?.by_dataset?.skills_relational_v1 ?? "—"}
-            </div>
-          </div>
+          <StatButton
+            filterKey="all"
+            activeFilter={activeStatFilter}
+            label="总计"
+            value={stats?.n ?? "—"}
+            onSelect={applyStatFilter}
+          />
+          <StatButton
+            filterKey="benign"
+            activeFilter={activeStatFilter}
+            label="Benign"
+            value={counts.benign ?? "—"}
+            onSelect={applyStatFilter}
+          />
+          <StatButton
+            filterKey="malicious"
+            activeFilter={activeStatFilter}
+            label="Malicious"
+            value={counts.malicious ?? "—"}
+            onSelect={applyStatFilter}
+          />
+          <StatButton
+            filterKey="security_merged_v1"
+            activeFilter={activeStatFilter}
+            label="安全检测集"
+            value={stats?.by_dataset?.security_merged_v1 ?? "—"}
+            onSelect={applyStatFilter}
+          />
+          <StatButton
+            filterKey="skills_relational_v1"
+            activeFilter={activeStatFilter}
+            label="关系型集"
+            value={stats?.by_dataset?.skills_relational_v1 ?? "—"}
+            onSelect={applyStatFilter}
+          />
         </div>
+        {filterHint ? (
+          <p className="filter-hint">
+            {filterHint} · 显示 <strong>{total}</strong> 条
+            <button
+              type="button"
+              className="btn ghost filter-clear"
+              onClick={() => applyStatFilter("all")}
+            >
+              清除筛选
+            </button>
+          </p>
+        ) : null}
       </section>
 
       <div className="toolbar">
@@ -196,10 +323,19 @@ export default function BrowsePage() {
           <option value="malicious">malicious</option>
           <option value="uncertain">uncertain</option>
         </select>
+        <select
+          value={dataset}
+          onChange={(e) => update("dataset", e.target.value)}
+        >
+          <option value="">全部数据集</option>
+          <option value="security_merged_v1">security_merged_v1</option>
+          <option value="skills_relational_v1">skills_relational_v1</option>
+        </select>
         <select value={source} onChange={(e) => update("source", e.target.value)}>
           <option value="">全部来源</option>
           <option value="clawhub">clawhub</option>
           <option value="malskillbench">malskillbench</option>
+          <option value="skilldag">skilldag</option>
           <option value="upload">upload</option>
         </select>
         <select

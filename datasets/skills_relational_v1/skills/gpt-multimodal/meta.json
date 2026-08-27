@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "openai-vision",
+      "name": "openai-vision",
+      "type": "similar_to",
+      "direction": "outgoing",
+      "reason": "Both analyze images and multi-frame sequences using OpenAI GPT vision-capable models with essentially the same outputs."
+    },
+    {
+      "slug": "image-ocr",
+      "name": "image-ocr",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "OCR-only text extraction from images is a narrower subset of multimodal vision analysis capabilities."
+    }
+  ]
 }

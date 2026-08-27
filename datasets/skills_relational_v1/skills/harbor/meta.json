@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "skillsbench",
+      "name": "skillsbench",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "SkillsBench workflow is a narrower domain within Harbor usage: creating benchmark tasks and repo contribution around Harbor-based evaluation."
+    }
+  ]
 }

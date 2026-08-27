@@ -134,6 +134,7 @@ def api_list_skills(
     source: str = "",
     function: str = "",
     gold_status: str = "",
+    dataset: str = "",
     page: int = Query(1, ge=1),
     page_size: int = Query(24, ge=1, le=100),
 ):
@@ -143,6 +144,7 @@ def api_list_skills(
         source=source,
         function=function,
         gold_status=gold_status,
+        dataset=dataset,
         page=page,
         page_size=page_size,
     )
@@ -432,6 +434,17 @@ def api_skill_detail(id: str = Query(...)):
 STATIC_DIR = REPO_ROOT / "web" / "frontend" / "dist"
 
 
+def _static_response(path: Path, *, cache_static: bool = True) -> FileResponse:
+    headers: dict[str, str] = {}
+    if path.name == "index.html" or not cache_static:
+        headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+        headers["Pragma"] = "no-cache"
+        headers["Expires"] = "0"
+    else:
+        headers["Cache-Control"] = "public, max-age=300, must-revalidate"
+    return FileResponse(path, headers=headers)
+
+
 @app.api_route("/{full_path:path}", methods=["GET"])
 def spa_fallback(full_path: str):
     """Serve built frontend; SPA routes fall back to index.html."""
@@ -448,10 +461,10 @@ def spa_fallback(full_path: str):
         and candidate.is_file()
         and str(candidate).startswith(str(STATIC_DIR.resolve()))
     ):
-        return FileResponse(candidate)
+        return _static_response(candidate, cache_static=True)
     index = STATIC_DIR / "index.html"
     if index.exists():
-        return FileResponse(index)
+        return _static_response(index, cache_static=False)
     raise HTTPException(404, "index.html missing")
 
 

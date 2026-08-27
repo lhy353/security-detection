@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "gemini-video-understanding",
+      "name": "gemini-video-understanding",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Counting/tracking objects in videos is a narrower subset of general Gemini video understanding capabilities."
+    }
+  ]
 }

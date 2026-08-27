@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "scipy-curve-fit",
+      "name": "scipy-curve-fit",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "First-order model fitting is a narrower case of general nonlinear parameter estimation with curve_fit."
+    }
+  ]
 }

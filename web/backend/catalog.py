@@ -330,6 +330,7 @@ class SkillRecord:
     local_path: str = ""
     tags: list[str] = field(default_factory=list)
     dataset_name: str = ""
+    related_skills: list[dict[str, str]] = field(default_factory=list)
     # Cached from SKILL.md when available
     display_name: str = ""
     description: str = ""
@@ -420,6 +421,7 @@ class SkillRecord:
                 "skill_md": skill_md,
                 "content_source": format_content_source(content_source),
                 "relational_edges": relational_edges or [],
+                "related_skills": self.related_skills or relational_edges or [],
             }
         )
         return item
@@ -489,6 +491,43 @@ class Catalog:
                     for row in reader:
                         self._add_row(row, dataset_name=dataset_name)
         self._load_skill_graph()
+        self._load_related_skills_from_meta()
+
+    def _load_related_skills_from_meta(self) -> None:
+        for rec in self.skills.values():
+            if rec.dataset_name != "skills_relational_v1" and rec.source != "skilldag":
+                continue
+            for subdir in self._skill_content_dirs(rec):
+                meta_path = subdir / "meta.json"
+                if not meta_path.exists():
+                    continue
+                try:
+                    data = json.loads(meta_path.read_text(encoding="utf-8"))
+                except (OSError, json.JSONDecodeError):
+                    continue
+                raw = data.get("related_skills") or []
+                if not isinstance(raw, list):
+                    continue
+                related: list[dict[str, str]] = []
+                for item in raw:
+                    if not isinstance(item, dict):
+                        continue
+                    slug = str(item.get("slug") or "")
+                    if not slug:
+                        continue
+                    skill_id = self._slug_to_id.get(slug, f"skilldag:{slug}")
+                    related.append(
+                        {
+                            "slug": slug,
+                            "name": str(item.get("name") or slug),
+                            "type": str(item.get("type") or ""),
+                            "direction": str(item.get("direction") or ""),
+                            "reason": str(item.get("reason") or ""),
+                            "skill_id": skill_id,
+                        }
+                    )
+                rec.related_skills = related
+                break
 
     def _add_row(self, row: dict[str, Any], dataset_name: str = "") -> None:
         tags_raw = row.get("tags") or ""
@@ -661,6 +700,7 @@ class Catalog:
         source: str = "",
         function: str = "",
         gold_status: str = "",
+        dataset: str = "",
         page: int = 1,
         page_size: int = 24,
     ) -> dict[str, Any]:
@@ -669,6 +709,8 @@ class Catalog:
         for sid in self.order:
             rec = self.skills[sid]
             if label and rec.detection_label != label:
+                continue
+            if dataset and rec.dataset_name != dataset:
                 continue
             if source and rec.source != source:
                 continue

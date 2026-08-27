@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "audio-extractor",
+      "name": "audio-extractor",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Audio-extractor is a narrower case of ffmpeg audio processing: extracting audio from video to WAV/analysis-friendly format."
+    },
+    {
+      "slug": "ffmpeg-format-conversion",
+      "name": "FFmpeg Format Conversion",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Audio processing includes audio format conversion; format-conversion is broader because it also handles video containers and codec transcoding."
+    }
+  ]
 }

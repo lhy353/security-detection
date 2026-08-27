@@ -8,5 +8,28 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "elevenlabs-tts",
+      "name": "elevenlabs-tts",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "ElevenLabs TTS is one backend inside the broader audiobook pipeline."
+    },
+    {
+      "slug": "gtts",
+      "name": "gtts",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "gTTS is a narrower text-to-speech backend used within the broader audiobook workflow."
+    },
+    {
+      "slug": "openai-tts",
+      "name": "openai-tts",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "OpenAI TTS is a specific synthesis backend included within the audiobook pipeline."
+    }
+  ]
 }

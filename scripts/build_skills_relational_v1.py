@@ -21,6 +21,37 @@ OUT_GRAPH = OUT_DIR / "skillgraph.json"
 OUT_MANIFEST = OUT_DIR / "manifest.csv"
 
 
+def related_skills_for(
+    slug: str,
+    edges: list[dict],
+    nodes: dict[str, dict],
+) -> list[dict[str, str]]:
+    out: list[dict[str, str]] = []
+    for edge in edges:
+        src = str(edge.get("source") or "")
+        tgt = str(edge.get("target") or "")
+        if src == slug:
+            other_slug = tgt
+            direction = "outgoing"
+        elif tgt == slug:
+            other_slug = src
+            direction = "incoming"
+        else:
+            continue
+        other = nodes.get(other_slug, {})
+        out.append(
+            {
+                "slug": other_slug,
+                "name": str(other.get("name") or other_slug),
+                "type": str(edge.get("type") or ""),
+                "direction": direction,
+                "reason": str(edge.get("reason") or ""),
+            }
+        )
+    out.sort(key=lambda x: (x["type"], x["slug"]))
+    return out
+
+
 def main() -> int:
     if not SRC_SKILLS.is_dir():
         print(f"Missing {SRC_SKILLS}. Run HF download first.", file=sys.stderr)
@@ -83,6 +114,7 @@ def main() -> int:
                 "tags": "relational|skilldag",
             }
         )
+        related = related_skills_for(slug, edges, nodes)
         meta = {
             "id": f"skilldag:{slug}",
             "slug": slug,
@@ -94,6 +126,7 @@ def main() -> int:
             "function_label": "Other",
             "status": node.get("status") or "active",
             "tags": node.get("tags") or [],
+            "related_skills": related,
         }
         (skill_dir / "meta.json").write_text(
             json.dumps(meta, ensure_ascii=False, indent=2) + "\n",
@@ -116,6 +149,7 @@ SkillDAG **skills_200** 关系型 skill 数据集（200 节点，{len(edges)} �
 | `manifest.csv` | 200 条元数据 |
 | `skills/<slug>/` | `SKILL.md` + `meta.json` |
 | `skillgraph.json` | 类型化边：`specializes`, `similar_to` 等 |
+| `meta.json` 字段 `related_skills` | 每条 skill 的关联节点（slug / type / reason） |
 
 来源：HuggingFace `Eric068/SkillDAG`（`skillgraph_200.json` + `skills_200`）。
 """,

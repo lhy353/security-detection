@@ -8,5 +8,35 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "senior-data-engineer",
+      "name": "senior-data-engineer",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "CSV processing is a narrow tabular-data capability within broader data engineering pipelines and ETL workflows."
+    },
+    {
+      "slug": "senior-data-scientist",
+      "name": "senior-data-scientist",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "CSV/pandas time-series handling is one component of broader data science capabilities including modeling and experimentation."
+    },
+    {
+      "slug": "vulnerability-csv-reporting",
+      "name": "vulnerability-csv-reporting",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Security CSV reporting is a narrower CSV-writing/report-formatting use case within general CSV processing."
+    },
+    {
+      "slug": "xlsx",
+      "name": "xlsx",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "CSV processing is a narrower subset of spreadsheet analysis/editing across XLSX/XLSM/CSV/TSV with formulas and formatting."
+    }
+  ]
 }

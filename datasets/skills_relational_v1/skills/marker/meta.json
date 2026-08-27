@@ -8,5 +8,21 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "pdf",
+      "name": "pdf",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Marker only converts PDFs to Markdown with formula/structure preservation; pdf covers broader PDF extraction, creation, editing, forms, and document operations."
+    },
+    {
+      "slug": "pdf-reading",
+      "name": "pdf-reading",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Marker is a narrower PDF-reading tool focused on PDF-to-Markdown conversion preserving formulas and structure; pdf-reading includes broader text/table extraction methods."
+    }
+  ]
 }

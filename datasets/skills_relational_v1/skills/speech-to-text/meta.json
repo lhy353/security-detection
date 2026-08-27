@@ -8,5 +8,28 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "automatic-speech-recognition",
+      "name": "Automatic Speech Recognition (ASR)",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Speech-to-text is a narrower Whisper transcription skill using only tiny model, a subset of general ASR."
+    },
+    {
+      "slug": "gemini-video-understanding",
+      "name": "gemini-video-understanding",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Whisper transcription is a narrower subset of Gemini video understanding, which includes transcription plus broader visual/video analysis."
+    },
+    {
+      "slug": "whisper-transcription",
+      "name": "whisper-transcription",
+      "type": "specializes",
+      "direction": "outgoing",
+      "reason": "Anchor is narrower: Whisper tiny video transcription with timestamps; candidate broadly transcribes audio/video with OpenAI Whisper and word-level timestamps."
+    }
+  ]
 }

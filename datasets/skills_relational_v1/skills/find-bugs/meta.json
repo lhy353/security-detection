@@ -8,5 +8,14 @@
   "source": "skilldag",
   "function_label": "Other",
   "status": "active",
-  "tags": []
+  "tags": [],
+  "related_skills": [
+    {
+      "slug": "trivy-offline-vulnerability-scanning",
+      "name": "trivy-offline-vulnerability-scanning",
+      "type": "specializes",
+      "direction": "incoming",
+      "reason": "Trivy offline scanning is a narrower security audit focused on dependency vulnerabilities; find-bugs covers broader bugs, security, and code quality review."
+    }
+  ]
 }
