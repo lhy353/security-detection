@@ -34,10 +34,28 @@ _load_portal_env()
 
 import os  # noqa: E402
 
-_DATASET_NAME = os.environ.get("PORTAL_DATASET", "skills_relational_v1")
-DATASET_DIR = REPO_ROOT / "datasets" / _DATASET_NAME
+DEFAULT_PORTAL_DATASETS = ["security_merged_v1", "skills_relational_v1"]
+UPLOAD_DATASET_NAME = os.environ.get("PORTAL_UPLOAD_DATASET", "security_merged_v1")
+
+
+def portal_dataset_names() -> list[str]:
+    raw = os.environ.get("PORTAL_DATASET", "all").strip()
+    if raw.lower() in ("all", "*"):
+        names: list[str] = []
+        for name in DEFAULT_PORTAL_DATASETS:
+            manifest = REPO_ROOT / "datasets" / name / "manifest.csv"
+            if manifest.exists():
+                names.append(name)
+        return names
+    if "," in raw:
+        return [part.strip() for part in raw.split(",") if part.strip()]
+    return [raw]
+
+
+_DATASET_NAME = os.environ.get("PORTAL_DATASET", "all")
+DATASET_DIR = REPO_ROOT / "datasets" / UPLOAD_DATASET_NAME
 SKILLS_DIR = DATASET_DIR / "skills"
-SKILLGRAPH_JSON = DATASET_DIR / "skillgraph.json"
+SKILLGRAPH_JSON = REPO_ROOT / "datasets" / "skills_relational_v1" / "skillgraph.json"
 MANIFEST_JSONL = DATASET_DIR / "manifest.jsonl"
 MANIFEST_CSV = DATASET_DIR / "manifest.csv"
 SUMMARY_JSON = DATASET_DIR / "summary.json"
@@ -311,6 +329,7 @@ class SkillRecord:
     gold_sample_id: str = ""
     local_path: str = ""
     tags: list[str] = field(default_factory=list)
+    dataset_name: str = ""
     # Cached from SKILL.md when available
     display_name: str = ""
     description: str = ""
@@ -375,6 +394,7 @@ class SkillRecord:
             "gold_status": self.gold_status,
             "gold_status_label": self.gold_status_display(),
             "tags": self.display_tags(),
+            "dataset_name": self.dataset_name,
         }
 
     def to_detail(
@@ -410,14 +430,24 @@ class Catalog:
         self.skills: dict[str, SkillRecord] = {}
         self.order: list[str] = []
         self.summary: dict[str, Any] = {}
+        self.dataset_names: list[str] = []
         self._meta_cache: dict[str, dict[str, str]] = {}
         self._graph_edges: list[dict[str, Any]] = []
         self._slug_to_id: dict[str, str] = {}
         self.reload()
 
+    def _dataset_dir(self, dataset_name: str) -> Path:
+        return REPO_ROOT / "datasets" / dataset_name
+
+    def _skills_dir(self, dataset_name: str) -> Path:
+        return self._dataset_dir(dataset_name) / "skills"
+
     def _load_skill_graph(self) -> None:
         self._graph_edges = []
-        self._slug_to_id = {rec.slug: rec.id for rec in self.skills.values()}
+        self._slug_to_id = {}
+        for rec in self.skills.values():
+            if rec.dataset_name == "skills_relational_v1" or rec.source == "skilldag":
+                self._slug_to_id[rec.slug] = rec.id
         if not SKILLGRAPH_JSON.exists():
             return
         try:
@@ -431,27 +461,36 @@ class Catalog:
         self.order.clear()
         self._meta_cache.clear()
         self.summary = {}
-        if SUMMARY_JSON.exists():
-            self.summary = json.loads(SUMMARY_JSON.read_text(encoding="utf-8"))
-        path = MANIFEST_CSV if MANIFEST_CSV.exists() else MANIFEST_JSONL
-        if not path.exists():
-            return
-        if path.suffix == ".jsonl":
-            with path.open(encoding="utf-8") as f:
-                for line in f:
-                    line = line.strip()
-                    if not line:
-                        continue
-                    row = json.loads(line)
-                    self._add_row(row)
-        else:
-            with path.open(encoding="utf-8-sig", newline="") as f:
-                reader = csv.DictReader(f)
-                for row in reader:
-                    self._add_row(row)
+        self.dataset_names = portal_dataset_names()
+        for dataset_name in self.dataset_names:
+            ds_dir = self._dataset_dir(dataset_name)
+            summary_path = ds_dir / "summary.json"
+            if summary_path.exists():
+                try:
+                    self.summary.update(json.loads(summary_path.read_text(encoding="utf-8")))
+                except (OSError, json.JSONDecodeError):
+                    pass
+            manifest_csv = ds_dir / "manifest.csv"
+            manifest_jsonl = ds_dir / "manifest.jsonl"
+            path = manifest_csv if manifest_csv.exists() else manifest_jsonl
+            if not path.exists():
+                continue
+            if path.suffix == ".jsonl":
+                with path.open(encoding="utf-8") as f:
+                    for line in f:
+                        line = line.strip()
+                        if not line:
+                            continue
+                        row = json.loads(line)
+                        self._add_row(row, dataset_name=dataset_name)
+            else:
+                with path.open(encoding="utf-8-sig", newline="") as f:
+                    reader = csv.DictReader(f)
+                    for row in reader:
+                        self._add_row(row, dataset_name=dataset_name)
         self._load_skill_graph()
 
-    def _add_row(self, row: dict[str, Any]) -> None:
+    def _add_row(self, row: dict[str, Any], dataset_name: str = "") -> None:
         tags_raw = row.get("tags") or ""
         if isinstance(tags_raw, list):
             tags = [str(t) for t in tags_raw]
@@ -478,6 +517,7 @@ class Catalog:
             gold_sample_id=str(row.get("gold_sample_id") or ""),
             local_path=str(row.get("local_path") or ""),
             tags=tags,
+            dataset_name=dataset_name,
         )
         if not rec.id:
             return
@@ -496,13 +536,24 @@ class Catalog:
         self.order.append(rec.id)
 
     def _skill_content_dirs(self, rec: SkillRecord) -> list[Path]:
+        skills_root = self._skills_dir(rec.dataset_name)
         dirs: list[Path] = []
         if rec.slug:
-            dirs.append(SKILLS_DIR / rec.slug)
-        sid_dir = SKILLS_DIR / safe_id(rec.id)
+            dirs.append(skills_root / rec.slug)
+        sid_dir = skills_root / safe_id(rec.id)
         if sid_dir not in dirs:
             dirs.append(sid_dir)
         return dirs
+
+    def _resolve_local_dir(self, rec: SkillRecord) -> Path | None:
+        if not rec.local_path:
+            return None
+        local = Path(rec.local_path)
+        if not local.is_absolute():
+            local = self._dataset_dir(rec.dataset_name) / local
+        if (local / "SKILL.md").exists():
+            return local
+        return None
 
     def _peek_meta(self, rec: SkillRecord) -> dict[str, str] | None:
         # Boot path: only portable dirs (avoid scanning thousands of local_path files).
@@ -543,16 +594,6 @@ class Catalog:
                         slug=rec.slug,
                     ),
                 }
-        return None
-
-    def _resolve_local_dir(self, rec: SkillRecord) -> Path | None:
-        if not rec.local_path:
-            return None
-        local = Path(rec.local_path)
-        if not local.is_absolute():
-            local = DATASET_DIR / local
-        if (local / "SKILL.md").exists():
-            return local
         return None
 
     def _candidate_skill_md_paths(self, rec: SkillRecord) -> list[Path]:
@@ -671,7 +712,10 @@ class Catalog:
     def find_clawhub_by_slug(self, slug: str) -> SkillRecord | None:
         return self.skills.get(f"clawhub:{slug}")
 
-    def _manifest_fieldnames(self) -> list[str]:
+    def _manifest_path(self, dataset_name: str) -> Path:
+        return self._dataset_dir(dataset_name) / "manifest.csv"
+
+    def _manifest_fieldnames(self, dataset_name: str) -> list[str]:
         default = [
             "id",
             "slug",
@@ -692,9 +736,10 @@ class Catalog:
             "local_path",
             "tags",
         ]
-        if not MANIFEST_CSV.exists() or MANIFEST_CSV.stat().st_size == 0:
+        manifest = self._manifest_path(dataset_name)
+        if not manifest.exists() or manifest.stat().st_size == 0:
             return default
-        with MANIFEST_CSV.open("r", encoding="utf-8-sig", newline="") as f:
+        with manifest.open("r", encoding="utf-8-sig", newline="") as f:
             reader = csv.reader(f)
             header = next(reader, None)
             return header if header else default
@@ -709,19 +754,26 @@ class Catalog:
                 out[key] = str(val) if val is not None else ""
         return out
 
-    def _write_manifest_rows(self, fieldnames: list[str], rows: list[dict[str, Any]]) -> None:
-        with MANIFEST_CSV.open("w", encoding="utf-8", newline="") as f:
+    def _write_manifest_rows(
+        self,
+        dataset_name: str,
+        fieldnames: list[str],
+        rows: list[dict[str, Any]],
+    ) -> None:
+        manifest = self._manifest_path(dataset_name)
+        with manifest.open("w", encoding="utf-8", newline="") as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
             writer.writeheader()
             for row in rows:
                 writer.writerow(self._row_for_csv(row, fieldnames))
 
-    def _load_manifest_rows(self) -> tuple[list[str], list[dict[str, str]]]:
-        fieldnames = self._manifest_fieldnames()
-        if not MANIFEST_CSV.exists():
+    def _load_manifest_rows(self, dataset_name: str) -> tuple[list[str], list[dict[str, str]]]:
+        fieldnames = self._manifest_fieldnames(dataset_name)
+        manifest = self._manifest_path(dataset_name)
+        if not manifest.exists():
             return fieldnames, []
         rows: list[dict[str, str]] = []
-        with MANIFEST_CSV.open("r", encoding="utf-8-sig", newline="") as f:
+        with manifest.open("r", encoding="utf-8-sig", newline="") as f:
             reader = csv.DictReader(f)
             if reader.fieldnames:
                 fieldnames = list(reader.fieldnames)
@@ -729,14 +781,20 @@ class Catalog:
                 rows.append(dict(row))
         return fieldnames, rows
 
-    def upsert_manifest_row(self, row: dict[str, Any]) -> str:
+    def upsert_manifest_row(
+        self,
+        row: dict[str, Any],
+        dataset_name: str | None = None,
+    ) -> str:
         """Insert or update manifest.csv by id. Returns 'inserted' or 'updated'."""
-        DATASET_DIR.mkdir(parents=True, exist_ok=True)
+        ds_name = dataset_name or UPLOAD_DATASET_NAME
+        ds_dir = self._dataset_dir(ds_name)
+        ds_dir.mkdir(parents=True, exist_ok=True)
         skill_id = str(row.get("id") or "")
         if not skill_id:
             raise ValueError("row.id is required")
 
-        fieldnames, rows = self._load_manifest_rows()
+        fieldnames, rows = self._load_manifest_rows(ds_name)
         updated = False
         new_rows: list[dict[str, Any]] = []
         for existing in rows:
@@ -748,7 +806,7 @@ class Catalog:
         if not updated:
             new_rows.append(row)
 
-        self._write_manifest_rows(fieldnames, new_rows)
+        self._write_manifest_rows(ds_name, fieldnames, new_rows)
         self.reload()
         return "updated" if updated else "inserted"
 
@@ -828,14 +886,19 @@ class Catalog:
     def stats(self) -> dict[str, Any]:
         counts: dict[str, int] = {}
         by_source: dict[str, int] = {}
+        by_dataset: dict[str, int] = {}
         for sid in self.order:
             rec = self.skills[sid]
             counts[rec.detection_label] = counts.get(rec.detection_label, 0) + 1
             by_source[rec.source] = by_source.get(rec.source, 0) + 1
+            ds = rec.dataset_name or "unknown"
+            by_dataset[ds] = by_dataset.get(ds, 0) + 1
         return {
             "n": len(self.order),
             "detection_label_counts": counts,
             "by_source": by_source,
+            "by_dataset": by_dataset,
+            "datasets": self.dataset_names,
             "summary": self.summary,
         }
 

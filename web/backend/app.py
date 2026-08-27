@@ -20,10 +20,12 @@ from fastapi.responses import FileResponse, StreamingResponse
 
 from .catalog import (
     DATASET_DIR,
-    _DATASET_NAME,
     REPO_ROOT,
     SKILLS_DIR,
+    UPLOAD_DATASET_NAME,
+    _DATASET_NAME,
     get_catalog,
+    portal_dataset_names,
     safe_id,
 )
 from .github_sync import get_sync_status, notify_local_change, start_background_pull
@@ -149,20 +151,22 @@ def api_list_skills(
 @app.get("/api/dataset/download")
 def api_download_dataset():
     buf = io.BytesIO()
+    dataset_names = portal_dataset_names()
     with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as zf:
-        for name in ("manifest.csv",):
-            path = DATASET_DIR / name
-            if path.exists():
-                zf.write(path, f"{_DATASET_NAME}/{name}")
+        for ds_name in dataset_names:
+            manifest = REPO_ROOT / "datasets" / ds_name / "manifest.csv"
+            if manifest.exists():
+                zf.write(manifest, f"{ds_name}/manifest.csv")
         readme = REPO_ROOT / "README.md"
         if readme.exists():
             zf.write(readme, "README.md")
     buf.seek(0)
+    zip_label = "all-datasets" if len(dataset_names) > 1 else dataset_names[0]
     return StreamingResponse(
         buf,
         media_type="application/zip",
         headers={
-            "Content-Disposition": f'attachment; filename="{_DATASET_NAME}-metadata.zip"'
+            "Content-Disposition": f'attachment; filename="{zip_label}-metadata.zip"'
         },
     )
 
@@ -196,11 +200,20 @@ async def api_upload(
     if existing and not overwriting:
         raise HTTPException(409, f"Skill already exists: {existing.id}")
     skill_id = existing.id if overwriting else f"upload:{slug_val}"
-    sid = safe_id(skill_id)
-    dest = SKILLS_DIR / sid
+    target_dataset = (
+        existing.dataset_name if overwriting and existing else UPLOAD_DATASET_NAME
+    )
+    skills_root = cat._skills_dir(target_dataset)
+    if overwriting and existing and existing.dataset_name == "skills_relational_v1":
+        dest = skills_root / slug_val
+        local_rel = f"skills/{slug_val}"
+    else:
+        sid = safe_id(skill_id)
+        dest = skills_root / sid
+        local_rel = f"skills/{sid}"
     _prepare_skill_dir(dest)
 
-    upload_dir = SKILLS_DIR / safe_id(upload_id)
+    upload_dir = cat._skills_dir(UPLOAD_DATASET_NAME) / safe_id(upload_id)
     if overwriting and upload_dir.exists() and upload_dir != dest:
         shutil.rmtree(upload_dir)
 
@@ -259,7 +272,7 @@ async def api_upload(
             "gold_reviewer": existing.gold_reviewer,
             "gold_review_notes": existing.gold_review_notes,
             "gold_sample_id": existing.gold_sample_id,
-            "local_path": str(dest.resolve()),
+            "local_path": local_rel,
             "tags": tag_list if tag_list else existing.tags,
         }
     else:
@@ -280,11 +293,11 @@ async def api_upload(
             "gold_reviewer": "",
             "gold_review_notes": "",
             "gold_sample_id": "",
-            "local_path": str(dest.resolve()),
+            "local_path": local_rel,
             "tags": tag_list,
         }
 
-    action = cat.upsert_manifest_row(row)
+    action = cat.upsert_manifest_row(row, dataset_name=target_dataset)
     rec = cat.get(skill_id)
     if not rec:
         raise HTTPException(500, "Failed to persist manifest row")
@@ -338,8 +351,12 @@ def api_download_skill(id: str = Query(...), full: bool = False):
     sid = safe_id(rec.id)
 
     if full and rec.local_path:
-        root = Path(rec.local_path)
-        if root.is_dir() and (root / "SKILL.md").exists():
+        root = cat._resolve_local_dir(rec)
+        if root is None and rec.local_path:
+            root = Path(rec.local_path)
+            if not root.is_absolute():
+                root = cat._dataset_dir(rec.dataset_name) / root
+        if root and root.is_dir() and (root / "SKILL.md").exists():
             with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as zf:
                 for path in root.rglob("*"):
                     if path.is_file():

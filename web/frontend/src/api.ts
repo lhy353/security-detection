@@ -19,6 +19,7 @@ export type SkillListItem = {
   function_label: string;
   gold_status: string;
   tags: string[];
+  dataset_name?: string;
 };
 
 export type SkillDetail = SkillListItem & {
@@ -51,6 +52,8 @@ export type Stats = {
   n: number;
   detection_label_counts: Record<string, number>;
   by_source: Record<string, number>;
+  by_dataset?: Record<string, number>;
+  datasets?: string[];
   summary: Record<string, unknown>;
   dataset?: string;
   sync?: SyncStatus;

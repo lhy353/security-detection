@@ -103,6 +103,8 @@ export default function DetailPage() {
           ))}
         </div>
         <dl className="kv">
+          <dt>数据集</dt>
+          <dd>{skill.dataset_name || "—"}</dd>
           <dt>ID</dt>
           <dd>{skill.id}</dd>
           <dt>Slug</dt>

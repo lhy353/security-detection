@@ -8,8 +8,8 @@ export default function App() {
     <div className="shell">
       <header className="topnav">
         <div className="brand">
-          <strong>Skill 关系型数据集</strong>
-          <span>skills_relational_v1 · SkillDAG skills_200 · 仅供研究使用</span>
+          <strong>Skill 数据集门户</strong>
+          <span>全部数据集 · security_merged_v1 + skills_relational_v1</span>
         </div>
         <nav className="nav-links">
           <NavLink to="/" end>

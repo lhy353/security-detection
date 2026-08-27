@@ -150,10 +150,10 @@ export default function BrowsePage() {
   return (
     <>
       <section className="hero">
-        <h1>SkillDAG 关系型 Skill 数据集</h1>
+        <h1>全部 Skill 数据集</h1>
         <p>
-          浏览 <code>skills_relational_v1</code>（SkillDAG skills_200）：200 个 skill 节点与
-          specializes / similar_to 等关系边。支持筛选、下载与上传；GitHub 同步后自动刷新列表。
+          合并浏览 <code>security_merged_v1</code>（8520）与
+          <code>skills_relational_v1</code>（200 关系型）。支持筛选、下载与 GitHub 同步。
         </p>
         <div className="stat-row">
           <div className="stat">
@@ -169,8 +169,16 @@ export default function BrowsePage() {
             <div className="value">{counts.malicious ?? "—"}</div>
           </div>
           <div className="stat">
-            <div className="label">BBD</div>
-            <div className="value">{counts.benign_but_dangerous ?? "—"}</div>
+            <div className="label">安全检测集</div>
+            <div className="value">
+              {stats?.by_dataset?.security_merged_v1 ?? "—"}
+            </div>
+          </div>
+          <div className="stat">
+            <div className="label">关系型集</div>
+            <div className="value">
+              {stats?.by_dataset?.skills_relational_v1 ?? "—"}
+            </div>
           </div>
         </div>
       </section>
