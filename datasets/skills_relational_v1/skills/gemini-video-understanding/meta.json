@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:gemini-video-understanding",
+  "slug": "gemini-video-understanding",
+  "name": "gemini-video-understanding",
+  "title": "gemini-video-understanding",
+  "description": "Analyze videos with Google Gemini API (summaries, Q&A, transcription with timestamps + visual context, scene/timeline detection, video clipping, FPS control, multi-video comparison, and YouTube URL analysis).",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

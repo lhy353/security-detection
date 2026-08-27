@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:pubchem-database",
+  "slug": "pubchem-database",
+  "name": "pubchem-database",
+  "title": "pubchem-database",
+  "description": "Query PubChem via PUG-REST API/PubChemPy (110M+ compounds). Search by name/CID/SMILES, retrieve properties, similarity/substructure searches, bioactivity, for cheminformatics.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

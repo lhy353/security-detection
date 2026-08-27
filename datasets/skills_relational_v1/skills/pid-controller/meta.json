@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:pid-controller",
+  "slug": "pid-controller",
+  "name": "pid-controller",
+  "title": "pid-controller",
+  "description": "Use this skill when implementing PID control loops for adaptive cruise control, vehicle speed regulation, throttle/brake management, or any feedback control system requiring proportional-integral-derivative control.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

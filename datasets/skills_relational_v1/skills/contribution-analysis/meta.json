@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:contribution-analysis",
+  "slug": "contribution-analysis",
+  "name": "contribution-analysis",
+  "title": "contribution-analysis",
+  "description": "Calculate the relative contribution of different factors to a response variable using R² decomposition. Use when you need to quantify how much each factor explains the variance of an outcome.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

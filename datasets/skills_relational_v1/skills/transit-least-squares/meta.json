@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:transit-least-squares",
+  "slug": "transit-least-squares",
+  "name": "transit-least-squares",
+  "title": "transit-least-squares",
+  "description": "Transit Least Squares (TLS) algorithm for detecting exoplanet transits in light curves. Use when searching for transiting exoplanets specifically, as TLS is more sensitive than Lomb-Scargle for transit-shaped signals. Based on the transitleastsquares Python package.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

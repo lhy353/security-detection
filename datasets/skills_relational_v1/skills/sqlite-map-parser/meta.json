@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:sqlite-map-parser",
+  "slug": "sqlite-map-parser",
+  "name": "sqlite-map-parser",
+  "title": "sqlite-map-parser",
+  "description": "Parse SQLite databases into structured JSON data. Use when exploring unknown database schemas, understanding table relationships, and extracting map data as JSON.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

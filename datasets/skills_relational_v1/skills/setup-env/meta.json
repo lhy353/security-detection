@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:setup-env",
+  "slug": "setup-env",
+  "name": "setup-env",
+  "title": "setup-env",
+  "description": "When given a Python project codebase, this skill helps the agent to set up virtual environments, install dependencies, and run scripts.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:reflow-profile-compliance-toolkit",
+  "slug": "reflow-profile-compliance-toolkit",
+  "name": "reflow-profile-compliance-toolkit",
+  "title": "reflow-profile-compliance-toolkit",
+  "description": "Deterministic handbook-grounded retrieval and thermocouple computations for reflow profile compliance outputs such as ramp, TAL, peak, feasibility, and selection.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

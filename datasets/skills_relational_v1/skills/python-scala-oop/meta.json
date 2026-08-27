@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:python-scala-oop",
+  "slug": "python-scala-oop",
+  "name": "python-scala-oop",
+  "title": "python-scala-oop",
+  "description": "Guide for translating Python classes, inheritance, and object-oriented patterns to Scala. Use when converting Python code with classes, dataclasses, abstract classes, inheritance, properties, static methods, class methods, or design patterns.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

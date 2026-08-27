@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:academic-pdf-redaction",
+  "slug": "academic-pdf-redaction",
+  "name": "academic-pdf-redaction",
+  "title": "academic-pdf-redaction",
+  "description": "Redact text from PDF documents for blind review anonymization",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

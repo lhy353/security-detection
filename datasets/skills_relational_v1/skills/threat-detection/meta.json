@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:threat-detection",
+  "slug": "threat-detection",
+  "name": "threat-detection",
+  "title": "threat-detection",
+  "description": "Exact detection thresholds for identifying malicious network patterns including port scans, DoS attacks, and beaconing behavior.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:usgs-data-download",
+  "slug": "usgs-data-download",
+  "name": "usgs-data-download",
+  "title": "usgs-data-download",
+  "description": "Download water level data from USGS using the dataretrieval package. Use when accessing real-time or historical streamflow data, downloading gage height or discharge measurements, or working with USGS station IDs.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

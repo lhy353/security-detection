@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:erlang-otp-behaviors",
+  "slug": "erlang-otp-behaviors",
+  "name": "erlang-otp-behaviors",
+  "title": "erlang-otp-behaviors",
+  "description": "Use when oTP behaviors including gen_server for stateful processes, gen_statem for state machines, supervisors for fault tolerance, gen_event for event handling, and building robust, production-ready Erlang applications with proven patterns.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

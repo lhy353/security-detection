@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:cvss-score-extraction",
+  "slug": "cvss-score-extraction",
+  "name": "cvss-score-extraction",
+  "title": "cvss-score-extraction",
+  "description": "Extract CVSS (Common Vulnerability Scoring System) scores from vulnerability data sources with proper fallback handling. This skill covers understanding CVSS v3, handling multiple score sources (NVD, GHSA, RedHat), implementing source priority logic, and dealing with missing scores in security reporting.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

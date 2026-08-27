@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:erlang-distribution",
+  "slug": "erlang-distribution",
+  "name": "erlang-distribution",
+  "title": "erlang-distribution",
+  "description": "Use when erlang distributed systems including node connectivity, distributed processes, global name registration, distributed supervision, network partitions, and building fault-tolerant multi-node applications on the BEAM VM.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

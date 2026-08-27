@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:browser-testing",
+  "slug": "browser-testing",
+  "name": "browser-testing",
+  "title": "browser-testing",
+  "description": "VERIFY your changes work. Measure performance, CLS. Use BEFORE and AFTER making changes to confirm fixes. Includes ready-to-run scripts: measure-cls.ts, detect-flicker.ts",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

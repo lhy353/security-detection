@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:-2chat-automation",
+  "slug": "-2chat-automation",
+  "name": "-2chat-automation",
+  "title": "-2chat-automation",
+  "description": "Automate 2chat tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

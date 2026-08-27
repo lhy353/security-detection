@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:ac-branch-pi-model",
+  "slug": "ac-branch-pi-model",
+  "name": "ac-branch-pi-model",
+  "title": "ac-branch-pi-model",
+  "description": "AC branch pi-model power flow equations (P/Q and |S|) with transformer tap ratio and phase shift, matching `acopf-math-model.md` and MATPOWER branch fields. Use when computing branch flows in either direction, aggregating bus injections for nodal balance, checking MVA (rateA) limits, computing branch loading %, or debugging sign/units issues in AC power flow.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

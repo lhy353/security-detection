@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:discover-important-function",
+  "slug": "discover-important-function",
+  "name": "discover-important-function",
+  "title": "discover-important-function",
+  "description": "When given a project codebase, this skill observes the important functions in the codebase for future action.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

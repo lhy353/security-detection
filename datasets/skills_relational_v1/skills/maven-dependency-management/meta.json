@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:maven-dependency-management",
+  "slug": "maven-dependency-management",
+  "name": "maven-dependency-management",
+  "title": "maven-dependency-management",
+  "description": "Use when managing Maven dependencies, resolving dependency conflicts, configuring BOMs, or optimizing dependency trees in Java projects.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

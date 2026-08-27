@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:conditioning",
+  "slug": "conditioning",
+  "name": "conditioning",
+  "title": "conditioning",
+  "description": "Data conditioning techniques for gravitational wave detector data. Use when preprocessing raw detector strain data before matched filtering, including high-pass filtering, resampling, removing filter wraparound artifacts, and estimating power spectral density (PSD). Works with PyCBC TimeSeries data.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

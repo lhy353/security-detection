@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:badge-evaluation",
+  "slug": "badge-evaluation",
+  "name": "badge-evaluation",
+  "title": "badge-evaluation",
+  "description": "Evaluate research artifacts against NDSS badge criteria (Available, Functional, Reproduced) by checking DOI, documentation, exercisability, and reproducibility requirements.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:search-restaurants",
+  "slug": "search-restaurants",
+  "name": "search-restaurants",
+  "title": "search-restaurants",
+  "description": "Retrieve restaurants by city from the bundled dataset. Use this skill when recommending places to eat or validating dining options for a destination.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

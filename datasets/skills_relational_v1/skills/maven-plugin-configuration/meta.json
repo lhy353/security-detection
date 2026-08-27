@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:maven-plugin-configuration",
+  "slug": "maven-plugin-configuration",
+  "name": "maven-plugin-configuration",
+  "title": "maven-plugin-configuration",
+  "description": "Use when configuring Maven plugins, setting up common plugins like compiler, surefire, jar, or creating custom plugin executions.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

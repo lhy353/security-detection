@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:state-space-linearization",
+  "slug": "state-space-linearization",
+  "name": "state-space-linearization",
+  "title": "state-space-linearization",
+  "description": "Linearizing nonlinear dynamics around operating points for control design.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

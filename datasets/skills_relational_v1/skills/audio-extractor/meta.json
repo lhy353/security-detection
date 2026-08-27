@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:audio-extractor",
+  "slug": "audio-extractor",
+  "name": "audio-extractor",
+  "title": "audio-extractor",
+  "description": "Extract audio from video files to WAV format. Use when you need to analyze audio from video, prepare audio for energy calculation, or convert video audio to standard format for processing.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

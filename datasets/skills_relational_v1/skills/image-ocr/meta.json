@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:image-ocr",
+  "slug": "image-ocr",
+  "name": "image-ocr",
+  "title": "image-ocr",
+  "description": "Extract text content from images using Tesseract OCR via Python",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:data-reconciliation",
+  "slug": "data-reconciliation",
+  "name": "data-reconciliation",
+  "title": "data-reconciliation",
+  "description": "Recover missing spreadsheet values using row or column constraints, percentage shares, growth formulas, and cross-sheet consistency checks.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

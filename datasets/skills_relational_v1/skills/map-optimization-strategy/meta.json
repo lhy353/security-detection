@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:map-optimization-strategy",
+  "slug": "map-optimization-strategy",
+  "name": "map-optimization-strategy",
+  "title": "map-optimization-strategy",
+  "description": "Strategy for solving constraint optimization problems on spatial maps. Use when you need to place items on a grid/map to maximize some objective while satisfying constraints.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

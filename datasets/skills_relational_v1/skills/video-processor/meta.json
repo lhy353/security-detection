@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:video-processor",
+  "slug": "video-processor",
+  "name": "video-processor",
+  "title": "video-processor",
+  "description": "Process videos by removing segments and concatenating remaining parts. Use when you need to remove detected pauses/openings from videos, create highlight reels, or batch process segment removals using ffmpeg filter_complex.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

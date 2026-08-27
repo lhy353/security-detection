@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:geospatial-analysis",
+  "slug": "geospatial-analysis",
+  "name": "geospatial-analysis",
+  "title": "geospatial-analysis",
+  "description": "Analyze geospatial data using geopandas with proper coordinate projections. Use when calculating distances between geographic features, performing spatial filtering, or working with plate boundaries and earthquake data.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

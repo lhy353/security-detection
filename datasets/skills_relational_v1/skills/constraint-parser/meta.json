@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:constraint-parser",
+  "slug": "constraint-parser",
+  "name": "constraint-parser",
+  "title": "constraint-parser",
+  "description": "Parse scheduling constraints from a email text.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

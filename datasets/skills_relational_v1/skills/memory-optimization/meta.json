@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:memory-optimization",
+  "slug": "memory-optimization",
+  "name": "memory-optimization",
+  "title": "memory-optimization",
+  "description": "Optimize Python code for reduced memory usage and improved memory efficiency. Use when asked to reduce memory footprint, fix memory leaks, optimize data structures for memory, handle large datasets efficiently, or diagnose memory issues. Covers object sizing, generator patterns, efficient data structures, and memory profiling strategies.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

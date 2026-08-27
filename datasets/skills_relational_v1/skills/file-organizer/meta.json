@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:file-organizer",
+  "slug": "file-organizer",
+  "name": "file-organizer",
+  "title": "file-organizer",
+  "description": "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

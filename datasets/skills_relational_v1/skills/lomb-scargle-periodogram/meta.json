@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:lomb-scargle-periodogram",
+  "slug": "lomb-scargle-periodogram",
+  "name": "lomb-scargle-periodogram",
+  "title": "lomb-scargle-periodogram",
+  "description": "Lomb-Scargle periodogram for finding periodic signals in unevenly sampled time series data. Use when analyzing light curves, radial velocity data, or any astronomical time series to detect periodic variations. Works for stellar rotation, pulsation, eclipsing binaries, and general periodic phenomena. Based on lightkurve library.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

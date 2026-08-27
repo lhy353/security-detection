@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:gmail-skill",
+  "slug": "gmail-skill",
+  "name": "gmail-skill",
+  "title": "gmail-skill",
+  "description": "Manage Gmail - send, read, search emails, manage labels and drafts. Use when user wants to interact with their Gmail account for email operations.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

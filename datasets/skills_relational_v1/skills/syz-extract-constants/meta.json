@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:syz-extract-constants",
+  "slug": "syz-extract-constants",
+  "name": "syz-extract-constants",
+  "title": "syz-extract-constants",
+  "description": "Defining and extracting kernel constants for syzkaller syzlang descriptions",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

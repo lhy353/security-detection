@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:power-flow-data",
+  "slug": "power-flow-data",
+  "name": "power-flow-data",
+  "title": "power-flow-data",
+  "description": "Power system network data formats and topology. Use when parsing bus, generator, and branch data for power flow analysis.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

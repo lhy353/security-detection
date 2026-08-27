@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:dialogue_graph",
+  "slug": "dialogue_graph",
+  "name": "dialogue-graph",
+  "title": "dialogue-graph",
+  "description": "A library for building, validating, visualizing, and serializing dialogue graphs. Use this when parsing scripts or creating branching narrative structures.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

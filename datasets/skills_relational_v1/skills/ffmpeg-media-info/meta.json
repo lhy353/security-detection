@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:ffmpeg-media-info",
+  "slug": "ffmpeg-media-info",
+  "name": "FFmpeg Media Info",
+  "title": "FFmpeg Media Info",
+  "description": "Analyze media file properties - duration, resolution, bitrate, codecs, and stream information",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

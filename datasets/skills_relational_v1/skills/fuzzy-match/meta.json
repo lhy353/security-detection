@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:fuzzy-match",
+  "slug": "fuzzy-match",
+  "name": "fuzzy-match",
+  "title": "fuzzy-match",
+  "description": "A toolkit for fuzzy string matching and data reconciliation. Useful for matching entity names (companies, people) across different datasets where spelling variations, typos, or formatting differences exist.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

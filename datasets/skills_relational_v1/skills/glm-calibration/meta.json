@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:glm-calibration",
+  "slug": "glm-calibration",
+  "name": "glm-calibration",
+  "title": "glm-calibration",
+  "description": "Calibrate GLM parameters for water temperature simulation. Use when you need to adjust model parameters to minimize RMSE between simulated and observed temperatures.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

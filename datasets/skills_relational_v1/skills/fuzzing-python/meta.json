@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:fuzzing-python",
+  "slug": "fuzzing-python",
+  "name": "fuzzing-python",
+  "title": "fuzzing-python",
+  "description": "Creating fuzz driver for Python libraries using LibFuzzer. This skill is useful when agent needs to work with creating fuzz drivers / fuzz targets for Python project and libraries.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

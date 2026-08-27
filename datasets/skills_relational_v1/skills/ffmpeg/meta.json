@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:ffmpeg",
+  "slug": "ffmpeg",
+  "name": "ffmpeg-keyframe-extraction",
+  "title": "ffmpeg-keyframe-extraction",
+  "description": "Extract key frames (I-frames) from video files using FFmpeg command line tool. Use this skill when the user needs to pull out keyframes, thumbnails, or important frames from MP4, MKV, AVI, or other video formats for analysis, previews, or processing.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

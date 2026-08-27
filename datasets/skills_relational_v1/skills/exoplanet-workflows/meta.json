@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:exoplanet-workflows",
+  "slug": "exoplanet-workflows",
+  "name": "exoplanet-workflows",
+  "title": "exoplanet-workflows",
+  "description": "General workflows and best practices for exoplanet detection and characterization from light curve data. Use when planning an exoplanet analysis pipeline, understanding when to use different methods, or troubleshooting detection issues.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

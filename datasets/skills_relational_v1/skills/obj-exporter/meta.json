@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:obj-exporter",
+  "slug": "obj-exporter",
+  "name": "obj-exporter",
+  "title": "obj-exporter",
+  "description": "Three.js OBJExporter utility for exporting 3D geometry to Wavefront OBJ format. Use when converting Three.js scenes, meshes, or geometries to OBJ files for use in other 3D software like Blender, Maya, or MeshLab.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:output-validation",
+  "slug": "output-validation",
+  "name": "output-validation",
+  "title": "output-validation",
+  "description": "Local self-check of instructions and mask outputs (format/range/consistency) without using GT.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

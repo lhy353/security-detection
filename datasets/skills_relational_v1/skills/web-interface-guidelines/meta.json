@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:web-interface-guidelines",
+  "slug": "web-interface-guidelines",
+  "name": "web-interface-guidelines",
+  "title": "web-interface-guidelines",
+  "description": "Vercel's comprehensive UI guidelines for building accessible, performant web interfaces. Use this skill when reviewing or building UI components for compliance with best practices around accessibility, performance, animations, and visual stability.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

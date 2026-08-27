@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:harbor",
+  "slug": "harbor",
+  "name": "harbor",
+  "title": "harbor",
+  "description": "Harbor framework for agent evaluation. Use when: (1) Running harbor commands (harbor run, harbor tasks check), (2) Creating/validating SkillsBench tasks, (3) Understanding task format or debugging failures.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

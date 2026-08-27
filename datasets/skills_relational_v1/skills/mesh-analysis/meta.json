@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:mesh-analysis",
+  "slug": "mesh-analysis",
+  "name": "mesh-analysis",
+  "title": "mesh-analysis",
+  "description": "Analyzes 3D mesh files (STL) to calculate geometric properties (volume, components) and extract attribute data. Use this skill to process noisy 3D scan data and filter debris.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

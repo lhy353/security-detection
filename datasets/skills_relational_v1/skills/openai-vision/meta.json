@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:openai-vision",
+  "slug": "openai-vision",
+  "name": "openai-vision",
+  "title": "openai-vision",
+  "description": "Analyze images and multi-frame sequences using OpenAI GPT vision models",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

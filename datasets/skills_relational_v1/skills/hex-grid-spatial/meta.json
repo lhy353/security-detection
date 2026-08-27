@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:hex-grid-spatial",
+  "slug": "hex-grid-spatial",
+  "name": "hex-grid-spatial",
+  "title": "hex-grid-spatial",
+  "description": "Hex grid spatial utilities for offset coordinate systems. Use when working with hexagonal grids, calculating distances, finding neighbors, or spatial queries on hex maps.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

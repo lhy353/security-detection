@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:video-frame-extraction",
+  "slug": "video-frame-extraction",
+  "name": "video-frame-extraction",
+  "title": "video-frame-extraction",
+  "description": "Extract frames from video files and save them as images using OpenCV",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

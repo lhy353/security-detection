@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:first-order-model-fitting",
+  "slug": "first-order-model-fitting",
+  "name": "first-order-model-fitting",
+  "title": "first-order-model-fitting",
+  "description": "Fit first-order dynamic models to experimental step response data and extract K (gain) and tau (time constant) parameters.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

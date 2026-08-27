@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:powerlifting",
+  "slug": "powerlifting",
+  "name": "powerlifting",
+  "title": "powerlifting",
+  "description": "Calculating powerlifting scores to determine the performance of lifters across different weight classes. ",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

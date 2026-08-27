@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:ffmpeg-video-filters",
+  "slug": "ffmpeg-video-filters",
+  "name": "FFmpeg Video Filters",
+  "title": "FFmpeg Video Filters",
+  "description": "Apply video filters - scale, crop, watermark, speed, blur, and visual effects",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

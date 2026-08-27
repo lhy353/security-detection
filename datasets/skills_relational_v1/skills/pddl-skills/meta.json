@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:pddl-skills",
+  "slug": "pddl-skills",
+  "name": "pddl-skills",
+  "title": "pddl-skills",
+  "description": "Automated Planning utilities for loading PDDL domains and problems, generating plans using classical planners, validating plans, and saving plan outputs. Supports standard PDDL parsing, plan synthesis, and correctness verification.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

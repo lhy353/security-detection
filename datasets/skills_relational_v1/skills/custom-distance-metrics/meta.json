@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:custom-distance-metrics",
+  "slug": "custom-distance-metrics",
+  "name": "custom-distance-metrics",
+  "title": "custom-distance-metrics",
+  "description": "Define custom distance/similarity metrics for clustering and ML algorithms. Use when working with DBSCAN, sklearn, or scipy distance functions with application-specific metrics.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

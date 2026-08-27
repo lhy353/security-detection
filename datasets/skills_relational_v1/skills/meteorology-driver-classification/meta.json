@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:meteorology-driver-classification",
+  "slug": "meteorology-driver-classification",
+  "name": "meteorology-driver-classification",
+  "title": "meteorology-driver-classification",
+  "description": "Classify environmental and meteorological variables into driver categories for attribution analysis. Use when you need to group multiple variables into meaningful factor categories.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:voice-activity-detection",
+  "slug": "voice-activity-detection",
+  "name": "Voice Activity Detection (VAD)",
+  "title": "Voice Activity Detection (VAD)",
+  "description": "Detect speech segments in audio using VAD tools like Silero VAD, SpeechBrain VAD, or WebRTC VAD. Use when preprocessing audio for speaker diarization, filtering silence, or segmenting audio into speech chunks. Choose Silero VAD for short segments, SpeechBrain VAD for general purpose, or WebRTC VAD for lightweight applications.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:docs-to-skill",
+  "slug": "docs-to-skill",
+  "name": "auto-skill-generator",
+  "title": "auto-skill-generator",
+  "description": ">",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

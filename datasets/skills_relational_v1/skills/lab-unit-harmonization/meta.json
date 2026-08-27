@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:lab-unit-harmonization",
+  "slug": "lab-unit-harmonization",
+  "name": "lab-unit-harmonization",
+  "title": "lab-unit-harmonization",
+  "description": "Comprehensive clinical laboratory data harmonization for multi-source healthcare analytics. Convert between US conventional and SI units, standardize numeric formats, and clean data quality issues. This skill should be used when you need to harmonize lab values from different sources, convert units for clinical analysis, fix formatting inconsistencies (scientific notation, decimal separators, whitespace), or prepare lab panels for research.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:pcap-triage-tshark",
+  "slug": "pcap-triage-tshark",
+  "name": "pcap-triage-tshark",
+  "title": "pcap-triage-tshark",
+  "description": "Fast workflow to inspect PCAPs and extract protocol-level details using tshark",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

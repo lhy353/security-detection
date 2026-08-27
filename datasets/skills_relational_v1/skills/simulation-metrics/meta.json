@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:simulation-metrics",
+  "slug": "simulation-metrics",
+  "name": "simulation-metrics",
+  "title": "simulation-metrics",
+  "description": "Use this skill when calculating control system performance metrics such as rise time, overshoot percentage, steady-state error, or settling time for evaluating simulation results.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

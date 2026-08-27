@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:multimodal-fusion",
+  "slug": "multimodal-fusion",
+  "name": "Multimodal Fusion for Speaker Diarization",
+  "title": "Multimodal Fusion for Speaker Diarization",
+  "description": "Combine visual features (face detection, lip movement analysis) with audio features to improve speaker diarization accuracy in video files. Use OpenCV for face detection and lip movement tracking, then fuse visual cues with audio-based speaker embeddings. Essential when processing video files with multiple visible speakers or when audio-only diarization needs visual validation.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

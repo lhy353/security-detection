@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:restclient-migration",
+  "slug": "restclient-migration",
+  "name": "restclient-migration",
+  "title": "restclient-migration",
+  "description": "Migrate RestTemplate to RestClient in Spring Boot 3.2+. Use when replacing deprecated RestTemplate with modern fluent API, updating HTTP client code, or configuring RestClient beans. Covers GET/POST/DELETE migrations, error handling, and ParameterizedTypeReference usage.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:timeseries-detrending",
+  "slug": "timeseries-detrending",
+  "name": "timeseries-detrending",
+  "title": "timeseries-detrending",
+  "description": "Tools and techniques for detrending time series data in macroeconomic analysis. Use when working with economic time series that need to be decomposed into trend and cyclical components. Covers HP filter, log transformations for growth series, and correlation analysis of business cycles.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:search-attractions",
+  "slug": "search-attractions",
+  "name": "search-attractions",
+  "title": "search-attractions",
+  "description": "Retrieve attractions by city from the bundled dataset. Use this skill when surfacing points of interest or building sightseeing suggestions for a destination.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:openai-tts",
+  "slug": "openai-tts",
+  "name": "openai-tts",
+  "title": "openai-tts",
+  "description": "OpenAI Text-to-Speech API for high-quality speech synthesis. Use for generating natural-sounding audio from text with customizable voices and tones.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

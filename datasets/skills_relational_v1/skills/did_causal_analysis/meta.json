@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:did_causal_analysis",
+  "slug": "did_causal_analysis",
+  "name": "did_causal_analysis",
+  "title": "did_causal_analysis",
+  "description": "Difference-in-Differences causal analysis to identify demographic drivers of behavioral changes with p-value significance testing. Use for event effects, A/B testing, or policy evaluation.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

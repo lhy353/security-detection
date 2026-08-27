@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:jakarta-namespace",
+  "slug": "jakarta-namespace",
+  "name": "jakarta-namespace",
+  "title": "jakarta-namespace",
+  "description": "Migrate Java EE javax.* imports to Jakarta EE jakarta.* namespace. Use when upgrading to Spring Boot 3.x, migrating javax.persistence, javax.validation, javax.servlet imports, or fixing compilation errors after Jakarta EE transition. Covers package mappings, batch sed commands, and verification steps.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

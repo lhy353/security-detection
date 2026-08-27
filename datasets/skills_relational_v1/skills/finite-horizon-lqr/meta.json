@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:finite-horizon-lqr",
+  "slug": "finite-horizon-lqr",
+  "name": "finite-horizon-lqr",
+  "title": "finite-horizon-lqr",
+  "description": "Solving finite-horizon LQR via dynamic programming for MPC.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

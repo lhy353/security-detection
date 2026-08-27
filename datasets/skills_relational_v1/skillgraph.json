@@ -1,0 +1,2023 @@
+{
+  "name": "skills_relational_v1",
+  "source": "SkillDAG",
+  "scale": "skills_200",
+  "n_nodes": 200,
+  "n_edges": 86,
+  "edge_types": [
+    "similar_to",
+    "specializes"
+  ],
+  "nodes": {
+    "-21risk-automation": {
+      "description": "Automate 21risk tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "name": "-21risk-automation",
+      "path": "data/skillsets/skills_200/-21risk-automation",
+      "status": "active",
+      "tags": []
+    },
+    "-2chat-automation": {
+      "description": "Automate 2chat tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "name": "-2chat-automation",
+      "path": "data/skillsets/skills_200/-2chat-automation",
+      "status": "active",
+      "tags": []
+    },
+    "13f-analyzer": {
+      "description": "Perform various data analysis on SEC 13-F and obtain some insights of fund activities such as number of holdings, AUM, and change of holdings between two quarters.",
+      "name": "13f-analyzer",
+      "path": "data/skillsets/skills_200/13f-analyzer",
+      "status": "active",
+      "tags": []
+    },
+    "ably-automation": {
+      "description": "Automate Ably tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "name": "ably-automation",
+      "path": "data/skillsets/skills_200/ably-automation",
+      "status": "active",
+      "tags": []
+    },
+    "abstract-automation": {
+      "description": "Automate Abstract tasks via Rube MCP (Composio). Always search tools first for current schemas.",
+      "name": "abstract-automation",
+      "path": "data/skillsets/skills_200/abstract-automation",
+      "status": "active",
+      "tags": []
+    },
+    "ac-branch-pi-model": {
+      "description": "AC branch pi-model power flow equations (P/Q and |S|) with transformer tap ratio and phase shift, matching `acopf-math-model.md` and MATPOWER branch fields. Use when computing branch flows in either direction, aggregating bus injections for nodal balance, checking MVA (rateA) limits, computing branch loading %, or debugging sign/units issues in AC power flow.",
+      "name": "ac-branch-pi-model",
+      "path": "data/skillsets/skills_200/ac-branch-pi-model",
+      "status": "active",
+      "tags": []
+    },
+    "academic-pdf-redaction": {
+      "description": "Redact text from PDF documents for blind review anonymization",
+      "name": "academic-pdf-redaction",
+      "path": "data/skillsets/skills_200/academic-pdf-redaction",
+      "status": "active",
+      "tags": []
+    },
+    "analyze-ci": {
+      "description": "Analyze failed GitHub Action jobs for a pull request.",
+      "name": "analyze-ci",
+      "path": "data/skillsets/skills_200/analyze-ci",
+      "status": "active",
+      "tags": []
+    },
+    "artifact-evaluation": {
+      "description": "Interact with artifact containers via HTTP API for paper evaluation tasks. Execute commands, read files, and list directories in remote artifact environments.",
+      "name": "artifact-evaluation",
+      "path": "data/skillsets/skills_200/artifact-evaluation",
+      "status": "active",
+      "tags": []
+    },
+    "audio-extractor": {
+      "description": "Extract audio from video files to WAV format. Use when you need to analyze audio from video, prepare audio for energy calculation, or convert video audio to standard format for processing.",
+      "name": "audio-extractor",
+      "path": "data/skillsets/skills_200/audio-extractor",
+      "status": "active",
+      "tags": []
+    },
+    "audiobook": {
+      "description": "Create audiobooks from web content or text files. Handles content fetching, text processing, and TTS conversion with automatic fallback between ElevenLabs, OpenAI TTS, and gTTS.",
+      "name": "audiobook",
+      "path": "data/skillsets/skills_200/audiobook",
+      "status": "active",
+      "tags": []
+    },
+    "automatic-speech-recognition": {
+      "description": "Transcribe audio segments to text using Whisper models. Use larger models (small, base, medium, large-v3) for better accuracy, or faster-whisper for optimized performance. Always align transcription timestamps with diarization segments for accurate speaker-labeled subtitles.",
+      "name": "Automatic Speech Recognition (ASR)",
+      "path": "data/skillsets/skills_200/automatic-speech-recognition",
+      "status": "active",
+      "tags": []
+    },
+    "azure-bgp": {
+      "description": "Analyze and resolve BGP oscillation and BGP route leaks in Azure Virtual WAN–style hub-and-spoke topologies (and similar cloud-managed BGP environments). Detect preference cycles, identify valley-free violations, and propose allowed policy-level mitigations while rejecting prohibited fixes.",
+      "name": "azure-bgp",
+      "path": "data/skillsets/skills_200/azure-bgp",
+      "status": "active",
+      "tags": []
+    },
+    "badge-evaluation": {
+      "description": "Evaluate research artifacts against NDSS badge criteria (Available, Functional, Reproduced) by checking DOI, documentation, exercisability, and reproducibility requirements.",
+      "name": "badge-evaluation",
+      "path": "data/skillsets/skills_200/badge-evaluation",
+      "status": "active",
+      "tags": []
+    },
+    "box-least-squares": {
+      "description": "Box Least Squares (BLS) periodogram for detecting transiting exoplanets and eclipsing binaries. Use when searching for periodic box-shaped dips in light curves. Alternative to Transit Least Squares, available in astropy.timeseries. Based on Kovács et al. (2002).",
+      "name": "box-least-squares",
+      "path": "data/skillsets/skills_200/box-least-squares",
+      "status": "active",
+      "tags": []
+    },
+    "browser-testing": {
+      "description": "VERIFY your changes work. Measure performance, CLS. Use BEFORE and AFTER making changes to confirm fixes. Includes ready-to-run scripts: measure-cls.ts, detect-flicker.ts",
+      "name": "browser-testing",
+      "path": "data/skillsets/skills_200/browser-testing",
+      "status": "active",
+      "tags": []
+    },
+    "casadi-ipopt-nlp": {
+      "description": "Nonlinear optimization with CasADi and IPOPT solver. Use when building and solving NLP problems: defining symbolic variables, adding nonlinear constraints, setting solver options, handling multiple initializations, and extracting solutions. Covers power systems optimization patterns including per-unit scaling and complex number formulations.",
+      "name": "casadi-ipopt-nlp",
+      "path": "data/skillsets/skills_200/casadi-ipopt-nlp",
+      "status": "active",
+      "tags": []
+    },
+    "citation-management": {
+      "description": "Comprehensive citation management for academic research. Search Google Scholar and PubMed for papers, extract accurate metadata, validate citations, and generate properly formatted BibTeX entries. This skill should be used when you need to find papers, verify citation information, convert DOIs to BibTeX, or ensure reference accuracy in scientific writing.",
+      "name": "citation-management",
+      "path": "data/skillsets/skills_200/citation-management",
+      "status": "active",
+      "tags": []
+    },
+    "civ6lib": {
+      "description": "Civilization 6 district mechanics library. Use when working with district placement validation, adjacency bonus calculations, or understanding Civ6 game rules.",
+      "name": "civ6lib",
+      "path": "data/skillsets/skills_200/civ6lib",
+      "status": "active",
+      "tags": []
+    },
+    "conditioning": {
+      "description": "Data conditioning techniques for gravitational wave detector data. Use when preprocessing raw detector strain data before matched filtering, including high-pass filtering, resampling, removing filter wraparound artifacts, and estimating power spectral density (PSD). Works with PyCBC TimeSeries data.",
+      "name": "conditioning",
+      "path": "data/skillsets/skills_200/conditioning",
+      "status": "active",
+      "tags": []
+    },
+    "constraint-parser": {
+      "description": "Parse scheduling constraints from a email text.",
+      "name": "constraint-parser",
+      "path": "data/skillsets/skills_200/constraint-parser",
+      "status": "active",
+      "tags": []
+    },
+    "contribution-analysis": {
+      "description": "Calculate the relative contribution of different factors to a response variable using R² decomposition. Use when you need to quantify how much each factor explains the variance of an outcome.",
+      "name": "contribution-analysis",
+      "path": "data/skillsets/skills_200/contribution-analysis",
+      "status": "active",
+      "tags": []
+    },
+    "csv-processing": {
+      "description": "Use this skill when reading sensor data from CSV files, writing simulation results to CSV, processing time-series data with pandas, or handling missing values in datasets.",
+      "name": "csv-processing",
+      "path": "data/skillsets/skills_200/csv-processing",
+      "status": "active",
+      "tags": []
+    },
+    "custom-distance-metrics": {
+      "description": "Define custom distance/similarity metrics for clustering and ML algorithms. Use when working with DBSCAN, sklearn, or scipy distance functions with application-specific metrics.",
+      "name": "custom-distance-metrics",
+      "path": "data/skillsets/skills_200/custom-distance-metrics",
+      "status": "active",
+      "tags": []
+    },
+    "cvss-score-extraction": {
+      "description": "Extract CVSS (Common Vulnerability Scoring System) scores from vulnerability data sources with proper fallback handling. This skill covers understanding CVSS v3, handling multiple score sources (NVD, GHSA, RedHat), implementing source priority logic, and dealing with missing scores in security reporting.",
+      "name": "cvss-score-extraction",
+      "path": "data/skillsets/skills_200/cvss-score-extraction",
+      "status": "active",
+      "tags": []
+    },
+    "d3-visualization": {
+      "description": "Build deterministic, verifiable data visualizations with D3.js (v6). Generate standalone HTML/SVG (and optional PNG) from local data files without external network dependencies. Use when tasks require charts, plots, axes/scales, legends, tooltips, or data-driven SVG output.",
+      "name": "d3js-visualization",
+      "path": "data/skillsets/skills_200/d3-visualization",
+      "status": "active",
+      "tags": []
+    },
+    "data-reconciliation": {
+      "description": "Recover missing spreadsheet values using row or column constraints, percentage shares, growth formulas, and cross-sheet consistency checks.",
+      "name": "data-reconciliation",
+      "path": "data/skillsets/skills_200/data-reconciliation",
+      "status": "active",
+      "tags": []
+    },
+    "data_cleaning": {
+      "description": "Clean messy tabular datasets with deduplication, missing value imputation, outlier handling, and text processing. Use when dealing with dirty data that has duplicates, nulls, or inconsistent formatting.",
+      "name": "data_cleaning",
+      "path": "data/skillsets/skills_200/data_cleaning",
+      "status": "active",
+      "tags": []
+    },
+    "dc-power-flow": {
+      "description": "DC power flow analysis for power systems. Use when computing power flows using DC approximation, building susceptance matrices, calculating line flows and loading percentages, or performing sensitivity analysis on transmission networks.",
+      "name": "dc-power-flow",
+      "path": "data/skillsets/skills_200/dc-power-flow",
+      "status": "active",
+      "tags": []
+    },
+    "dialogue_graph": {
+      "description": "A library for building, validating, visualizing, and serializing dialogue graphs. Use this when parsing scripts or creating branching narrative structures.",
+      "name": "dialogue-graph",
+      "path": "data/skillsets/skills_200/dialogue_graph",
+      "status": "active",
+      "tags": []
+    },
+    "did_causal_analysis": {
+      "description": "Difference-in-Differences causal analysis to identify demographic drivers of behavioral changes with p-value significance testing. Use for event effects, A/B testing, or policy evaluation.",
+      "name": "did_causal_analysis",
+      "path": "data/skillsets/skills_200/did_causal_analysis",
+      "status": "active",
+      "tags": []
+    },
+    "discover-important-function": {
+      "description": "When given a project codebase, this skill observes the important functions in the codebase for future action.",
+      "name": "discover-important-function",
+      "path": "data/skillsets/skills_200/discover-important-function",
+      "status": "active",
+      "tags": []
+    },
+    "docs-to-skill": {
+      "description": ">",
+      "name": "auto-skill-generator",
+      "path": "data/skillsets/skills_200/docs-to-skill",
+      "status": "active",
+      "tags": []
+    },
+    "docx": {
+      "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks",
+      "name": "docx",
+      "path": "data/skillsets/skills_200/docx",
+      "status": "active",
+      "tags": []
+    },
+    "dyn-object-masks": {
+      "description": "Generate dynamic-object binary masks after global motion compensation, output CSR sparse format.",
+      "name": "dyn-object-masks",
+      "path": "data/skillsets/skills_200/dyn-object-masks",
+      "status": "active",
+      "tags": []
+    },
+    "economic-dispatch": {
+      "description": "Generator economic dispatch and cost optimization for power systems. Use when minimizing generation costs, computing optimal generator setpoints, calculating operating margins, or working with generator cost functions.",
+      "name": "economic-dispatch",
+      "path": "data/skillsets/skills_200/economic-dispatch",
+      "status": "active",
+      "tags": []
+    },
+    "egomotion-estimation": {
+      "description": "Estimate camera motion with optical flow + affine/homography, allow multi-label per frame.",
+      "name": "egomotion-estimation",
+      "path": "data/skillsets/skills_200/egomotion-estimation",
+      "status": "active",
+      "tags": []
+    },
+    "elevenlabs-tts": {
+      "description": "ElevenLabs Text-to-Speech API for high-quality speech synthesis.",
+      "name": "elevenlabs-tts",
+      "path": "data/skillsets/skills_200/elevenlabs-tts",
+      "status": "active",
+      "tags": []
+    },
+    "energy-calculator": {
+      "description": "Calculate per-second RMS energy from audio files. Use when you need to analyze audio volume patterns, prepare data for silence/pause detection, or create an energy profile for audio analysis tasks.",
+      "name": "energy-calculator",
+      "path": "data/skillsets/skills_200/energy-calculator",
+      "status": "active",
+      "tags": []
+    },
+    "enterprise-artifact-search": {
+      "description": "Multi-hop evidence search + structured extraction over enterprise artifact datasets (docs/chats/meetings/PRs/URLs). Strong disambiguation to prevent cross-product leakage; returns JSON-ready entities plus evidence pointers.",
+      "name": "enterprise-artifact-search",
+      "path": "data/skillsets/skills_200/enterprise-artifact-search",
+      "status": "active",
+      "tags": []
+    },
+    "erlang-concurrency": {
+      "description": "Use when erlang's concurrency model including lightweight processes, message passing, process links and monitors, error handling patterns, selective receive, and building massively concurrent systems on the BEAM VM.",
+      "name": "erlang-concurrency",
+      "path": "data/skillsets/skills_200/erlang-concurrency",
+      "status": "active",
+      "tags": []
+    },
+    "erlang-distribution": {
+      "description": "Use when erlang distributed systems including node connectivity, distributed processes, global name registration, distributed supervision, network partitions, and building fault-tolerant multi-node applications on the BEAM VM.",
+      "name": "erlang-distribution",
+      "path": "data/skillsets/skills_200/erlang-distribution",
+      "status": "active",
+      "tags": []
+    },
+    "erlang-otp-behaviors": {
+      "description": "Use when oTP behaviors including gen_server for stateful processes, gen_statem for state machines, supervisors for fault tolerance, gen_event for event handling, and building robust, production-ready Erlang applications with proven patterns.",
+      "name": "erlang-otp-behaviors",
+      "path": "data/skillsets/skills_200/erlang-otp-behaviors",
+      "status": "active",
+      "tags": []
+    },
+    "excitation-signal-design": {
+      "description": "Design effective excitation signals (step tests) for system identification and parameter estimation in control systems.",
+      "name": "excitation-signal-design",
+      "path": "data/skillsets/skills_200/excitation-signal-design",
+      "status": "active",
+      "tags": []
+    },
+    "exoplanet-workflows": {
+      "description": "General workflows and best practices for exoplanet detection and characterization from light curve data. Use when planning an exoplanet analysis pipeline, understanding when to use different methods, or troubleshooting detection issues.",
+      "name": "exoplanet-workflows",
+      "path": "data/skillsets/skills_200/exoplanet-workflows",
+      "status": "active",
+      "tags": []
+    },
+    "feature_engineering": {
+      "description": "Engineer dataset features before ML or Causal Inference. Methods include encoding categorical variables, scaling numerics, creating interactions, and selecting relevant features.",
+      "name": "feature_engineering",
+      "path": "data/skillsets/skills_200/feature_engineering",
+      "status": "active",
+      "tags": []
+    },
+    "ffmpeg": {
+      "description": "Extract key frames (I-frames) from video files using FFmpeg command line tool. Use this skill when the user needs to pull out keyframes, thumbnails, or important frames from MP4, MKV, AVI, or other video formats for analysis, previews, or processing.",
+      "name": "ffmpeg-keyframe-extraction",
+      "path": "data/skillsets/skills_200/ffmpeg",
+      "status": "active",
+      "tags": []
+    },
+    "ffmpeg-audio-processing": {
+      "description": "Extract, normalize, mix, and process audio tracks - audio manipulation and analysis",
+      "name": "FFmpeg Audio Processing",
+      "path": "data/skillsets/skills_200/ffmpeg-audio-processing",
+      "status": "active",
+      "tags": []
+    },
+    "ffmpeg-format-conversion": {
+      "description": "Convert media files between formats - video containers, audio formats, and codec transcoding",
+      "name": "FFmpeg Format Conversion",
+      "path": "data/skillsets/skills_200/ffmpeg-format-conversion",
+      "status": "active",
+      "tags": []
+    },
+    "ffmpeg-media-info": {
+      "description": "Analyze media file properties - duration, resolution, bitrate, codecs, and stream information",
+      "name": "FFmpeg Media Info",
+      "path": "data/skillsets/skills_200/ffmpeg-media-info",
+      "status": "active",
+      "tags": []
+    },
+    "ffmpeg-video-editing": {
+      "description": "Video editing with ffmpeg including cutting, trimming, concatenating segments, and re-encoding. Use when working with video files (.mp4, .mkv, .avi) for: removing segments, joining clips, extracting portions, or any video manipulation task.",
+      "name": "ffmpeg-video-editing",
+      "path": "data/skillsets/skills_200/ffmpeg-video-editing",
+      "status": "active",
+      "tags": []
+    },
+    "ffmpeg-video-filters": {
+      "description": "Apply video filters - scale, crop, watermark, speed, blur, and visual effects",
+      "name": "FFmpeg Video Filters",
+      "path": "data/skillsets/skills_200/ffmpeg-video-filters",
+      "status": "active",
+      "tags": []
+    },
+    "file-organizer": {
+      "description": "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.",
+      "name": "file-organizer",
+      "path": "data/skillsets/skills_200/file-organizer",
+      "status": "active",
+      "tags": []
+    },
+    "filler-word-processing": {
+      "description": "Process filler word annotations to generate video edit lists. Use when working with timestamp annotations for removing speech disfluencies (um, uh, like, you know) from audio/video content.",
+      "name": "filler-word-processing",
+      "path": "data/skillsets/skills_200/filler-word-processing",
+      "status": "active",
+      "tags": []
+    },
+    "find-bugs": {
+      "description": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.",
+      "name": "find-bugs",
+      "path": "data/skillsets/skills_200/find-bugs",
+      "status": "active",
+      "tags": []
+    },
+    "finite-horizon-lqr": {
+      "description": "Solving finite-horizon LQR via dynamic programming for MPC.",
+      "name": "finite-horizon-lqr",
+      "path": "data/skillsets/skills_200/finite-horizon-lqr",
+      "status": "active",
+      "tags": []
+    },
+    "first-order-model-fitting": {
+      "description": "Fit first-order dynamic models to experimental step response data and extract K (gain) and tau (time constant) parameters.",
+      "name": "first-order-model-fitting",
+      "path": "data/skillsets/skills_200/first-order-model-fitting",
+      "status": "active",
+      "tags": []
+    },
+    "fjsp-baseline-repair-with-downtime-and-policy": {
+      "description": "This skill should be considered when you need to repair an infeasible or non-optimal flexible job scheduling planning schedule into a downtime-feasible, precedence-feasible one while keep no worse policy budget.",
+      "name": "fjsp-baseline-repair-with-downtime-and-policy",
+      "path": "data/skillsets/skills_200/fjsp-baseline-repair-with-downtime-and-policy",
+      "status": "active",
+      "tags": []
+    },
+    "flood-detection": {
+      "description": "Detect flood events by comparing water levels to thresholds. Use when determining if flooding occurred, counting flood days, aggregating instantaneous data to daily values, or classifying flood severity.",
+      "name": "flood-detection",
+      "path": "data/skillsets/skills_200/flood-detection",
+      "status": "active",
+      "tags": []
+    },
+    "fuzzing-python": {
+      "description": "Creating fuzz driver for Python libraries using LibFuzzer. This skill is useful when agent needs to work with creating fuzz drivers / fuzz targets for Python project and libraries.",
+      "name": "fuzzing-python",
+      "path": "data/skillsets/skills_200/fuzzing-python",
+      "status": "active",
+      "tags": []
+    },
+    "fuzzy-match": {
+      "description": "A toolkit for fuzzy string matching and data reconciliation. Useful for matching entity names (companies, people) across different datasets where spelling variations, typos, or formatting differences exist.",
+      "name": "fuzzy-match",
+      "path": "data/skillsets/skills_200/fuzzy-match",
+      "status": "active",
+      "tags": []
+    },
+    "fuzzy-name-search": {
+      "description": "This skill includes search capability in 13F, such as fuzzy search a fund information using possibly inaccurate name, or fuzzy search a stock cusip info using its name.",
+      "name": "fuzzy-name-search",
+      "path": "data/skillsets/skills_200/fuzzy-name-search",
+      "status": "active",
+      "tags": []
+    },
+    "gamma-phase-associator": {
+      "description": "An overview of the python package for running the GaMMA earthquake phase association algorithm. The algorithm expects phase picks data and station data as input and produces (through unsupervised clustering) earthquake events with source information like earthquake location, origin time and magnitude. The skill explains commonly used functions and the expected input/output format.",
+      "name": "gamma-phase-associator",
+      "path": "data/skillsets/skills_200/gamma-phase-associator",
+      "status": "active",
+      "tags": []
+    },
+    "gemini-count-in-video": {
+      "description": "Analyze and count objects in videos using Google Gemini API (object counting, pedestrian detection, vehicle tracking, and surveillance video analysis).",
+      "name": "gemini-count-in-video",
+      "path": "data/skillsets/skills_200/gemini-count-in-video",
+      "status": "active",
+      "tags": []
+    },
+    "gemini-video-understanding": {
+      "description": "Analyze videos with Google Gemini API (summaries, Q&A, transcription with timestamps + visual context, scene/timeline detection, video clipping, FPS control, multi-video comparison, and YouTube URL analysis).",
+      "name": "gemini-video-understanding",
+      "path": "data/skillsets/skills_200/gemini-video-understanding",
+      "status": "active",
+      "tags": []
+    },
+    "geospatial-analysis": {
+      "description": "Analyze geospatial data using geopandas with proper coordinate projections. Use when calculating distances between geographic features, performing spatial filtering, or working with plate boundaries and earthquake data.",
+      "name": "geospatial-analysis",
+      "path": "data/skillsets/skills_200/geospatial-analysis",
+      "status": "active",
+      "tags": []
+    },
+    "gh-cli": {
+      "description": "The gh CLI is GitHub's official command line tool for interacting with GitHub repositories, issues, pull requests, and more. When needs to interact with GitHub repositories, issues, pull requests, and more, use this skill.",
+      "name": "gh-cli",
+      "path": "data/skillsets/skills_200/gh-cli",
+      "status": "active",
+      "tags": []
+    },
+    "glm-basics": {
+      "description": "Basic usage of the General Lake Model (GLM) for lake temperature simulation. Use when you need to run GLM, understand input files, or modify configuration parameters.",
+      "name": "glm-basics",
+      "path": "data/skillsets/skills_200/glm-basics",
+      "status": "active",
+      "tags": []
+    },
+    "glm-calibration": {
+      "description": "Calibrate GLM parameters for water temperature simulation. Use when you need to adjust model parameters to minimize RMSE between simulated and observed temperatures.",
+      "name": "glm-calibration",
+      "path": "data/skillsets/skills_200/glm-calibration",
+      "status": "active",
+      "tags": []
+    },
+    "glm-output": {
+      "description": "Read and process GLM output files. Use when you need to extract temperature data from NetCDF output, convert depth coordinates, or calculate RMSE against observations.",
+      "name": "glm-output",
+      "path": "data/skillsets/skills_200/glm-output",
+      "status": "active",
+      "tags": []
+    },
+    "gmail-skill": {
+      "description": "Manage Gmail - send, read, search emails, manage labels and drafts. Use when user wants to interact with their Gmail account for email operations.",
+      "name": "gmail-skill",
+      "path": "data/skillsets/skills_200/gmail-skill",
+      "status": "active",
+      "tags": []
+    },
+    "gpt-multimodal": {
+      "description": "Analyze images and multi-frame sequences using OpenAI GPT series",
+      "name": "gpt-multimodal",
+      "path": "data/skillsets/skills_200/gpt-multimodal",
+      "status": "active",
+      "tags": []
+    },
+    "gtts": {
+      "description": "Google Text-to-Speech (gTTS) for converting text to audio. Use when creating audiobooks, podcasts, or speech synthesis from text. Handles long text by chunking at sentence boundaries and concatenating audio segments with pydub.",
+      "name": "gtts",
+      "path": "data/skillsets/skills_200/gtts",
+      "status": "active",
+      "tags": []
+    },
+    "harbor": {
+      "description": "Harbor framework for agent evaluation. Use when: (1) Running harbor commands (harbor run, harbor tasks check), (2) Creating/validating SkillsBench tasks, (3) Understanding task format or debugging failures.",
+      "name": "harbor",
+      "path": "data/skillsets/skills_200/harbor",
+      "status": "active",
+      "tags": []
+    },
+    "hex-grid-spatial": {
+      "description": "Hex grid spatial utilities for offset coordinate systems. Use when working with hexagonal grids, calculating distances, finding neighbors, or spatial queries on hex maps.",
+      "name": "hex-grid-spatial",
+      "path": "data/skillsets/skills_200/hex-grid-spatial",
+      "status": "active",
+      "tags": []
+    },
+    "hibernate-upgrade": {
+      "description": "Migrate Hibernate 5 to Hibernate 6 with Spring Boot 3. Use when fixing HQL/JPQL query parsing issues, removing deprecated Criteria API, updating ID generation strategies, or diagnosing N+1 query behavior changes. Covers breaking changes, type mappings, and performance monitoring.",
+      "name": "hibernate-upgrade",
+      "path": "data/skillsets/skills_200/hibernate-upgrade",
+      "status": "active",
+      "tags": []
+    },
+    "hierarchical-taxonomy-clustering": {
+      "description": "Build unified multi-level category taxonomy from hierarchical product category paths from any e-commerce companies using embedding-based recursive clustering with intelligent category naming via weighted word frequency analysis.",
+      "name": "hierarchical-taxonomy-clustering",
+      "path": "data/skillsets/skills_200/hierarchical-taxonomy-clustering",
+      "status": "active",
+      "tags": []
+    },
+    "image-ocr": {
+      "description": "Extract text content from images using Tesseract OCR via Python",
+      "name": "image-ocr",
+      "path": "data/skillsets/skills_200/image-ocr",
+      "status": "active",
+      "tags": []
+    },
+    "image_editing": {
+      "description": "Comprehensive command-line tools for modifying and manipulating images, such as resize, blur, crop, flip, and many more.",
+      "name": "image_editing",
+      "path": "data/skillsets/skills_200/image_editing",
+      "status": "active",
+      "tags": []
+    },
+    "imc-tuning-rules": {
+      "description": "Calculate PI/PID controller gains using Internal Model Control (IMC) tuning rules for first-order systems.",
+      "name": "imc-tuning-rules",
+      "path": "data/skillsets/skills_200/imc-tuning-rules",
+      "status": "active",
+      "tags": []
+    },
+    "integral-action-design": {
+      "description": "Adding integral action to MPC for offset-free tension tracking.",
+      "name": "integral-action-design",
+      "path": "data/skillsets/skills_200/integral-action-design",
+      "status": "active",
+      "tags": []
+    },
+    "jackson-security": {
+      "description": "Security considerations for Jackson JSON deserialization in Java applications. Covers timing of validation, raw input interception, and common deserialization attack patterns.",
+      "name": "jackson-security",
+      "path": "data/skillsets/skills_200/jackson-security",
+      "status": "active",
+      "tags": []
+    },
+    "jakarta-namespace": {
+      "description": "Migrate Java EE javax.* imports to Jakarta EE jakarta.* namespace. Use when upgrading to Spring Boot 3.x, migrating javax.persistence, javax.validation, javax.servlet imports, or fixing compilation errors after Jakarta EE transition. Covers package mappings, batch sed commands, and verification steps.",
+      "name": "jakarta-namespace",
+      "path": "data/skillsets/skills_200/jakarta-namespace",
+      "status": "active",
+      "tags": []
+    },
+    "jax-skills": {
+      "description": "High-performance numerical computing and machine learning workflows using JAX. Supports array operations, automatic differentiation, JIT compilation, RNN-style scans, map/reduce operations, and gradient computations. Ideal for scientific computing, ML models, and dynamic array transformations.",
+      "name": "jax-skills",
+      "path": "data/skillsets/skills_200/jax-skills",
+      "status": "active",
+      "tags": []
+    },
+    "lab-unit-harmonization": {
+      "description": "Comprehensive clinical laboratory data harmonization for multi-source healthcare analytics. Convert between US conventional and SI units, standardize numeric formats, and clean data quality issues. This skill should be used when you need to harmonize lab values from different sources, convert units for clinical analysis, fix formatting inconsistencies (scientific notation, decimal separators, whitespace), or prepare lab panels for research.",
+      "name": "lab-unit-harmonization",
+      "path": "data/skillsets/skills_200/lab-unit-harmonization",
+      "status": "active",
+      "tags": []
+    },
+    "lean4-memories": {
+      "description": "This skill should be used when working on Lean 4 formalization projects to maintain persistent memory of successful proof patterns, failed approaches, project conventions, and user preferences across sessions using MCP memory server integration",
+      "name": "lean4-memories",
+      "path": "data/skillsets/skills_200/lean4-memories",
+      "status": "active",
+      "tags": []
+    },
+    "lean4-theorem-proving": {
+      "description": "Use when working with Lean 4 (.lean files), writing mathematical proofs, seeing \"failed to synthesize instance\" errors, managing sorry/axiom elimination, or searching mathlib for lemmas - provides build-first workflow, haveI/letI patterns, compiler-guided repair, and LSP integration",
+      "name": "lean4-theorem-proving",
+      "path": "data/skillsets/skills_200/lean4-theorem-proving",
+      "status": "active",
+      "tags": []
+    },
+    "light-curve-preprocessing": {
+      "description": "Preprocessing and cleaning techniques for astronomical light curves. Use when preparing light curve data for period analysis, including outlier removal, trend removal, flattening, and handling data quality flags. Works with lightkurve and general time series data.",
+      "name": "light-curve-preprocessing",
+      "path": "data/skillsets/skills_200/light-curve-preprocessing",
+      "status": "active",
+      "tags": []
+    },
+    "locational-marginal-prices": {
+      "description": "Extract locational marginal prices (LMPs) from DC-OPF solutions using dual values. Use when computing nodal electricity prices, reserve clearing prices, or performing price impact analysis.",
+      "name": "locational-marginal-prices",
+      "path": "data/skillsets/skills_200/locational-marginal-prices",
+      "status": "active",
+      "tags": []
+    },
+    "lomb-scargle-periodogram": {
+      "description": "Lomb-Scargle periodogram for finding periodic signals in unevenly sampled time series data. Use when analyzing light curves, radial velocity data, or any astronomical time series to detect periodic variations. Works for stellar rotation, pulsation, eclipsing binaries, and general periodic phenomena. Based on lightkurve library.",
+      "name": "lomb-scargle-periodogram",
+      "path": "data/skillsets/skills_200/lomb-scargle-periodogram",
+      "status": "active",
+      "tags": []
+    },
+    "manufacturing-failure-reason-codebook-normalization": {
+      "description": "This skill should be considered when you need to normalize testing engineers' written defect reasons following the provided product codebooks. This skill will correct the typos, misused abbreviations, ambiguous descriptions, mixed Chinese-English text or misleading text and provide explanations. This skill will do segmentation, semantic matching, confidence calibration and station validation.",
+      "name": "manufacturing-failure-reason-codebook-normalization",
+      "path": "data/skillsets/skills_200/manufacturing-failure-reason-codebook-normalization",
+      "status": "active",
+      "tags": []
+    },
+    "map-optimization-strategy": {
+      "description": "Strategy for solving constraint optimization problems on spatial maps. Use when you need to place items on a grid/map to maximize some objective while satisfying constraints.",
+      "name": "map-optimization-strategy",
+      "path": "data/skillsets/skills_200/map-optimization-strategy",
+      "status": "active",
+      "tags": []
+    },
+    "marker": {
+      "description": "Convert PDF documents to Markdown using marker_single. Use when Claude needs to extract text content from PDFs while preserving LaTeX formulas, equations, and document structure. Ideal for academic papers and technical documents containing mathematical notation.",
+      "name": "marker",
+      "path": "data/skillsets/skills_200/marker",
+      "status": "active",
+      "tags": []
+    },
+    "matched-filtering": {
+      "description": "Matched filtering techniques for gravitational wave detection. Use when searching for signals in detector data using template waveforms, including both time-domain and frequency-domain approaches. Works with PyCBC for generating templates and performing matched filtering.",
+      "name": "matched-filtering",
+      "path": "data/skillsets/skills_200/matched-filtering",
+      "status": "active",
+      "tags": []
+    },
+    "maven-build-lifecycle": {
+      "description": "Use when working with Maven build phases, goals, profiles, or customizing the build process for Java projects.",
+      "name": "maven-build-lifecycle",
+      "path": "data/skillsets/skills_200/maven-build-lifecycle",
+      "status": "active",
+      "tags": []
+    },
+    "maven-dependency-management": {
+      "description": "Use when managing Maven dependencies, resolving dependency conflicts, configuring BOMs, or optimizing dependency trees in Java projects.",
+      "name": "maven-dependency-management",
+      "path": "data/skillsets/skills_200/maven-dependency-management",
+      "status": "active",
+      "tags": []
+    },
+    "maven-plugin-configuration": {
+      "description": "Use when configuring Maven plugins, setting up common plugins like compiler, surefire, jar, or creating custom plugin executions.",
+      "name": "maven-plugin-configuration",
+      "path": "data/skillsets/skills_200/maven-plugin-configuration",
+      "status": "active",
+      "tags": []
+    },
+    "memory-optimization": {
+      "description": "Optimize Python code for reduced memory usage and improved memory efficiency. Use when asked to reduce memory footprint, fix memory leaks, optimize data structures for memory, handle large datasets efficiently, or diagnose memory issues. Covers object sizing, generator patterns, efficient data structures, and memory profiling strategies.",
+      "name": "memory-optimization",
+      "path": "data/skillsets/skills_200/memory-optimization",
+      "status": "active",
+      "tags": []
+    },
+    "mesh-analysis": {
+      "description": "Analyzes 3D mesh files (STL) to calculate geometric properties (volume, components) and extract attribute data. Use this skill to process noisy 3D scan data and filter debris.",
+      "name": "mesh-analysis",
+      "path": "data/skillsets/skills_200/mesh-analysis",
+      "status": "active",
+      "tags": []
+    },
+    "meteorology-driver-classification": {
+      "description": "Classify environmental and meteorological variables into driver categories for attribution analysis. Use when you need to group multiple variables into meaningful factor categories.",
+      "name": "meteorology-driver-classification",
+      "path": "data/skillsets/skills_200/meteorology-driver-classification",
+      "status": "active",
+      "tags": []
+    },
+    "mhc-algorithm": {
+      "description": "Implement mHC (Manifold-Constrained Hyper-Connections) for stabilizing deep network training. Use when implementing residual connection improvements with doubly stochastic matrices via Sinkhorn-Knopp algorithm. Based on DeepSeek's 2025 paper (arXiv:2512.24880).",
+      "name": "mhc-algorithm",
+      "path": "data/skillsets/skills_200/mhc-algorithm",
+      "status": "active",
+      "tags": []
+    },
+    "modal-gpu": {
+      "description": "Run Python code on cloud GPUs using Modal serverless platform. Use when you need A100/T4/A10G GPU access for training ML models. Covers Modal app setup, GPU selection, data downloading inside functions, and result handling.",
+      "name": "modal-gpu",
+      "path": "data/skillsets/skills_200/modal-gpu",
+      "status": "active",
+      "tags": []
+    },
+    "mpc-horizon-tuning": {
+      "description": "Selecting MPC prediction horizon and cost matrices for web handling.",
+      "name": "mpc-horizon-tuning",
+      "path": "data/skillsets/skills_200/mpc-horizon-tuning",
+      "status": "active",
+      "tags": []
+    },
+    "multimodal-fusion": {
+      "description": "Combine visual features (face detection, lip movement analysis) with audio features to improve speaker diarization accuracy in video files. Use OpenCV for face detection and lip movement tracking, then fuse visual cues with audio-based speaker embeddings. Essential when processing video files with multiple visible speakers or when audio-only diarization needs visual validation.",
+      "name": "Multimodal Fusion for Speaker Diarization",
+      "path": "data/skillsets/skills_200/multimodal-fusion",
+      "status": "active",
+      "tags": []
+    },
+    "nanogpt-training": {
+      "description": "Train GPT-2 scale models (~124M parameters) efficiently on a single GPU. Covers GPT-124M architecture, tokenized dataset loading (e.g., HuggingFace Hub shards), modern optimizers (Muon, AdamW), mixed precision training, and training loop implementation.",
+      "name": "nanogpt-training",
+      "path": "data/skillsets/skills_200/nanogpt-training",
+      "status": "active",
+      "tags": []
+    },
+    "nlp-research-repo-package-installment": {
+      "description": "Align Python version and repo-declared dependencies (requirements.txt / environment.yml) before installing packages for NLP research code reproduction.",
+      "name": "nlp-research-repo-package-installment",
+      "path": "data/skillsets/skills_200/nlp-research-repo-package-installment",
+      "status": "active",
+      "tags": []
+    },
+    "nws-flood-thresholds": {
+      "description": "Download flood stage thresholds from NWS (National Weather Service). Use when determining flood levels for USGS stations, accessing action/minor/moderate/major flood stages, or matching stations to their flood thresholds.",
+      "name": "nws-flood-thresholds",
+      "path": "data/skillsets/skills_200/nws-flood-thresholds",
+      "status": "active",
+      "tags": []
+    },
+    "obj-exporter": {
+      "description": "Three.js OBJExporter utility for exporting 3D geometry to Wavefront OBJ format. Use when converting Three.js scenes, meshes, or geometries to OBJ files for use in other 3D software like Blender, Maya, or MeshLab.",
+      "name": "obj-exporter",
+      "path": "data/skillsets/skills_200/obj-exporter",
+      "status": "active",
+      "tags": []
+    },
+    "object_counter": {
+      "description": "Count occurrences of an object in the image using computer vision algorithm.",
+      "name": "object_counter",
+      "path": "data/skillsets/skills_200/object_counter",
+      "status": "active",
+      "tags": []
+    },
+    "obspy-data-api": {
+      "description": "An overview of the core data API of ObsPy, a Python framework for processing seismological data. It is useful for parsing common seismological file formats, or manipulating custom data into standard objects for downstream use cases such as ObsPy's signal processing routines or SeisBench's modeling API.",
+      "name": "obspy-data-api",
+      "path": "data/skillsets/skills_200/obspy-data-api",
+      "status": "active",
+      "tags": []
+    },
+    "obspy-datacenter-client": {
+      "description": "ObsPy allows you to easily download earthquake data from various data centers/networks through its client API. This is an overview of available services and a demo of the client API for International Federation of Digital Seismograph Networks (FDSN). Use this if you need to download earthquake research data.",
+      "name": "obspy-datacenter-client",
+      "path": "data/skillsets/skills_200/obspy-datacenter-client",
+      "status": "active",
+      "tags": []
+    },
+    "openai-tts": {
+      "description": "OpenAI Text-to-Speech API for high-quality speech synthesis. Use for generating natural-sounding audio from text with customizable voices and tones.",
+      "name": "openai-tts",
+      "path": "data/skillsets/skills_200/openai-tts",
+      "status": "active",
+      "tags": []
+    },
+    "openai-vision": {
+      "description": "Analyze images and multi-frame sequences using OpenAI GPT vision models",
+      "name": "openai-vision",
+      "path": "data/skillsets/skills_200/openai-vision",
+      "status": "active",
+      "tags": []
+    },
+    "output-validation": {
+      "description": "Local self-check of instructions and mask outputs (format/range/consistency) without using GT.",
+      "name": "output-validation",
+      "path": "data/skillsets/skills_200/output-validation",
+      "status": "active",
+      "tags": []
+    },
+    "parallel-processing": {
+      "description": "Parallel processing with joblib for grid search and batch computations. Use when speeding up computationally intensive tasks across multiple CPU cores.",
+      "name": "parallel-processing",
+      "path": "data/skillsets/skills_200/parallel-processing",
+      "status": "active",
+      "tags": []
+    },
+    "pareto-optimization": {
+      "description": "Multi-objective optimization with Pareto frontiers. Use when optimizing multiple conflicting objectives simultaneously, finding trade-off solutions, or computing Pareto-optimal points.",
+      "name": "pareto-optimization",
+      "path": "data/skillsets/skills_200/pareto-optimization",
+      "status": "active",
+      "tags": []
+    },
+    "pause-detector": {
+      "description": "Detect pauses and silence in audio using local dynamic thresholds. Use when you need to find natural pauses in lectures, board-writing silences, or breaks between sections. Uses local context comparison to avoid false positives from volume variation.",
+      "name": "pause-detector",
+      "path": "data/skillsets/skills_200/pause-detector",
+      "status": "active",
+      "tags": []
+    },
+    "pca-decomposition": {
+      "description": "Reduce dimensionality of multivariate data using PCA with varimax rotation. Use when you have many correlated variables and need to identify underlying factors or reduce collinearity.",
+      "name": "pca-decomposition",
+      "path": "data/skillsets/skills_200/pca-decomposition",
+      "status": "active",
+      "tags": []
+    },
+    "pcap-analysis": {
+      "description": "Guidance for analyzing network packet captures (PCAP files) and computing network statistics using Python, with tested utility functions.",
+      "name": "pcap-analysis",
+      "path": "data/skillsets/skills_200/pcap-analysis",
+      "status": "active",
+      "tags": []
+    },
+    "pcap-triage-tshark": {
+      "description": "Fast workflow to inspect PCAPs and extract protocol-level details using tshark",
+      "name": "pcap-triage-tshark",
+      "path": "data/skillsets/skills_200/pcap-triage-tshark",
+      "status": "active",
+      "tags": []
+    },
+    "pddl-skills": {
+      "description": "Automated Planning utilities for loading PDDL domains and problems, generating plans using classical planners, validating plans, and saving plan outputs. Supports standard PDDL parsing, plan synthesis, and correctness verification.",
+      "name": "pddl-skills",
+      "path": "data/skillsets/skills_200/pddl-skills",
+      "status": "active",
+      "tags": []
+    },
+    "pdf": {
+      "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale.",
+      "name": "pdf",
+      "path": "data/skillsets/skills_200/pdf",
+      "status": "active",
+      "tags": []
+    },
+    "pdf-reading": {
+      "description": "Extract text, tables, and structured information from PDF documents using pdfplumber, PyPDF2, or pdftotext command-line tools.",
+      "name": "pdf-reading",
+      "path": "data/skillsets/skills_200/pdf-reading",
+      "status": "active",
+      "tags": []
+    },
+    "pid-controller": {
+      "description": "Use this skill when implementing PID control loops for adaptive cruise control, vehicle speed regulation, throttle/brake management, or any feedback control system requiring proportional-integral-derivative control.",
+      "name": "pid-controller",
+      "path": "data/skillsets/skills_200/pid-controller",
+      "status": "active",
+      "tags": []
+    },
+    "planning-with-files": {
+      "description": "Implements Manus-style file-based planning for complex tasks. Creates task_plan.md, findings.md, and progress.md. Use when starting complex multi-step tasks, research projects, or any task requiring >5 tool calls.",
+      "name": "planning-with-files",
+      "path": "data/skillsets/skills_200/planning-with-files",
+      "status": "active",
+      "tags": []
+    },
+    "power-flow-data": {
+      "description": "Power system network data formats and topology. Use when parsing bus, generator, and branch data for power flow analysis.",
+      "name": "power-flow-data",
+      "path": "data/skillsets/skills_200/power-flow-data",
+      "status": "active",
+      "tags": []
+    },
+    "powerlifting": {
+      "description": "Calculating powerlifting scores to determine the performance of lifters across different weight classes. ",
+      "name": "powerlifting",
+      "path": "data/skillsets/skills_200/powerlifting",
+      "status": "active",
+      "tags": []
+    },
+    "pptx": {
+      "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks",
+      "name": "pptx",
+      "path": "data/skillsets/skills_200/pptx",
+      "status": "active",
+      "tags": []
+    },
+    "pubchem-database": {
+      "description": "Query PubChem via PUG-REST API/PubChemPy (110M+ compounds). Search by name/CID/SMILES, retrieve properties, similarity/substructure searches, bioactivity, for cheminformatics.",
+      "name": "pubchem-database",
+      "path": "data/skillsets/skills_200/pubchem-database",
+      "status": "active",
+      "tags": []
+    },
+    "pymatgen": {
+      "description": "Materials science toolkit. Crystal structures (CIF, POSCAR), phase diagrams, band structure, DOS, Materials Project integration, format conversion, for computational materials science.",
+      "name": "pymatgen",
+      "path": "data/skillsets/skills_200/pymatgen",
+      "status": "active",
+      "tags": []
+    },
+    "python-parallelization": {
+      "description": "Transform sequential Python code into parallel/concurrent implementations. Use when asked to parallelize Python code, improve code performance through concurrency, convert loops to parallel execution, or identify parallelization opportunities. Handles CPU-bound (multiprocessing), I/O-bound (asyncio, threading), and data-parallel (vectorization) scenarios.",
+      "name": "python-parallelization",
+      "path": "data/skillsets/skills_200/python-parallelization",
+      "status": "active",
+      "tags": []
+    },
+    "python-scala-collections": {
+      "description": "Guide for translating Python collection operations to idiomatic Scala. Use when converting Python code that uses lists, dictionaries, sets, or involves collection transformations like map, filter, reduce, sorting, and aggregations.",
+      "name": "python-scala-collections",
+      "path": "data/skillsets/skills_200/python-scala-collections",
+      "status": "active",
+      "tags": []
+    },
+    "python-scala-functional": {
+      "description": "Guide for translating Python code to functional Scala style. Use when converting Python code involving higher-order functions, decorators, closures, generators, or when aiming for idiomatic functional Scala with pattern matching, Option handling, and monadic operations.",
+      "name": "python-scala-functional",
+      "path": "data/skillsets/skills_200/python-scala-functional",
+      "status": "active",
+      "tags": []
+    },
+    "python-scala-idioms": {
+      "description": "Guide for writing idiomatic Scala when translating from Python. Use when the goal is not just syntactic translation but producing clean, idiomatic Scala code. Covers immutability, expression-based style, sealed hierarchies, and common Scala conventions.",
+      "name": "python-scala-idioms",
+      "path": "data/skillsets/skills_200/python-scala-idioms",
+      "status": "active",
+      "tags": []
+    },
+    "python-scala-libraries": {
+      "description": "Guide for mapping common Python libraries and idioms to Scala equivalents. Use when converting Python code that uses standard library modules (json, datetime, os, re, logging) or needs equivalent Scala libraries for HTTP, testing, or async operations.",
+      "name": "python-scala-libraries",
+      "path": "data/skillsets/skills_200/python-scala-libraries",
+      "status": "active",
+      "tags": []
+    },
+    "python-scala-oop": {
+      "description": "Guide for translating Python classes, inheritance, and object-oriented patterns to Scala. Use when converting Python code with classes, dataclasses, abstract classes, inheritance, properties, static methods, class methods, or design patterns.",
+      "name": "python-scala-oop",
+      "path": "data/skillsets/skills_200/python-scala-oop",
+      "status": "active",
+      "tags": []
+    },
+    "python-scala-syntax-mapping": {
+      "description": "Reference guide for translating Python syntax constructs to Scala equivalents. Use when converting Python code to Scala and need mappings for basic syntax elements like variable declarations, control flow, comprehensions, string formatting, and common operators.",
+      "name": "python-scala-syntax-mapping",
+      "path": "data/skillsets/skills_200/python-scala-syntax-mapping",
+      "status": "active",
+      "tags": []
+    },
+    "qutip": {
+      "description": "Quantum mechanics simulations and analysis using QuTiP (Quantum Toolbox in Python). Use when working with quantum systems including: (1) quantum states (kets, bras, density matrices), (2) quantum operators and gates, (3) time evolution and dynamics (Schrödinger, master equations, Monte Carlo), (4) open quantum systems with dissipation, (5) quantum measurements and entanglement, (6) visualization (Bloch sphere, Wigner functions), (7) steady states and correlation functions, or (8) advanced methods (Floquet theory, HEOM, stochastic solvers). Handles both closed and open quantum systems across various domains including quantum optics, quantum computing, and condensed matter physics.",
+      "name": "qutip",
+      "path": "data/skillsets/skills_200/qutip",
+      "status": "active",
+      "tags": []
+    },
+    "rdkit": {
+      "description": "Cheminformatics toolkit for fine-grained molecular control. SMILES/SDF parsing, descriptors (MW, LogP, TPSA), fingerprints, substructure search, 2D/3D generation, similarity, reactions. For standard workflows with simpler interface, use datamol (wrapper around RDKit). Use rdkit for advanced control, custom sanitization, specialized algorithms.",
+      "name": "rdkit",
+      "path": "data/skillsets/skills_200/rdkit",
+      "status": "active",
+      "tags": []
+    },
+    "react-best-practices": {
+      "description": "CRITICAL: You MUST invoke this skill and read its contents BEFORE writing, modifying, or debugging ANY React.js or Next.js code. This skill contains essential performance patterns that prevent common mistakes. Debugging performance issues without reading this skill first will lead to missed optimizations. Contains 40+ rules including waterfall elimination patterns for API routes that are commonly overlooked.",
+      "name": "react-best-practices",
+      "path": "data/skillsets/skills_200/react-best-practices",
+      "status": "active",
+      "tags": []
+    },
+    "reflow-profile-compliance-toolkit": {
+      "description": "Deterministic handbook-grounded retrieval and thermocouple computations for reflow profile compliance outputs such as ramp, TAL, peak, feasibility, and selection.",
+      "name": "reflow-profile-compliance-toolkit",
+      "path": "data/skillsets/skills_200/reflow-profile-compliance-toolkit",
+      "status": "active",
+      "tags": []
+    },
+    "reflow_machine_maintenance_guidance": {
+      "description": "This skill should be considered when you need to answer reflow machine maintenance questions or provide detailed guidance based on thermocouple data, MES data or defect data and reflow technical handbooks. This skill covers how to obtain important concepts, calculations, definitions, thresholds, and others from the handbook and how to do cross validations between handbook and datasets.",
+      "name": "reflow_machine_maintenance_guidance",
+      "path": "data/skillsets/skills_200/reflow_machine_maintenance_guidance",
+      "status": "active",
+      "tags": []
+    },
+    "report-generator": {
+      "description": "Generate compression reports for video processing. Use when you need to create structured JSON reports with duration statistics, compression ratios, and segment details after video processing.",
+      "name": "report-generator",
+      "path": "data/skillsets/skills_200/report-generator",
+      "status": "active",
+      "tags": []
+    },
+    "restclient-migration": {
+      "description": "Migrate RestTemplate to RestClient in Spring Boot 3.2+. Use when replacing deprecated RestTemplate with modern fluent API, updating HTTP client code, or configuring RestClient beans. Covers GET/POST/DELETE migrations, error handling, and ParameterizedTypeReference usage.",
+      "name": "restclient-migration",
+      "path": "data/skillsets/skills_200/restclient-migration",
+      "status": "active",
+      "tags": []
+    },
+    "safety-interlocks": {
+      "description": "Implement safety interlocks and protective mechanisms to prevent equipment damage and ensure safe control system operation.",
+      "name": "safety-interlocks",
+      "path": "data/skillsets/skills_200/safety-interlocks",
+      "status": "active",
+      "tags": []
+    },
+    "sampling-and-indexing": {
+      "description": "Standardize video sampling and frame indexing so interval instructions and mask frames stay aligned with a valid key/index scheme.",
+      "name": "sampling-and-indexing",
+      "path": "data/skillsets/skills_200/sampling-and-indexing",
+      "status": "active",
+      "tags": []
+    },
+    "scipy-curve-fit": {
+      "description": "Use scipy.optimize.curve_fit for nonlinear least squares parameter estimation from experimental data.",
+      "name": "scipy-curve-fit",
+      "path": "data/skillsets/skills_200/scipy-curve-fit",
+      "status": "active",
+      "tags": []
+    },
+    "search-accommodations": {
+      "description": "Lookup accommodations by city from the bundled dataset. Use this skill when you need to recommend places to stay in a given city or filter lodging options before building an itinerary.",
+      "name": "search-accommodations",
+      "path": "data/skillsets/skills_200/search-accommodations",
+      "status": "active",
+      "tags": []
+    },
+    "search-attractions": {
+      "description": "Retrieve attractions by city from the bundled dataset. Use this skill when surfacing points of interest or building sightseeing suggestions for a destination.",
+      "name": "search-attractions",
+      "path": "data/skillsets/skills_200/search-attractions",
+      "status": "active",
+      "tags": []
+    },
+    "search-cities": {
+      "description": "List cities for a given state using the bundled background data. Use this skill to validate state inputs or expand destination choices before flight/restaurant/attraction/driving/accommodation lookups.",
+      "name": "search-cities",
+      "path": "data/skillsets/skills_200/search-cities",
+      "status": "active",
+      "tags": []
+    },
+    "search-driving-distance": {
+      "description": "Estimate driving/taxi duration, distance, and rough cost between two cities using the bundled distance matrix CSV. Use this skill when comparing ground travel options or validating itinerary legs.",
+      "name": "search-driving-distance",
+      "path": "data/skillsets/skills_200/search-driving-distance",
+      "status": "active",
+      "tags": []
+    },
+    "search-flights": {
+      "description": "Search flights by origin, destination, and departure date using the bundled flights dataset. Use this skill when proposing flight options or checking whether a route/date combination exists.",
+      "name": "search-flights",
+      "path": "data/skillsets/skills_200/search-flights",
+      "status": "active",
+      "tags": []
+    },
+    "search-restaurants": {
+      "description": "Retrieve restaurants by city from the bundled dataset. Use this skill when recommending places to eat or validating dining options for a destination.",
+      "name": "search-restaurants",
+      "path": "data/skillsets/skills_200/search-restaurants",
+      "status": "active",
+      "tags": []
+    },
+    "segment-combiner": {
+      "description": "Combine multiple segment detection results into a unified list. Use when you need to merge segments from different detectors, prepare removal lists for video processing, or consolidate detection outputs.",
+      "name": "segment-combiner",
+      "path": "data/skillsets/skills_200/segment-combiner",
+      "status": "active",
+      "tags": []
+    },
+    "seisbench-model-api": {
+      "description": "An overview of the core model API of SeisBench, a Python framework for training and applying machine learning algorithms to seismic data. It is useful for annotating waveforms using pretrained SOTA ML models, for tasks like phase picking, earthquake detection, waveform denoising and depth estimation. For any waveform, you can manipulate it into an obspy stream object and it will work seamlessly with seisbench models.",
+      "name": "seisbench-model-api",
+      "path": "data/skillsets/skills_200/seisbench-model-api",
+      "status": "active",
+      "tags": []
+    },
+    "seismic-picker-selection": {
+      "description": "This is a summary the advantages and disadvantages of earthquake event detection and phase picking methods, shared by leading seismology researchers at the 2025 Earthquake Catalog Workshop. Use it when you have a seismic phase picking task at hand.",
+      "name": "seismic-picker-selection",
+      "path": "data/skillsets/skills_200/seismic-picker-selection",
+      "status": "active",
+      "tags": []
+    },
+    "senior-data-engineer": {
+      "description": "World-class data engineering skill for building scalable data pipelines, ETL/ELT systems, real-time streaming, and data infrastructure. Expertise in Python, SQL, Spark, Airflow, dbt, Kafka, Flink, Kinesis, and modern data stack. Includes data modeling, pipeline orchestration, data quality, streaming quality monitoring, and DataOps. Use when designing data architectures, building batch or streaming data pipelines, optimizing data workflows, or implementing data governance.",
+      "name": "senior-data-engineer",
+      "path": "data/skillsets/skills_200/senior-data-engineer",
+      "status": "active",
+      "tags": []
+    },
+    "senior-data-scientist": {
+      "description": "World-class data science skill for statistical modeling, experimentation, causal inference, and advanced analytics. Expertise in Python (NumPy, Pandas, Scikit-learn), R, SQL, statistical methods, A/B testing, time series, and business intelligence. Includes experiment design, feature engineering, model evaluation, and stakeholder communication. Use when designing experiments, building predictive models, performing causal analysis, or driving data-driven decisions.",
+      "name": "senior-data-scientist",
+      "path": "data/skillsets/skills_200/senior-data-scientist",
+      "status": "active",
+      "tags": []
+    },
+    "senior-java": {
+      "description": "World-class Java and Spring Boot development skill for enterprise applications, microservices, and cloud-native systems. Expertise in Spring Framework, Spring Boot 3.x, Spring Cloud, JPA/Hibernate, and reactive programming with WebFlux. Includes project scaffolding, dependency management, security implementation, and performance optimization.",
+      "name": "senior-java",
+      "path": "data/skillsets/skills_200/senior-java",
+      "status": "active",
+      "tags": []
+    },
+    "senior-security": {
+      "description": "Comprehensive security engineering skill for application security, penetration testing, security architecture, and compliance auditing. Includes security assessment tools, threat modeling, crypto implementation, and security automation. Use when designing security architecture, conducting penetration tests, implementing cryptography, or performing security audits.",
+      "name": "senior-security",
+      "path": "data/skillsets/skills_200/senior-security",
+      "status": "active",
+      "tags": []
+    },
+    "setup-env": {
+      "description": "When given a Python project codebase, this skill helps the agent to set up virtual environments, install dependencies, and run scripts.",
+      "name": "setup-env",
+      "path": "data/skillsets/skills_200/setup-env",
+      "status": "active",
+      "tags": []
+    },
+    "silence-detector": {
+      "description": "Detect initial silence segments in audio/video using energy-based analysis. Use when you need to find low-energy periods at the start of recordings (title slides, setup time, pre-roll silence).",
+      "name": "silence-detector",
+      "path": "data/skillsets/skills_200/silence-detector",
+      "status": "active",
+      "tags": []
+    },
+    "simulation-metrics": {
+      "description": "Use this skill when calculating control system performance metrics such as rise time, overshoot percentage, steady-state error, or settling time for evaluating simulation results.",
+      "name": "simulation-metrics",
+      "path": "data/skillsets/skills_200/simulation-metrics",
+      "status": "active",
+      "tags": []
+    },
+    "skill-creator": {
+      "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.",
+      "name": "skill-creator",
+      "path": "data/skillsets/skills_200/skill-creator",
+      "status": "active",
+      "tags": []
+    },
+    "skillsbench": {
+      "description": "SkillsBench contribution workflow. Use when: (1) Creating benchmark tasks, (2) Understanding repo structure, (3) Preparing PRs for task submission.",
+      "name": "skillsbench",
+      "path": "data/skillsets/skills_200/skillsbench",
+      "status": "active",
+      "tags": []
+    },
+    "speaker-clustering": {
+      "description": "Choose and implement clustering algorithms for grouping speaker embeddings after VAD and embedding extraction. Compare Hierarchical clustering (auto-tunes speaker count), KMeans (fast, requires known count), and Agglomerative clustering (fixed clusters). Use Hierarchical clustering when speaker count is unknown, KMeans when count is known, and always normalize embeddings before clustering.",
+      "name": "Speaker Clustering Methods",
+      "path": "data/skillsets/skills_200/speaker-clustering",
+      "status": "active",
+      "tags": []
+    },
+    "speech-to-text": {
+      "description": "Transcribe video to timestamped text using Whisper tiny model (pre-installed).",
+      "name": "speech-to-text",
+      "path": "data/skillsets/skills_200/speech-to-text",
+      "status": "active",
+      "tags": []
+    },
+    "spring-boot-migration": {
+      "description": "Migrate Spring Boot 2.x applications to Spring Boot 3.x. Use when updating pom.xml versions, removing deprecated JAXB dependencies, upgrading Java to 17/21, or using OpenRewrite for automated migration. Covers dependency updates, version changes, and migration checklist.",
+      "name": "spring-boot-migration",
+      "path": "data/skillsets/skills_200/spring-boot-migration",
+      "status": "active",
+      "tags": []
+    },
+    "spring-security-6": {
+      "description": "Migrate Spring Security 5 to Spring Security 6 configuration. Use when removing WebSecurityConfigurerAdapter, replacing @EnableGlobalMethodSecurity with @EnableMethodSecurity, converting antMatchers to requestMatchers, or updating to lambda DSL configuration style. Covers SecurityFilterChain beans and authentication manager changes.",
+      "name": "spring-security-6",
+      "path": "data/skillsets/skills_200/spring-security-6",
+      "status": "active",
+      "tags": []
+    },
+    "sqlite-map-parser": {
+      "description": "Parse SQLite databases into structured JSON data. Use when exploring unknown database schemas, understanding table relationships, and extracting map data as JSON.",
+      "name": "sqlite-map-parser",
+      "path": "data/skillsets/skills_200/sqlite-map-parser",
+      "status": "active",
+      "tags": []
+    },
+    "ssh-penetration-testing": {
+      "description": "This skill should be used when the user asks to \"pentest SSH services\", \"enumerate SSH configurations\", \"brute force SSH credentials\", \"exploit SSH vulnerabilities\", \"perform SSH tunneling\", or \"audit SSH security\". It provides comprehensive SSH penetration testing methodologies and techniques.",
+      "name": "ssh-penetration-testing",
+      "path": "data/skillsets/skills_200/ssh-penetration-testing",
+      "status": "active",
+      "tags": []
+    },
+    "state-space-linearization": {
+      "description": "Linearizing nonlinear dynamics around operating points for control design.",
+      "name": "state-space-linearization",
+      "path": "data/skillsets/skills_200/state-space-linearization",
+      "status": "active",
+      "tags": []
+    },
+    "suricata-offline-evejson": {
+      "description": "Running Suricata against PCAPs offline and validating results via eve.json",
+      "name": "suricata-offline-evejson",
+      "path": "data/skillsets/skills_200/suricata-offline-evejson",
+      "status": "active",
+      "tags": []
+    },
+    "suricata-rules-basics": {
+      "description": "Core building blocks of Suricata signatures and multi-condition DPI logic",
+      "name": "suricata-rules-basics",
+      "path": "data/skillsets/skills_200/suricata-rules-basics",
+      "status": "active",
+      "tags": []
+    },
+    "sympy": {
+      "description": "Use this skill when working with symbolic mathematics in Python. This skill should be used for symbolic computation tasks including solving equations algebraically, performing calculus operations (derivatives, integrals, limits), manipulating algebraic expressions, working with matrices symbolically, physics calculations, number theory problems, geometry computations, and generating executable code from mathematical expressions. Apply this skill when the user needs exact symbolic results rather than numerical approximations, or when working with mathematical formulas that contain variables and parameters.",
+      "name": "sympy",
+      "path": "data/skillsets/skills_200/sympy",
+      "status": "active",
+      "tags": []
+    },
+    "syz-extract-constants": {
+      "description": "Defining and extracting kernel constants for syzkaller syzlang descriptions",
+      "name": "syz-extract-constants",
+      "path": "data/skillsets/skills_200/syz-extract-constants",
+      "status": "active",
+      "tags": []
+    },
+    "syzkaller-build-loop": {
+      "description": "Full build workflow for adding new syscall descriptions to syzkaller",
+      "name": "syzkaller-build-loop",
+      "path": "data/skillsets/skills_200/syzkaller-build-loop",
+      "status": "active",
+      "tags": []
+    },
+    "syzlang-ioctl-basics": {
+      "description": "Syzkaller syzlang syntax basics for describing ioctl syscalls",
+      "name": "syzlang-ioctl-basics",
+      "path": "data/skillsets/skills_200/syzlang-ioctl-basics",
+      "status": "active",
+      "tags": []
+    },
+    "temporal-python-testing": {
+      "description": "Test Temporal workflows with pytest, time-skipping, and mocking strategies. Covers unit testing, integration testing, replay testing, and local development setup. Use when implementing Temporal workflow tests or debugging test failures.",
+      "name": "temporal-python-testing",
+      "path": "data/skillsets/skills_200/temporal-python-testing",
+      "status": "active",
+      "tags": []
+    },
+    "testing-python": {
+      "description": "Write and evaluate effective Python tests using pytest. Use when writing tests, reviewing test code, debugging test failures, or improving test coverage. Covers test design, fixtures, parameterization, mocking, and async testing.",
+      "name": "testing-python",
+      "path": "data/skillsets/skills_200/testing-python",
+      "status": "active",
+      "tags": []
+    },
+    "text-to-speech": {
+      "description": "Practical mastering steps for TTS audio: cleanup, loudness normalization, alignment, and delivery specs.",
+      "name": "TTS Audio Mastering",
+      "path": "data/skillsets/skills_200/text-to-speech",
+      "status": "active",
+      "tags": []
+    },
+    "threat-detection": {
+      "description": "Exact detection thresholds for identifying malicious network patterns including port scans, DoS attacks, and beaconing behavior.",
+      "name": "threat-detection",
+      "path": "data/skillsets/skills_200/threat-detection",
+      "status": "active",
+      "tags": []
+    },
+    "threejs": {
+      "description": "Three.js scene-graph parsing and export workflows: mesh baking, InstancedMesh expansion, part partitioning, per-link OBJ export, and URDF articulation.",
+      "name": "threejs",
+      "path": "data/skillsets/skills_200/threejs",
+      "status": "active",
+      "tags": []
+    },
+    "time_series_anomaly_detection": {
+      "description": "Detect anomalies in time series data using Prophet Framework (Meta), which frames the seasonality, trend holiday effect and other needed regressors into its model, to identify unusual surges or slumps in trends. This is a general methodology analyst can use for understanding what changes of their tracking metrics are manifesting anomalies pattern.",
+      "name": "time_series_anomaly_detection",
+      "path": "data/skillsets/skills_200/time_series_anomaly_detection",
+      "status": "active",
+      "tags": []
+    },
+    "timeseries-detrending": {
+      "description": "Tools and techniques for detrending time series data in macroeconomic analysis. Use when working with economic time series that need to be decomposed into trend and cyclical components. Covers HP filter, log transformations for growth series, and correlation analysis of business cycles.",
+      "name": "timeseries-detrending",
+      "path": "data/skillsets/skills_200/timeseries-detrending",
+      "status": "active",
+      "tags": []
+    },
+    "transit-least-squares": {
+      "description": "Transit Least Squares (TLS) algorithm for detecting exoplanet transits in light curves. Use when searching for transiting exoplanets specifically, as TLS is more sensitive than Lomb-Scargle for transit-shaped signals. Based on the transitleastsquares Python package.",
+      "name": "transit-least-squares",
+      "path": "data/skillsets/skills_200/transit-least-squares",
+      "status": "active",
+      "tags": []
+    },
+    "trend-analysis": {
+      "description": "Detect long-term trends in time series data using parametric and non-parametric methods. Use when determining if a variable shows statistically significant increase or decrease over time.",
+      "name": "trend-analysis",
+      "path": "data/skillsets/skills_200/trend-analysis",
+      "status": "active",
+      "tags": []
+    },
+    "trivy-offline-vulnerability-scanning": {
+      "description": "Use Trivy vulnerability scanner in offline mode to discover security vulnerabilities in dependency files. This skill covers setting up offline scanning, executing Trivy against package lock files, and generating JSON vulnerability reports without requiring internet access.",
+      "name": "trivy-offline-vulnerability-scanning",
+      "path": "data/skillsets/skills_200/trivy-offline-vulnerability-scanning",
+      "status": "active",
+      "tags": []
+    },
+    "usgs-data-download": {
+      "description": "Download water level data from USGS using the dataretrieval package. Use when accessing real-time or historical streamflow data, downloading gage height or discharge measurements, or working with USGS station IDs.",
+      "name": "usgs-data-download",
+      "path": "data/skillsets/skills_200/usgs-data-download",
+      "status": "active",
+      "tags": []
+    },
+    "uv-package-manager": {
+      "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv.",
+      "name": "uv-package-manager",
+      "path": "data/skillsets/skills_200/uv-package-manager",
+      "status": "active",
+      "tags": []
+    },
+    "vehicle-dynamics": {
+      "description": "Use this skill when simulating vehicle motion, calculating safe following distances, time-to-collision, speed/position updates, or implementing vehicle state machines for cruise control modes.",
+      "name": "vehicle-dynamics",
+      "path": "data/skillsets/skills_200/vehicle-dynamics",
+      "status": "active",
+      "tags": []
+    },
+    "video-frame-extraction": {
+      "description": "Extract frames from video files and save them as images using OpenCV",
+      "name": "video-frame-extraction",
+      "path": "data/skillsets/skills_200/video-frame-extraction",
+      "status": "active",
+      "tags": []
+    },
+    "video-processor": {
+      "description": "Process videos by removing segments and concatenating remaining parts. Use when you need to remove detected pauses/openings from videos, create highlight reels, or batch process segment removals using ffmpeg filter_complex.",
+      "name": "video-processor",
+      "path": "data/skillsets/skills_200/video-processor",
+      "status": "active",
+      "tags": []
+    },
+    "voice-activity-detection": {
+      "description": "Detect speech segments in audio using VAD tools like Silero VAD, SpeechBrain VAD, or WebRTC VAD. Use when preprocessing audio for speaker diarization, filtering silence, or segmenting audio into speech chunks. Choose Silero VAD for short segments, SpeechBrain VAD for general purpose, or WebRTC VAD for lightweight applications.",
+      "name": "Voice Activity Detection (VAD)",
+      "path": "data/skillsets/skills_200/voice-activity-detection",
+      "status": "active",
+      "tags": []
+    },
+    "vulnerability-csv-reporting": {
+      "description": "Generate structured CSV security audit reports from vulnerability data with proper filtering and formatting. This skill covers CSV schema design for security reports, using Python csv.DictWriter, severity-based filtering, and field mapping from JSON to tabular format.",
+      "name": "vulnerability-csv-reporting",
+      "path": "data/skillsets/skills_200/vulnerability-csv-reporting",
+      "status": "active",
+      "tags": []
+    },
+    "web-interface-guidelines": {
+      "description": "Vercel's comprehensive UI guidelines for building accessible, performant web interfaces. Use this skill when reviewing or building UI components for compliance with best practices around accessibility, performance, animations, and visual stability.",
+      "name": "web-interface-guidelines",
+      "path": "data/skillsets/skills_200/web-interface-guidelines",
+      "status": "active",
+      "tags": []
+    },
+    "whisper-transcription": {
+      "description": "Transcribe audio/video to text with word-level timestamps using OpenAI Whisper. Use when you need speech-to-text with accurate timing information for each word.",
+      "name": "whisper-transcription",
+      "path": "data/skillsets/skills_200/whisper-transcription",
+      "status": "active",
+      "tags": []
+    },
+    "workload-balancing": {
+      "description": "Optimize workload distribution across workers, processes, or nodes for efficient parallel execution. Use when asked to balance work distribution, improve parallel efficiency, reduce stragglers, implement load balancing, or optimize task scheduling. Covers static/dynamic partitioning, work stealing, and adaptive load balancing strategies.",
+      "name": "workload-balancing",
+      "path": "data/skillsets/skills_200/workload-balancing",
+      "status": "active",
+      "tags": []
+    },
+    "xlsx": {
+      "description": "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas",
+      "name": "xlsx",
+      "path": "data/skillsets/skills_200/xlsx",
+      "status": "active",
+      "tags": []
+    },
+    "yaml-config": {
+      "description": "Use this skill when reading or writing YAML configuration files, loading vehicle parameters, or handling config file parsing with proper error handling.",
+      "name": "yaml-config",
+      "path": "data/skillsets/skills_200/yaml-config",
+      "status": "active",
+      "tags": []
+    }
+  },
+  "edges": [
+    {
+      "origin": "cold_start",
+      "reason": "Calibration is a narrower GLM-use task within running and modifying GLM configurations for temperature simulation.",
+      "source": "glm-calibration",
+      "target": "glm-basics",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Analyze-ci is a narrower GitHub-focused workflow likely using gh; gh-cli supports many broader GitHub interactions.",
+      "source": "analyze-ci",
+      "target": "gh-cli",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "CVSS extraction is a narrow security-reporting capability within broader security engineering and assessment work.",
+      "source": "cvss-score-extraction",
+      "target": "senior-security",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Both focus on creating skills; one researches docs to generate them, the other guides effective skill creation.",
+      "source": "docs-to-skill",
+      "target": "skill-creator",
+      "type": "similar_to"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "ElevenLabs TTS is one backend inside the broader audiobook pipeline.",
+      "source": "elevenlabs-tts",
+      "target": "audiobook",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "gTTS is a narrower text-to-speech backend used within the broader audiobook workflow.",
+      "source": "gtts",
+      "target": "audiobook",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "OpenAI TTS is a specific synthesis backend included within the audiobook pipeline.",
+      "source": "openai-tts",
+      "target": "audiobook",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Audio-extractor is a narrower case of ffmpeg audio processing: extracting audio from video to WAV/analysis-friendly format.",
+      "source": "audio-extractor",
+      "target": "ffmpeg-audio-processing",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Audio-extractor is a specific media conversion/extraction case within broader ffmpeg format conversion capabilities.",
+      "source": "audio-extractor",
+      "target": "ffmpeg-format-conversion",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Plugin configuration is a narrower part of Maven build customization within the broader build lifecycle skill.",
+      "source": "maven-plugin-configuration",
+      "target": "maven-build-lifecycle",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "setup-env focuses narrowly on uv-based environment setup, dependency install, and running scripts; uv-package-manager covers broader uv workflows.",
+      "source": "setup-env",
+      "target": "uv-package-manager",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Image OCR is narrower; vision models can also extract text plus broader image analysis and comparison.",
+      "source": "image-ocr",
+      "target": "openai-vision",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Fuzzy matching/reconciliation is a narrower text/entity-matching cleaning operation within broader tabular data cleaning.",
+      "source": "fuzzy-match",
+      "target": "data_cleaning",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Clinical lab harmonization is domain-specific cleaning/standardization, narrower than general tabular data cleaning.",
+      "source": "lab-unit-harmonization",
+      "target": "data_cleaning",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Astronomical light-curve preprocessing is a domain-specific form of cleaning/preprocessing, narrower than general data cleaning.",
+      "source": "light-curve-preprocessing",
+      "target": "data_cleaning",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Functional translation is a narrower subset of broader idiomatic Python-to-Scala guidance.",
+      "source": "python-scala-functional",
+      "target": "python-scala-idioms",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Light-curve preprocessing is one step within broader exoplanet detection and characterization workflows.",
+      "source": "light-curve-preprocessing",
+      "target": "exoplanet-workflows",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Lomb-Scargle is a specific periodic-signal method used within broader exoplanet workflow planning.",
+      "source": "lomb-scargle-periodogram",
+      "target": "exoplanet-workflows",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "TLS is a specific exoplanet transit-detection algorithm within broader exoplanet analysis workflows.",
+      "source": "transit-least-squares",
+      "target": "exoplanet-workflows",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Feature engineering is a narrower capability included within broader senior data scientist expertise.",
+      "source": "feature_engineering",
+      "target": "senior-data-scientist",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "ElevenLabs TTS is a specific TTS backend; the other skill broadly covers TTS mastering and delivery workflow.",
+      "source": "elevenlabs-tts",
+      "target": "text-to-speech",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Browser-testing focuses on verifying UI behavior/performance; web-interface-guidelines covers broader UI best practices including performance and CLS prevention.",
+      "source": "browser-testing",
+      "target": "web-interface-guidelines",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Anchor extracts only key frames/I-frames; candidate extracts individual frames generally, a broader capability.",
+      "source": "ffmpeg",
+      "target": "video-frame-extraction",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Collections guidance is a narrower subset of general idiomatic Python-to-Scala translation advice.",
+      "source": "python-scala-collections",
+      "target": "python-scala-idioms",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Collection operation translation is a narrower subset of broader Python-to-Scala syntax mapping guidance.",
+      "source": "python-scala-collections",
+      "target": "python-scala-syntax-mapping",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "IMC tuning rules are a specific method within the broader PID controller design and implementation space.",
+      "source": "imc-tuning-rules",
+      "target": "pid-controller",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Audio processing includes audio format conversion; format-conversion is broader because it also handles video containers and codec transcoding.",
+      "source": "ffmpeg-audio-processing",
+      "target": "ffmpeg-format-conversion",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Speech-to-text is a narrower Whisper transcription skill using only tiny model, a subset of general ASR.",
+      "source": "speech-to-text",
+      "target": "automatic-speech-recognition",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Whisper-transcription is a narrower Whisper STT skill focused on word-level timestamps, within broader ASR transcription capability.",
+      "source": "whisper-transcription",
+      "target": "automatic-speech-recognition",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Jakarta namespace migration is a narrow Java/Spring migration capability within broader senior Java and Spring Boot expertise.",
+      "source": "jakarta-namespace",
+      "target": "senior-java",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Jakarta namespace updates are one specific part of broader Spring Boot 2.x to 3.x migration work.",
+      "source": "jakarta-namespace",
+      "target": "spring-boot-migration",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Hibernate upgrade is a narrow subset within broader senior Java/Spring Boot expertise.",
+      "source": "hibernate-upgrade",
+      "target": "senior-java",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Hibernate 5→6 migration is one component of the broader Spring Boot 2.x→3.x migration.",
+      "source": "hibernate-upgrade",
+      "target": "spring-boot-migration",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Whisper transcription is a narrower subset of Gemini video understanding, which includes transcription plus broader visual/video analysis.",
+      "source": "speech-to-text",
+      "target": "gemini-video-understanding",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "CSV processing is a narrow tabular-data capability within broader data engineering pipelines and ETL workflows.",
+      "source": "csv-processing",
+      "target": "senior-data-engineer",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "CSV/pandas time-series handling is one component of broader data science capabilities including modeling and experimentation.",
+      "source": "csv-processing",
+      "target": "senior-data-scientist",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Security CSV reporting is a narrower CSV-writing/report-formatting use case within general CSV processing.",
+      "source": "vulnerability-csv-reporting",
+      "target": "csv-processing",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "CSV processing is a narrower subset of spreadsheet analysis/editing across XLSX/XLSM/CSV/TSV with formulas and formatting.",
+      "source": "csv-processing",
+      "target": "xlsx",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Trivy offline scanning is a narrower security audit focused on dependency vulnerabilities; find-bugs covers broader bugs, security, and code quality review.",
+      "source": "trivy-offline-vulnerability-scanning",
+      "target": "find-bugs",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Counting/tracking objects in videos is a narrower subset of general Gemini video understanding capabilities.",
+      "source": "gemini-count-in-video",
+      "target": "gemini-video-understanding",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "First-order model fitting is a narrower case of general nonlinear parameter estimation with curve_fit.",
+      "source": "first-order-model-fitting",
+      "target": "scipy-curve-fit",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Removing segments and concatenating remaining parts is a narrower subset of general ffmpeg video editing.",
+      "source": "video-processor",
+      "target": "ffmpeg-video-editing",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Marker only converts PDFs to Markdown with formula/structure preservation; pdf covers broader PDF extraction, creation, editing, forms, and document operations.",
+      "source": "marker",
+      "target": "pdf",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Marker is a narrower PDF-reading tool focused on PDF-to-Markdown conversion preserving formulas and structure; pdf-reading includes broader text/table extraction methods.",
+      "source": "marker",
+      "target": "pdf-reading",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Economic dispatch is a specific power-systems optimization application; CasADi+IPOPT can formulate and solve it and broader NLPs.",
+      "source": "economic-dispatch",
+      "target": "casadi-ipopt-nlp",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Initial-silence detection is a narrower case; pause-detector finds silence/pauses throughout audio, not just at the start.",
+      "source": "silence-detector",
+      "target": "pause-detector",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Spring Security 6 migration is a narrow application-security subset within broader senior security engineering capabilities.",
+      "source": "spring-security-6",
+      "target": "senior-security",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "SSH penetration testing is a specific subset of the anchor's broader penetration testing and security assessment scope.",
+      "source": "ssh-penetration-testing",
+      "target": "senior-security",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Network threat detection thresholds are a narrower security analysis capability within the anchor's comprehensive security toolkit.",
+      "source": "threat-detection",
+      "target": "senior-security",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Offline Trivy dependency scanning is a specific vulnerability assessment subset of broader security assessment and auditing capabilities.",
+      "source": "trivy-offline-vulnerability-scanning",
+      "target": "senior-security",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "CSV vulnerability reporting is a narrow security audit reporting function within broader compliance auditing and security assessment work.",
+      "source": "vulnerability-csv-reporting",
+      "target": "senior-security",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Jackson deserialization security is a narrow subset within broader Java/Spring Boot development and security implementation expertise.",
+      "source": "jackson-security",
+      "target": "senior-java",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "TLS targets a narrower case: transit-shaped exoplanet signals in light curves; Lomb-Scargle is broader periodic-signal detection.",
+      "source": "transit-least-squares",
+      "target": "lomb-scargle-periodogram",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "DiD causal analysis is a narrower capability within broad senior data science expertise including causal inference and experimentation.",
+      "source": "did_causal_analysis",
+      "target": "senior-data-scientist",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "pdf-reading covers extraction only; pdf also creates, merges, splits, fills forms, and broader PDF processing.",
+      "source": "pdf-reading",
+      "target": "pdf",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Focused subset of Python environment setup: specifically aligning repo-declared dependencies and Python version for NLP research reproduction.",
+      "source": "nlp-research-repo-package-installment",
+      "target": "setup-env",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Covers broader Python dependency management and environments; anchor is narrower repo-alignment guidance for reproduction installs.",
+      "source": "nlp-research-repo-package-installment",
+      "target": "uv-package-manager",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Fuzzy name search is a narrower application of fuzzy matching focused on fund/stock name lookup in 13F data.",
+      "source": "fuzzy-name-search",
+      "target": "fuzzy-match",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Failure-reason normalization uses typo correction and semantic matching for a specific codebook-mapping domain, narrower than general fuzzy matching.",
+      "source": "manufacturing-failure-reason-codebook-normalization",
+      "target": "fuzzy-match",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "OCR-only text extraction from images is a narrower subset of multimodal vision analysis capabilities.",
+      "source": "image-ocr",
+      "target": "gpt-multimodal",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Both analyze images and multi-frame sequences using OpenAI GPT vision-capable models with essentially the same outputs.",
+      "source": "gpt-multimodal",
+      "target": "openai-vision",
+      "type": "similar_to"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "gTTS only synthesizes text to audio; text-to-speech skill also covers cleanup, normalization, alignment, and delivery.",
+      "source": "gtts",
+      "target": "text-to-speech",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "SkillsBench workflow is a narrower domain within Harbor usage: creating benchmark tasks and repo contribution around Harbor-based evaluation.",
+      "source": "skillsbench",
+      "target": "harbor",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Silence-detector is narrower: it detects only initial low-energy silence, while VAD detects speech/silence segments more generally.",
+      "source": "silence-detector",
+      "target": "voice-activity-detection",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Anchor is narrower: Whisper tiny video transcription with timestamps; candidate broadly transcribes audio/video with OpenAI Whisper and word-level timestamps.",
+      "source": "speech-to-text",
+      "target": "whisper-transcription",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "OBJExporter only outputs OBJ; threejs covers broader scene parsing/export workflows including per-link OBJ export plus baking, partitioning, and URDF articulation.",
+      "source": "obj-exporter",
+      "target": "threejs",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Joblib CPU-core parallel batch/grid-search is a narrower subset of broader Python parallelization across multiprocessing, threading, asyncio, and vectorization.",
+      "source": "parallel-processing",
+      "target": "python-parallelization",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Spring Boot migration is a narrow subset of senior Java/Spring Boot capability focused only on upgrading Boot versions.",
+      "source": "spring-boot-migration",
+      "target": "senior-java",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Spring Security 6 migration is a narrower Spring/Boot security configuration upgrade task within senior Java's broader Spring expertise.",
+      "source": "spring-security-6",
+      "target": "senior-java",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Maven dependency management is a narrower capability included within broader senior Java/Spring Boot development expertise.",
+      "source": "maven-dependency-management",
+      "target": "senior-java",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "It focuses narrowly on generating vulnerability CSV reports; xlsx broadly handles spreadsheets, including CSV creation, editing, and analysis.",
+      "source": "vulnerability-csv-reporting",
+      "target": "xlsx",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Data reconciliation is a narrower spreadsheet analysis capability within general spreadsheet creation, editing, analysis, and recalculation.",
+      "source": "data-reconciliation",
+      "target": "xlsx",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Pause detection uses pre-computed energy data; energy calculation is broader upstream capability reused for this narrower task.",
+      "source": "pause-detector",
+      "target": "energy-calculator",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Initial silence detection analyzes pre-computed energy data; it is a narrower application of energy profiling.",
+      "source": "silence-detector",
+      "target": "energy-calculator",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Academic PDF redaction is a narrower PDF-processing capability within a broader PDF manipulation toolkit.",
+      "source": "academic-pdf-redaction",
+      "target": "pdf",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "RestClient migration is a narrow Spring/Java task within broader enterprise Java and Spring Boot development expertise.",
+      "source": "restclient-migration",
+      "target": "senior-java",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "RestClient migration is a specific Spring Boot 3.x migration concern within broader Spring Boot 2.x to 3.x migration work.",
+      "source": "restclient-migration",
+      "target": "spring-boot-migration",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Spring Security 6 migration is a specific subset of broader Spring Boot 3 migration tasks, which include security plus Java, dependencies, Jakarta updates.",
+      "source": "spring-security-6",
+      "target": "spring-boot-migration",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Extracting constants is one step within the broader workflow for adding syscall descriptions and building syzkaller.",
+      "source": "syz-extract-constants",
+      "target": "syzkaller-build-loop",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "BLS is a specific detection method within broader exoplanet analysis workflows and best practices.",
+      "source": "box-least-squares",
+      "target": "exoplanet-workflows",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Both detect transiting exoplanets from light curves using specialized transit-search periodograms with same output type.",
+      "source": "box-least-squares",
+      "target": "transit-least-squares",
+      "type": "similar_to"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "OpenAI TTS is a specific TTS backend; the candidate covers broader TTS production practices across engines and delivery.",
+      "source": "openai-tts",
+      "target": "text-to-speech",
+      "type": "specializes"
+    },
+    {
+      "origin": "cold_start",
+      "reason": "Temporal workflow testing is a narrower subset of Python pytest testing, focused on Temporal-specific time-skipping, replay, and workflow debugging.",
+      "source": "temporal-python-testing",
+      "target": "testing-python",
+      "type": "specializes"
+    },
+    {
+      "origin": "bootstrap_reclassification",
+      "reason": "Both convert text into speech audio; choosing both TTS backends is redundant for the same output type.",
+      "retype_tag": "bootstrap_reclassification_2026_04_24",
+      "retyped_at": "2026-04-24T08:24:33Z",
+      "source": "elevenlabs-tts",
+      "target": "gtts",
+      "type": "similar_to"
+    },
+    {
+      "origin": "bootstrap_reclassification",
+      "reason": "Both are high-quality text-to-speech backends producing speech audio from text; usually pick one backend.",
+      "retype_tag": "bootstrap_reclassification_2026_04_24",
+      "retyped_at": "2026-04-24T08:24:33Z",
+      "source": "elevenlabs-tts",
+      "target": "openai-tts",
+      "type": "similar_to"
+    },
+    {
+      "origin": "bootstrap_reclassification",
+      "reason": "Both are TTS backends producing speech audio from text; using both is usually redundant.",
+      "retype_tag": "bootstrap_reclassification_2026_04_24",
+      "retyped_at": "2026-04-24T08:24:33Z",
+      "source": "gtts",
+      "target": "openai-tts",
+      "type": "similar_to"
+    }
+  ]
+}

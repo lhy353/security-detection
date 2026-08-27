@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:pca-decomposition",
+  "slug": "pca-decomposition",
+  "name": "pca-decomposition",
+  "title": "pca-decomposition",
+  "description": "Reduce dimensionality of multivariate data using PCA with varimax rotation. Use when you have many correlated variables and need to identify underlying factors or reduce collinearity.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

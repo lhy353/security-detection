@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:pcap-analysis",
+  "slug": "pcap-analysis",
+  "name": "pcap-analysis",
+  "title": "pcap-analysis",
+  "description": "Guidance for analyzing network packet captures (PCAP files) and computing network statistics using Python, with tested utility functions.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

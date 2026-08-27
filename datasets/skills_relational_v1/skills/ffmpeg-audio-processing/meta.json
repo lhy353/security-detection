@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:ffmpeg-audio-processing",
+  "slug": "ffmpeg-audio-processing",
+  "name": "FFmpeg Audio Processing",
+  "title": "FFmpeg Audio Processing",
+  "description": "Extract, normalize, mix, and process audio tracks - audio manipulation and analysis",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

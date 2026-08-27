@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:nws-flood-thresholds",
+  "slug": "nws-flood-thresholds",
+  "name": "nws-flood-thresholds",
+  "title": "nws-flood-thresholds",
+  "description": "Download flood stage thresholds from NWS (National Weather Service). Use when determining flood levels for USGS stations, accessing action/minor/moderate/major flood stages, or matching stations to their flood thresholds.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

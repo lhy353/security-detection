@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:erlang-concurrency",
+  "slug": "erlang-concurrency",
+  "name": "erlang-concurrency",
+  "title": "erlang-concurrency",
+  "description": "Use when erlang's concurrency model including lightweight processes, message passing, process links and monitors, error handling patterns, selective receive, and building massively concurrent systems on the BEAM VM.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

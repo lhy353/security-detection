@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:testing-python",
+  "slug": "testing-python",
+  "name": "testing-python",
+  "title": "testing-python",
+  "description": "Write and evaluate effective Python tests using pytest. Use when writing tests, reviewing test code, debugging test failures, or improving test coverage. Covers test design, fixtures, parameterization, mocking, and async testing.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

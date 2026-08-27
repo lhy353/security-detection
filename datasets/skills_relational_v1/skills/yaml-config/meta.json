@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:yaml-config",
+  "slug": "yaml-config",
+  "name": "yaml-config",
+  "title": "yaml-config",
+  "description": "Use this skill when reading or writing YAML configuration files, loading vehicle parameters, or handling config file parsing with proper error handling.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

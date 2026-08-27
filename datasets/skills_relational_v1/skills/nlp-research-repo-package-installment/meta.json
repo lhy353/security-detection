@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:nlp-research-repo-package-installment",
+  "slug": "nlp-research-repo-package-installment",
+  "name": "nlp-research-repo-package-installment",
+  "title": "nlp-research-repo-package-installment",
+  "description": "Align Python version and repo-declared dependencies (requirements.txt / environment.yml) before installing packages for NLP research code reproduction.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

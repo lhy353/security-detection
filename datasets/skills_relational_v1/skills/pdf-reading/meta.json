@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:pdf-reading",
+  "slug": "pdf-reading",
+  "name": "pdf-reading",
+  "title": "pdf-reading",
+  "description": "Extract text, tables, and structured information from PDF documents using pdfplumber, PyPDF2, or pdftotext command-line tools.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

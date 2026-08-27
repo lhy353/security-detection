@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:threejs",
+  "slug": "threejs",
+  "name": "threejs",
+  "title": "threejs",
+  "description": "Three.js scene-graph parsing and export workflows: mesh baking, InstancedMesh expansion, part partitioning, per-link OBJ export, and URDF articulation.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

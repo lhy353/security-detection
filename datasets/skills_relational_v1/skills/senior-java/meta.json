@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:senior-java",
+  "slug": "senior-java",
+  "name": "senior-java",
+  "title": "senior-java",
+  "description": "World-class Java and Spring Boot development skill for enterprise applications, microservices, and cloud-native systems. Expertise in Spring Framework, Spring Boot 3.x, Spring Cloud, JPA/Hibernate, and reactive programming with WebFlux. Includes project scaffolding, dependency management, security implementation, and performance optimization.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

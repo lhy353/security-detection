@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:jax-skills",
+  "slug": "jax-skills",
+  "name": "jax-skills",
+  "title": "jax-skills",
+  "description": "High-performance numerical computing and machine learning workflows using JAX. Supports array operations, automatic differentiation, JIT compilation, RNN-style scans, map/reduce operations, and gradient computations. Ideal for scientific computing, ML models, and dynamic array transformations.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

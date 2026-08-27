@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:marker",
+  "slug": "marker",
+  "name": "marker",
+  "title": "marker",
+  "description": "Convert PDF documents to Markdown using marker_single. Use when Claude needs to extract text content from PDFs while preserving LaTeX formulas, equations, and document structure. Ideal for academic papers and technical documents containing mathematical notation.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

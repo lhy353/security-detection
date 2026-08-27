@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:spring-security-6",
+  "slug": "spring-security-6",
+  "name": "spring-security-6",
+  "title": "spring-security-6",
+  "description": "Migrate Spring Security 5 to Spring Security 6 configuration. Use when removing WebSecurityConfigurerAdapter, replacing @EnableGlobalMethodSecurity with @EnableMethodSecurity, converting antMatchers to requestMatchers, or updating to lambda DSL configuration style. Covers SecurityFilterChain beans and authentication manager changes.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:csv-processing",
+  "slug": "csv-processing",
+  "name": "csv-processing",
+  "title": "csv-processing",
+  "description": "Use this skill when reading sensor data from CSV files, writing simulation results to CSV, processing time-series data with pandas, or handling missing values in datasets.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

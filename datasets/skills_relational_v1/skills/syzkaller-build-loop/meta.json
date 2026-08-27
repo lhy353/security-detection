@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:syzkaller-build-loop",
+  "slug": "syzkaller-build-loop",
+  "name": "syzkaller-build-loop",
+  "title": "syzkaller-build-loop",
+  "description": "Full build workflow for adding new syscall descriptions to syzkaller",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

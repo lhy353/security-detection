@@ -56,6 +56,13 @@ gold = df[df["gold_status"] == "human_gold_v1"]
 python scripts/sync_to_github.py
 ```
 
+门户可选自动同步（`.env`）：
+
+- `GITHUB_AUTO_PULL=1`：启动后后台 `git pull`，浏览页每 20 秒检测更新并自动刷新
+- `GITHUB_AUTO_PUSH=1`：本机上传后自动 commit + push
+
+上传时若 slug 与已有 `clawhub:<slug>` 相同，会**覆盖**该 clawhub 记录（保留金标等元数据，更新正文与检测标签）。
+
 ## 本地门户（可选）
 
 本机可运行 Web 门户浏览 / 筛选 / 上传；上传会追加到 `manifest.csv`，正文写入 `datasets/security_merged_v1/skills/`。

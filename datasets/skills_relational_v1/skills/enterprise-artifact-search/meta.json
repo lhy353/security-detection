@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:enterprise-artifact-search",
+  "slug": "enterprise-artifact-search",
+  "name": "enterprise-artifact-search",
+  "title": "enterprise-artifact-search",
+  "description": "Multi-hop evidence search + structured extraction over enterprise artifact datasets (docs/chats/meetings/PRs/URLs). Strong disambiguation to prevent cross-product leakage; returns JSON-ready entities plus evidence pointers.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

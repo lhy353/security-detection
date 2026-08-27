@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:pause-detector",
+  "slug": "pause-detector",
+  "name": "pause-detector",
+  "title": "pause-detector",
+  "description": "Detect pauses and silence in audio using local dynamic thresholds. Use when you need to find natural pauses in lectures, board-writing silences, or breaks between sections. Uses local context comparison to avoid false positives from volume variation.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:suricata-rules-basics",
+  "slug": "suricata-rules-basics",
+  "name": "suricata-rules-basics",
+  "title": "suricata-rules-basics",
+  "description": "Core building blocks of Suricata signatures and multi-condition DPI logic",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:manufacturing-failure-reason-codebook-normalization",
+  "slug": "manufacturing-failure-reason-codebook-normalization",
+  "name": "manufacturing-failure-reason-codebook-normalization",
+  "title": "manufacturing-failure-reason-codebook-normalization",
+  "description": "This skill should be considered when you need to normalize testing engineers' written defect reasons following the provided product codebooks. This skill will correct the typos, misused abbreviations, ambiguous descriptions, mixed Chinese-English text or misleading text and provide explanations. This skill will do segmentation, semantic matching, confidence calibration and station validation.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

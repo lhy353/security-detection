@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:skillsbench",
+  "slug": "skillsbench",
+  "name": "skillsbench",
+  "title": "skillsbench",
+  "description": "SkillsBench contribution workflow. Use when: (1) Creating benchmark tasks, (2) Understanding repo structure, (3) Preparing PRs for task submission.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

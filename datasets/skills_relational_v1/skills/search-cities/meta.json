@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:search-cities",
+  "slug": "search-cities",
+  "name": "search-cities",
+  "title": "search-cities",
+  "description": "List cities for a given state using the bundled background data. Use this skill to validate state inputs or expand destination choices before flight/restaurant/attraction/driving/accommodation lookups.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

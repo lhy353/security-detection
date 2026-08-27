@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:lean4-memories",
+  "slug": "lean4-memories",
+  "name": "lean4-memories",
+  "title": "lean4-memories",
+  "description": "This skill should be used when working on Lean 4 formalization projects to maintain persistent memory of successful proof patterns, failed approaches, project conventions, and user preferences across sessions using MCP memory server integration",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

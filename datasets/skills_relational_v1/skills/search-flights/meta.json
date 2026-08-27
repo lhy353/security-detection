@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:search-flights",
+  "slug": "search-flights",
+  "name": "search-flights",
+  "title": "search-flights",
+  "description": "Search flights by origin, destination, and departure date using the bundled flights dataset. Use this skill when proposing flight options or checking whether a route/date combination exists.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

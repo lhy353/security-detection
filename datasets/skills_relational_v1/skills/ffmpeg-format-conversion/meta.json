@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:ffmpeg-format-conversion",
+  "slug": "ffmpeg-format-conversion",
+  "name": "FFmpeg Format Conversion",
+  "title": "FFmpeg Format Conversion",
+  "description": "Convert media files between formats - video containers, audio formats, and codec transcoding",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

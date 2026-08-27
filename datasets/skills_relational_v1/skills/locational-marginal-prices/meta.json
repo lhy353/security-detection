@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:locational-marginal-prices",
+  "slug": "locational-marginal-prices",
+  "name": "locational-marginal-prices",
+  "title": "locational-marginal-prices",
+  "description": "Extract locational marginal prices (LMPs) from DC-OPF solutions using dual values. Use when computing nodal electricity prices, reserve clearing prices, or performing price impact analysis.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

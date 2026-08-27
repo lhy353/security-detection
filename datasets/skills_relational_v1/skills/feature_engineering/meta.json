@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:feature_engineering",
+  "slug": "feature_engineering",
+  "name": "feature_engineering",
+  "title": "feature_engineering",
+  "description": "Engineer dataset features before ML or Causal Inference. Methods include encoding categorical variables, scaling numerics, creating interactions, and selecting relevant features.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:maven-build-lifecycle",
+  "slug": "maven-build-lifecycle",
+  "name": "maven-build-lifecycle",
+  "title": "maven-build-lifecycle",
+  "description": "Use when working with Maven build phases, goals, profiles, or customizing the build process for Java projects.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

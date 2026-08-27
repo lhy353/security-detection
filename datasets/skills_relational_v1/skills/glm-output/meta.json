@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:glm-output",
+  "slug": "glm-output",
+  "name": "glm-output",
+  "title": "glm-output",
+  "description": "Read and process GLM output files. Use when you need to extract temperature data from NetCDF output, convert depth coordinates, or calculate RMSE against observations.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

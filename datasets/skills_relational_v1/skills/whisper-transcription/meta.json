@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:whisper-transcription",
+  "slug": "whisper-transcription",
+  "name": "whisper-transcription",
+  "title": "whisper-transcription",
+  "description": "Transcribe audio/video to text with word-level timestamps using OpenAI Whisper. Use when you need speech-to-text with accurate timing information for each word.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

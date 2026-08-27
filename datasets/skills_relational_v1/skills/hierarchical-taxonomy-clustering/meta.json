@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:hierarchical-taxonomy-clustering",
+  "slug": "hierarchical-taxonomy-clustering",
+  "name": "hierarchical-taxonomy-clustering",
+  "title": "hierarchical-taxonomy-clustering",
+  "description": "Build unified multi-level category taxonomy from hierarchical product category paths from any e-commerce companies using embedding-based recursive clustering with intelligent category naming via weighted word frequency analysis.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:python-scala-functional",
+  "slug": "python-scala-functional",
+  "name": "python-scala-functional",
+  "title": "python-scala-functional",
+  "description": "Guide for translating Python code to functional Scala style. Use when converting Python code involving higher-order functions, decorators, closures, generators, or when aiming for idiomatic functional Scala with pattern matching, Option handling, and monadic operations.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

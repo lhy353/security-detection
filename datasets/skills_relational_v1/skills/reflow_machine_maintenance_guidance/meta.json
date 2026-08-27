@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:reflow_machine_maintenance_guidance",
+  "slug": "reflow_machine_maintenance_guidance",
+  "name": "reflow_machine_maintenance_guidance",
+  "title": "reflow_machine_maintenance_guidance",
+  "description": "This skill should be considered when you need to answer reflow machine maintenance questions or provide detailed guidance based on thermocouple data, MES data or defect data and reflow technical handbooks. This skill covers how to obtain important concepts, calculations, definitions, thresholds, and others from the handbook and how to do cross validations between handbook and datasets.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

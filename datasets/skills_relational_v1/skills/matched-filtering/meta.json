@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:matched-filtering",
+  "slug": "matched-filtering",
+  "name": "matched-filtering",
+  "title": "matched-filtering",
+  "description": "Matched filtering techniques for gravitational wave detection. Use when searching for signals in detector data using template waveforms, including both time-domain and frequency-domain approaches. Works with PyCBC for generating templates and performing matched filtering.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:fjsp-baseline-repair-with-downtime-and-policy",
+  "slug": "fjsp-baseline-repair-with-downtime-and-policy",
+  "name": "fjsp-baseline-repair-with-downtime-and-policy",
+  "title": "fjsp-baseline-repair-with-downtime-and-policy",
+  "description": "This skill should be considered when you need to repair an infeasible or non-optimal flexible job scheduling planning schedule into a downtime-feasible, precedence-feasible one while keep no worse policy budget.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

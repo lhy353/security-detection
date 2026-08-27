@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:obspy-data-api",
+  "slug": "obspy-data-api",
+  "name": "obspy-data-api",
+  "title": "obspy-data-api",
+  "description": "An overview of the core data API of ObsPy, a Python framework for processing seismological data. It is useful for parsing common seismological file formats, or manipulating custom data into standard objects for downstream use cases such as ObsPy's signal processing routines or SeisBench's modeling API.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

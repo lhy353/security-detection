@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:parallel-processing",
+  "slug": "parallel-processing",
+  "name": "parallel-processing",
+  "title": "parallel-processing",
+  "description": "Parallel processing with joblib for grid search and batch computations. Use when speeding up computationally intensive tasks across multiple CPU cores.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

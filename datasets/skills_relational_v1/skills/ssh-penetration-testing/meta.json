@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:ssh-penetration-testing",
+  "slug": "ssh-penetration-testing",
+  "name": "ssh-penetration-testing",
+  "title": "ssh-penetration-testing",
+  "description": "This skill should be used when the user asks to \"pentest SSH services\", \"enumerate SSH configurations\", \"brute force SSH credentials\", \"exploit SSH vulnerabilities\", \"perform SSH tunneling\", or \"audit SSH security\". It provides comprehensive SSH penetration testing methodologies and techniques.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

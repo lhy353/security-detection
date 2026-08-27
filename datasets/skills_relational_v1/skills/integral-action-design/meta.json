@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:integral-action-design",
+  "slug": "integral-action-design",
+  "name": "integral-action-design",
+  "title": "integral-action-design",
+  "description": "Adding integral action to MPC for offset-free tension tracking.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

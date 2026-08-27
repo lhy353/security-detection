@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:python-scala-libraries",
+  "slug": "python-scala-libraries",
+  "name": "python-scala-libraries",
+  "title": "python-scala-libraries",
+  "description": "Guide for mapping common Python libraries and idioms to Scala equivalents. Use when converting Python code that uses standard library modules (json, datetime, os, re, logging) or needs equivalent Scala libraries for HTTP, testing, or async operations.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

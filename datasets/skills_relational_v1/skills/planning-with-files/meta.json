@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:planning-with-files",
+  "slug": "planning-with-files",
+  "name": "planning-with-files",
+  "title": "planning-with-files",
+  "description": "Implements Manus-style file-based planning for complex tasks. Creates task_plan.md, findings.md, and progress.md. Use when starting complex multi-step tasks, research projects, or any task requiring >5 tool calls.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

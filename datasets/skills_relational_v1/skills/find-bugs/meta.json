@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:find-bugs",
+  "slug": "find-bugs",
+  "name": "find-bugs",
+  "title": "find-bugs",
+  "description": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

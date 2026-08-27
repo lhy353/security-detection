@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:analyze-ci",
+  "slug": "analyze-ci",
+  "name": "analyze-ci",
+  "title": "analyze-ci",
+  "description": "Analyze failed GitHub Action jobs for a pull request.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

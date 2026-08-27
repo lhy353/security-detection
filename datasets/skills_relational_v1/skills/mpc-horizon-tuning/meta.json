@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:mpc-horizon-tuning",
+  "slug": "mpc-horizon-tuning",
+  "name": "mpc-horizon-tuning",
+  "title": "mpc-horizon-tuning",
+  "description": "Selecting MPC prediction horizon and cost matrices for web handling.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

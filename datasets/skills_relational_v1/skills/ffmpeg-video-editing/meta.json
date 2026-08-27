@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:ffmpeg-video-editing",
+  "slug": "ffmpeg-video-editing",
+  "name": "ffmpeg-video-editing",
+  "title": "ffmpeg-video-editing",
+  "description": "Video editing with ffmpeg including cutting, trimming, concatenating segments, and re-encoding. Use when working with video files (.mp4, .mkv, .avi) for: removing segments, joining clips, extracting portions, or any video manipulation task.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

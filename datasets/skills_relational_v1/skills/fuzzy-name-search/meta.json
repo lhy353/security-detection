@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:fuzzy-name-search",
+  "slug": "fuzzy-name-search",
+  "name": "fuzzy-name-search",
+  "title": "fuzzy-name-search",
+  "description": "This skill includes search capability in 13F, such as fuzzy search a fund information using possibly inaccurate name, or fuzzy search a stock cusip info using its name.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

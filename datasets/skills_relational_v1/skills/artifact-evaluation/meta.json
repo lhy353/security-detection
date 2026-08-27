@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:artifact-evaluation",
+  "slug": "artifact-evaluation",
+  "name": "artifact-evaluation",
+  "title": "artifact-evaluation",
+  "description": "Interact with artifact containers via HTTP API for paper evaluation tasks. Execute commands, read files, and list directories in remote artifact environments.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

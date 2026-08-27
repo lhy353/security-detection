@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:jackson-security",
+  "slug": "jackson-security",
+  "name": "jackson-security",
+  "title": "jackson-security",
+  "description": "Security considerations for Jackson JSON deserialization in Java applications. Covers timing of validation, raw input interception, and common deserialization attack patterns.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

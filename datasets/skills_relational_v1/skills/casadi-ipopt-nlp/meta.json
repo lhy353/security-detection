@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:casadi-ipopt-nlp",
+  "slug": "casadi-ipopt-nlp",
+  "name": "casadi-ipopt-nlp",
+  "title": "casadi-ipopt-nlp",
+  "description": "Nonlinear optimization with CasADi and IPOPT solver. Use when building and solving NLP problems: defining symbolic variables, adding nonlinear constraints, setting solver options, handling multiple initializations, and extracting solutions. Covers power systems optimization patterns including per-unit scaling and complex number formulations.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

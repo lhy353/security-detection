@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:vehicle-dynamics",
+  "slug": "vehicle-dynamics",
+  "name": "vehicle-dynamics",
+  "title": "vehicle-dynamics",
+  "description": "Use this skill when simulating vehicle motion, calculating safe following distances, time-to-collision, speed/position updates, or implementing vehicle state machines for cruise control modes.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

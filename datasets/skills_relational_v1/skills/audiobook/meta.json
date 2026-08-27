@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:audiobook",
+  "slug": "audiobook",
+  "name": "audiobook",
+  "title": "audiobook",
+  "description": "Create audiobooks from web content or text files. Handles content fetching, text processing, and TTS conversion with automatic fallback between ElevenLabs, OpenAI TTS, and gTTS.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

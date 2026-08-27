@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:energy-calculator",
+  "slug": "energy-calculator",
+  "name": "energy-calculator",
+  "title": "energy-calculator",
+  "description": "Calculate per-second RMS energy from audio files. Use when you need to analyze audio volume patterns, prepare data for silence/pause detection, or create an energy profile for audio analysis tasks.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

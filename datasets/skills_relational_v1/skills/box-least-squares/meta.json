@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:box-least-squares",
+  "slug": "box-least-squares",
+  "name": "box-least-squares",
+  "title": "box-least-squares",
+  "description": "Box Least Squares (BLS) periodogram for detecting transiting exoplanets and eclipsing binaries. Use when searching for periodic box-shaped dips in light curves. Alternative to Transit Least Squares, available in astropy.timeseries. Based on Kovács et al. (2002).",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

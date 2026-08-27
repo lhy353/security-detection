@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:silence-detector",
+  "slug": "silence-detector",
+  "name": "silence-detector",
+  "title": "silence-detector",
+  "description": "Detect initial silence segments in audio/video using energy-based analysis. Use when you need to find low-energy periods at the start of recordings (title slides, setup time, pre-roll silence).",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:suricata-offline-evejson",
+  "slug": "suricata-offline-evejson",
+  "name": "suricata-offline-evejson",
+  "title": "suricata-offline-evejson",
+  "description": "Running Suricata against PCAPs offline and validating results via eve.json",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

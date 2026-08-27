@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:python-parallelization",
+  "slug": "python-parallelization",
+  "name": "python-parallelization",
+  "title": "python-parallelization",
+  "description": "Transform sequential Python code into parallel/concurrent implementations. Use when asked to parallelize Python code, improve code performance through concurrency, convert loops to parallel execution, or identify parallelization opportunities. Handles CPU-bound (multiprocessing), I/O-bound (asyncio, threading), and data-parallel (vectorization) scenarios.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

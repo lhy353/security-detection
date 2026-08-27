@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:python-scala-idioms",
+  "slug": "python-scala-idioms",
+  "name": "python-scala-idioms",
+  "title": "python-scala-idioms",
+  "description": "Guide for writing idiomatic Scala when translating from Python. Use when the goal is not just syntactic translation but producing clean, idiomatic Scala code. Covers immutability, expression-based style, sealed hierarchies, and common Scala conventions.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

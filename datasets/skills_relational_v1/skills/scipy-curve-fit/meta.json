@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:scipy-curve-fit",
+  "slug": "scipy-curve-fit",
+  "name": "scipy-curve-fit",
+  "title": "scipy-curve-fit",
+  "description": "Use scipy.optimize.curve_fit for nonlinear least squares parameter estimation from experimental data.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:python-scala-syntax-mapping",
+  "slug": "python-scala-syntax-mapping",
+  "name": "python-scala-syntax-mapping",
+  "title": "python-scala-syntax-mapping",
+  "description": "Reference guide for translating Python syntax constructs to Scala equivalents. Use when converting Python code to Scala and need mappings for basic syntax elements like variable declarations, control flow, comprehensions, string formatting, and common operators.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:pareto-optimization",
+  "slug": "pareto-optimization",
+  "name": "pareto-optimization",
+  "title": "pareto-optimization",
+  "description": "Multi-objective optimization with Pareto frontiers. Use when optimizing multiple conflicting objectives simultaneously, finding trade-off solutions, or computing Pareto-optimal points.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

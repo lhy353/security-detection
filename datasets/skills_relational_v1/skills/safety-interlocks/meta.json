@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:safety-interlocks",
+  "slug": "safety-interlocks",
+  "name": "safety-interlocks",
+  "title": "safety-interlocks",
+  "description": "Implement safety interlocks and protective mechanisms to prevent equipment damage and ensure safe control system operation.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

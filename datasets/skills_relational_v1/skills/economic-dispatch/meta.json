@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:economic-dispatch",
+  "slug": "economic-dispatch",
+  "name": "economic-dispatch",
+  "title": "economic-dispatch",
+  "description": "Generator economic dispatch and cost optimization for power systems. Use when minimizing generation costs, computing optimal generator setpoints, calculating operating margins, or working with generator cost functions.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

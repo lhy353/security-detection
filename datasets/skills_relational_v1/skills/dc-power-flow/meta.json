@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:dc-power-flow",
+  "slug": "dc-power-flow",
+  "name": "dc-power-flow",
+  "title": "dc-power-flow",
+  "description": "DC power flow analysis for power systems. Use when computing power flows using DC approximation, building susceptance matrices, calculating line flows and loading percentages, or performing sensitivity analysis on transmission networks.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

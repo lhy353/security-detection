@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:filler-word-processing",
+  "slug": "filler-word-processing",
+  "name": "filler-word-processing",
+  "title": "filler-word-processing",
+  "description": "Process filler word annotations to generate video edit lists. Use when working with timestamp annotations for removing speech disfluencies (um, uh, like, you know) from audio/video content.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

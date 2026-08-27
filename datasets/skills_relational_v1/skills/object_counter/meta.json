@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:object_counter",
+  "slug": "object_counter",
+  "name": "object_counter",
+  "title": "object_counter",
+  "description": "Count occurrences of an object in the image using computer vision algorithm.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

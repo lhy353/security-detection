@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:imc-tuning-rules",
+  "slug": "imc-tuning-rules",
+  "name": "imc-tuning-rules",
+  "title": "imc-tuning-rules",
+  "description": "Calculate PI/PID controller gains using Internal Model Control (IMC) tuning rules for first-order systems.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

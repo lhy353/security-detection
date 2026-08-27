@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:gh-cli",
+  "slug": "gh-cli",
+  "name": "gh-cli",
+  "title": "gh-cli",
+  "description": "The gh CLI is GitHub's official command line tool for interacting with GitHub repositories, issues, pull requests, and more. When needs to interact with GitHub repositories, issues, pull requests, and more, use this skill.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

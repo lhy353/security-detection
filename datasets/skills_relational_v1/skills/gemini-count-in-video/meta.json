@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:gemini-count-in-video",
+  "slug": "gemini-count-in-video",
+  "name": "gemini-count-in-video",
+  "title": "gemini-count-in-video",
+  "description": "Analyze and count objects in videos using Google Gemini API (object counting, pedestrian detection, vehicle tracking, and surveillance video analysis).",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:flood-detection",
+  "slug": "flood-detection",
+  "name": "flood-detection",
+  "title": "flood-detection",
+  "description": "Detect flood events by comparing water levels to thresholds. Use when determining if flooding occurred, counting flood days, aggregating instantaneous data to daily values, or classifying flood severity.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

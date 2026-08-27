@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:pymatgen",
+  "slug": "pymatgen",
+  "name": "pymatgen",
+  "title": "pymatgen",
+  "description": "Materials science toolkit. Crystal structures (CIF, POSCAR), phase diagrams, band structure, DOS, Materials Project integration, format conversion, for computational materials science.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

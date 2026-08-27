@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:gtts",
+  "slug": "gtts",
+  "name": "gtts",
+  "title": "gtts",
+  "description": "Google Text-to-Speech (gTTS) for converting text to audio. Use when creating audiobooks, podcasts, or speech synthesis from text. Handles long text by chunking at sentence boundaries and concatenating audio segments with pydub.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

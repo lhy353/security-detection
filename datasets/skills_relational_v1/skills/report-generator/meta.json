@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:report-generator",
+  "slug": "report-generator",
+  "name": "report-generator",
+  "title": "report-generator",
+  "description": "Generate compression reports for video processing. Use when you need to create structured JSON reports with duration statistics, compression ratios, and segment details after video processing.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}

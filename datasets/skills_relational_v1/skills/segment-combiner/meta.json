@@ -1,0 +1,12 @@
+{
+  "id": "skilldag:segment-combiner",
+  "slug": "segment-combiner",
+  "name": "segment-combiner",
+  "title": "segment-combiner",
+  "description": "Combine multiple segment detection results into a unified list. Use when you need to merge segments from different detectors, prepare removal lists for video processing, or consolidate detection outputs.",
+  "detection_label": "benign",
+  "source": "skilldag",
+  "function_label": "Other",
+  "status": "active",
+  "tags": []
+}
