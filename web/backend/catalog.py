@@ -495,11 +495,21 @@ class Catalog:
         self.skills[rec.id] = rec
         self.order.append(rec.id)
 
+    def _skill_content_dirs(self, rec: SkillRecord) -> list[Path]:
+        dirs: list[Path] = []
+        if rec.slug:
+            dirs.append(SKILLS_DIR / rec.slug)
+        sid_dir = SKILLS_DIR / safe_id(rec.id)
+        if sid_dir not in dirs:
+            dirs.append(sid_dir)
+        return dirs
+
     def _peek_meta(self, rec: SkillRecord) -> dict[str, str] | None:
         # Boot path: only portable dirs (avoid scanning thousands of local_path files).
-        sid = safe_id(rec.id)
-        meta_json = SKILLS_DIR / sid / "meta.json"
-        if meta_json.exists():
+        for subdir in self._skill_content_dirs(rec):
+            meta_json = subdir / "meta.json"
+            if not meta_json.exists():
+                continue
             try:
                 data = json.loads(meta_json.read_text(encoding="utf-8"))
                 title = data.get("title") or pick_chinese_title(
@@ -514,8 +524,9 @@ class Catalog:
                     "title": title,
                 }
             except (OSError, json.JSONDecodeError):
-                pass
-        for path in (SKILLS_DIR / sid / "SKILL.md",):
+                continue
+        for subdir in self._skill_content_dirs(rec):
+            path = subdir / "SKILL.md"
             if path.exists():
                 try:
                     text = path.read_text(encoding="utf-8", errors="replace")
@@ -534,25 +545,31 @@ class Catalog:
                 }
         return None
 
+    def _resolve_local_dir(self, rec: SkillRecord) -> Path | None:
+        if not rec.local_path:
+            return None
+        local = Path(rec.local_path)
+        if not local.is_absolute():
+            local = DATASET_DIR / local
+        if (local / "SKILL.md").exists():
+            return local
+        return None
+
     def _candidate_skill_md_paths(self, rec: SkillRecord) -> list[Path]:
-        sid = safe_id(rec.id)
-        paths = [
-            SKILLS_DIR / sid / "SKILL.md",
-        ]
-        if rec.local_path:
-            paths.append(Path(rec.local_path) / "SKILL.md")
+        paths = [d / "SKILL.md" for d in self._skill_content_dirs(rec)]
+        local = self._resolve_local_dir(rec)
+        if local:
+            paths.append(local / "SKILL.md")
         return paths
 
     def resolve_content_dir(self, rec: SkillRecord) -> tuple[Path | None, str]:
         """Return (directory containing SKILL.md, source label)."""
-        sid = safe_id(rec.id)
-        skills = SKILLS_DIR / sid
-        if (skills / "SKILL.md").exists():
-            return skills, "dataset"
-        if rec.local_path:
-            local = Path(rec.local_path)
-            if (local / "SKILL.md").exists():
-                return local, "local"
+        for subdir in self._skill_content_dirs(rec):
+            if (subdir / "SKILL.md").exists():
+                return subdir, "dataset"
+        local = self._resolve_local_dir(rec)
+        if local:
+            return local, "local"
         return None, "none"
 
     def read_skill_md(self, rec: SkillRecord) -> tuple[str | None, str]:
@@ -566,19 +583,20 @@ class Catalog:
             return None, source
 
     def enrich_from_skill_md(self, rec: SkillRecord) -> None:
-        sid = safe_id(rec.id)
-        meta_path = SKILLS_DIR / sid / "meta.json"
-        if meta_path.exists():
+        for subdir in self._skill_content_dirs(rec):
+            meta_path = subdir / "meta.json"
+            if not meta_path.exists():
+                continue
             try:
                 data = json.loads(meta_path.read_text(encoding="utf-8"))
-                title = str(data.get("title") or "")
-                if title and has_cjk(title):
+                title = str(data.get("title") or data.get("name") or "")
+                if title:
                     rec.display_name = format_skill_title(title, rec.slug, rec.id)
                     if data.get("description"):
                         rec.description = str(data["description"])
                     return
             except (OSError, json.JSONDecodeError):
-                pass
+                continue
         text, _ = self.read_skill_md(rec)
         if not text:
             return
@@ -588,7 +606,7 @@ class Catalog:
             name=parsed.get("name", ""),
             description=parsed.get("description", ""),
             slug=rec.slug,
-            translate=True,
+            translate=False,
         )
         if title:
             rec.display_name = format_skill_title(title, rec.slug, rec.id)

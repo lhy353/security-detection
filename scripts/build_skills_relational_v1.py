@@ -60,7 +60,7 @@ def main() -> int:
     for slug in sorted(nodes.keys()):
         node = nodes[slug]
         skill_dir = OUT_SKILLS / slug
-        dest_rel = str(skill_dir.resolve())
+        dest_rel = f"skills/{slug}"
         rows.append(
             {
                 "id": f"skilldag:{slug}",
