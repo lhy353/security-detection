@@ -16,6 +16,20 @@ DEFAULT_DATASETS = [
 ]
 
 
+def portal_dataset_roots() -> list[str]:
+    raw = os.environ.get("PORTAL_DATASET", "all").strip()
+    if raw.lower() in ("all", "*"):
+        return [r for r in DEFAULT_DATASETS if (REPO_ROOT / r).is_dir()]
+    if "," in raw:
+        names = [p.strip() for p in raw.split(",") if p.strip()]
+    else:
+        names = [raw]
+    roots: list[str] = []
+    for name in names:
+        roots.append(name if name.startswith("datasets/") else f"datasets/{name}")
+    return roots
+
+
 def run(cmd: list[str], check: bool = True) -> subprocess.CompletedProcess[str]:
     print("+", " ".join(cmd))
     return subprocess.run(
@@ -99,8 +113,7 @@ def main() -> int:
     if args.dataset:
         roots = [args.dataset if args.dataset.startswith("datasets/") else f"datasets/{args.dataset}"]
     else:
-        portal = os.environ.get("PORTAL_DATASET", "skills_relational_v1")
-        roots = [f"datasets/{portal}"]
+        roots = portal_dataset_roots()
 
     existing_roots = [r for r in roots if (REPO_ROOT / r).is_dir()]
     if not existing_roots:
@@ -112,7 +125,7 @@ def main() -> int:
             print(f"Missing {manifest}", file=sys.stderr)
             return 1
 
-    run(["git", "add", "-A", "--"] + existing_roots + ["README.md"])
+    run(["git", "add", "-A", "--"] + existing_roots + ["web", "README.md"])
 
     status = run(["git", "status", "--porcelain"], check=False)
     staged = run(["git", "diff", "--cached", "--quiet"], check=False)
