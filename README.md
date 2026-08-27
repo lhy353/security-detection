@@ -1,15 +1,26 @@
 # security-detection
 
-Agent Skill **安全检测合并数据集** `security_merged_v1`。
+Agent Skill 数据集仓库，当前门户默认数据集为 **关系型** `skills_relational_v1`（SkillDAG `skills_200`）。
 
-GitHub 仓库发布 **CSV 元数据 + `skills/` 正文**（`SKILL.md` + `meta.json`）。
+另含安全检测合并集 `security_merged_v1`（8520 条，可选）。
+
+## skills_relational_v1（关系型 · 门户默认）
 
 | 文件 | 说明 |
 |---|---|
-| `datasets/security_merged_v1/manifest.csv` | 主表（8520 条） |
-| `datasets/security_merged_v1/skills/<id>/` | 每条 skill 的 `SKILL.md` 与 `meta.json` |
+| `datasets/skills_relational_v1/manifest.csv` | 200 条元数据 |
+| `datasets/skills_relational_v1/skills/<slug>/` | `SKILL.md` + `meta.json` |
+| `datasets/skills_relational_v1/skillgraph.json` | SkillDAG 关系图（`specializes`、`similar_to` 等边） |
 
-## 规模与标签
+来源：HuggingFace `Eric068/SkillDAG`（`skills_200` + `skillgraph_200.json`）。
+
+构建本机数据集目录：
+
+```bash
+python scripts/build_skills_relational_v1.py
+```
+
+## security_merged_v1（安全检测合并集）
 
 | `detection_label` | 数量 | 说明 |
 |---|---|---|
@@ -49,23 +60,22 @@ gold = df[df["gold_status"] == "human_gold_v1"]
 
 ## 同步到 GitHub
 
-仓库推送 `manifest.csv` 与 `skills/` 目录。
+默认推送门户数据集 `skills_relational_v1`（可通过 `.env` 中 `PORTAL_DATASET` 切换）。
 
 ```bash
-# .env 中配置 GITHUB_REPO、GITHUB_TOKEN
+# .env：GITHUB_REPO、GITHUB_TOKEN、可选 GITHUB_PROXY
 python scripts/sync_to_github.py
 ```
 
 门户可选自动同步（`.env`）：
 
+- `PORTAL_DATASET=skills_relational_v1`
 - `GITHUB_AUTO_PULL=1`：启动后后台 `git pull`，浏览页每 20 秒检测更新并自动刷新
 - `GITHUB_AUTO_PUSH=1`：本机上传后自动 commit + push
 
-上传时若 slug 与已有 `clawhub:<slug>` 相同，会**覆盖**该 clawhub 记录（保留金标等元数据，更新正文与检测标签）。
-
 ## 本地门户（可选）
 
-本机可运行 Web 门户浏览 / 筛选 / 上传；上传会追加到 `manifest.csv`，正文写入 `datasets/security_merged_v1/skills/`。
+本机可运行 Web 门户浏览 / 筛选 / 上传；默认读取 `datasets/skills_relational_v1/`。
 
 ```bash
 pip install -r requirements-web.txt
